@@ -2,8 +2,14 @@ window.addEventListener('DOMContentLoaded', () => {
     const termSelect = document.getElementById('termSelect');
     const courseSelect = document.getElementById('courseSelect');
     const tableContainer = document.getElementById('tableContainer');
+    const filterButton = document.getElementById('filterButton');
+    const filterMenu = document.getElementById('filterMenu');
+    const checkboxContainer = document.getElementById('checkboxContainer');
+    const filterConfirm = document.getElementById('filterConfirm');
 
-    // Term ve Course seçeneklerini yükle
+    let currentData = null;
+    let activeColumns = [];
+
     fetch('data/terms.json')
         .then(response => response.json())
         .then(terms => {
@@ -26,9 +32,26 @@ window.addEventListener('DOMContentLoaded', () => {
             });
         });
 
-    // Seçim değişince tabloyu yükle
     termSelect.addEventListener('change', loadTable);
     courseSelect.addEventListener('change', loadTable);
+
+    filterButton.addEventListener('click', () => {
+        filterMenu.classList.toggle('hidden');
+    });
+
+    filterConfirm.addEventListener('click', () => {
+        const checkboxes = checkboxContainer.querySelectorAll('input[type="checkbox"]');
+        const selected = Array.from(checkboxes).filter(cb => cb.checked).map(cb => cb.value);
+
+        if (selected.length === 0) {
+            alert('En az bir sütun aktif kalmalı!');
+            return;
+        }
+
+        activeColumns = selected;
+        renderTable(currentData);
+        filterMenu.classList.add('hidden');
+    });
 
     function loadTable() {
         const term = termSelect.value;
@@ -50,6 +73,9 @@ window.addEventListener('DOMContentLoaded', () => {
             })
             .then(text => {
                 const data = parseCSV(text.trim());
+                currentData = data;
+                activeColumns = [...data.headers];
+                createFilterCheckboxes(data.headers);
                 renderTable(data);
             })
             .catch(error => {
@@ -58,61 +84,80 @@ window.addEventListener('DOMContentLoaded', () => {
     }
 
     function parseCSV(text) {
-        const expectedColumns = 11; // Sabit kolon sayısı
+        const expectedColumns = 11;
         const lines = text.split(/\r?\n/);
-    
+
         const rows = [];
         let buffer = [];
         let insideQuotes = false;
         let currentCell = '';
-    
-        // Başlık satırını al
+
         if (lines.length === 0) {
             return { headers: [], rows: [] };
         }
-    
+
         const headersLine = lines[0];
         const headers = headersLine.split(',').map(h => h.trim());
-    
+
         for (let i = 1; i < lines.length; i++) {
             const line = lines[i];
             if (!line.trim()) continue;
-    
+
             let charArray = line.split('');
             for (let j = 0; j < charArray.length; j++) {
                 const char = charArray[j];
-    
+
                 if (char === '"') {
                     insideQuotes = !insideQuotes;
                 } else if (char === ',' && !insideQuotes) {
                     buffer.push(currentCell.trim());
                     currentCell = '';
                 } else if ((char === '\n' || char === '\r') && insideQuotes) {
-                    currentCell += '<br>'; // Hücre içindeki satır atlama: boşluk yap
+                    currentCell += ' ';
                 } else {
                     currentCell += char;
                 }
             }
-    
-            // Satır bittiğinde
+
             if (!insideQuotes) {
                 buffer.push(currentCell.trim());
                 currentCell = '';
-    
+
                 while (buffer.length >= expectedColumns) {
                     const completeRow = buffer.slice(0, expectedColumns);
                     rows.push(completeRow);
                     buffer = buffer.slice(expectedColumns);
                 }
             } else {
-                currentCell += ' '; // Satır bitince, hücre içinde devam etmek için boşluk ekle
+                currentCell += ' ';
             }
         }
-    
+
         return {
             headers: headers,
             rows: rows
         };
+    }
+
+    function createFilterCheckboxes(headers) {
+        checkboxContainer.innerHTML = '';
+
+        headers.forEach(header => {
+            const label = document.createElement('label');
+            label.textContent = header;
+
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.value = header;
+            checkbox.checked = true;
+
+            label.appendChild(checkbox);
+            checkboxContainer.appendChild(label);
+
+            checkbox.addEventListener('change', () => {
+                label.classList.toggle('inactive', !checkbox.checked);
+            });
+        });
     }
 
     function renderTable(data) {
@@ -125,14 +170,18 @@ window.addEventListener('DOMContentLoaded', () => {
 
         let html = '<table><thead><tr>';
         headers.forEach(header => {
-            html += `<th>${header}</th>`;
+            if (activeColumns.includes(header)) {
+                html += `<th>${header}</th>`;
+            }
         });
         html += '</tr></thead><tbody>';
 
         rows.forEach(row => {
             html += '<tr>';
-            headers.forEach((_, idx) => {
-                html += `<td>${row[idx] || ''}</td>`;
+            headers.forEach((header, idx) => {
+                if (activeColumns.includes(header)) {
+                    html += `<td>${row[idx] || ''}</td>`;
+                }
             });
             html += '</tr>';
         });
