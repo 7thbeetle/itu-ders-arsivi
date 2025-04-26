@@ -1,40 +1,23 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
-    background: #f9f9f9;
+    padding: 20px;
 }
 
-.selection {
-    margin-bottom: 20px;
-}
-
-label {
-    margin-right: 10px;
-}
-
-select, button {
-    margin-right: 20px;
-    padding: 5px;
-}
-
-#message {
-    margin-top: 20px;
-    font-size: 18px;
-    color: red;
+h1 {
+    color: #003366;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    background: white;
-}
-
-table, th, td {
-    border: 1px solid #aaa;
 }
 
 th, td {
-    padding: 8px;
-    text-align: left;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #f0f0f0;
 }

@@ -4,6 +4,11 @@ let baseFolder = "csv_klasorleri_donem_bazli";
 document.addEventListener("DOMContentLoaded", async function() {
     await loadCourseCodes();
     await loadTerms();
+
+    // Select2'yi aktif et
+    $('#termSelect').select2({ width: 'resolve' });
+    $('#courseCodeSelect').select2({ width: 'resolve' });
+
     document.getElementById("loadButton").addEventListener("click", loadTable);
 });
 
@@ -25,17 +30,14 @@ async function loadTerms() {
     let terms = await response.json();
 
     terms.sort((a, b) => {
-        // Yılları ayır
         const [yearA, termA] = a.split(" - ");
         const [yearB, termB] = b.split(" - ");
-
         const yearANum = parseInt(yearA.split(" ")[0]);
         const yearBNum = parseInt(yearB.split(" ")[0]);
 
         if (yearANum !== yearBNum) {
-            return yearBNum - yearANum; // Büyük yıldan küçüğe
+            return yearBNum - yearANum;
         } else {
-            // Yıl aynı, dönem bazlı
             const order = { "Yaz Dönemi": 1, "Bahar Dönemi": 2, "Güz Dönemi": 3 };
             return order[termA] - order[termB];
         }
@@ -60,7 +62,7 @@ async function loadTable() {
     tableContainer.innerHTML = "";
 
     if (!term || !code) {
-        message.textContent = "Lütfen dönem ve ders kodu seçiniz.";
+        message.textContent = "⚠️ Lütfen dönem ve ders kodu seçiniz.";
         return;
     }
 
@@ -99,7 +101,7 @@ async function loadTable() {
 
             tableContainer.appendChild(table);
         } else {
-            message.textContent = "Tablo verisi bulunamadı.";
+            message.textContent = "❌ Tablo verisi bulunamadı.";
         }
 
     } catch (error) {
