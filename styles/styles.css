@@ -1,11 +1,40 @@
 body {
-    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f9f9f9;
 }
 
-h1 {
-    color: #004080;
+.selection {
+    margin-bottom: 20px;
 }
 
-select {
-    font-weight: bold;
+label {
+    margin-right: 10px;
+}
+
+select, button {
+    margin-right: 20px;
+    padding: 5px;
+}
+
+#message {
+    margin-top: 20px;
+    font-size: 18px;
+    color: red;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: white;
+}
+
+table, th, td {
+    border: 1px solid #aaa;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
 }
