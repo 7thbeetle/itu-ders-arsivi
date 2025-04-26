@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>İTÜ Ders Arşivi Görüntüleyici</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.1/papaparse.min.js"></script>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body class="p-5">
+    <h1 class="mb-4">İTÜ Ders Arşivi Görüntüleyici</h1>
+
+    <form id="selectionForm" class="mb-4">
+        <div class="form-group">
+            <label for="termSelect">Dönem Seçin:</label>
+            <select id="termSelect" class="form-control"></select>
+        </div>
+        <div class="form-group">
+            <label for="courseSelect">Ders Kodu Seçin:</label>
+            <select id="courseSelect" class="form-control"></select>
+        </div>
+    </form>
+
+    <div id="tableContainer" class="table-responsive"></div>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>
