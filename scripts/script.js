@@ -5,7 +5,6 @@ window.addEventListener('DOMContentLoaded', () => {
     const filterButton = document.getElementById('filterButton');
     const filterMenu = document.getElementById('filterMenu');
     const checkboxContainer = document.getElementById('checkboxContainer');
-    const filterConfirm = document.getElementById('filterConfirm');
 
     let currentData = null;
     let activeColumns = [];
@@ -37,20 +36,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
     filterButton.addEventListener('click', () => {
         filterMenu.classList.toggle('hidden');
-    });
-
-    filterConfirm.addEventListener('click', () => {
-        const checkboxes = checkboxContainer.querySelectorAll('input[type="checkbox"]');
-        const selected = Array.from(checkboxes).filter(cb => cb.checked).map(cb => cb.value);
-
-        if (selected.length === 0) {
-            alert('En az bir sütun aktif kalmalı!');
-            return;
-        }
-
-        activeColumns = selected;
-        renderTable(currentData);
-        filterMenu.classList.add('hidden');
     });
 
     function loadTable() {
@@ -113,7 +98,7 @@ window.addEventListener('DOMContentLoaded', () => {
                     buffer.push(currentCell.trim());
                     currentCell = '';
                 } else if ((char === '\n' || char === '\r') && insideQuotes) {
-                    currentCell += ' ';
+                    currentCell += ' ';  // Hücre içindeki satır atlamaları boşluk olsun
                 } else {
                     currentCell += char;
                 }
@@ -156,8 +141,32 @@ window.addEventListener('DOMContentLoaded', () => {
 
             checkbox.addEventListener('change', () => {
                 label.classList.toggle('inactive', !checkbox.checked);
+
+                const checkboxes = checkboxContainer.querySelectorAll('input[type="checkbox"]');
+                const selected = Array.from(checkboxes).filter(cb => cb.checked).map(cb => cb.value);
+
+                if (selected.length === 0) {
+                    checkbox.checked = true;
+                    label.classList.remove('inactive');
+                    alert('En az bir sütun aktif kalmalı!');
+                    return;
+                }
+
+                activeColumns = selected;
+                renderTable(currentData);
             });
         });
+
+        // Sadece 1 adet büyük "Tamam" butonu
+        const tamamButton = document.createElement('button');
+        tamamButton.textContent = 'Tamam';
+        tamamButton.classList.add('filter-close-button');
+
+        tamamButton.addEventListener('click', () => {
+            filterMenu.classList.add('hidden');
+        });
+
+        checkboxContainer.appendChild(tamamButton);
     }
 
     function renderTable(data) {

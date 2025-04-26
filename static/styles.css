@@ -75,21 +75,6 @@ select, #filterButton {
     border: 1px solid #007bff;
 }
 
-#filterConfirm {
-    margin-top: 10px;
-    padding: 8px 15px;
-    font-size: 16px;
-    border: none;
-    background-color: #28a745;
-    color: white;
-    border-radius: 6px;
-    cursor: pointer;
-}
-
-#filterConfirm:hover {
-    background-color: #218838;
-}
-
 table {
     width: 100%;
     border-collapse: collapse;
@@ -105,4 +90,22 @@ th, td {
 
 th {
     background-color: #f1f1f1;
+}
+
+.filter-close-button {
+    display: block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.filter-close-button:hover {
+    background-color: #45a049;
 }
