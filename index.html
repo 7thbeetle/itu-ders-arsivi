@@ -4,38 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>İTÜ Ders Arşivi</title>
-
-    <!-- Select2 CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
-
-    <!-- Kendi CSS'in (isteğe bağlı) -->
-    <link href="styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="static/styles.css">
 </head>
 <body>
-    <h1>İTÜ Ders Arşivi</h1>
+    <h1>İTÜ Ders Arşivi Görüntüleyici</h1>
 
-    <div>
-        <label for="termSelect">Dönem Seçiniz:</label>
-        <select id="termSelect" style="width: 300px;"></select>
-    </div>
-    <div>
-        <label for="courseCodeSelect">Ders Kodu Seçiniz:</label>
-        <select id="courseCodeSelect" style="width: 300px;"></select>
-    </div>
-    <div>
-        <button id="loadButton">Dersleri Yükle</button>
+    <div class="container">
+        <select id="termSelect">
+            <option value="">Dönem Seçiniz</option>
+        </select>
+        <select id="courseSelect">
+            <option value="">Ders Kodu Seçiniz</option>
+        </select>
     </div>
 
-    <div id="message" style="margin-top: 20px;"></div>
-    <div id="tableContainer" style="margin-top: 20px;"></div>
+    <div id="tableContainer"></div>
 
-    <!-- jQuery (Select2 için lazım) -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-    <!-- Select2 JS -->
-    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
-
-    <!-- Kendi Script'in -->
-    <script src="scripts.js"></script>
+    <script src="scripts/script.js"></script>
 </body>
 </html>
