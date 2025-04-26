@@ -3,7 +3,7 @@ let baseFolder = "csv_klasorleri_donem_bazli";
 
 document.addEventListener("DOMContentLoaded", async function() {
     await loadCourseCodes();
-    loadTerms();
+    await loadTerms();
     document.getElementById("loadButton").addEventListener("click", loadTable);
 });
 
@@ -20,17 +20,26 @@ async function loadCourseCodes() {
     });
 }
 
-function loadTerms() {
-    const terms = [
-        "2024 - 2025 Bahar Dönemi", "2023 - 2024 Güz Dönemi", "2023 - 2024 Yaz Dönemi", "2023 - 2024 Bahar Dönemi",
-        "2022 - 2023 Güz Dönemi", "2022 - 2023 Yaz Dönemi", "2022 - 2023 Bahar Dönemi",
-        "2021 - 2022 Güz Dönemi", "2021 - 2022 Yaz Dönemi", "2021 - 2022 Bahar Dönemi",
-        "2020 - 2021 Güz Dönemi", "2020 - 2021 Yaz Dönemi", "2020 - 2021 Bahar Dönemi",
-        "2019 - 2020 Güz Dönemi", "2019 - 2020 Yaz Dönemi", "2019 - 2020 Bahar Dönemi",
-        "2018 - 2019 Güz Dönemi", "2018 - 2019 Yaz Dönemi", "2018 - 2019 Bahar Dönemi",
-        "2017 - 2018 Güz Dönemi", "2017 - 2018 Yaz Dönemi", "2017 - 2018 Bahar Dönemi",
-        "2016 - 2017 Yaz Dönemi"
-    ];
+async function loadTerms() {
+    const response = await fetch("terms.json");
+    let terms = await response.json();
+
+    terms.sort((a, b) => {
+        // Yılları ayır
+        const [yearA, termA] = a.split(" - ");
+        const [yearB, termB] = b.split(" - ");
+
+        const yearANum = parseInt(yearA.split(" ")[0]);
+        const yearBNum = parseInt(yearB.split(" ")[0]);
+
+        if (yearANum !== yearBNum) {
+            return yearBNum - yearANum; // Büyük yıldan küçüğe
+        } else {
+            // Yıl aynı, dönem bazlı
+            const order = { "Yaz Dönemi": 1, "Bahar Dönemi": 2, "Güz Dönemi": 3 };
+            return order[termA] - order[termB];
+        }
+    });
 
     const termSelect = document.getElementById("termSelect");
     terms.forEach(term => {
