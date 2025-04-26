@@ -1,0 +1,45 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BLG 101E,Intr. to Information Systems,Hayri Turgut Uyar,Pazartesi,0930/1229,EEB,105,100,BLG BLGE,10943,2018 - 2019 Güz Dönemi
+BLG 101E,Intr. to Information Systems,Damien Jade Duff,Pazartesi,0930/1229,EEB,111,100,BLG BLGE,10942,2018 - 2019 Güz Dönemi
+BLG 113E,Intr.toComp.Eng.and Ethics,Gökhan İnce,Çarşamba,1030/1229,MED,182,175,BLG BLGE,10944,2018 - 2019 Güz Dönemi
+BLG 212,Mikroişlemci Sistemleri,Tamer Ölmez,Perşembe,1330/1629,EEB,36,40,EHB ELE ELK TEL,11192,2018 - 2019 Güz Dönemi
+BLG 212E,Microprocessor Systems,Ali Bahadır,Perşembe,1330/1629,EEB,46,40,EHB EHBE ELE ELH ELK ELKE KOM KOME TEL,11195,2018 - 2019 Güz Dönemi
+BLG 212E,Microprocessor Systems,Yaşar Erenler,Salı,1330/1629,EEB,26,70,EHB EHBE ELE ELH ELK ELKE KOM KOME TEL UCK UCKE UZB UZBE,11193,2018 - 2019 Güz Dönemi
+BLG 212E,Microprocessor Systems,Ayşe Yılmazer,Pazartesi,0930/1229,EEB,88,80,BLG BLGE,10956,2018 - 2019 Güz Dönemi
+BLG 212E,Microprocessor Systems,Burak Berk Üstündağ,Pazartesi,0930/1229,KMB,81,80,BLG BLGE,10954,2018 - 2019 Güz Dönemi
+BLG 223E,Data Structures,Hatice Köse,Salı Perşembe,0930/1229 0930/1029,EEB EEB,122,110,BLG BLGE,10981,2018 - 2019 Güz Dönemi
+BLG 223E,Data Structures,Gülşen Eryiğit,Salı Perşembe,0930/1229 0930/1029,EEB EEB,128,110,BLG BLGE,10979,2018 - 2019 Güz Dönemi
+BLG 231,Sayısal Devreler,Serhat İkizoğlu,Salı,1330/1629,UUB,55,50,ELK KOM MKN,11198,2018 - 2019 Güz Dönemi
+BLG 231,Sayısal Devreler,Yücel Aydın,Salı,1330/1629,EEB,58,50,ELK KOM MKN,11196,2018 - 2019 Güz Dönemi
+BLG 231E,Digital Circuits,Feza Buzluca,Cuma,0930/1229,EEB,80,75,BLG BLGE,10978,2018 - 2019 Güz Dönemi
+BLG 231E,Digital Circuits,Mustafa Ersel Kamaşak,Cuma,0930/1229,EEB,80,75,BLG BLGE,10974,2018 - 2019 Güz Dönemi
+BLG 231E,Digital Circuits,Sanem Kabadayı,Cuma,0930/1229,EEB,78,75,BLG BLGE,10972,2018 - 2019 Güz Dönemi
+BLG 231E,Digital Circuits,Osman Kaan Erol,Salı,1330/1629,EEB,33,50,ELK ELKE END KOM KOME,11199,2018 - 2019 Güz Dönemi
+BLG 252E,Object Oriented Programming,Serkan Türkeli,Salı,0930/1229,EEB,50,40,EHB EHBE KOM KOME TEL,13006,2018 - 2019 Güz Dönemi
+BLG 252E,Object Oriented Programming,Yaşar Erenler,Pazartesi,0830/1129,EEB,52,45,EHB EHBE KOM KOME TEL,10952,2018 - 2019 Güz Dönemi
+BLG 317E,Database Systems,Şule Öğüdücü,Çarşamba,0930/1229,EEB,65,100,BLG BLGE,11018,2018 - 2019 Güz Dönemi
+BLG 317E,Database Systems,Hayri Turgut Uyar,Çarşamba,0930/1229,EEB,90,90,BLG BLGE,10989,2018 - 2019 Güz Dönemi
+BLG 335E,Analysis of Algorithms I,Zehra Çataltepe,Perşembe,0930/1229,EEB,88,90,BLG BLGE,10984,2018 - 2019 Güz Dönemi
+BLG 335E,Analysis of Algorithms I,Hazım Kemal Ekenel,Salı,0930/1229,EEB,71,90,BLG BLGE,10983,2018 - 2019 Güz Dönemi
+BLG 337E,Principles of Computer Comm.,Berk Canberk,Salı,1330/1629,EEB,86,80,BLG BLGE,10985,2018 - 2019 Güz Dönemi
+BLG 351E,Microcomputer Lab.,Gökhan İnce,Cuma,1530/1729,EEB,59,60,BLG BLGE,10986,2018 - 2019 Güz Dönemi
+BLG 351E,Microcomputer Lab.,Yusuf Yaslan,Perşembe,1330/1529,EEB,51,60,BLG BLGE,10987,2018 - 2019 Güz Dönemi
+BLG 351E,Microcomputer Lab.,Şerif Bahtiyar,Pazartesi,1330/1529,EEB,59,60,BLG BLGE,10988,2018 - 2019 Güz Dönemi
+BLG 368E,Operations Research,Serkan Türkeli,Pazartesi,0830/1129,EEB,19,40,EHBE KOM KOME,11201,2018 - 2019 Güz Dönemi
+BLG 411E,Software Engineering,Ayşe Tosun,Salı,1330/1629,EEB,72,75,BLG BLGE,11021,2018 - 2019 Güz Dönemi
+BLG 411E,Software Engineering,Ahmet Cüneyd Tantuğ,Salı,1330/1629,EEB,75,75,BLG BLGE,11020,2018 - 2019 Güz Dönemi
+BLG 413E,System Programming,Ayşe Şima Uyar,Salı,0930/1229,EEB,90,85,BLG BLGE,11022,2018 - 2019 Güz Dönemi
+BLG 413E,System Programming,Hayri Turgut Uyar,Salı,0930/1229,EEB,90,85,BLG BLGE,10990,2018 - 2019 Güz Dönemi
+BLG 430E,Computer Networks,Berk Canberk,----,/,EEB,1,1,BLG BLGE,15746,2018 - 2019 Güz Dönemi
+BLG 433E,Computer Communications,Sema Fatma Oktuğ,Cuma,0930/1129,EEB,77,60,BLG BLGE,11023,2018 - 2019 Güz Dönemi
+BLG 435E,Artificial Intelligence,Sanem Sarıel,Çarşamba,1330/1529,EEB,79,60,BLG BLGE,11025,2018 - 2019 Güz Dönemi
+BLG 438E,Digital Signal Processing Lab.,Burak Berk Üstündağ,Pazartesi,1330/1629,EEB,24,25,BLG BLGE,11030,2018 - 2019 Güz Dönemi
+BLG 439E,Computer Project I,"Mustafa Ersel Kamaşak, Deniz Turgay Altılar",Pazartesi,1330/1629,EEB,43,70,BLG BLGE,11031,2018 - 2019 Güz Dönemi
+BLG 447,Derleyici Tasarımı,Takuhi Nadia Erdoğan,Çarşamba,0930/1129,EEB,54,55,BLG,11035,2018 - 2019 Güz Dönemi
+BLG 449E,Prog.in Parallel&Dis..,--,----,/,EEB,1,0,BLG BLGE,15750,2018 - 2019 Güz Dönemi
+BLG 450E,Real-Time Systems Software,Deniz Turgay Altılar,Pazartesi,1130/1329,EEB,29,60,BLG BLGE,11042,2018 - 2019 Güz Dönemi
+BLG 453E,Computer Vision,Gözde Ünal,Pazartesi,0930/1129,EEB,64,60,BLG BLGE,11043,2018 - 2019 Güz Dönemi
+BLG 456E,Robotics,Damien Jade Duff,Perşembe,1330/1529,EEB,60,60,BLG BLGE,11046,2018 - 2019 Güz Dönemi
+BLG 459E,Computer Security,Şerif Bahtiyar,Çarşamba,0930/1129,MDB,69,60,BLG BLGE,11048,2018 - 2019 Güz Dönemi
+BLG 492,Bitirme Çalışması,Uluğ Bayazıt,----,/,EEB,36,500,BLG,11052,2018 - 2019 Güz Dönemi
+BLG 492E,Graduation Project,Uluğ Bayazıt,----,/,EEB,31,500,BLG BLGE,11054,2018 - 2019 Güz Dönemi

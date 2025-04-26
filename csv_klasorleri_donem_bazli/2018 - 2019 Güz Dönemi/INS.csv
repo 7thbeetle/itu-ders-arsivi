@@ -1,0 +1,116 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+INS 101,Teknik Resim,Yavuz Durgun,Cuma,0830/1129,INB,57,60,INS,13440,2018 - 2019 Güz Dönemi
+INS 101,Teknik Resim,Bahattin Kimençe,Perşembe,0930/1229,INB,58,60,INS,13439,2018 - 2019 Güz Dönemi
+INS 101,Teknik Resim,"Gökhan Çevikbilen, Aslı Yalçın Dayıoğlu",Çarşamba,1230/1529,INB,55,60,INS,13438,2018 - 2019 Güz Dönemi
+INS 101,Teknik Resim,"Aslı Yalçın Dayıoğlu, Gökhan Çevikbilen",Salı,1330/1629,INB,31,60,INS,13437,2018 - 2019 Güz Dönemi
+INS 101E,Technical Drawing,Sibel Gürel,Perşembe,1330/1629,INB,45,60,INSE,13441,2018 - 2019 Güz Dönemi
+INS 101E,Technical Drawing,Bahar Ayhan Tezer,Salı,0930/1229,INB,62,60,INS INSE,15617,2018 - 2019 Güz Dönemi
+INS 106,İnşaat Müh. İçin Yerbilimi,Enver Vural Yavuz,Perşembe,1330/1529,INB,74,60,INS,13667,2018 - 2019 Güz Dönemi
+INS 106E,Earth Science for Civil Engin.,"Ziyadin Çakır, Kayhan Develi",Çarşamba,1330/1529,INB,51,50,INS INSE,13670,2018 - 2019 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Tolga Yılmaz Özüdoğru,Perşembe,1330/1629,INB,37,63,INS INSE,13433,2018 - 2019 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Erol Lale,Perşembe,0830/1129,EEB,41,63,INS INSE,13432,2018 - 2019 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Mustafa Hatipoğlu,Çarşamba,1230/1529,INB,64,63,INS INSE,13431,2018 - 2019 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Nilay Çelik Muhtaroğlu,Çarşamba,0930/1229,INB,64,63,INS INSE,13430,2018 - 2019 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Cem Demir,Pazartesi,1330/1629,INB,64,63,INS INSE,13429,2018 - 2019 Güz Dönemi
+INS 111,İnşaat Müh. Giriş ve Etik,"Kadir Güler, Hüseyin Onur Tezcan",Cuma,1130/1229,MED,191,200,INS,12703,2018 - 2019 Güz Dönemi
+INS 111E,Int. to Civil Eng. & Ethics,"Kadir Güler, Hüseyin Onur Tezcan",Pazartesi,1130/1229,INB,62,200,INS INSE,12704,2018 - 2019 Güz Dönemi
+INS 201,Malzeme Bilimi,Ünal Anıl Doğan,Çarşamba,0930/1229,INB,50,50,INS,13098,2018 - 2019 Güz Dönemi
+INS 201,Malzeme Bilimi,Hasan Yıldırım,Çarşamba,0930/1229,INB,50,50,INS,13096,2018 - 2019 Güz Dönemi
+INS 201,Malzeme Bilimi,Özkan Şengül,Pazartesi,0930/1229,INB,56,52,INS,13102,2018 - 2019 Güz Dönemi
+INS 201,Malzeme Bilimi,Yılmaz Akkaya,Pazartesi,0930/1229,INB,53,52,INS,13099,2018 - 2019 Güz Dönemi
+INS 201E,Materials Science,Özgür Ekincioğlu,Çarşamba,0930/1229,INB,31,50,INS INSE,13106,2018 - 2019 Güz Dönemi
+INS 201E,Materials Science,Mustafa Hulusi Özkul,Çarşamba,0930/1229,INB,47,50,INS INSE,13103,2018 - 2019 Güz Dönemi
+INS 222E,Building Materials,Bekir Yılmaz Pekmezci,Salı,0930/1229,INB,54,55,INS INSE,13107,2018 - 2019 Güz Dönemi
+INS 311,Yapı Statiği I,Mecit Çelik,Perşembe,0930/1229,INB,40,40,INS,12710,2018 - 2019 Güz Dönemi
+INS 311,Yapı Statiği I,--,Perşembe,0830/1129,INB,0,0,INS,12709,2018 - 2019 Güz Dönemi
+INS 311,Yapı Statiği I,Mehmet Günhan Aksoylu,Salı,0930/1229,INB,36,34,INS,13111,2018 - 2019 Güz Dönemi
+INS 311,Yapı Statiği I,Konuralp Girgin,Salı,0930/1229,INB,36,34,INS,13110,2018 - 2019 Güz Dönemi
+INS 311,Yapı Statiği I,Yavuz Durgun,Pazartesi,0930/1229,INB,41,37,INS,13116,2018 - 2019 Güz Dönemi
+INS 311,Yapı Statiği I,Ercan Yüksel,Pazartesi,0930/1229,INB,41,37,INS,13114,2018 - 2019 Güz Dönemi
+INS 311E,Theory of Structures I,Burcu Güneş,Çarşamba,0830/1129,INB,41,39,INS INSE,12707,2018 - 2019 Güz Dönemi
+INS 311E,Theory of Structures I,Ülkü Hülya Çalık Karaköse,Çarşamba,0830/1129,INB,41,39,INS INSE,12706,2018 - 2019 Güz Dönemi
+INS 312,Yapı Statiği II,Mecit Çelik,Pazartesi Salı,1030/1229 0830/1029,INB INB,52,40,INS,12711,2018 - 2019 Güz Dönemi
+INS 312E,Theory of Structures II,Barış Erkuş,Pazartesi Perşembe,1130/1329 1130/1329,INB INB,34,25,INS INSE,12712,2018 - 2019 Güz Dönemi
+INS 312E,Theory of Structures II,Nilay Çelik Muhtaroğlu,Pazartesi Salı,1030/1229 0830/1029,INB INB,49,40,INS INSE,15426,2018 - 2019 Güz Dönemi
+INS 313E,Advanced Strength of Materials,Hale Ergün,Çarşamba,1230/1529,INB,53,60,INS INSE,12713,2018 - 2019 Güz Dönemi
+INS 316E,Site Layout,Senem Bilir Mahçiçek,Çarşamba,1230/1529,INB,17,50,INS INSE,13118,2018 - 2019 Güz Dönemi
+INS 317E,Fracture Mechanics of Concrete,Oğuz Güneş,Cuma,1430/1729,INB,67,60,INS INSE,13122,2018 - 2019 Güz Dönemi
+INS 317E,Fracture Mechanics of Concrete,Oğuz Güneş,Çarşamba,1230/1529,INB,61,60,INS INSE,13124,2018 - 2019 Güz Dönemi
+INS 319E,Durability of Concrete,Ünal Anıl Doğan,Cuma,1430/1729,INB,66,60,INS INSE,13127,2018 - 2019 Güz Dönemi
+INS 319E,Durability of Concrete,Özgür Ekincioğlu,Çarşamba,1230/1529,INB,43,60,INS INSE,13134,2018 - 2019 Güz Dönemi
+INS 319E,Durability of Concrete,Özkan Şengül,Çarşamba,1230/1529,INB,48,60,INS INSE,13133,2018 - 2019 Güz Dönemi
+INS 322,Betonarme I,Mustafa Gençoğlu,Salı Çarşamba,1330/1529 1330/1529,INB INB,55,55,INS,13206,2018 - 2019 Güz Dönemi
+INS 322E,Reinforced Concrete I,Alper İlki,Salı Perşembe,1530/1729 1530/1729,INB INB,41,30,INS INSE,13207,2018 - 2019 Güz Dönemi
+INS 328E,Architectural Structure Desgn,Deniz İlter,Perşembe,1330/1629,INB,42,50,INS INSE,12717,2018 - 2019 Güz Dönemi
+INS 331,Zemin Mekaniği I,Musaffa Ayşen Lav,Çarşamba Cuma,0930/1229 0930/1129,INB INB,49,45,INS,13160,2018 - 2019 Güz Dönemi
+INS 331,Zemin Mekaniği I,Hüseyin Yıldırım,Çarşamba Cuma,0930/1229 0930/1129,INB INB,48,45,INS,13152,2018 - 2019 Güz Dönemi
+INS 331,Zemin Mekaniği I,Mustafa Hatipoğlu,Salı Perşembe,1330/1629 1030/1229,INB INB,50,45,INS,13169,2018 - 2019 Güz Dönemi
+INS 331,Zemin Mekaniği I,Recep İyisan,Salı Perşembe,1330/1629 1030/1229,INB INB,50,45,INS,13161,2018 - 2019 Güz Dönemi
+INS 331E,Soil Mechanics I,Esra Ece Bayat,Salı Perşembe,0930/1229 0830/1029,INB INB,36,35,INS INSE,12715,2018 - 2019 Güz Dönemi
+INS 331E,Soil Mechanics I,Aykut Şenol,Salı Perşembe,0930/1229 0830/1029,INB INB,37,35,INS INSE,12714,2018 - 2019 Güz Dönemi
+INS 332E,Foundation Engineering I,Berrak Teymür,Çarşamba,1230/1529,INB,54,50,INS INSE,12716,2018 - 2019 Güz Dönemi
+INS 334E,Health&Safety; in Construction,Senem Bilir Mahçiçek,Çarşamba,1030/1229,INB,46,50,INS INSE,13170,2018 - 2019 Güz Dönemi
+INS 341,Yapı İşletmesi,Feyzi Haznedaroğlu,Perşembe,0830/1129,INB,40,40,INS,13172,2018 - 2019 Güz Dönemi
+INS 341,Yapı İşletmesi,Gül Polat Tatar,Perşembe,0830/1129,INB,39,40,INS,13171,2018 - 2019 Güz Dönemi
+INS 341,Yapı İşletmesi,Feyzi Haznedaroğlu,Çarşamba,0930/1229,INB,45,45,INS,13174,2018 - 2019 Güz Dönemi
+INS 341,Yapı İşletmesi,Gürkan Emre Gürcanlı,Çarşamba,0930/1229,INB,46,45,INS,13173,2018 - 2019 Güz Dönemi
+INS 341,Yapı İşletmesi,Murat Kuruoğlu,Salı,1330/1629,INB,42,40,INS,13175,2018 - 2019 Güz Dönemi
+INS 341E,Construction Management,Mehmet Emre Bayraktar,Salı,1330/1629,INB,40,40,INS INSE,12719,2018 - 2019 Güz Dönemi
+INS 341E,Construction Management,Esin Ergen Pehlevan,Salı,1330/1629,INB,30,40,INS INSE,12718,2018 - 2019 Güz Dönemi
+INS 342,Karayolu Mühendisliği,Şükrüye İyinam,Perşembe,0930/1229,INB,24,40,INS,12721,2018 - 2019 Güz Dönemi
+INS 342E,Highway Engineering,Kemal Selçuk Öğüt,Pazartesi,0930/1229,INB,3,20,INS INSE,15749,2018 - 2019 Güz Dönemi
+INS 342E,Highway Engineering,--,Pazartesi,0930/1229,INB,0,0,INS INSE,13489,2018 - 2019 Güz Dönemi
+INS 351,Toprak İşleri & Demiryolu Müh,Hilmi Berk Çelikoğlu,Perşembe Cuma,0830/1029 0830/1029,INB INB,38,47,INS,12730,2018 - 2019 Güz Dönemi
+INS 351,Toprak İşleri & Demiryolu Müh,Hüseyin Onur Tezcan,Perşembe Cuma,0830/1029 0830/1029,INB INB,47,47,INS,12726,2018 - 2019 Güz Dönemi
+INS 351,Toprak İşleri & Demiryolu Müh,Nurbanu Çalışkan Özüer,Pazartesi Perşembe,1330/1529 1330/1529,INB INB,55,44,INS,12725,2018 - 2019 Güz Dönemi
+INS 351,Toprak İşleri & Demiryolu Müh,Zübeyde Öztürk,Pazartesi Perşembe,1330/1529 1330/1529,INB INB,52,44,INS,12723,2018 - 2019 Güz Dönemi
+INS 351E,Earthwork and Railway Eng,Pelin Alpkökin,Pazartesi Perşembe,1330/1529 1330/1529,INB INB,52,44,INS INSE,12735,2018 - 2019 Güz Dönemi
+INS 351E,Earthwork and Railway Eng,Kemal Selçuk Öğüt,Pazartesi Perşembe,1330/1529 1330/1529,INB INB,50,44,INS INSE,12732,2018 - 2019 Güz Dönemi
+INS 352,Hidroloji,Bihrat Önöz,Perşembe,1230/1529,INB,43,40,INS PET,12737,2018 - 2019 Güz Dönemi
+INS 352E,Hydrology,İsmail Duranyıldız,Cuma,1430/1729,INB,48,50,INS INSE PET PETE,12740,2018 - 2019 Güz Dönemi
+INS 352E,Hydrology,Tarkan Erdik,Cuma,0930/1229,INB,51,50,INS INSE PET PETE,12739,2018 - 2019 Güz Dönemi
+INS 361,Hidrolik,Necati Erdem Ünal,Salı,1330/1629,INB,52,50,CEV INS,13178,2018 - 2019 Güz Dönemi
+INS 361,Hidrolik,Bihrat Önöz,Salı,1330/1629,INB,38,50,CEV INS,13177,2018 - 2019 Güz Dönemi
+INS 361,Hidrolik,Necati Erdem Ünal,Salı,0930/1229,INB,67,55,CEV INS,13180,2018 - 2019 Güz Dönemi
+INS 361,Hidrolik,Hafzüllah Aksoy,Salı,0930/1229,INB,62,55,CEV INS,13179,2018 - 2019 Güz Dönemi
+INS 361E,Hydraulics,İsmail Duranyıldız,Pazartesi,0930/1229,INB,57,55,INS INSE,13183,2018 - 2019 Güz Dönemi
+INS 361E,Hydraulics,Şevket Çokgör,Pazartesi,0930/1229,INB,56,55,CEV CEVE INS INSE,13182,2018 - 2019 Güz Dönemi
+INS 411,Çelik Yapılar I,Elişan Filiz Piroğlu,Çarşamba Perşembe,1330/1529 1330/1529,INB INB,34,35,INS,13211,2018 - 2019 Güz Dönemi
+INS 411,Çelik Yapılar I,Kadir Özakgül,Çarşamba Perşembe,1330/1529 1330/1529,INB INB,35,35,INS,13209,2018 - 2019 Güz Dönemi
+INS 411,Çelik Yapılar I,Güliz Bayramoğlu,Salı Çarşamba,1030/1229 0830/1029,INB INB,41,40,INS,13222,2018 - 2019 Güz Dönemi
+INS 411,Çelik Yapılar I,Cavidan Yorgun,Salı Çarşamba,1030/1229 0830/1029,INB INB,42,40,INS,13221,2018 - 2019 Güz Dönemi
+INS 411,Çelik Yapılar I,Barlas Özden Çağlayan,Salı Çarşamba,0830/1029 1030/1229,INB INB,37,35,INS,13216,2018 - 2019 Güz Dönemi
+INS 411,Çelik Yapılar I,Sibel Gürel,Salı Çarşamba,0830/1029 1030/1229,INB INB,36,35,INS,13215,2018 - 2019 Güz Dönemi
+INS 411E,Steel Structures I,Ömer Tuğrul Turan,Çarşamba Perşembe,0830/1029 1030/1229,INB INB,39,35,INS INSE,13224,2018 - 2019 Güz Dönemi
+INS 411E,Steel Structures I,Cüneyt Vatansever,Çarşamba Perşembe,0830/1029 1030/1229,INB INB,39,35,INS INSE,13223,2018 - 2019 Güz Dönemi
+INS 413E,Hydrologic Analysis and Design,İsmail Duranyıldız,Salı,1330/1629,INB,3,15,INS INSE,12742,2018 - 2019 Güz Dönemi
+INS 419E,Soil Mechanics II,--,Çarşamba,1230/1529,INB,0,0,INS INSE,12744,2018 - 2019 Güz Dönemi
+INS 421,Betonarme II,Turgut Öztürk,Çarşamba Perşembe,1330/1529 1330/1529,INB INB,19,20,INS,13199,2018 - 2019 Güz Dönemi
+INS 421,Betonarme II,Abdullah Necmettin Gündüz,Çarşamba Perşembe,1330/1529 1330/1529,INB INB,13,20,INS,13198,2018 - 2019 Güz Dönemi
+INS 421,Betonarme II,Beyza Taşkın Akgül,Çarşamba Perşembe,1030/1229 1030/1229,INB INB,24,22,INS,13187,2018 - 2019 Güz Dönemi
+INS 421,Betonarme II,Mustafa Gençoğlu,Çarşamba Perşembe,1030/1229 1030/1229,INB INB,24,22,INS,13185,2018 - 2019 Güz Dönemi
+INS 421,Betonarme II,Alper İlki,Salı Çarşamba,1030/1229 0830/1029,INB INB,25,22,INS,13193,2018 - 2019 Güz Dönemi
+INS 421,Betonarme II,Yıldır Akkaya,Salı Çarşamba,1030/1229 0830/1029,INB INB,24,22,INS,13191,2018 - 2019 Güz Dönemi
+INS 421,Betonarme II,Kutlu Darılmaz,Salı Çarşamba,0830/1029 1030/1229,INB INB,25,22,INS,13197,2018 - 2019 Güz Dönemi
+INS 421,Betonarme II,Tülay Aksu Özkul,Salı Çarşamba,0830/1029 1030/1229,INB INB,26,22,INS,13195,2018 - 2019 Güz Dönemi
+INS 421E,Reinforced Concrete II,Fatih Sütcü,Çarşamba Perşembe,1030/1229 0830/1029,INB INB,14,20,INS INSE,13205,2018 - 2019 Güz Dönemi
+INS 421E,Reinforced Concrete II,Ali Sarı,Çarşamba Perşembe,1030/1229 0830/1029,INB INB,20,20,INS INSE,13204,2018 - 2019 Güz Dönemi
+INS 425E,Finite Element Methods,Murat Yılmaz,Pazartesi,0930/1229,INB,24,25,INS INSE,12745,2018 - 2019 Güz Dönemi
+INS 427,Yapı Statiği III,--,Salı,1330/1629,---,0,0,INS,12746,2018 - 2019 Güz Dönemi
+INS 429E,Reinf.Conc.High-Rise Buildings,Kutlu Darılmaz,Salı,1330/1629,INB,42,45,INS INSE,13225,2018 - 2019 Güz Dönemi
+INS 437E,Traffic Engineering,Ali Osman Atahan,Cuma,1430/1729,INB,50,50,INS INSE,15427,2018 - 2019 Güz Dönemi
+INS 441,Su Kaynakları,Şevket Çokgör,Pazartesi,1330/1629,INB,50,50,INS,13227,2018 - 2019 Güz Dönemi
+INS 441,Su Kaynakları,Mehmet Sedat Kabdaşlı,Pazartesi,1330/1629,INB,50,50,INS,13226,2018 - 2019 Güz Dönemi
+INS 441E,Water Resources,Mehmet Özger,Pazartesi,1330/1629,INB,45,50,INS INSE,13230,2018 - 2019 Güz Dönemi
+INS 441E,Water Resources,Tarkan Erdik,Pazartesi,1330/1629,INB,50,50,INS INSE,13229,2018 - 2019 Güz Dönemi
+INS 441E,Water Resources,Abdüsselam Altunkaynak,Pazartesi,1330/1629,INB,46,50,INS INSE,13228,2018 - 2019 Güz Dönemi
+INS 445,Esnek Yol Üstyapıları,Adem Faik İyinam,Cuma,0930/1229,INB,53,55,INS,12708,2018 - 2019 Güz Dönemi
+INS 457,Temiz Enerji Tür. ve Mod. Tekn,Ali Uyumaz,Pazartesi,0930/1229,INB,52,50,INS,12720,2018 - 2019 Güz Dönemi
+INS 459,Çubuk Sonlu Elemanlar,"Mehmet Hakkı Omurtag, Nihal Eratlı",Perşembe,0930/1229,INB,5,20,INS,12722,2018 - 2019 Güz Dönemi
+INS 462E,Engineering Ethics,Hüseyin Onur Tezcan,Pazartesi,1230/1329,INB,100,100,INS INSE,12724,2018 - 2019 Güz Dönemi
+INS 468,Temel İnşaatı II,--,Salı,0930/1229,INB,0,0,INS,12727,2018 - 2019 Güz Dönemi
+INS 474,Yapı İşletmesi Hukuku,Çiçek Ersoy Kekevi,Salı,1330/1629,INB,50,50,INS,12728,2018 - 2019 Güz Dönemi
+INS 478E,Fatigue of Metal Strc.Elements,"Ömer Tuğrul Turan, Barlas Özden Çağlayan",Çarşamba,1230/1529,INB,17,20,INS INSE,12729,2018 - 2019 Güz Dönemi
+INS 490E,Coastal and Harbors Structures,Veysel Şadan Özgür Kırca,Pazartesi,0930/1229,INB,18,40,INS INSE,12731,2018 - 2019 Güz Dönemi
+INS 492,Mühendislik Tasarım Projesi,Kadir Güler,----,/,INB,71,500,INS,12733,2018 - 2019 Güz Dönemi
+INS 492E,Engineering Design Project,Kadir Güler,----,/,INB,18,500,INS INSE,12734,2018 - 2019 Güz Dönemi

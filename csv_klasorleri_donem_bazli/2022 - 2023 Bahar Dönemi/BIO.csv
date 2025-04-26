@@ -1,0 +1,33 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BIO 101,General Biology,Halil Bayraktar,Çarşamba,0830/1129,MOBGAM / ---,12,30,MBI,24970,2022 - 2023 Bahar Dönemi
+BIO 106E,General Biology II,Bülent Balta,"Salı
+Perşembe","0830/1029
+1430/1529","FEB
+FEB / D102
+D204",59,90,"BIO, BIOE, BIOM",22034,2022 - 2023 Bahar Dönemi
+BIO 106EL,General Biology II Lab.,Bülent Balta,Salı,1030/1329,FEB / ---,88,95,"BIO, BIOE, BIOM",22038,2022 - 2023 Bahar Dönemi
+BIO 212E,Genetics,Sibel Uğur İşeri,Perşembe,0830/1129,FEB / D304,71,85,"BIO, BIOE, BIOM",22041,2022 - 2023 Bahar Dönemi
+BIO 214,Mikrobiyoloji,Pervin Başaran Akocak,Cuma,1400/1659,KMB / D105,9,25,"KMM, MET",21505,2022 - 2023 Bahar Dönemi
+BIO 216E,Microbiology,"Zeynep Petek Çakar, Ayten Karataş",Pazartesi,0830/1129,FEB / D304,75,77,"BIO, BIOE, BIOM",22044,2022 - 2023 Bahar Dönemi
+BIO 216EL,Microbiology Lab.,Ayten Karataş,Salı,1430/1729,FEB / ---,60,80,"BIO, BIOE, BIOM",22046,2022 - 2023 Bahar Dönemi
+BIO 224E,Molecular Biology,Fatih Ortakcı,Salı,0930/1229,KMB / D105,4,50,"CEV, CEVE, GID, GIDE, KMM",24956,2022 - 2023 Bahar Dönemi
+BIO 232E,Organic Chem. for Biologists,Bülent Balta,Çarşamba,0830/1129,FEB / D103,96,96,BIOE,22048,2022 - 2023 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Çarşamba,0830/1129,EEB / 5307,58,55,"BIOM, CEV, CEVE, CHZ, CHZE, DEN, EEE, EHB, EHBE, EHS, ELE, ELH, ELK, ELKE, FIZ, FIZE, GEM, GID, GIDE, INS, INSE, ISL, ISLE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MET, METE, PET, PETE, TEL",22067,2022 - 2023 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Çarşamba,1230/1529,FEB / D204,59,55,"BIOM, CEV, CEVE, CHZ, CHZE, DEN, EEE, EHB, EHBE, EHS, ELE, ELH, ELK, ELKE, FIZ, FIZE, GEM, GID, GIDE, INS, INSE, ISL, ISLE, JEO, JEOE, KIM, KIME, KMM, KMME, KOM, KOME, MAD, MADE, MET, METE, PET, PETE, TEL",22068,2022 - 2023 Bahar Dönemi
+BIO 326E,Mol. Evolution & Biodiversity,"Deniz Şahin, Sibel Uğur İşeri",Perşembe,1230/1429,FEB / D103,88,86,"BIO, BIOE",22051,2022 - 2023 Bahar Dönemi
+BIO 328E,Biochemistry II,Muhammet Übeydullah Kahveci,Salı,0830/1129,FEB / D202,58,75,"BIO, BIOE",22052,2022 - 2023 Bahar Dönemi
+BIO 328EL,Biochemistry II Lab.,Muhammet Übeydullah Kahveci,Cuma,0930/1229,FEB / ---,57,80,"BIO, BIOE",22053,2022 - 2023 Bahar Dönemi
+BIO 332E,Modern Techniques in Biology,Abdulhalim Kılıç,Pazartesi,0830/1129,FEB / D203,66,68,"BIO, BIOE",22056,2022 - 2023 Bahar Dönemi
+BIO 415E,Molecular Biology,"Arzu Karabay Korkmaz, Aslı Kumbasar","Salı
+Perşembe","1230/1429
+1430/1629","FEB
+FEB / D304
+D102",69,75,"BIO, BIOE, BIOM",22054,2022 - 2023 Bahar Dönemi
+BIO 415EL,Molecular Biology Lab.,Arzu Karabay Korkmaz,Cuma,1430/1729,FEB / ---,90,89,"BIO, BIOE, BIOM",22055,2022 - 2023 Bahar Dönemi
+BIO 442E,Molecular Immunology,Ayça Sayı Yazgan,Çarşamba,1230/1529,FEB / D206,42,42,"BIO, BIOE, BIOM",22057,2022 - 2023 Bahar Dönemi
+BIO 462E,Prot. Struct.-Function Relat.,Gizem Dinler Doğanay,Pazartesi,1430/1729,FEB / D101,41,41,"BIO, BIOE, BIOM",22058,2022 - 2023 Bahar Dönemi
+BIO 466E,Developmental Biology,Aslı Kumbasar,Çarşamba,0830/1129,FEB / D105,2,40,"BIO, BIOE, BIOM",22059,2022 - 2023 Bahar Dönemi
+BIO 471E,Protein Biotechnology,"Deniz Şahin, Abdulhalim Kılıç, Gizem Dinler Doğanay",Perşembe,0830/1129,FEB / D101,44,48,"BIO, BIOE",22060,2022 - 2023 Bahar Dönemi
+BIO 4901E,Mol Bio & Genetics Design I,Bülent Balta,----,/,FEB / ---,15,500,"BIO, BIOE",22062,2022 - 2023 Bahar Dönemi
+BIO 4902E,Mol Bio & Genetics Design II,Bülent Balta,----,/,FEB / ---,47,500,"BIO, BIOE",22063,2022 - 2023 Bahar Dönemi
+BIO 492E,Graduation Project,Bülent Balta,----,/,FEB / ---,4,500,"BIO, BIOE",22061,2022 - 2023 Bahar Dönemi

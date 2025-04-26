@@ -1,0 +1,51 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MET 214,Çözelti Termodinamiğinin Tem.,Nuri Solak,Salı Salı,1130/1329 1630/1729,,95,95,MET,21186,2020 - 2021 Bahar Dönemi
+MET 214E,Fund. of Sol. Thermodynamics,Nuri Solak,Perşembe,1430/1729,,84,90,METE,21189,2020 - 2021 Bahar Dönemi
+MET 224,Faz Denge Diyagramları,Nuri Solak,Perşembe,1030/1329,,90,100,MET,21191,2020 - 2021 Bahar Dönemi
+MET 224E,Phase Equilibrium Diagrams,Nuri Solak,Salı,1330/1629,,87,100,METE,21192,2020 - 2021 Bahar Dönemi
+MET 228,Malzeme Kimyası,Servet İbrahim Timur,Pazartesi,1330/1529,,94,100,MET,21194,2020 - 2021 Bahar Dönemi
+MET 228E,Materials Chemistry,Mehmet Şeref Sönmez,Perşembe,0830/1029,,75,90,METE,21195,2020 - 2021 Bahar Dönemi
+MET 246,Malzeme Fiziği,Muhammet Kürşat Kazmanlı,Çarşamba,1330/1529,,98,105,MET,21196,2020 - 2021 Bahar Dönemi
+MET 246E,Materials Physics,Hüseyin Kızıl,Çarşamba,1330/1529,,81,100,METE,21197,2020 - 2021 Bahar Dönemi
+MET 248E,Mass & Energy Balance,Cevat Bora Derin,Pazartesi,1130/1329,,79,77,METE,21198,2020 - 2021 Bahar Dönemi
+MET 248E,Mass & Energy Balance,Mehmet Şeref Sönmez,Pazartesi,1530/1729,,85,85,MET,21199,2020 - 2021 Bahar Dönemi
+MET 252,Mlz.Sta. ve Dinamik Mukavemeti,Murat Baydoğan,Cuma,0930/1229,,88,100,MET,21200,2020 - 2021 Bahar Dönemi
+MET 252E,Sta and Dyn. Strng ofMaterials,Necip Ünlü,Cuma,0830/1129,,65,100,METE,21201,2020 - 2021 Bahar Dönemi
+MET 326,Kimyasal Metalurji II,"Mahmut Ercan Açma, Servet İbrahim Timur",Pazartesi,0830/1129,,93,90,MET,21202,2020 - 2021 Bahar Dönemi
+MET 326E,Chemical Metallurgy II,"Onuralp Yücel, Cevat Bora Derin, Mehmet Şeref Sönmez",Pazartesi,0830/1129,,74,90,METE,21203,2020 - 2021 Bahar Dönemi
+MET 328E,Introduction to Biomaterials,"Gültekin Göller, İpek Akın Karadayı",Pazartesi,1330/1529,,143,150,MET METE,21205,2020 - 2021 Bahar Dönemi
+MET 344E,Mech. Properties of Materials,"Hüseyin Çimenoğlu, Murat Baydoğan",Perşembe,1130/1329,,147,150,MET METE,21207,2020 - 2021 Bahar Dönemi
+MET 346,Met.&Malz.Pros.Mod.&Sim.,"Cüneyt Arslan, Sebahattin Gürmen",Perşembe,0830/1029,,72,85,MET,21208,2020 - 2021 Bahar Dönemi
+MET 346E,Mod.&Sim.of Met.&Mat.Process,"Cüneyt Arslan, Sebahattin Gürmen",Salı,0830/1029,,72,85,METE,21210,2020 - 2021 Bahar Dönemi
+MET 348,Kalite Mühendisliği,Duygu Ağaoğulları,Salı,1330/1529,,73,80,MET,21212,2020 - 2021 Bahar Dönemi
+MET 348E,Quality Engineering,Özgül Keleş,Salı,1530/1729,,70,80,METE,21335,2020 - 2021 Bahar Dönemi
+MET 364,Ekstraktif Metalurji Lab.,"Duygu Ağaoğulları, Bihter Zeytuncu, Burak Özkal, Cevat Bora Derin, Cevat Fahir Arısoy, Cüneyt Arslan, Derya Dışpınar, Filiz Şahin, Gültekin Göller, Hüseyin Kızıl, Hüseyin Çimenoğlu, Mahmut Ercan Açma, Mohammadreza Nofar, Muhammet Kürşat Kazmanlı, Murat Baydoğan, Mustafa Kamil Ürgen, Mustafa Lutfi Öveçoğlu, Necip Ünlü, Nuri Solak, Onuralp Yücel, Sebahattin Gürmen, Servet İbrahim Timur, Ömer Serdar Özgen, Özgül Keleş, İpek Akın Karadayı",Çarşamba,1130/1329,,85,87,MET,21336,2020 - 2021 Bahar Dönemi
+MET 364E,Extractive Metallurgy Lab.,"İpek Akın Karadayı, Bihter Zeytuncu, Cevat Bora Derin, Cüneyt Arslan, Derya Dışpınar, Duygu Ağaoğulları, Güldem Kartal Şireli, Hüseyin Çimenoğlu, Mahmut Ercan Açma, Mohammadreza Nofar, Murat Baydoğan, Mustafa Kamil Ürgen, Mustafa Lutfi Öveçoğlu, Necip Ünlü, Nuri Solak, Onuralp Yücel, Sebahattin Gürmen, Servet İbrahim Timur, Ömer Serdar Özgen, Özgül Keleş",Çarşamba,1330/1529,,73,75,METE,21341,2020 - 2021 Bahar Dönemi
+MET 366E,Energy Materials,"Onuralp Yücel, Sebahattin Gürmen, Özgül Keleş",Cuma,0830/1029,,32,90,MET METE,21345,2020 - 2021 Bahar Dönemi
+MET 368,Metalik Toz. Üretim Teknikleri,Burak Özkal,Cuma,0830/1029,,11,50,MET,21349,2020 - 2021 Bahar Dönemi
+MET 368E,Product.Tec. of Metallic Powd.,Burak Özkal,Cuma,1030/1229,,12,60,METE,21350,2020 - 2021 Bahar Dönemi
+MET 374,Proses Metalurjisi,Mahmut Ercan Açma,Cuma,1500/1659,,14,60,MET,21354,2020 - 2021 Bahar Dönemi
+MET 374E,Process Metallurgy,--,Cuma,1030/1229,,0,0,METE,21356,2020 - 2021 Bahar Dönemi
+MET 376E,Heat Treatment of Metals,"Hüseyin Çimenoğlu, Murat Baydoğan",Salı,1130/1329,,112,115,MET METE,21358,2020 - 2021 Bahar Dönemi
+MET 378,Demir Dışı Müh. Alaşımları,Derya Dışpınar,Salı,1530/1729,,53,60,MET,25117,2020 - 2021 Bahar Dönemi
+MET 378E,Non-Ferrous Eng. Materials,Derya Dışpınar,Perşembe,0930/1129,,47,90,MET METE,21360,2020 - 2021 Bahar Dönemi
+MET 435,PÇT ve Prje. Yön. ve İnovasyon,Derya Dışpınar,Çarşamba,0830/1029,,72,75,MET,21361,2020 - 2021 Bahar Dönemi
+MET 435E,PST Desg.&Prj.Mng. and Innov.,Özgül Keleş,Salı,1330/1529,,58,70,METE,21347,2020 - 2021 Bahar Dönemi
+MET 442,Kompozit Malzemelerin Tem.,"Mustafa Lutfi Öveçoğlu, Duygu Ağaoğulları",Cuma,0930/1129,,63,80,MET,21368,2020 - 2021 Bahar Dönemi
+MET 442E,Fund. of Composite Materials,Mohammadreza Nofar,Pazartesi,1130/1329,,63,90,METE,21374,2020 - 2021 Bahar Dönemi
+MET 444,Müh.Uyg.Demir ve Çelik E.Mlz.,Cevat Fahir Arısoy,Çarşamba,1330/1529,,65,90,MET,21442,2020 - 2021 Bahar Dönemi
+MET 444E,Iron&Steel Mat.in Eng. App,Cevat Fahir Arısoy,Salı,1030/1229,,66,90,METE,21443,2020 - 2021 Bahar Dönemi
+MET 446,Met.ve Malz.Pros.Çevre ve Etik,"Servet İbrahim Timur, Güldem Kartal Şireli",Salı,0830/1029,,72,90,MET,21445,2020 - 2021 Bahar Dönemi
+MET 446E,Envir.&Ethc.inMet.&Mat.Proces,"Mehmet Şeref Sönmez, Cevat Fahir Arısoy",Salı,1330/1529,,61,90,METE,21444,2020 - 2021 Bahar Dönemi
+MET 462,Mtlk.Nanparik.:Üret.&Karak.,"Sebahattin Gürmen, Burak Özkal",Perşembe,1330/1529,,19,50,MET,21351,2020 - 2021 Bahar Dönemi
+MET 462E,Metallic Nanopart.:Prod.&Char.,"Sebahattin Gürmen, Burak Özkal",Pazartesi,1330/1529,,13,50,METE,21352,2020 - 2021 Bahar Dönemi
+MET 464E,Princip. of Surfaca Treatment,"Cem Örnek, Muhammet Kürşat Kazmanlı",Perşembe,0830/1029,,8,50,MET METE,21446,2020 - 2021 Bahar Dönemi
+MET 468E,Welding Tech. and Metallurgy,"Hüseyin Çimenoğlu, Murat Baydoğan",Cuma,1500/1659,,82,85,MET METE,21447,2020 - 2021 Bahar Dönemi
+MET 472E,Casting Processes,Necip Ünlü,Pazartesi,0830/1029,,68,100,MET METE,21448,2020 - 2021 Bahar Dönemi
+MET 476E,Intro. to Technical Ceramics,Filiz Şahin,Perşembe,1330/1529,,31,55,MET METE,21449,2020 - 2021 Bahar Dönemi
+MET 4901,Met. Malz. Müh. Tasarımı I,Hüseyin Kızıl,----,/,,3,500,MET,24909,2020 - 2021 Bahar Dönemi
+MET 4901E,Met. & Mat. Engn. Design I,Hüseyin Kızıl,----,/,,3,500,MET METE,24910,2020 - 2021 Bahar Dönemi
+MET 4902,Met. Malz. Müh. Tasarımı II,Hüseyin Kızıl,----,/,,31,500,MET,21452,2020 - 2021 Bahar Dönemi
+MET 4902E,Met. & Mat. Engn. Design II,Hüseyin Kızıl,----,/,,44,500,MET METE,21453,2020 - 2021 Bahar Dönemi
+MET 492,Tasarım Projesi,Hüseyin Kızıl,----,/,,12,500,MET,21450,2020 - 2021 Bahar Dönemi
+MET 492E,Design Project,Hüseyin Kızıl,----,/,,37,500,MET METE,21451,2020 - 2021 Bahar Dönemi

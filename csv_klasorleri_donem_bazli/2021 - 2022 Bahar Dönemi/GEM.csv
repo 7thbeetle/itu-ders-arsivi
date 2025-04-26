@@ -1,0 +1,54 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEM 102,Gemi Geometrisi,Murat Emre Demir,Perşembe,1330/1629,GDB,36,35,GEM,25152,2021 - 2022 Bahar Dönemi
+GEM 102,Gemi Geometrisi,Fuzuli Ağrı Akçay,Pazartesi,1400/1659,GDB,35,35,GEM,25151,2021 - 2022 Bahar Dönemi
+GEM 112,Bilgisayar Destek.Teknik Resim,Fuzuli Ağrı Akçay,Çarşamba Perşembe,0930/1229 1330/1529,GDB GDB,27,30,GEM,22578,2021 - 2022 Bahar Dönemi
+GEM 204,Termodinamik,Halil Saraçoğlu,----,/,GDB,1,1,GEM GEMM,26562,2021 - 2022 Bahar Dönemi
+GEM 204,Termodinamik,Halil Saraçoğlu,Çarşamba,0830/1229,GDB,35,40,GEM GEMM,22588,2021 - 2022 Bahar Dönemi
+GEM 204,Termodinamik,"Oğuz Salim Söğüt, Ahmet Ergün Palaz",Salı,1330/1729,GDB,40,45,GEM GEMM,22587,2021 - 2022 Bahar Dönemi
+GEM 212,Imal Usulleri,Gökhan Tansel Tayyar,----,/,GDB,1,1,DEN GEM,26563,2021 - 2022 Bahar Dönemi
+GEM 212,Imal Usulleri,Gökhan Tansel Tayyar,Perşembe,0830/1029,GDB,58,90,DEN GEM,22589,2021 - 2022 Bahar Dönemi
+GEM 212,Imal Usulleri,Gökhan Tansel Tayyar,Perşembe,1030/1229,GDB,28,45,GEM,25863,2021 - 2022 Bahar Dönemi
+GEM 214E,Engineering Measurements,Emin Korkut,Cuma,0930/1229,GDB,39,35,GEM GEME GEMK PETE,22584,2021 - 2022 Bahar Dönemi
+GEM 216E,Heat Transfer In Engineering,Selma Ergin,Cuma,0930/1229,GDB,37,35,GEM GEME GEMK,22585,2021 - 2022 Bahar Dönemi
+GEM 218E,Structural Dynamics,Bahadır Uğurlu,Cuma,0930/1229,GDB,10,25,GEM GEME,22586,2021 - 2022 Bahar Dönemi
+GEM 312,Gemi Yardımcı Makinaları,Osman Azmi Özsoysal,Perşembe,1330/1629,GDB,71,75,GEM GEMM,22594,2021 - 2022 Bahar Dönemi
+GEM 313,Gemi Makinaları,Murat Emre Demir,----,/,FEB,1,1,GEM GEMM,26564,2021 - 2022 Bahar Dönemi
+GEM 313E,Marine Engines,Murat Emre Demir,----,/,GDB,1,1,GEM GEME,26565,2021 - 2022 Bahar Dönemi
+GEM 314E,Methods Of Ship Production,Gökhan Tansel Tayyar,----,/,FEB,4,4,DEN DENE GEM GEME GEMK,26566,2021 - 2022 Bahar Dönemi
+GEM 320,Hesap. Akışkanlar Dinam.Gir.,Uğur Oral Ünal,----,/,GDB,1,1,GEM,26567,2021 - 2022 Bahar Dönemi
+GEM 321E,Ship Theory,Metin Taylan,----,/,GDB,1,1,GEM GEME GEMK,26568,2021 - 2022 Bahar Dönemi
+GEM 322,Gemi Mukavemeti,Ertekin Bayraktarkatal,----,/,GDB,2,2,GEM GEMM,26569,2021 - 2022 Bahar Dönemi
+GEM 322,Gemi Mukavemeti,Ertekin Bayraktarkatal,Pazartesi Çarşamba,1030/1229 1330/1529,GDB GDB,56,55,GEM GEMM,22590,2021 - 2022 Bahar Dönemi
+GEM 325,Gemi Yapı Elemanları,Gökhan Tansel Tayyar,----,/,GDB,1,1,GEM GEMM,26570,2021 - 2022 Bahar Dönemi
+GEM 326E,Ship Design,Devrim Bülent Danışman,----,/,GDB,1,1,GEM,26571,2021 - 2022 Bahar Dönemi
+GEM 326E,Ship Design,Devrim Bülent Danışman,Salı Cuma,1330/1529 1400/1559,GDB GDB,45,70,GEM,22591,2021 - 2022 Bahar Dönemi
+GEM 327E,Ship Hydrodynamics(Resistance),Ömer Gören,----,/,GDB,1,1,GEM GEMM,26572,2021 - 2022 Bahar Dönemi
+GEM 328E,Ship Hydrodynamics(Propulsion),Emin Korkut,Salı,0830/1129,GDB,66,70,GEM,22593,2021 - 2022 Bahar Dönemi
+GEM 332,Gemi Elektrik Sistemleri,Yalçın Ünsan,Perşembe,1030/1229,GDB,90,90,DEN GEM,22592,2021 - 2022 Bahar Dönemi
+GEM 332E,Electrical Systems in Ships,--,Perşembe,1030/1229,GDB,0,0,GEME GEMK,23029,2021 - 2022 Bahar Dönemi
+GEM 353,Gem.İnş.&Gem.San.İş Gv.&İşç.Sğ,Barış Barlas,Pazartesi,1230/1529,GDB,72,70,GEM,22595,2021 - 2022 Bahar Dönemi
+GEM 409,Gemi Titreşimleri,Ahmet Ergin,Perşembe,1330/1629,,59,50,GEM,24994,2021 - 2022 Bahar Dönemi
+GEM 411,Gemi Tasarımı Projesi I,Barış Barlas,----,/,GDB,2,2,GEM,25589,2021 - 2022 Bahar Dönemi
+GEM 412E,Shipyard Organization,Erdem Üçer,----,/,GDB,3,3,DEN DENE GEM GEME GEMK,26573,2021 - 2022 Bahar Dönemi
+GEM 412E,Shipyard Organization,Erdem Üçer,Pazartesi,1330/1529,GDB,34,70,GEM GEME,22596,2021 - 2022 Bahar Dönemi
+GEM 412E,Shipyard Organization,Erdem Üçer,Pazartesi,0830/1029,GDB,69,60,DEN DENE GEM GEME,22641,2021 - 2022 Bahar Dönemi
+GEM 416,Savaş Gemileri Dizaynı,Mehmet Ali Baykal,----,/,GDB,1,1,GEM,26574,2021 - 2022 Bahar Dönemi
+GEM 416,Savaş Gemileri Dizaynı,Mehmet Ali Baykal,Cuma,1030/1229,,35,35,GEM,22605,2021 - 2022 Bahar Dönemi
+GEM 418E,Corrsn & Fouling In Marine Env,Metin Taylan,----,/,GDB,1,1,GEM GEME GEMK GEMM,26575,2021 - 2022 Bahar Dönemi
+GEM 418E,Corrsn & Fouling In Marine Env,Metin Taylan,Pazartesi,1530/1729,GDB,33,35,GEM GEME GEMK GEMM,22598,2021 - 2022 Bahar Dönemi
+GEM 421,Gemi Hareket ve Manevraları,Şakir Bal,----,/,GDB,1,1,GEM GEMM,26576,2021 - 2022 Bahar Dönemi
+GEM 422,Gemi Tasarım Projesi II,Barış Barlas,----,/,GDB,2,2,GEM,25591,2021 - 2022 Bahar Dönemi
+GEM 422E,Ship Design Project II,Emin Korkut,Çarşamba,1030/1229,GDB,5,10,GEM GEME GEMK,22602,2021 - 2022 Bahar Dönemi
+GEM 423E,Advanced Propulsion Systems,Ali Can Takinacı,----,/,GDB,1,1,GEM GEME GEMK,26577,2021 - 2022 Bahar Dönemi
+GEM 424E,Reliability Of Ship Structures,--,Pazartesi,1530/1729,GDB,0,0,GEM GEME GEMK GEMM,22597,2021 - 2022 Bahar Dönemi
+GEM 426,Gemilerin Hidrodinamik Dizaynı,Ömer Gören,Cuma,1030/1229,GDB,22,35,GEM,22604,2021 - 2022 Bahar Dönemi
+GEM 426E,Hydrodynamic Design of Ships,Devrim Bülent Danışman,Pazartesi,1530/1729,GDB,18,25,GEM GEME GEMK,22599,2021 - 2022 Bahar Dönemi
+GEM 438E,Stability of Ships,Metin Taylan,Çarşamba,0830/1029,GDB,27,30,GEM GEME GEMK,22603,2021 - 2022 Bahar Dönemi
+GEM 447E,Vent & Air Cond Sys For Ships,Selma Ergin,----,/,GDB,2,2,DEN DENE GEM GEME GEMK,26578,2021 - 2022 Bahar Dönemi
+GEM 482,Bireysel Bitirme Projesi,Barış Barlas,----,/,GDB,38,100,GEM,22610,2021 - 2022 Bahar Dönemi
+GEM 482E,Individual Graduation Project,Barış Barlas,----,/,GDB,0,20,GEME,25354,2021 - 2022 Bahar Dönemi
+GEM 486E,Mech.&Dsgn.of Marine Composit.,Mustafa Erden Yıldızdağ,----,/,GDB,1,1,GEM GEME,26579,2021 - 2022 Bahar Dönemi
+GEM 4902,Gemi İnş.&Gem.Mak. Müh.Tas.II,"Ömer Gören, Ahmet Ergin, Barış Barlas, Devrim Bülent Danışman, Ertekin Bayraktarkatal, Gökhan Tansel Tayyar, Osman Azmi Özsoysal, Selma Ergin, Uğur Oral Ünal, Yalçın Ünsan, İsmail Yalçın",Çarşamba Perşembe,1030/1329 1630/1929,GDB GDB,46,80,GEM,22600,2021 - 2022 Bahar Dönemi
+GEM 492,Bitirme Tasarım Projesi,Barış Barlas,----,/,GDB,3,3,GEM,25592,2021 - 2022 Bahar Dönemi
+GEM 492,Bitirme Tasarım Projesi,Barış Barlas,----,/,GDB,17,100,GEM,25105,2021 - 2022 Bahar Dönemi
+GEM 492E,Graduation Design Project,Barış Barlas,----,/,GDB,4,500,GEM GEME GEMK,25823,2021 - 2022 Bahar Dönemi

@@ -1,0 +1,128 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MAK 101,Makine Müh. Giriş ve Etik,İsmail Yalçın Uralcan,Çarşamba,1330/1529,,221,250,MAK,12435,2020 - 2021 Güz Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Atakan Altınkaynak,Cuma,0930/1229,,18,80,IML MAK,12451,2020 - 2021 Güz Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Kubilay Yay,Perşembe,0930/1229,,43,80,IML MAK,12443,2020 - 2021 Güz Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Hülya Yalçın,Çarşamba,0930/1229,,19,80,IML MAK,12444,2020 - 2021 Güz Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Kubilay Yay,Salı,0930/1229,,13,80,IML MAK,12441,2020 - 2021 Güz Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Bülent Bölat,Pazartesi,0930/1229,,57,80,IML MAK,12417,2020 - 2021 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,Yusuf Ziya Kocabal,Çarşamba Cuma,0830/1029 0830/1129,,41,75,IML MAK,12456,2020 - 2021 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,--,Çarşamba Cuma,0830/1029 0830/1129,,0,0,IML MAK,12432,2020 - 2021 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,Yusuf Ziya Kocabal,Salı Perşembe,0830/1029 0830/1129,,61,75,IML MAK,12455,2020 - 2021 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,Serpil Kurt Habiboğlu,Salı Perşembe,0830/1029 0830/1129,,54,75,IML MAK,12453,2020 - 2021 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,Cevat Erdem İmrak,Salı Perşembe,0830/1029 0830/1129,,64,75,IML MAK,12452,2020 - 2021 Güz Dönemi
+MAK 110E,Comput.Aided Technical Drawing,Erkan Günpınar,Cuma,0830/1229,,37,60,IML MAK,12462,2020 - 2021 Güz Dönemi
+MAK 110E,Comput.Aided Technical Drawing,Ali İmre Aydeniz,Perşembe,0830/1229,,56,60,IML MAK,12461,2020 - 2021 Güz Dönemi
+MAK 110E,Comput.Aided Technical Drawing,Ali İmre Aydeniz,Çarşamba,0830/1229,,31,60,IML MAK,12460,2020 - 2021 Güz Dönemi
+MAK 111,Makina Mühendisliğine Giriş,İsmail Yalçın Uralcan,Çarşamba,1330/1429,,21,250,MAK MAKM,12437,2020 - 2021 Güz Dönemi
+MAK 114,Lineer Cebir ve Uygulamaları,Sinem Öztürk,Salı,0930/1229,,31,80,IML MAK,12464,2020 - 2021 Güz Dönemi
+MAK 114,Lineer Cebir ve Uygulamaları,Merve Acer,Salı,0930/1229,,79,80,IML MAK,12463,2020 - 2021 Güz Dönemi
+MAK 118,Statik,Sevinç Ayşe Zaloğlu,Salı,1330/1629,,37,60,MAK MKNM,12466,2020 - 2021 Güz Dönemi
+MAK 118,Statik,Emrecan Söylemez,Salı,1330/1629,,49,60,MAK MKNM,12465,2020 - 2021 Güz Dönemi
+MAK 200,Atölye,Serpil Kurt Habiboğlu,----,/,,6,60,IML MAK,12459,2020 - 2021 Güz Dönemi
+MAK 200,Atölye,Adil Yücel,----,/,,19,60,IML MAK,12458,2020 - 2021 Güz Dönemi
+MAK 200,Atölye,Yusuf Ziya Kocabal,----,/,,59,60,IML MAK,12457,2020 - 2021 Güz Dönemi
+MAK 202E,Numerical Meth.for Mech. Eng.,Sertaç Çadırcı,Pazartesi,0830/1129,,16,80,IML MAK,12473,2020 - 2021 Güz Dönemi
+MAK 202E,Numerical Meth.for Mech. Eng.,Alper Tolga Çalık,Pazartesi,0830/1129,,73,80,IML MAK,12471,2020 - 2021 Güz Dönemi
+MAK 210E,Engineering Mathematics,Merve Acer,Çarşamba Perşembe,1330/1529 1330/1529,,100,100,IML IMLE MAK MAKE,12486,2020 - 2021 Güz Dönemi
+MAK 210E,Engineering Mathematics,Abdussamet Subaşı,Çarşamba Perşembe,1330/1529 1330/1529,,70,100,IML IMLE MAK MAKE,12485,2020 - 2021 Güz Dönemi
+MAK 210E,Engineering Mathematics,Hakan Öksüzoğlu,Çarşamba Perşembe,1330/1529 1330/1529,,101,100,IML IMLE MAK MAKE,12483,2020 - 2021 Güz Dönemi
+MAK 211E,Probability and Statistics,Abdussamet Subaşı,Salı,0830/1129,,36,100,IML MAK,12492,2020 - 2021 Güz Dönemi
+MAK 211E,Probability and Statistics,Hacı Abdullah Taşdemir,Salı,0830/1129,,100,100,IML MAK,12490,2020 - 2021 Güz Dönemi
+MAK 211E,Probability and Statistics,Hakan Öksüzoğlu,Salı,0830/1129,,100,100,IML MAK,12488,2020 - 2021 Güz Dönemi
+MAK 213,Malzeme Bilimi,Levent Trabzon,Pazartesi Cuma,1530/1729 1530/1729,,79,80,IML MAK,12498,2020 - 2021 Güz Dönemi
+MAK 213,Malzeme Bilimi,Alaeddin Burak İrez,Pazartesi Cuma,1530/1729 1530/1729,,61,80,IML MAK,12495,2020 - 2021 Güz Dönemi
+MAK 213,Malzeme Bilimi,Adnan Dikicioğlu,Pazartesi Cuma,1530/1729 1530/1729,,80,80,IML MAK,12493,2020 - 2021 Güz Dönemi
+MAK 213,Malzeme Bilimi,Celaletdin Ergun,Pazartesi Cuma,1530/1729 1530/1729,,28,80,IML MAK,12470,2020 - 2021 Güz Dönemi
+MAK 214E,Engineering Materials,Celaletdin Ergun,Çarşamba Perşembe,1130/1329 0830/0929,,28,60,IML IMLE MAK MAKE MAKM,12469,2020 - 2021 Güz Dönemi
+MAK 215,Termodinamik I,Lütfullah Kuddusi,Salı Cuma,1530/1729 1430/1529,,120,120,MAK MKNM,12504,2020 - 2021 Güz Dönemi
+MAK 215,Termodinamik I,Yakup Erhan Böke,Salı Cuma,1530/1729 1430/1529,,97,120,MAK MKNM,12468,2020 - 2021 Güz Dönemi
+MAK 217,Dinamik,Mesut Kırca,Pazartesi Cuma,1330/1529 1030/1229,,50,80,MAK MAKM MKNM,12514,2020 - 2021 Güz Dönemi
+MAK 217,Dinamik,Mehmet Salih Dokuz,Pazartesi Cuma,1330/1529 1030/1229,,80,80,MAK MAKM MKNM,12513,2020 - 2021 Güz Dönemi
+MAK 217,Dinamik,Ata Muğan,Pazartesi Cuma,1330/1529 1030/1229,,77,80,MAK MAKM MKNM,12512,2020 - 2021 Güz Dönemi
+MAK 219,Mukavemet I,Süreyya Ergün Bozdağ,Salı Perşembe,1330/1529 1530/1729,,54,80,MAK MKNM,12519,2020 - 2021 Güz Dönemi
+MAK 219,Mukavemet I,Oğuz Altay,Salı Perşembe,1330/1529 1530/1729,,59,80,MAK MKNM,12517,2020 - 2021 Güz Dönemi
+MAK 219,Mukavemet I,Emin Sünbüloğlu,Salı Perşembe,1330/1529 1530/1729,,80,80,MAK MKNM,12516,2020 - 2021 Güz Dönemi
+MAK 220,Mukavemet II,Adil Yücel,Salı Perşembe,1330/1529 1530/1729,,188,250,MAK MKNM,12520,2020 - 2021 Güz Dönemi
+MAK 224E,Engineering Materials,Ersan Üstündağ,Cuma,1230/1429,,24,60,IML MAK,12529,2020 - 2021 Güz Dönemi
+MAK 224E,Engineering Materials,Alaeddin Burak İrez,Cuma,1230/1429,,43,60,IML MAK,12526,2020 - 2021 Güz Dönemi
+MAK 226,Termodinamik II,Seyhan Onbaşıoğlu,Perşembe Cuma,1230/1329 1030/1229,,58,80,MAK MKNM,12534,2020 - 2021 Güz Dönemi
+MAK 226,Termodinamik II,Ayşegül Abuşoğlu,Perşembe Cuma,1230/1329 1030/1229,,80,80,MAK MKNM,12532,2020 - 2021 Güz Dönemi
+MAK 228,Akışkanlar Mekaniği I,Hasan Güneş,Pazartesi,1130/1429,,23,60,MAK MAKM,12539,2020 - 2021 Güz Dönemi
+MAK 228,Akışkanlar Mekaniği I,Sertaç Çadırcı,Pazartesi,1130/1429,,42,60,MAK MAKM MKNM,12538,2020 - 2021 Güz Dönemi
+MAK 228,Akışkanlar Mekaniği I,Murat Çakan,Pazartesi,1130/1429,,60,60,MAK MAKM MKNM,12536,2020 - 2021 Güz Dönemi
+MAK 229,Akışkanlar Mekaniği II,Levent Ali Kavurmacıoğlu,Pazartesi,1030/1329,,40,60,MAK MKNM,12542,2020 - 2021 Güz Dönemi
+MAK 229,Akışkanlar Mekaniği II,Kadir Kırkköprü,Pazartesi,1030/1329,,60,60,MAK MKNM,12541,2020 - 2021 Güz Dönemi
+MAK 229,Akışkanlar Mekaniği II,Erkan Ayder,Pazartesi,1030/1329,,60,60,MAK MKNM,12540,2020 - 2021 Güz Dönemi
+MAK 230E,Alg.Dev.& Comp.App.with Python,Emrecan Söylemez,Çarşamba,0830/1129,,66,90,IML MAK,12510,2020 - 2021 Güz Dönemi
+MAK 230E,Alg.Dev.& Comp.App.with Python,Mustafa Resa Becan,Salı,0830/1129,,87,90,IML MAK,12509,2020 - 2021 Güz Dönemi
+MAK 312,Ölçme Değerlendirme,Ayhan Kural,Salı Çarşamba,1530/1729 1030/1229,,72,120,IML MAK MAKM MKN,15421,2020 - 2021 Güz Dönemi
+MAK 312,Ölçme Değerlendirme,***,Salı Çarşamba,1530/1729 1030/1229,,0,80,IML MAK MAKM MKN,12511,2020 - 2021 Güz Dönemi
+MAK 312,Ölçme Değerlendirme,Mustafa Resa Becan,Salı Çarşamba,1530/1729 1030/1229,,119,120,IML MAK MAKM MKN,12508,2020 - 2021 Güz Dönemi
+MAK 313,Isı Geçişi,***,Pazartesi Çarşamba,0830/1029 0830/1029,,0,80,MAK MAKM,12507,2020 - 2021 Güz Dönemi
+MAK 313,Isı Geçişi,Mustafa Özdemir,Pazartesi Çarşamba,0830/1029 0830/1029,,62,120,MAK MAKM,12506,2020 - 2021 Güz Dönemi
+MAK 313,Isı Geçişi,Lütfullah Kuddusi,Pazartesi Çarşamba,0830/1029 0830/1029,,94,120,MAK MAKM,12505,2020 - 2021 Güz Dönemi
+MAK 315,Mekanik Titreşimler,Vahit Mermertaş,Pazartesi,1430/1729,,59,60,IML MAK MAKM MKNM,12593,2020 - 2021 Güz Dönemi
+MAK 315,Mekanik Titreşimler,Özgür Turhan,Pazartesi,1430/1729,,60,60,IML MAK MAKM MKNM,12590,2020 - 2021 Güz Dönemi
+MAK 315,Mekanik Titreşimler,Haluk Erol,Pazartesi,1430/1729,,31,60,IML MAK MAKM MKNM,12589,2020 - 2021 Güz Dönemi
+MAK 315,Mekanik Titreşimler,Erdinç Altuğ,Pazartesi,1430/1729,,28,60,IML MAK MAKM MKNM,12588,2020 - 2021 Güz Dönemi
+MAK 315E,Mechanical Vibrations,Kenan Yüce Şanlıtürk,Pazartesi,1430/1729,,61,60,IML IMLE MAK MAKE MKNM,12594,2020 - 2021 Güz Dönemi
+MAK 324,Makina Teorisi,Sinem Öztürk,Perşembe,1330/1629,,100,120,MAK MAKM MKNM,15123,2020 - 2021 Güz Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Senem Kurşun Bahadır,Salı Cuma,1130/1329 0830/1029,,90,90,IML MAK MAKM,12599,2020 - 2021 Güz Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Kenan Refah Kutlu,Salı Cuma,1130/1329 0830/1029,,88,90,IML MAK MAKM,12598,2020 - 2021 Güz Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Hülya Yalçın,Salı Cuma,1130/1329 0830/1029,,48,90,IML MAK MAKM,12596,2020 - 2021 Güz Dönemi
+MAK 333E,System Dynamics and Control,Erdinç Altuğ,Salı Cuma,1130/1329 0830/1029,,49,60,IML IMLE MAK MAKE MAKM TEK TEKE,12603,2020 - 2021 Güz Dönemi
+MAK 339,Makina Elemanları I,--,Salı Perşembe,0830/1129 1030/1229,,0,0,MAK MAKM MKNM,12620,2020 - 2021 Güz Dönemi
+MAK 339,Makina Elemanları I,--,Salı Perşembe,0830/1129 1030/1229,,0,0,MAK MAKM MKNM,12619,2020 - 2021 Güz Dönemi
+MAK 339,Makina Elemanları I,"İbrahim Mehmet Palabıyık, Atakan Altınkaynak",Salı Perşembe,0830/1129 1030/1229,,57,60,MAK MAKM MKNM,12604,2020 - 2021 Güz Dönemi
+MAK 339,Makina Elemanları I,"Vedat Temiz, Zeynep Parlar",Salı Perşembe,0830/1129 1030/1229,,80,80,MAK MAKM MKNM,12618,2020 - 2021 Güz Dönemi
+MAK 342,Makina Elemanları II,Hikmet Kocabaş,Salı Perşembe,1030/1229 1030/1229,,40,80,MAK MAKM MKN,12622,2020 - 2021 Güz Dönemi
+MAK 342,Makina Elemanları II,Cemal Baykara,Salı Perşembe,0830/1029 1030/1229,,100,100,MAK MAKM MKN,12621,2020 - 2021 Güz Dönemi
+MAK 353,İmal Usulleri,"Şafak Yılmaz, Adnan Dikicioğlu",Perşembe Cuma,0830/1029 1030/1229,,75,80,MAK MAKM,12624,2020 - 2021 Güz Dönemi
+MAK 353,İmal Usulleri,"Murat Vural, Turgut Gülmez",Perşembe Cuma,0830/1029 1030/1229,,59,80,MAK MAKM,12623,2020 - 2021 Güz Dönemi
+MAK 360,Uygulamalı Termodinamik,Ersin Sayar,Pazartesi,1030/1329,,74,90,MAK,12625,2020 - 2021 Güz Dönemi
+MAK 370,Uygulamalı Isı Geçişi,Mustafa Özdemir,Pazartesi,1030/1329,,0,60,MAK,12626,2020 - 2021 Güz Dönemi
+MAK 390,Uygulamalı Isı Geçişi,Mustafa Özdemir,Pazartesi,1030/1329,,97,120,MAK,15122,2020 - 2021 Güz Dönemi
+MAK 4004,Komp. Malz. Mekaniğine Giriş,Süreyya Ergün Bozdağ,Perşembe,0830/1129,,56,80,MAK MKNM,12551,2020 - 2021 Güz Dönemi
+MAK 4005E,Mech.Model. in Nanoscale Sys.,Mesut Kırca,Cuma,1430/1729,,43,80,MAK MAKE,12547,2020 - 2021 Güz Dönemi
+MAK 4006E,Alternative Fuels for IC Eng.,"Osman Akın Kutlar, Alper Tolga Çalık",Çarşamba,0830/1129,,39,80,MAK MAKE,12645,2020 - 2021 Güz Dönemi
+MAK 4007E,Microsystem-MEMS Design,Levent Trabzon,Cuma,0830/1129,,16,50,IML IMLE MAK MAKE MKNM,12567,2020 - 2021 Güz Dönemi
+MAK 4009E,Elect.& Hybrid Elect. Vehicles,Osman Taha Şen,Perşembe,1430/1729,,62,80,MAK MAKE MAKM MKNM,12674,2020 - 2021 Güz Dönemi
+MAK 401,Makina Mühendisliği Lab. I,Adil Yücel,----,/,,150,200,MAK,12627,2020 - 2021 Güz Dönemi
+MAK 4018,İmalatta Kalite Kontrol,Ali Gökşenli,Çarşamba,0830/1129,,76,80,IML MAK,12650,2020 - 2021 Güz Dönemi
+MAK 4019,Plastik Mlz Konstr. ve İmalat,İbrahim Mehmet Palabıyık,Cuma,1430/1729,,19,50,IML MAK,12683,2020 - 2021 Güz Dönemi
+MAK 401E,Mechanical Engineering Lab. I,--,----,/,,0,200,MAKE,12628,2020 - 2021 Güz Dönemi
+MAK 402,Makina Mühendisliği Lab. II,Adil Yücel,----,/,,51,200,MAK,15153,2020 - 2021 Güz Dönemi
+MAK 4021,Talaşlı İmalat,"Mustafa Bakkal, Şükrü Doruk Merdol",Perşembe,1430/1729,,28,50,IML MAK MAKM,12680,2020 - 2021 Güz Dönemi
+MAK 4023,Transport Tekniği,Cevat Erdem İmrak,Cuma,0830/1129,,5,50,MAK,12568,2020 - 2021 Güz Dönemi
+MAK 4027E,Turbomachinery,Murat Çakan,Cuma,0830/1129,,90,120,MAK MAKE,12554,2020 - 2021 Güz Dönemi
+MAK 4029,İleri Akışkanlar Mekaniği,Levent Ali Kavurmacıoğlu,Perşembe,1430/1729,,18,50,MAK,12678,2020 - 2021 Güz Dönemi
+MAK 402E,Mechanical Engineering Lab. II,--,----,/,,0,200,MAKE,15154,2020 - 2021 Güz Dönemi
+MAK 403,Uygulamalı Makina Projesi,Zeynep Parlar,----,/,,5,60,MAK,12633,2020 - 2021 Güz Dönemi
+MAK 403,Uygulamalı Makina Projesi,Vedat Temiz,----,/,,59,60,MAK,12632,2020 - 2021 Güz Dönemi
+MAK 403,Uygulamalı Makina Projesi,İlker Murat Koç,----,/,,36,60,MAK,12631,2020 - 2021 Güz Dönemi
+MAK 4031E,Mass Transfer,İsmail Yalçın Uralcan,Perşembe,0830/1129,,7,50,MAK MAKE,15150,2020 - 2021 Güz Dönemi
+MAK 4032,Metallerin Plastik Şekillendrl,Canan Gamze Güleryüz Parasız,Cuma,1430/1729,,80,100,IML MAK,12548,2020 - 2021 Güz Dönemi
+MAK 4033E,Gas Dynamics,İlyas Bedii Özdemir,Perşembe,0830/1129,,28,50,MAK MAKE,12550,2020 - 2021 Güz Dönemi
+MAK 4034,Kaynaklı Tasarım ve İmalat,"Adnan Dikicioğlu, Murat Vural",Çarşamba,1230/1529,,49,80,IML MAK,15124,2020 - 2021 Güz Dönemi
+MAK 4038E,Power Plants,Ayşegül Abuşoğlu,Çarşamba,0830/1129,,13,50,MAK MAKE,12648,2020 - 2021 Güz Dönemi
+MAK 4039E,HVAC Fundamentals,--,Cuma,0830/1129,,0,50,MAK MAKE MAKM,15152,2020 - 2021 Güz Dönemi
+MAK 403E,Applied Machine Design,--,----,/,,0,60,MAKE,12634,2020 - 2021 Güz Dönemi
+MAK 4043,Yangın Dinamiği ve Güvenliği,"Mesut Gür, Nurdil Eskin",Perşembe,1430/1729,,56,80,MAK,12677,2020 - 2021 Güz Dönemi
+MAK 4047E,Dynamic Systms Modelling & Sim,İlker Murat Koç,Cuma,1430/1729,,54,80,MAK MAKE,12681,2020 - 2021 Güz Dönemi
+MAK 404E,Mechanical Engineering Lab.,Adil Yücel,----,/,,74,200,MAK,12635,2020 - 2021 Güz Dönemi
+MAK 405,Mak. Müh. Yenilikçi Tas. Yönt.,"Vedat Temiz, Zeynep Parlar, İbrahim Mehmet Palabıyık",Pazartesi,1430/1729,,91,100,IML MAK,12636,2020 - 2021 Güz Dönemi
+MAK 4051,Taşıtlarda Titreşim ve Gürültü,Osman Taha Şen,Cuma,1430/1729,,15,50,MAK MAKM,12675,2020 - 2021 Güz Dönemi
+MAK 4053E,Vehicle Technology,Özgen Akalın,Perşembe,0830/1129,,43,80,MAK MAKE MKNM,12549,2020 - 2021 Güz Dönemi
+MAK 4055E,Fuel Economy in Road Vehicles,"Osman Akın Kutlar, Hikmet Arslan",Cuma,0830/1129,,51,80,MAK MAKE,12553,2020 - 2021 Güz Dönemi
+MAK 4056,Kontrol Sistemleri Tasarımı,Zeki Yağız Bayraktaroğlu,Çarşamba,0830/1129,,21,50,IML MAK MAKM MKN,12647,2020 - 2021 Güz Dönemi
+MAK 4058,Taşıtlarda Aktarma Organları,Osman Taha Şen,Çarşamba,0830/1129,,0,50,MAK,12646,2020 - 2021 Güz Dönemi
+MAK 4058E,Power Transmission in Vehicles,Osman Taha Şen,Çarşamba,0830/1129,,13,50,MAK MAKE,15121,2020 - 2021 Güz Dönemi
+MAK 4067E,Renewable Energy Systems,Seyhan Onbaşıoğlu,Perşembe,0830/1129,,17,50,MAK MAKE MKNM,12552,2020 - 2021 Güz Dönemi
+MAK 4071E,Introduction to Robotics,Zeki Yağız Bayraktaroğlu,Perşembe,1430/1729,,33,50,IML IMLE MAK MAKE MKN,12676,2020 - 2021 Güz Dönemi
+MAK 4078,Makina Konstrüksiyonları Esas.,Zeynep Parlar,Perşembe,1430/1729,,23,50,MAK,12679,2020 - 2021 Güz Dönemi
+MAK 411E,Experimtl Mth.in Mechanicl Eng,Adil Yücel,Pazartesi,1330/1629,,1,10,MAK MAKE,15566,2020 - 2021 Güz Dönemi
+MAK 481,Proje Tasarım Esasları,Hacı Abdullah Taşdemir,Pazartesi,1630/1729,,1,10,MAK,15567,2020 - 2021 Güz Dönemi
+MAK 4901,Makina Müh. Tasarımı I,Adil Yücel,----,/,,87,500,MAK,12641,2020 - 2021 Güz Dönemi
+MAK 4901E,Mechanical Eng. Design I,Adil Yücel,----,/,,3,500,MAK,12642,2020 - 2021 Güz Dönemi
+MAK 492,Bitirme Tasarım Projesi,Adil Yücel,----,/,,96,500,MAK,12637,2020 - 2021 Güz Dönemi
+MAK 492E,Senior Design Project,Adil Yücel,----,/,,10,500,MAK MAKE,12638,2020 - 2021 Güz Dönemi

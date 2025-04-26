@@ -1,0 +1,41 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KON 110E,Intr. to Prog. Language (C),Ali Bahadır,Çarşamba Çarşamba,0830/0929 0930/1129,KMB KMB,38,40,KOM KOME,25339,2019 - 2020 Bahar Dönemi
+KON 110E,Intr. to Prog. Language (C),Emre Dincel,Çarşamba Çarşamba,0830/0929 1030/1229,EEB EEB,34,40,KOM KOME,25322,2019 - 2020 Bahar Dönemi
+KON 110E,Intr. to Prog. Language (C),Sıddık Murat Yeşiloğlu,Çarşamba Çarşamba,0830/0929 1030/1229,EEB EEB,40,40,KOM KOME,21150,2019 - 2020 Bahar Dönemi
+KON 214,Sistem Modelleme ve Simülasyon,Hakan Temeltaş,Pazartesi,1230/1529,EEB,80,80,KOM,20961,2019 - 2020 Bahar Dönemi
+KON 214E,System Modelling&Simulation,Hakan Temeltaş,Cuma,0830/1129,EEB,32,30,KOM KOME,21154,2019 - 2020 Bahar Dönemi
+KON 218,Ölçme Tekniği ve Algılayıcılar,Serhat İkizoğlu,Cuma,0830/1229,EEB,59,60,KOM MKN,21086,2019 - 2020 Bahar Dönemi
+KON 218,Ölçme Tekniği ve Algılayıcılar,Yücel Aydın,Cuma,0830/1229,EEB,61,60,KOM MKN,21084,2019 - 2020 Bahar Dönemi
+KON 218E,Measurement and Sensors,Serhat İkizoğlu,Perşembe,0830/1229,EEB,41,40,KOM KOME,21087,2019 - 2020 Bahar Dönemi
+KON 224,Ölçme ve Enstrümantasyon,Yücel Aydın,Salı,0830/1129,EEB,25,60,EHB ELE ELH ELK TEL,21085,2019 - 2020 Bahar Dönemi
+KON 224E,Measurement&Instrumentation,Serhat İkizoğlu,Salı,0830/1129,EEB,12,60,EHB EHBE ELK ELKE,21089,2019 - 2020 Bahar Dönemi
+KON 305E,Programming Techniq.in Control,Emre Dincel,Perşembe,0830/1229,EEB,30,30,KOM KOME,22415,2019 - 2020 Bahar Dönemi
+KON 306,Bilgisayar Kontrollü Sistemler,Afife Leyla Gören,Çarşamba,1230/1529,EEB,89,80,KOM,20964,2019 - 2020 Bahar Dönemi
+KON 306E,Computer Controlled Systems,Yaprak Yalçın,Çarşamba,1230/1529,EEB,15,40,KOM KOME,20986,2019 - 2020 Bahar Dönemi
+KON 313E,Feedback Control Systems,Tufan Kumbasar,Pazartesi,1230/1529,EEB,23,80,KOM KOME,20969,2019 - 2020 Bahar Dönemi
+KON 314,Kontrol Sistem Tasarımı,"Mehmet Turan Söylemez, İlker Üstoğlu",Pazartesi Perşembe,1230/1429 1530/1729,EEB EEB,81,80,KOM,20970,2019 - 2020 Bahar Dönemi
+KON 314E,Control System Design,--,Çarşamba Çarşamba,0830/1029 1030/1229,EEB EEB,0,0,KOM KOME,20972,2019 - 2020 Bahar Dönemi
+KON 317,Otomatik Kontrol Sistemleri,Sıddık Murat Yeşiloğlu,Cuma,0830/1129,EEB,80,80,EHB ELE ELH ELK TEL,20981,2019 - 2020 Bahar Dönemi
+KON 317,Otomatik Kontrol Sistemleri,İlker Üstoğlu,Cuma,0830/1129,EEB,81,80,EHB ELE ELH ELK TEL,20982,2019 - 2020 Bahar Dönemi
+KON 317E,Control Systems,Tufan Kumbasar,Cuma,0830/1129,EEB,84,80,EHB EHBE ELK ELKE,20983,2019 - 2020 Bahar Dönemi
+KON 322,Endüstriyel Kumanda Sistemleri,Salman Kurtulan,Salı,1230/1529,EEB,107,80,ELK KOM,20984,2019 - 2020 Bahar Dönemi
+KON 322E,Industrial Automated Systems,Yaprak Yalçın,Pazartesi,1230/1529,EEB,13,40,ELK ELKE KOM KOME,20987,2019 - 2020 Bahar Dönemi
+KON 324E,Sensors &Transducers in Cntrl,Ali Fuat Ergenç,Perşembe,1230/1529,EEB,25,80,KOM KOME,20985,2019 - 2020 Bahar Dönemi
+KON 407E,State Space Meth.in Contr.Syst,Fikret Çalışkan,Salı,0830/1129,EEB,33,30,KOM KOME,21167,2019 - 2020 Bahar Dönemi
+KON 409,Bitirme Tasarım Prj. Giriş,Hakan Temeltaş,Cuma,1400/1559,EEB,13,40,KOM,21170,2019 - 2020 Bahar Dönemi
+KON 409E,Int. to Senior Design Project,--,Perşembe,1230/1429,EEB,0,0,KOM KOME,21172,2019 - 2020 Bahar Dönemi
+KON 417,Servo Motorlar,Metin Gökaşan,Çarşamba,0830/1129,EEB,52,80,KOM MKN,20988,2019 - 2020 Bahar Dönemi
+KON 417E,Servo Motors,Volkan Sezer,Perşembe,0830/1129,EEB,33,40,KOM KOME,21176,2019 - 2020 Bahar Dönemi
+KON 421,Robot Kontrolü,Sıddık Murat Yeşiloğlu,Perşembe,0830/1129,EEB,33,50,KOM,21180,2019 - 2020 Bahar Dönemi
+KON 421E,Robot Control,--,Perşembe,0830/1129,EEB,0,0,KOM KOME,21214,2019 - 2020 Bahar Dönemi
+KON 424E,Mod.&Cntrl of Biological Sys.,Ali Fuat Ergenç,Çarşamba,0830/1129,EEB,40,50,EHB EHBE KOM KOME,21217,2019 - 2020 Bahar Dönemi
+KON 426E,Intelligent Control Systems,Gülay Öke Günel,Pazartesi,1230/1529,EEB,42,50,KOM KOME,21223,2019 - 2020 Bahar Dönemi
+KON 428,Optimal Kontrole Giriş,Müjde Güzelkaya,Pazartesi,0830/1129,EEB,63,50,KOM,21228,2019 - 2020 Bahar Dönemi
+KON 428E,Intr. to Optimal Control,İbrahim Eksin,Pazartesi,0830/1129,EEB,5,50,KOME,21233,2019 - 2020 Bahar Dönemi
+KON 436E,Int.to Nonlinear Control Syst.,Sıddık Murat Yeşiloğlu,Perşembe,1230/1529,EEB,31,50,KOM KOME,21238,2019 - 2020 Bahar Dönemi
+KON 4901,Kontrol&Otom. Müh.Tasarımı I,--,----,/,EEB,0,0,KOM,23688,2019 - 2020 Bahar Dönemi
+KON 4901E,Contr.&Automation Eng.Design I,--,----,/,EEB,0,0,KOM KOME,23689,2019 - 2020 Bahar Dönemi
+KON 4902,Kontrol&Otom. Müh.Tasarımı II,--,----,/,EEB,0,0,KOM,23690,2019 - 2020 Bahar Dönemi
+KON 4902E,Contr.&Automation Eng.DesignII,--,----,/,EEB,0,0,KOM KOME,23691,2019 - 2020 Bahar Dönemi
+KON 492,Bitirme Tasarım Projesi,Hakan Temeltaş,----,/,---,34,500,KOM,21242,2019 - 2020 Bahar Dönemi
+KON 492E,Senior Design Project,Hakan Temeltaş,----,/,---,23,500,KOM KOME,21251,2019 - 2020 Bahar Dönemi

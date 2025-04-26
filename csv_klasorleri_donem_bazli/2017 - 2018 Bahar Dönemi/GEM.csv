@@ -1,0 +1,29 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEM 112,Bilgisayar Destek.Teknik Resim,Reyhan Özsoysal,Çarşamba Perşembe,0930/1229 0930/1129,GDB GDB,33,40,GEM,21733,2017 - 2018 Bahar Dönemi
+GEM 212,Imal Usulleri,Ali Gökşenli,Perşembe,1030/1229,GDB,45,45,GEM,21747,2017 - 2018 Bahar Dönemi
+GEM 212E,Manufacturing Processes,Ali Gökşenli,Perşembe,0830/1029,GDB,6,30,GEM GEME GEMK,21748,2017 - 2018 Bahar Dönemi
+GEM 214E,Engineering Measurements,Emin Korkut,Pazartesi,1330/1629,GDB,33,32,GEM GEME GEMK,21734,2017 - 2018 Bahar Dönemi
+GEM 216E,Heat Transfer In Engineering,Selma Ergin,Pazartesi,1330/1629,GDB,22,32,GEM GEME GEMK,21737,2017 - 2018 Bahar Dönemi
+GEM 218E,Structural Dynamics,--,Pazartesi,1330/1629,GDB,0,0,GEM GEME,21738,2017 - 2018 Bahar Dönemi
+GEM 222,Gemi Yapı Elemanları,Yalçın Ünsan,Pazartesi Cuma,1030/1229 1030/1229,GDB GDB,50,55,GEM GEMM,21739,2017 - 2018 Bahar Dönemi
+GEM 222E,Ship Construction,Gökhan Tansel Tayyar,Çarşamba Cuma,0830/1029 1030/1229,GDB GDB,5,30,GEME GEMK,21741,2017 - 2018 Bahar Dönemi
+GEM 312E,Marine Auxiliary Machinery,Osman Azmi Özsoysal,Perşembe,1330/1629,GDB,67,70,GEM GEME GEMK,21755,2017 - 2018 Bahar Dönemi
+GEM 314E,Methods Of Ship Production,"Şebnem Helvacıoğlu, Fuzuli Ağrı Akçay",Salı,1330/1629,GDB,65,64,GEM GEME GEMK,21751,2017 - 2018 Bahar Dönemi
+GEM 322,Gemi Mukavemeti,Ertekin Bayraktarkatal,Pazartesi Çarşamba,1030/1229 1330/1529,GDB GDB,31,45,GEM GEMM,21749,2017 - 2018 Bahar Dönemi
+GEM 322E,Strength of Ships,Gökhan Tansel Tayyar,Çarşamba Cuma,1330/1529 0830/1029,GDB GDB,9,30,GEME GEMK,21750,2017 - 2018 Bahar Dönemi
+GEM 332,Gemi Elektrik Sistemleri,Yalçın Ünsan,Perşembe,1030/1229,GDB,51,60,GEM,21753,2017 - 2018 Bahar Dönemi
+GEM 332E,Electrical Systems in Ships,Duygu Bayram,Perşembe,1030/1229,GDB,9,30,GEME GEMK,21191,2017 - 2018 Bahar Dönemi
+GEM 342E,Ship Design,Şebnem Helvacıoğlu,Salı Çarşamba,0930/1129 1030/1129,GDB GDB,61,60,GEM GEME GEMK GEMM,21752,2017 - 2018 Bahar Dönemi
+GEM 353,Gem.İnş.&Gem.San.;İş..,Barış Barlas,Cuma,0930/1229,GDB,4,20,GEM,21756,2017 - 2018 Bahar Dönemi
+GEM 412E,Shipyard Organization,Erdem Üçer,Pazartesi,1330/1529,GDB,70,70,GEM GEME GEMK,21757,2017 - 2018 Bahar Dönemi
+GEM 412E,Shipyard Organization,İsmail Hakkı Helvacıoğlu,Pazartesi,1330/1529,GDB,45,50,DEN DENE,21683,2017 - 2018 Bahar Dönemi
+GEM 416,Savaş Gemileri Dizaynı,Mehmet Ali Baykal,Cuma,1030/1229,GDB,20,25,GEM,21766,2017 - 2018 Bahar Dönemi
+GEM 418E,Corrsn & Fouling In Marine Env,Metin Taylan,Pazartesi,1530/1729,GDB,33,27,GEM GEME GEMK GEMM,21759,2017 - 2018 Bahar Dönemi
+GEM 422,Gemi Tasarım Projesi II,"Ömer Gören, Ahmet Ergin, Barış Barlas, Devrim Bülent Danışman, Ertekin Bayraktarkatal, Osman Azmi Özsoysal, Selma Ergin, Uğur Oral Ünal, Yalçın Ünsan, İsmail Yalçın",Çarşamba,1030/1229,GDB,35,60,GEM,21761,2017 - 2018 Bahar Dönemi
+GEM 422E,Ship Design Project II,Emin Korkut,Çarşamba,1030/1229,GDB,14,40,GEME GEMK,21762,2017 - 2018 Bahar Dönemi
+GEM 424E,Reliability Of Ship Structures,Ahmet Ergin,Pazartesi,1530/1729,GDB,9,20,GEM GEME GEMK GEMM,21758,2017 - 2018 Bahar Dönemi
+GEM 426,Gemilerin Hidrodinamik Dizaynı,Ömer Gören,Cuma,1030/1229,GDB,11,20,GEM,21764,2017 - 2018 Bahar Dönemi
+GEM 426E,Hydrodynamic Design of Ships,Devrim Bülent Danışman,Çarşamba,0830/1029,GDB,18,20,GEM GEME GEMK,21760,2017 - 2018 Bahar Dönemi
+GEM 438E,Stability of Ships,Metin Taylan,Çarşamba,0830/1029,GDB,28,25,GEM GEME GEMK,21763,2017 - 2018 Bahar Dönemi
+GEM 492,Bitirme Tasarım Projesi,Emin Korkut,----,/,GDB,37,100,GEM,21770,2017 - 2018 Bahar Dönemi
+GEM 492E,Graduation Design Project,Emin Korkut,----,/,GDB,21,30,GEM GEME GEMK,21772,2017 - 2018 Bahar Dönemi

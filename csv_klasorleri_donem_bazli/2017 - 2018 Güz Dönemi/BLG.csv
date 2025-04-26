@@ -1,0 +1,49 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BLG 111E,Intr. to Computer Engineering,Uluğ Bayazıt,Çarşamba,1030/1129,EEB,92,100,BLG BLGE,14841,2017 - 2018 Güz Dönemi
+BLG 113E,Intr.toComp.Eng.and Ethics,Sema Fatma Oktuğ,Çarşamba,1030/1229,MED,98,100,BLG BLGE,14700,2017 - 2018 Güz Dönemi
+BLG 212,Mikroişlemci Sistemleri,Tamer Ölmez,Perşembe,1330/1629,EEB,28,30,EHB ELE ELK TEL,13780,2017 - 2018 Güz Dönemi
+BLG 212,Mikroişlemci Sistemleri,Yaşar Erenler,Salı,1330/1629,EEB,30,66,EHB ELE ELK TEL,13310,2017 - 2018 Güz Dönemi
+BLG 212E,Microprocessor Systems,Ali Bahadır,Perşembe,1330/1629,EEB,35,30,EHB EHBE ELE ELH ELK ELKE KOM KOME,13781,2017 - 2018 Güz Dönemi
+BLG 212E,Microprocessor Systems,Yaşar Erenler,Perşembe,1330/1629,EEB,33,66,EHB EHBE ELE ELK ELKE,13311,2017 - 2018 Güz Dönemi
+BLG 212E,Microprocessor Systems,Mehmet Tahir Sandıkkaya,Pazartesi,0930/1229,EEB,58,60,BLG BLGE,13313,2017 - 2018 Güz Dönemi
+BLG 212E,Microprocessor Systems,Gökhan İnce,Pazartesi,0930/1229,EEB,63,60,BLG BLGE,13312,2017 - 2018 Güz Dönemi
+BLG 231,Sayısal Devreler,Yücel Aydın,Cuma,0930/1229,EEB,60,50,EHB ELE ELH ELK KOM MKN TEL,10641,2017 - 2018 Güz Dönemi
+BLG 231,Sayısal Devreler,Ece Olcay Güneş,Salı,1330/1629,EEB,46,45,EHB ELE ELH ELK KOM MKN TEL,13782,2017 - 2018 Güz Dönemi
+BLG 231,Sayısal Devreler,Serhat İkizoğlu,Salı,1330/1629,EEB,59,50,EHB ELE ELH ELK KOM MKN TEL,10642,2017 - 2018 Güz Dönemi
+BLG 231E,Digital Circuits,Mustafa Altun,Cuma,0930/1229,EEB,69,75,EHB EHBE ELE ELH ELK ELKE KOM KOME MKN TEL,13783,2017 - 2018 Güz Dönemi
+BLG 231E,Digital Circuits,Feza Buzluca,Cuma,0930/1229,EEB,79,75,BLG BLGE,13316,2017 - 2018 Güz Dönemi
+BLG 231E,Digital Circuits,Mustafa Ersel Kamaşak,Cuma,0930/1229,EEB,80,75,BLG BLGE,13315,2017 - 2018 Güz Dönemi
+BLG 231E,Digital Circuits,Sanem Kabadayı,Cuma,0930/1229,EEB,75,75,BLG BLGE,13314,2017 - 2018 Güz Dönemi
+BLG 231E,Digital Circuits,Osman Kaan Erol,Salı,1330/1629,EEB,54,75,EHB EHBE ELE ELH ELK ELKE KOM KOME MKN TEL,10643,2017 - 2018 Güz Dönemi
+BLG 233E,Data Structures and Laboratory,Hatice Köse,Salı Perşembe,0930/1229 0930/1229,EEB EEB,74,94,BLG BLGE,13318,2017 - 2018 Güz Dönemi
+BLG 233E,Data Structures and Laboratory,Gülşen Eryiğit,Salı Perşembe,0930/1229 0930/1229,KMB UUB,66,64,BLG BLGE,13317,2017 - 2018 Güz Dönemi
+BLG 252E,Object Oriented Programming,Yaşar Erenler,Pazartesi,0830/1129,KMB,41,66,EHB EHBE KOM KOME TEL,13319,2017 - 2018 Güz Dönemi
+BLG 252E,Object Oriented Programming,Serkan Türkeli,Pazartesi,0830/1129,EEB,42,40,EHB EHBE KOM KOME TEL,10644,2017 - 2018 Güz Dönemi
+BLG 331,Gerçek Zaman Sistemleri,Deniz Turgay Altılar,Perşembe,1330/1629,EEB,5,2,BLG,13320,2017 - 2018 Güz Dönemi
+BLG 335E,Analysis of Algorithms I,Zehra Çataltepe,Çarşamba,1230/1529,EEB,109,100,BLG BLGE,13322,2017 - 2018 Güz Dönemi
+BLG 335E,Analysis of Algorithms I,Hazım Kemal Ekenel,Salı,0930/1229,EEB,109,100,BLG BLGE,13321,2017 - 2018 Güz Dönemi
+BLG 337E,Principles of Computer Comm.,Berk Canberk,Salı,1330/1629,KMB,58,50,BLG BLGE,13323,2017 - 2018 Güz Dönemi
+BLG 351E,Microcomputer Lab.,Gökhan İnce,Cuma,1530/1729,EEB,48,50,BLG BLGE,13324,2017 - 2018 Güz Dönemi
+BLG 351E,Microcomputer Lab.,Mehmet Tahir Sandıkkaya,Perşembe,1330/1529,EEB,45,50,BLG BLGE,13325,2017 - 2018 Güz Dönemi
+BLG 351E,Microcomputer Lab.,Yusuf Yaslan,Pazartesi,1330/1529,EEB,53,50,BLG BLGE,13326,2017 - 2018 Güz Dönemi
+BLG 361,Veritabanı Yönetim Sistemleri,Şule Öğüdücü,Çarşamba,0930/1229,EEB,106,100,BLG,13328,2017 - 2018 Güz Dönemi
+BLG 361E,Database Management Systems,Hayri Turgut Uyar,Çarşamba,0930/1229,EEB,98,90,BLG BLGE,13327,2017 - 2018 Güz Dönemi
+BLG 368E,Operations Research,Serkan Türkeli,Salı,0930/1229,EEB,29,40,EHB EHBE KOM KOME,10645,2017 - 2018 Güz Dönemi
+BLG 411E,Software Engineering,Ayşe Tosun,Salı,1330/1629,EEB,73,75,BLG BLGE,13330,2017 - 2018 Güz Dönemi
+BLG 411E,Software Engineering,Ahmet Cüneyd Tantuğ,Salı,1330/1629,EEB,75,75,BLG BLGE,13329,2017 - 2018 Güz Dönemi
+BLG 413E,System Programming,Hayri Turgut Uyar,Salı,0930/1229,EEB,78,80,BLG BLGE,13332,2017 - 2018 Güz Dönemi
+BLG 413E,System Programming,Ayşe Şima Uyar,Salı,0930/1229,EEB,63,80,BLG BLGE,13331,2017 - 2018 Güz Dönemi
+BLG 433E,Computer Communications,Sema Fatma Oktuğ,Cuma,0930/1129,EEB,41,55,BLG BLGE,13333,2017 - 2018 Güz Dönemi
+BLG 435E,Artificial Intelligence,Sanem Sarıel,Çarşamba,1330/1529,EEB,55,45,BLG BLGE,13334,2017 - 2018 Güz Dönemi
+BLG 438E,Digital Signal Processing Lab.,Mehmet Tahir Sandıkkaya,Cuma,0930/1229,EEB,21,25,BLG BLGE,13337,2017 - 2018 Güz Dönemi
+BLG 439E,Computer Project I,"Mustafa Ersel Kamaşak, Deniz Turgay Altılar, Mehmet Tahir Sandıkkaya",Pazartesi,1330/1629,EEB,63,55,BLG BLGE,13338,2017 - 2018 Güz Dönemi
+BLG 441,Say.İşaret İşl.ile Ger.Zam.S.T,--,Pazartesi,1330/1629,EEB,0,0,EHB ELE ELH,13784,2017 - 2018 Güz Dönemi
+BLG 447,Derleyici Tasarımı,Takuhi Nadia Erdoğan,Çarşamba,0930/1129,EEB,43,55,BLG,13339,2017 - 2018 Güz Dönemi
+BLG 448E,Project Management in Eng.,İrem Uçal Sarı,Perşembe,0930/1229,EEB,60,60,BLG BLGE,13340,2017 - 2018 Güz Dönemi
+BLG 450E,Real-Time Systems Software,Deniz Turgay Altılar,Pazartesi,1130/1329,EEB,31,55,BLG BLGE,13341,2017 - 2018 Güz Dönemi
+BLG 453E,Computer Vision,Gözde Ünal,Pazartesi,0930/1129,EEB,48,40,BLG BLGE,14121,2017 - 2018 Güz Dönemi
+BLG 456E,Robotics,Damien Jade Duff,Perşembe,1330/1529,EEB,60,45,BLG BLGE,13343,2017 - 2018 Güz Dönemi
+BLG 459E,Computer Security,Şerif Bahtiyar,Çarşamba,0930/1129,EEB,39,55,BLG BLGE,15513,2017 - 2018 Güz Dönemi
+BLG 475E,Software Quality and Testing,Ayşe Tosun,Pazartesi,0930/1129,EEB,51,45,BLG BLGE,13345,2017 - 2018 Güz Dönemi
+BLG 492,Bitirme Çalışması,Uluğ Bayazıt,----,/,EEB,25,500,BLG,13346,2017 - 2018 Güz Dönemi
+BLG 492E,Graduation Project,Uluğ Bayazıt,----,/,EEB,26,500,BLG BLGE,13347,2017 - 2018 Güz Dönemi

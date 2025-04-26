@@ -1,0 +1,60 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+END 113,Endüstri Müh. Giriş ve Etik,Seçkin Polat,Çarşamba,1030/1229,INB / A305,23,70,END,11941,2023 - 2024 Güz Dönemi
+END 113,Endüstri Müh. Giriş ve Etik,Seçkin Polat,Çarşamba,1330/1529,MED / A35,90,90,END,11942,2023 - 2024 Güz Dönemi
+END 113E,Int.to Industrial Eng.& Ethics,"Şeyda Serdar Asan, Murat Durucu",Çarşamba,1330/1529,MED / A13,131,140,"ENDE, IND",11943,2023 - 2024 Güz Dönemi
+END 210,End. Müh.için Doğrusal Cebir,Cafer Erhan Bozdağ,Pazartesi,0830/1129,INB / B308,28,50,END,11944,2023 - 2024 Güz Dönemi
+END 210,End. Müh.için Doğrusal Cebir,Cafer Erhan Bozdağ,Pazartesi,1130/1429,INB / A304,68,65,END,11945,2023 - 2024 Güz Dönemi
+END 210E,Linear Algebra for Indust.Eng.,Erkan Işıklı,Pazartesi,1330/1629,MDB / B208,80,80,"ENDE, IND",11946,2023 - 2024 Güz Dönemi
+END 213E,Data Manag.in Industrial Syst.,Başar Öztayşi,Pazartesi,1430/1729,---- / ----,117,155,"END, ENDE, IND, ISL, ISLE",11951,2023 - 2024 Güz Dönemi
+END 213E,Data Manag.in Industrial Syst.,Hatice Tekiner Moğulkoç,Cuma,0930/1229,---- / ----,148,150,"END, ENDE, IND, ISL, ISLE",11955,2023 - 2024 Güz Dönemi
+END 215,Sistem Düşüncesi ve Analizi,Çiğdem Kadaifçi,Salı,0930/1129,EEB / 1301,82,85,END,11948,2023 - 2024 Güz Dönemi
+END 215,Sistem Düşüncesi ve Analizi,Çiğdem Kadaifçi,Cuma,1030/1229,MED / A16,46,75,END,11949,2023 - 2024 Güz Dönemi
+END 215E,System Thinking and Analysis,Çiğdem Kadaifçi,Salı,1230/1429,EEB / 5302,109,110,"ENDE, IND",11950,2023 - 2024 Güz Dönemi
+END 252E,Theory of Probability,Kutay Tinç,Perşembe,1130/1429,MDB / A103,110,110,"END, ENDE, IND",11957,2023 - 2024 Güz Dönemi
+END 252E,Theory of Probability,Kutay Tinç,Perşembe,1430/1729,MDB / A102,55,100,"END, ENDE, IND",11958,2023 - 2024 Güz Dönemi
+END 305E,Data Analytics for Business,Nizamettin Bayyurt,Perşembe,1130/1429,---- / ----,99,110,"ECNE, END, ENDE",11962,2023 - 2024 Güz Dönemi
+END 305E,Data Analytics for Business,"Mehmet Yasin Ulukuş, Mehmet Ali Ergün",Perşembe,1130/1429,---- / ----,110,110,"END, ENDE",11963,2023 - 2024 Güz Dönemi
+END 311E,Statistics,"Çiğdem Kadaifçi, Erkan Işıklı",Cuma,1400/1659,MED / A15,64,55,"END, ENDE",11965,2023 - 2024 Güz Dönemi
+END 319E,Cost Management,Vehbi Tufan Koç,Perşembe,1130/1429,INB / D202,50,50,"END, ENDE",11966,2023 - 2024 Güz Dönemi
+END 327E,Decision Theory,Burhaneddin Sandıkçı,Çarşamba,0930/1229,MED / B34,38,50,"ECNE, END, ENDE",11968,2023 - 2024 Güz Dönemi
+END 329E,Quality Management Tools&Tech.,Şeyda Serdar Asan,Salı,1130/1429,MED / B36,47,50,"END, ENDE, FIZ, FIZE",11969,2023 - 2024 Güz Dönemi
+END 332E,Operations Research II,Özgür Kabak,Pazartesi,1430/1729,MED / A31,150,160,"END, ENDE",11971,2023 - 2024 Güz Dönemi
+END 337E,Intr. to Operations Research,İrem Uçal Sarı,Cuma,0930/1229,MED / A33,44,40,"IMLE, MAT, MATE, PET",11972,2023 - 2024 Güz Dönemi
+END 341,İş Etüdü ve Dizaynı,Ayşe Elvan Bayraktaroğlu,Çarşamba,1230/1529,INB / B101,119,120,END,11974,2023 - 2024 Güz Dönemi
+END 341E,Work Analysis and Design,Fethi Çalışır,Salı,0830/1129,MED / A13,116,115,"END, ENDE",11975,2023 - 2024 Güz Dönemi
+END 345,Yönetim Düşüncesinin Evrimi,Cahit Ali Bayraktar,Çarşamba,1230/1529,MED / B33,41,50,END,11977,2023 - 2024 Güz Dönemi
+END 357E,Management Information Systems,Ufuk Cebeci,Salı,1130/1429,MED / B33,54,55,"END, ENDE",11978,2023 - 2024 Güz Dönemi
+END 365E,People Analytics,Hasan Karabakkal,Salı,1430/1729,MED / B31,36,36,"END, ENDE",11979,2023 - 2024 Güz Dönemi
+END 369E,Game Theory,Kutay Tinç,Cuma,1400/1659,MED / A34,93,110,"END, ENDE",11981,2023 - 2024 Güz Dönemi
+END 381E,Tech.Design for IndusT. Eng.,Murat Durucu,Pazartesi,0830/1129,FEB / OBL1,17,50,"END, ENDE",11982,2023 - 2024 Güz Dönemi
+END 411,Bütünleşik Üretim Sistemleri,Şule Itır Satoğlu,Perşembe,1430/1629,MED / A16,122,130,END,12223,2023 - 2024 Güz Dönemi
+END 411E,Integrated Manufacturing Syst,Emre Çevikcan,Pazartesi,0830/1029,GDB / 409,110,110,"END, ENDE",11985,2023 - 2024 Güz Dönemi
+END 421E,Production Planning&Control,Şule Itır Satoğlu,Salı,1430/1729,UUB / D216,92,90,"END, ENDE",11986,2023 - 2024 Güz Dönemi
+END 421E,Production Planning&Control,Emine Yaylalı,Salı,1430/1729,INB / A205,83,100,"END, ENDE, KOM, KOME",11987,2023 - 2024 Güz Dönemi
+END 429,Süreç Yönetimi,Cemil Ceylan,Salı,1430/1729,MED / B36,46,50,END,11989,2023 - 2024 Güz Dönemi
+END 431,Yönetim ve Organizasyon,Seçkin Polat,Salı,1130/1429,INB / B104,71,70,END,11990,2023 - 2024 Güz Dönemi
+END 431,Yönetim ve Organizasyon,Cahit Ali Bayraktar,Çarşamba,0830/1129,INB / B103,80,80,END,11991,2023 - 2024 Güz Dönemi
+END 431E,Management and Organization,Gaye Karaçay Aydın,Perşembe,0830/1129,MED / A36,73,100,"END, ENDE",11993,2023 - 2024 Güz Dönemi
+END 441,Endüstri Mühendisliği Projesi,Burhaneddin Sandıkçı,"Pazartesi
+Salı","1930/2029
+1930/2029","MED
+MED / ---
+---",0,20,END,11994,2023 - 2024 Güz Dönemi
+END 441E,Industrial Engineering Project,--,"Çarşamba
+Perşembe","1930/2029
+1930/2029","MED
+MED / ---
+---",0,0,"END, ENDE",11996,2023 - 2024 Güz Dönemi
+END 445E,Lean Production Systems,Ufuk Cebeci,Perşembe,1430/1729,MDB / A205,63,65,"END, ENDE, IML, IMLE, KOM, KOME",11997,2023 - 2024 Güz Dönemi
+END 449,End. Müh. Uyg. Seminer Dersi,Ayberk Soyer,Cuma,0930/1229,---- / ----,222,250,"END, ENDE",12001,2023 - 2024 Güz Dönemi
+END 453E,Indus.4.0 & Digital Transform.,"Alp Üstündağ, Ali Fuat Ergenç",Çarşamba,0900/1159,EEB / 4101,50,50,"END, ENDE, ISL, ISLE, KOM, KOME",12002,2023 - 2024 Güz Dönemi
+END 457E,Heuristic Optimization,Seda Yanık,Salı,0830/1129,MED / B34,17,50,"END, ENDE",12003,2023 - 2024 Güz Dönemi
+END 471E,Marketing & CRM Analytics,Umut Asan,Cuma,0830/1129,MED / B37,50,50,"END, ENDE",12004,2023 - 2024 Güz Dönemi
+END 475E,Feasibility Studies,İrem Uçal Sarı,Cuma,1400/1659,MED / A16,37,55,"END, ENDE",12005,2023 - 2024 Güz Dönemi
+END 476E,Machine Learning for Ind. Sys.,Ömer Faruk Beyca,Perşembe,1430/1729,INB / D203,64,65,"ECNE, END, ENDE",12006,2023 - 2024 Güz Dönemi
+END 4901,Endüstri Müh. Tasarımı I,Burhaneddin Sandıkçı,----,/,MED / ---,41,500,END,12009,2023 - 2024 Güz Dönemi
+END 4901E,Industrial Engin. Design I,Burhaneddin Sandıkçı,----,/,MED / ---,88,500,"END, ENDE",12010,2023 - 2024 Güz Dönemi
+END 4902,Endüstri Müh. Tasarımı II,Burhaneddin Sandıkçı,----,/,MED / ---,22,500,END,12011,2023 - 2024 Güz Dönemi
+END 4902E,Industrial Engin. Design II,Burhaneddin Sandıkçı,----,/,MED / ---,21,500,"END, ENDE",12012,2023 - 2024 Güz Dönemi
+END 492,Bitirme Çalışması,Burhaneddin Sandıkçı,----,/,MED / ---,4,200,END,12007,2023 - 2024 Güz Dönemi
+END 492E,Graduation Thesis,Burhaneddin Sandıkçı,----,/,MED / ---,0,200,"END, ENDE",12008,2023 - 2024 Güz Dönemi

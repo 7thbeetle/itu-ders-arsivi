@@ -1,0 +1,45 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BLG 101E,Intr. to Information Systems,Hayri Turgut Uyar,Pazartesi Pazartesi,0830/1029 1030/1129,EEB INB,112,111,BLG BLGE YZVE,11437,2021 - 2022 Güz Dönemi
+BLG 101E,Intr. to Information Systems,Mehmet Tahir Sandıkkaya,Pazartesi Pazartesi,0830/1029 1030/1129,EEB EEB,122,121,BLG BLGE YZVE,11435,2021 - 2022 Güz Dönemi
+BLG 113E,Intr.toComp.Eng.and Ethics,"Sema Fatma Oktuğ, Gökhan İnce",Çarşamba,1330/1529,MED,178,200,BLG BLGE,11442,2021 - 2022 Güz Dönemi
+BLG 212,Mikroişlemci Sistemleri,Tamer Ölmez,Perşembe,1330/1629,,50,50,EHB ELE ELK TEL,10786,2021 - 2022 Güz Dönemi
+BLG 212E,Microprocessor Systems,Yaşar Erenler,Salı,1330/1629,INB,88,75,EHB EHBE ELE ELH ELK ELKE KOM KOME,10789,2021 - 2022 Güz Dönemi
+BLG 212E,Microprocessor Systems,"Gökhan İnce, Ayşe Yılmazer",Pazartesi,0830/1129,MED,104,100,BLG BLGE,11446,2021 - 2022 Güz Dönemi
+BLG 212E,Microprocessor Systems,Burak Berk Üstündağ,Pazartesi,0830/1129,MDB,89,100,BLG BLGE,11450,2021 - 2022 Güz Dönemi
+BLG 222E,Computer Organization,Gökhan İnce,----,/,EEB,1,0,BLG BLGE,15427,2021 - 2022 Güz Dönemi
+BLG 223E,Data Structures,Mehmet Baysan,Salı Çarşamba,0930/1129 1030/1229,EEB EEB,94,100,BLG BLGE,11453,2021 - 2022 Güz Dönemi
+BLG 223E,Data Structures,Tolga Ovatman,Salı Çarşamba,0930/1129 1030/1229,EEB EEB,108,100,BLG BLGE,11452,2021 - 2022 Güz Dönemi
+BLG 231,Sayısal Devreler,Yücel Aydın,Salı,1330/1629,EEB,51,50,EHB ELE ELH ELK KOM MKN TEL,10792,2021 - 2022 Güz Dönemi
+BLG 231,Sayısal Devreler,Serhat İkizoğlu,Salı,1330/1629,EEB,58,50,EHB ELE ELH ELK KOM MKN TEL,10790,2021 - 2022 Güz Dönemi
+BLG 231E,Digital Circuits,"Sanem Kabadayı, Ayşe Yılmazer",Cuma,0830/1129,EEB,92,95,BLG BLGE,11455,2021 - 2022 Güz Dönemi
+BLG 231E,Digital Circuits,Feza Buzluca,Cuma,0830/1129,EEB,103,95,BLG BLGE,11454,2021 - 2022 Güz Dönemi
+BLG 231E,Digital Circuits,Osman Kaan Erol,Salı,1330/1629,EEB,61,55,EHB EHBE ELE ELH ELK ELKE KOM KOME MKN TEL,10793,2021 - 2022 Güz Dönemi
+BLG 252E,Object Oriented Programming,Tankut Akgül,----,/,EEB,0,0,BLG BLGE EHB EHBE ELE KOM KOME TEL YZVE,15430,2021 - 2022 Güz Dönemi
+BLG 317E,Database Systems,Ali Çakmak,Çarşamba,0830/1129,EEB,82,80,BLG BLGE YZVE,11457,2021 - 2022 Güz Dönemi
+BLG 317E,Database Systems,"Hayri Turgut Uyar, Şule Öğüdücü",Çarşamba,0830/1129,EEB,76,80,BLG BLGE,11456,2021 - 2022 Güz Dönemi
+BLG 335E,Analysis of Algorithms I,Hazım Kemal Ekenel,Salı,0830/1129,EEB,94,90,BLG BLGE,11458,2021 - 2022 Güz Dönemi
+BLG 335E,Analysis of Algorithms I,İlkay Öksüz,Perşembe,0830/1129,EEB,62,90,BLG BLGE YZVE,11474,2021 - 2022 Güz Dönemi
+BLG 337E,Principles of Computer Comm.,Berk Canberk,Salı,1430/1729,EEB,80,80,BLG BLGE,11475,2021 - 2022 Güz Dönemi
+BLG 351E,Microcomputer Lab.,İlkay Öksüz,Perşembe,1330/1529,EEB,41,60,BLG BLGE,11478,2021 - 2022 Güz Dönemi
+BLG 351E,Microcomputer Lab.,İlkay Öksüz,Salı,1230/1429,EEB,34,60,BLG BLGE,11477,2021 - 2022 Güz Dönemi
+BLG 351E,Microcomputer Lab.,İlkay Öksüz,Pazartesi,1230/1429,EEB,61,60,BLG BLGE,11480,2021 - 2022 Güz Dönemi
+BLG 411E,Software Engineering,Ahmet Cüneyd Tantuğ,Salı,1330/1629,EEB,78,87,BLG BLGE,14882,2021 - 2022 Güz Dönemi
+BLG 411E,Software Engineering,Ayşe Tosun,Salı,1330/1629,EEB,88,87,BLG BLGE,11481,2021 - 2022 Güz Dönemi
+BLG 413E,System Programming,"Gökhan Seçinti, Hayri Turgut Uyar",Salı,0830/1129,,76,80,BLG BLGE,11485,2021 - 2022 Güz Dönemi
+BLG 433E,Computer Communications,"Sema Fatma Oktuğ, Gökhan Seçinti",Çarşamba,0830/1029,EEB,64,70,BLG BLGE,11488,2021 - 2022 Güz Dönemi
+BLG 435E,Artificial Intelligence,Sanem Sarıel,Çarşamba,1330/1529,,69,85,BLG BLGE,11493,2021 - 2022 Güz Dönemi
+BLG 439E,Computer Project I,Zehra Çataltepe,Pazartesi,0830/1129,,42,42,BLG BLGE,15083,2021 - 2022 Güz Dönemi
+BLG 439E,Computer Project I,"Deniz Turgay Altılar, Mehmet Tahir Sandıkkaya",Çarşamba,1230/1529,EEB,4,30,BLG BLGE,11497,2021 - 2022 Güz Dönemi
+BLG 442E,Tech.&Innov. Mng.for Inf.Tech.,Gökhan İnce,----,/,EEB,1,0,BLG BLGE,15426,2021 - 2022 Güz Dönemi
+BLG 447,Derleyici Tasarımı,Takuhi Nadia Erdoğan,Çarşamba,0830/1029,,21,60,BLG,11501,2021 - 2022 Güz Dönemi
+BLG 450E,Real-Time Systems Software,Deniz Turgay Altılar,Pazartesi,1030/1229,EEB,6,60,BLG BLGE,11504,2021 - 2022 Güz Dönemi
+BLG 453E,Computer Vision,Gözde Ünal,Pazartesi,1530/1729,,112,110,BLG BLGE,11508,2021 - 2022 Güz Dönemi
+BLG 454E,Learning From Data,Islem Rekik,Pazartesi,1430/1729,,73,90,BLG BLGE ECNE,14883,2021 - 2022 Güz Dönemi
+BLG 456E,Robotics,Hatice Köse,Çarşamba,1030/1229,,67,70,BLG BLGE,14884,2021 - 2022 Güz Dönemi
+BLG 459E,Computer Security,Şerif Bahtiyar,Çarşamba,1030/1229,EEB,51,60,BLG BLGE,11513,2021 - 2022 Güz Dönemi
+BLG 4901,Bilgisayar Müh. Tasarımı I,Ali Çakmak,----,/,EEB,4,200,BLG,11515,2021 - 2022 Güz Dönemi
+BLG 4901E,Computer Engineering Design I,Ali Çakmak,----,/,EEB,116,200,BLG BLGE,11516,2021 - 2022 Güz Dönemi
+BLG 4902,Bilgisayar Mühen. Tasarımı II,Ali Çakmak,----,/,EEB,3,500,BLG,14885,2021 - 2022 Güz Dönemi
+BLG 4902E,Computer Engineering Design II,Ali Çakmak,----,/,EEB,13,500,BLG BLGE,14887,2021 - 2022 Güz Dönemi
+BLG 492,Bitirme Çalışması,Ali Çakmak,----,/,EEB,20,200,BLG,11518,2021 - 2022 Güz Dönemi
+BLG 492E,Graduation Project,Ali Çakmak,----,/,EEB,18,200,BLG BLGE,11519,2021 - 2022 Güz Dönemi

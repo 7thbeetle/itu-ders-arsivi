@@ -1,0 +1,39 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BIO 101,General Biology,Deniz Şahin,Perşembe,1030/1329,MOBGAM,10,30,MBI,25282,2021 - 2022 Bahar Dönemi
+BIO 102E,Engineering Biology,Celaletdin Ergun,Çarşamba,1230/1529,MKB,3,50,IML IMLE MAK MAKE,21967,2021 - 2022 Bahar Dönemi
+BIO 106E,General Biology II,"Bülent Balta, Börte Köse Mutlu",Salı Perşembe,0830/1029 1230/1329,MED MED,91,100,BIO BIOE BIOM,21431,2021 - 2022 Bahar Dönemi
+BIO 106EL,General Biology II Lab.,"Bülent Balta, Börte Köse Mutlu",Salı,1430/1729,FEB,49,51,BIO BIOE BIOM,21434,2021 - 2022 Bahar Dönemi
+BIO 106EL,General Biology II Lab.,"Bülent Balta, Börte Köse Mutlu",Salı,1030/1329,FEB,47,51,BIO BIOE BIOM,21433,2021 - 2022 Bahar Dönemi
+BIO 212E,Genetics,Sibel Uğur İşeri,Perşembe,0830/1129,FEB,83,87,BIO BIOE BIOM,21437,2021 - 2022 Bahar Dönemi
+BIO 214,Mikrobiyoloji,Pervin Başaran Akocak,Cuma,1400/1659,KMB,10,25,KMM,21135,2021 - 2022 Bahar Dönemi
+BIO 214E,Microbiology,Pervin Başaran Akocak,Perşembe,1330/1629,KMB,0,25,KMME,21136,2021 - 2022 Bahar Dönemi
+BIO 215E,Biochemistry,Fatih Bildik,Perşembe,0930/1229,KMB,0,20,GID GIDE,21105,2021 - 2022 Bahar Dönemi
+BIO 216E,Microbiology,"Zeynep Petek Çakar, Ayten Karataş",Pazartesi,0830/1129,FEB,71,80,BIO BIOE BIOM,21443,2021 - 2022 Bahar Dönemi
+BIO 216EL,Microbiology Lab.,"Zeynep Petek Çakar, Ayten Karataş",Cuma,0930/1229,FEB,39,40,BIO BIOE BIOM,21446,2021 - 2022 Bahar Dönemi
+BIO 216EL,Microbiology Lab.,"Zeynep Petek Çakar, Ayten Karataş",Cuma,1430/1729,FEB,34,40,BIO BIOE BIOM,21447,2021 - 2022 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,----,/,FEB,2,2,BIOM CEV CEVE CHZ CHZE DEN EHB EHBE EHS ELE ELH ELK ELKE FIZ FIZE GEM GID GIDE INS INSE ISL ISLE JEO JEOE KIM KIME KMM KMME KOM KOME MAD MADE MET METE PET PETE TEL,26026,2021 - 2022 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Çarşamba,1230/1529,,55,55,BIOM CEV CEVE CHZ CHZE DEN EHB EHBE ELE ELH ELK ELKE FIZ FIZE GEM GID GIDE INS INSE ISL ISLE JEO JEOE KIM KIME KMM KMME KOM KOME MAD MADE MET METE PET PETE TEL,21417,2021 - 2022 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Çarşamba,0830/1129,,56,55,BIOM CEV CEVE CHZ CHZE DEN EHB EHBE ELE ELH ELK ELKE FIZ FIZE GEM GID GIDE INS INSE ISL ISLE JEO JEOE KIM KIME KMM KMME KOM KOME MAD MADE MET METE PET PETE TEL,21416,2021 - 2022 Bahar Dönemi
+BIO 326E,Mol. Evolution & Biodiversity,"Deniz Şahin, Sibel Uğur İşeri",Cuma,0930/1129,FEB,71,80,BIO BIOE,21449,2021 - 2022 Bahar Dönemi
+BIO 328E,Biochemistry II,Nevin Gül Karagüler,Salı,0830/1129,MED,70,80,BIO BIOE,21438,2021 - 2022 Bahar Dönemi
+BIO 328EL,Biochemistry II Lab.,Nevin Gül Karagüler,Pazartesi,1330/1629,FEB,37,40,BIO BIOE,21442,2021 - 2022 Bahar Dönemi
+BIO 328EL,Biochemistry II Lab.,Nevin Gül Karagüler,Pazartesi,0930/1229,FEB,35,40,BIO BIOE,21441,2021 - 2022 Bahar Dönemi
+BIO 332E,Modern Techniques in Biology,Hakan Bermek,----,/,FEB,1,1,BIO BIOE,26027,2021 - 2022 Bahar Dönemi
+BIO 332E,Modern Techniques in Biology,Abdulhalim Kılıç,Perşembe,1430/1729,FEB,63,66,BIO BIOE,21455,2021 - 2022 Bahar Dönemi
+BIO 342E,Enzymology,Fatma Neşe Kök,Pazartesi,0830/1129,FEB,11,40,BIO BIOE BIOM,21418,2021 - 2022 Bahar Dönemi
+BIO 415E,Molecular Biology,Arzu Karabay Korkmaz,----,/,FEB,1,1,BIO BIOE BIOM,26028,2021 - 2022 Bahar Dönemi
+BIO 415E,Molecular Biology,"Arzu Karabay Korkmaz, Aslı Kumbasar",Salı Perşembe,1230/1429 1230/1429,FEB FEB,65,80,BIO BIOE BIOM,21450,2021 - 2022 Bahar Dönemi
+BIO 415EL,Molecular Biology Lab.,"Arzu Karabay Korkmaz, Aslı Kumbasar",Perşembe,1430/1729,FEB,37,40,BIO BIOE BIOM,21454,2021 - 2022 Bahar Dönemi
+BIO 415EL,Molecular Biology Lab.,"Arzu Karabay Korkmaz, Aslı Kumbasar",Perşembe,0930/1229,FEB,43,40,BIO BIOE BIOM,21452,2021 - 2022 Bahar Dönemi
+BIO 442E,Molecular Immunology,"Ceren Çıracı, Ayça Sayı Yazgan",Çarşamba,1230/1529,,43,45,BIO BIOE BIOM,21420,2021 - 2022 Bahar Dönemi
+BIO 451E,Industrial Microbiology,Börte Köse Mutlu,Salı Cuma,1330/1429 1030/1229,,0,40,BIO BIOE,21426,2021 - 2022 Bahar Dönemi
+BIO 462E,Prot. Struct.-Function Relat.,Gizem Dinler Doğanay,Salı,1430/1729,FEB,36,40,BIO BIOE BIOM,21422,2021 - 2022 Bahar Dönemi
+BIO 466E,Developmental Biology,Aslı Kumbasar,----,/,FEB,1,1,BIO BIOE BIOM,26029,2021 - 2022 Bahar Dönemi
+BIO 466E,Developmental Biology,Aslı Kumbasar,Çarşamba,0930/1229,FEB,4,40,BIO BIOE BIOM,21423,2021 - 2022 Bahar Dönemi
+BIO 471E,Protein Biotechnology,Hakan Bermek,Salı,1430/1729,,19,40,BIO BIOE,21424,2021 - 2022 Bahar Dönemi
+BIO 4901E,Mol Bio & Genetics Design I,Bülent Balta,----,/,FEB,11,100,BIOE,21456,2021 - 2022 Bahar Dönemi
+BIO 4902E,Mol Bio & Genetics Design II,Bülent Balta,----,/,FEB,40,100,BIOE,21457,2021 - 2022 Bahar Dönemi
+BIO 490E,Cancer Biology,Ceren Çıracı,Cuma,1430/1729,,45,45,BIO BIOE,21428,2021 - 2022 Bahar Dönemi
+BIO 491E,Molecular Biotechnology,Fatma Neşe Kök,----,/,FEB,1,1,BIO BIOE,26030,2021 - 2022 Bahar Dönemi
+BIO 492E,Graduation Project,Bülent Balta,----,/,,17,100,BIO BIOE,21425,2021 - 2022 Bahar Dönemi
+BIO 492E,Graduation Project,Abdulhalim Kılıç,----,/,FEB,1,1,BIO BIOE,25457,2021 - 2022 Bahar Dönemi

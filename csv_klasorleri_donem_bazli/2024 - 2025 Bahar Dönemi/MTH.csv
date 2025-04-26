@@ -1,0 +1,21 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTH 102,Calculus II,-,Monday / Tuesday,15:30/17:29 / 08:30/11:29,KMB / KMB / -- / --,0,0,MBI_LS,21825,2024 - 2025 Bahar Dönemi
+MTH 102,Calculus II,Samet Yücel Kadıoğlu,Monday / Tuesday,15:30/17:29 / 08:30/11:29,BBB / BBB / 101 / 101,30,30,"MBI_LS, SBL_LS",21826,2024 - 2025 Bahar Dönemi
+MTH 104,Calculus II,Ahmet Kırış,Monday / Tuesday,15:30/17:29 / 08:30/11:29,FEB / FEB / L400 / L400,25,30,SED_LS,21827,2024 - 2025 Bahar Dönemi
+MTH 105,Calculus I,Burhaneddin İzgi,Tuesday,08:30/11:29,FEB / B1_226,6,20,SIS_LS,21833,2024 - 2025 Bahar Dönemi
+MTH 106,Calculus II,Cihangir Özemir,Tuesday,08:30/11:29,EEB / Z1,21,30,SIS_LS,21834,2024 - 2025 Bahar Dönemi
+MTH 108,Calculus II,Nurhan Çolakoğlu,Monday / Tuesday,14:30/17:29 / 08:30/11:29,INB / MEDC / B102 / 1D9,36,35,"SGI_LS, SIN_LS",21835,2024 - 2025 Bahar Dönemi
+MTH 108,Calculus II,-,Monday / Tuesday,09:30/12:29 / 08:30/11:29,INB / INB / -- / --,0,0,SIN_LS,21836,2024 - 2025 Bahar Dönemi
+MTH 118,Mathematics II,-,Monday / Tuesday,15:30/17:29 / 08:30/11:29,MED / MEDC / -- / --,0,0,NAE_LS,21840,2024 - 2025 Bahar Dönemi
+MTH 118,Mathematics II,Sabire Cömert,Tuesday / Thursday,18:30/20:29 / 14:30/17:29,DZB / DZB / -- / --,13,60,"MEN_LS, MTM_LS",25131,2024 - 2025 Bahar Dönemi
+MTH 132,Mathematics II,Elif Canfes,Monday / Tuesday,15:30/17:29 / 08:30/11:29,EEB / EEB / 1301 / 5303,17,20,EHN_LS,21837,2024 - 2025 Bahar Dönemi
+MTH 132,Mathematics II,-,-,-/-,- / -,0,0,-,22224,2024 - 2025 Bahar Dönemi
+MTH 204,Linear Algebra,Güler Arsan,Monday,14:30/17:29,FEB / D201,13,30,"ARC_LS, NAE_LS",21841,2024 - 2025 Bahar Dönemi
+MTH 204,Linear Algebra,Bayram Barış Kızılsaç,Wednesday,17:30/20:29,DZB / --,6,20,"MEN_LS, MTM_LS",25136,2024 - 2025 Bahar Dönemi
+MTH 271,Probability and Statistics,Tuba Yılmaz Abdolsaheb,Friday,08:30/11:29,EEB / 1303,20,30,EHN_LS,22173,2024 - 2025 Bahar Dönemi
+MTH 401E,RISC-V Architecture &Processor,-,-,-/-,- / -,0,0,-,24552,2024 - 2025 Bahar Dönemi
+MTH 401E,RISC-V Architecture &Processor,"Müştak Erhan Yalçın , / Hasan Erdem Yantır",Wednesday,12:30/15:29,EEB / 5205,22,50,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS",24891,2024 - 2025 Bahar Dönemi
+MTH 403E,Fnc.Safety&PwrtrainAppAutoInd,İlker Üstoğlu,Tuesday,08:30/11:29,EEB / 2106,44,50,"ELK_LS, ELKE_LS, KOM_LS, KOME_LS, ROS_LS, ROSE_LS",24553,2024 - 2025 Bahar Dönemi
+MTH 406,Model Tabanlı Tasarım ve Yapay Zeka,Tufan Kumbasar,Tuesday,16:00/18:59,EEB / 2102,42,70,"EHB_LS, ELK_LS, KOM_LS",25195,2024 - 2025 Bahar Dönemi
+MTH 407,Otomatik Hedef İzleme Temelleri,Burcu Tunga,Wednesday,09:30/12:29,INB / A104,42,55,"FIZ_LS, MAT_LS",25202,2024 - 2025 Bahar Dönemi
+MTH 408,Uzay Radyasyon Ortamı ve Etkileri,Berna Morova,Friday,14:00/16:59,FEB / --,40,40,FIZ_LS,25189,2024 - 2025 Bahar Dönemi

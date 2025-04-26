@@ -1,0 +1,120 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+INS 102,Statik,Erol Demirkan,"Pazartesi
+Salı
+Çarşamba","0900/1229
+0930/1229
+0930/1229","INB
+INB
+INB / A102
+A102
+A102",78,70,INS,30110,2023 - 2024 Yaz Dönemi
+INS 102E,Statics,Sedat Kömürcü,"Pazartesi
+Pazartesi
+Perşembe","0830/1229
+1330/1659
+0830/1029","INB
+INB
+INB / A203
+A203
+A203",31,40,"INS, INSE",30376,2023 - 2024 Yaz Dönemi
+INS 217,Mukavemet I,Teoman Özer,"Pazartesi
+Pazartesi
+Çarşamba","0830/1229
+1330/1729
+0830/0959","INB
+INB
+INB / B201
+B201
+B201",26,35,INS,30112,2023 - 2024 Yaz Dönemi
+INS 217E,Strength of Materials I,Sedat Kömürcü,"Salı
+Salı
+Perşembe","0830/1229
+1330/1659
+1030/1229","INB
+INB
+INB / A203
+A203
+A203",13,40,"INS, INSE",30377,2023 - 2024 Yaz Dönemi
+INS 218,Mukavemet II,Teoman Özer,"Salı
+Salı
+Çarşamba","0830/1229
+1330/1729
+1030/1159","INB
+INB
+INB / B201
+B201
+B201",36,35,INS,30113,2023 - 2024 Yaz Dönemi
+INS 218E,Strength of Materials II,Sedat Kömürcü,"Çarşamba
+Çarşamba
+Perşembe","0830/1229
+1330/1659
+1330/1529","INB
+INB
+INB / A203
+A203
+A203",38,40,"INS, INSE",30378,2023 - 2024 Yaz Dönemi
+INS 232E,Surveying,Ramazan Alper Kuçak,"Çarşamba
+Perşembe","1330/1629
+1200/1559","INB
+INB / A101
+A101",16,50,"INS, INSE",30359,2023 - 2024 Yaz Dönemi
+INS 302,Karayolu Mühendisliği,--,"Pazartesi
+Salı
+Çarşamba","0930/1229
+0930/1229
+0900/1229","INB
+INB
+INB / ---
+---
+---",0,0,INS,30210,2023 - 2024 Yaz Dönemi
+INS 302E,Highway Engineering,Hüseyin Onur Tezcan,"Pazartesi
+Salı
+Çarşamba","0930/1229
+0930/1229
+0900/1229","INB
+INB
+INB / A301
+A301
+A301",29,30,"AIN, INS, INSE",30293,2023 - 2024 Yaz Dönemi
+INS 354,Hidroloji,Yavuz Selim Güçlü,"Pazartesi
+Pazartesi","0830/1229
+1330/1629","INB
+INB / A201
+A201",23,25,INS,30392,2023 - 2024 Yaz Dönemi
+INS 354,Hidroloji,Yavuz Selim Güçlü,"Salı
+Salı","0830/1229
+1330/1629","INB
+INB / A201
+A201",23,25,INS,30114,2023 - 2024 Yaz Dönemi
+INS 360,Hidrolik,Necati Erdem Ünal,"Pazartesi
+Salı
+Cuma","1330/1729
+0830/1229
+0900/1029","INB
+INB
+INB / A202
+A202
+A202",15,30,"CEV, INS",30318,2023 - 2024 Yaz Dönemi
+INS 360,Hidrolik,Necati Erdem Ünal,"Çarşamba
+Çarşamba
+Cuma","0830/1229
+1330/1729
+1030/1159","INB
+INB
+INB / A202
+A202
+A202",29,30,"CEV, INS",30319,2023 - 2024 Yaz Dönemi
+INS 360E,Hydraulics,Erdal Kesgin,"Salı
+Salı
+Perşembe","0900/1229
+1330/1659
+0900/1129","INB
+INB
+INB / B202
+B202
+B202",23,25,"AIN, CEV, CEVE, INS, INSE",30321,2023 - 2024 Yaz Dönemi
+INS 403E,Earthworks,Hüseyin Onur Tezcan,"Pazartesi
+Salı","1330/1559
+1330/1559","INB
+INB / A301
+A301",48,60,"AIN, INS, INSE",30211,2023 - 2024 Yaz Dönemi

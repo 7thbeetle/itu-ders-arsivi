@@ -1,0 +1,34 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KMM 102E,Intr. to Comp.Prog.in Python,Elif Öztürk Er,Pazartesi,1330/1629,UUB,0,0,KMM,11702,2022 - 2023 Güz Dönemi
+KMM 111,Kimya Müh. Giriş ve Etik,Mehmet Ferhat Yardım,Çarşamba,1430/1529,KMB,0,0,KMM,11704,2022 - 2023 Güz Dönemi
+KMM 211,Kütle ve Enerji Denklikleri,Fatoş Yüksel Güvenilir,Salı,1330/1629,KMB,0,0,KMM KMMM,11705,2022 - 2023 Güz Dönemi
+KMM 211,Kütle ve Enerji Denklikleri,Fatma Elif Genceli Güner,Salı,1330/1629,KMB,0,0,KMM KMMM,11707,2022 - 2023 Güz Dönemi
+KMM 220,Akışkanlar Mekaniği,Ömer Şahin,Perşembe,1230/1529,KMB,0,0,KMM,11708,2022 - 2023 Güz Dönemi
+KMM 224,Kimya Müh.Termodinamiği,"Ayşegül Meriçboyu, Reha Yavuz",Çarşamba Perşembe,1230/1529 0930/1129,KMB KMB,0,0,KMM KMMM,11710,2022 - 2023 Güz Dönemi
+KMM 305E,Heat and Mass Transfer,Ahmet Sirkecioğlu,Pazartesi Salı,1330/1529 1030/1229,KMB KMB,0,0,KMM KMMM,11713,2022 - 2023 Güz Dönemi
+KMM 305E,Heat and Mass Transfer,Şerife Birgül Ersolmaz,Pazartesi Salı,1330/1529 1030/1229,KMB KMB,0,0,KMM KMMM,11711,2022 - 2023 Güz Dönemi
+KMM 311E,Thermodynamics II,Ramazan Kızıl,Perşembe,0930/1229,KMB,0,0,KMM KMME KMMM,11714,2022 - 2023 Güz Dönemi
+KMM 315E,Physical Che.for Chemical Eng.,Nil Özbek,Salı Perşembe,1330/1529 1530/1629,KMB KMB,0,0,KMM KMMM,11717,2022 - 2023 Güz Dönemi
+KMM 315E,Physical Che.for Chemical Eng.,Fethiye Aylin Sungur,Salı Perşembe,1330/1529 1530/1629,KMB KMB,0,0,KMM KMMM,11716,2022 - 2023 Güz Dönemi
+KMM 321E,Heat Transfer,Fatma Elif Genceli Güner,Pazartesi,1330/1629,KMB,0,0,KMM KMME KMMM,11718,2022 - 2023 Güz Dönemi
+KMM 331,Kütle Aktarımı,Sinan Kutluay,Pazartesi,0930/1229,KMB,0,0,KMM KMMM,11719,2022 - 2023 Güz Dönemi
+KMM 411E,Process Control,Devrim Barış Kaymak,Pazartesi,1330/1629,KMB,0,0,KMM KMME KMMM,11721,2022 - 2023 Güz Dönemi
+KMM 411E,Process Control,Serdar Yaman,Pazartesi,1330/1629,KMB,0,0,KMM KMME KMMM,11720,2022 - 2023 Güz Dönemi
+KMM 412,Kimyasal Teknolojiler,"Melek Tüter, Filiz Karaosmanoğlu",Cuma,1400/1659,,0,0,KMM KMMM,11722,2022 - 2023 Güz Dönemi
+KMM 413,Biyokatalizörler ve Karakter,Fatoş Yüksel Güvenilir,Çarşamba,0930/1229,KMB,0,0,KMM,11723,2022 - 2023 Güz Dönemi
+KMM 413E,Biocatatlysts &Their Character,Ramazan Kızıl,Çarşamba,0930/1229,KMB,0,0,KMM KMME,11724,2022 - 2023 Güz Dönemi
+KMM 421E,Chemical Reaction Eng II,Ahmet Sirkecioğlu,Perşembe,1330/1629,KMB,0,0,KMM KMME KMMM,11725,2022 - 2023 Güz Dönemi
+KMM 429,Kimya End Korozyon & Malz Seçi,Hanzade Açma,Salı,0930/1229,KMB,0,0,KMM,11726,2022 - 2023 Güz Dönemi
+KMM 431E,Chemical Engineering Design I,Alper Sarıoğlan,Çarşamba Perşembe,1230/1529 1030/1229,KMB KMB,0,0,KMM KMME,11728,2022 - 2023 Güz Dönemi
+KMM 451,Kimya Mühendisliği Lab. I,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın",Salı,1330/1729,KMB,0,0,KMM,11731,2022 - 2023 Güz Dönemi
+KMM 451,Kimya Mühendisliği Lab. I,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın",Salı,0830/1229,KMB,0,0,KMM,11729,2022 - 2023 Güz Dönemi
+KMM 453,Kimya Müh.Bilg.Dest.Tasarım,Sinan Kutluay,Perşembe,0930/1229,KMB,0,0,KMM,11732,2022 - 2023 Güz Dönemi
+KMM 455E,Optimization in Chemical Eng.,Elif Öztürk Er,Perşembe,0930/1229,KMB,0,0,KMM KMME,11734,2022 - 2023 Güz Dönemi
+KMM 465,Çevre Kimyası ve Teknolojisi,Ahmet Alper Aydın,Çarşamba,0930/1229,KMB,0,0,KMM,11735,2022 - 2023 Güz Dönemi
+KMM 465E,Environmental Chemistry&Techn.,Ahmet Alper Aydın,Salı,0930/1229,KMB,0,0,KMM KMME,11737,2022 - 2023 Güz Dönemi
+KMM 466E,Boron Technology,Hale Gürbüz,Salı,0930/1229,KMB,0,0,KMM KMME,11739,2022 - 2023 Güz Dönemi
+KMM 468E,Energy Conservation in Indstry,Serdar Yaman,Perşembe,0930/1229,KMB,0,0,KMM KMME,11740,2022 - 2023 Güz Dönemi
+KMM 485,Polimer Kimyası ve Teknolojisi,Fatma Seniha Güner,Çarşamba,0930/1229,KMB,0,0,FIZ KMM,11742,2022 - 2023 Güz Dönemi
+KMM 4901,Kimya Mühendisliği Tasarımı I,"Hale Gürbüz, Ayşe Özge Kürkçüoğlu Levitas, Devrim Barış Kaymak",Çarşamba Perşembe,1230/1529 1030/1229,KMB KMB,0,0,KMM KMMM,11743,2022 - 2023 Güz Dönemi
+KMM 492,Bitirme Çalışması,Gülhayat Saygılı,----,/,KMB,0,0,KMM,11745,2022 - 2023 Güz Dönemi
+KMM 492E,Graduation Project,Gülhayat Saygılı,----,/,KMB,0,0,KMM KMME,11746,2022 - 2023 Güz Dönemi

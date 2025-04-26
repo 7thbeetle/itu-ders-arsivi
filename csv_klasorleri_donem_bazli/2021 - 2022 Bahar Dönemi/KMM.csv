@@ -1,0 +1,31 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KMM 102E,Intr. to Comp.Prog.in Python,Reha Yavuz,Salı,0930/1229,,59,60,KMM,21107,2021 - 2022 Bahar Dönemi
+KMM 102E,Intr. to Comp.Prog.in Python,Reha Yavuz,Pazartesi,1330/1629,,46,60,KMM,21106,2021 - 2022 Bahar Dönemi
+KMM 220,Akışkanlar Mekaniği,Şerife Birgül Ersolmaz,Pazartesi Perşembe,0930/1129 1130/1229,KMB KMB,55,60,KMM,21109,2021 - 2022 Bahar Dönemi
+KMM 220,Akışkanlar Mekaniği,Fatma Seniha Güner,Pazartesi Perşembe,0930/1129 1130/1229,KMB KMB,60,60,KMM,21108,2021 - 2022 Bahar Dönemi
+KMM 222E,Computati. Meth. in Chem. Eng.,Melek Mümine Erol Taygun,Perşembe Cuma,1330/1529 1100/1259,KMB KMB,55,60,KMM,21110,2021 - 2022 Bahar Dönemi
+KMM 222E,Computati. Meth. in Chem. Eng.,Ayşe Özge Kürkçüoğlu Levitas,Perşembe Cuma Cuma,1330/1529 1100/1159 1200/1259,KMB KMB KMB,58,60,KMM,21111,2021 - 2022 Bahar Dönemi
+KMM 224,Kimya Müh.Termodinamiği,"Reha Yavuz, Ayşegül Meriçboyu",Çarşamba Perşembe,0930/1229 0930/1129,KMB KMB,126,125,KMM KMMM,21112,2021 - 2022 Bahar Dönemi
+KMM 308E,Chem Reac Eng,"Ahmet Sirkecioğlu, Gamze Gümüşlü Gür",Perşembe Perşembe,0930/1229 1530/1729,KMB KMB,79,80,KMM KMMM,21113,2021 - 2022 Bahar Dönemi
+KMM 312E,Chemical Reaction Eng I,Alper Sarıoğlan,Perşembe,0930/1229,KMB,4,30,KMM KMME KMMM,21114,2021 - 2022 Bahar Dönemi
+KMM 332,Ayırma İşlemleri,"Gülhayat Saygılı, Fatoş Yüksel Güvenilir",Pazartesi Çarşamba,1030/1229 1030/1229,KMB KMB,90,90,KMM KMMM,21115,2021 - 2022 Bahar Dönemi
+KMM 342E,Math Modelling in Chemical Eng,Devrim Barış Kaymak,Çarşamba Cuma,1330/1529 1500/1559,KMB KMB,42,60,KMM KMME KMMM,21117,2021 - 2022 Bahar Dönemi
+KMM 342E,Math Modelling in Chemical Eng,Ayşe Özge Kürkçüoğlu Levitas,Çarşamba Cuma,1330/1529 1500/1559,KMB KMB,60,60,KMM KMME KMMM,21116,2021 - 2022 Bahar Dönemi
+KMM 411E,Process Control,Serdar Yaman,Cuma,1400/1629,KMB,20,12,KMM KMME KMMM,25767,2021 - 2022 Bahar Dönemi
+KMM 422E,Chemical Engineering Desing II,Hale Gürbüz,Pazartesi Çarşamba,0830/1029 0930/1229,KMB KMB,4,10,KMM KMME,21118,2021 - 2022 Bahar Dönemi
+KMM 424,Biyoteknolojik Uygulamalar,Fatoş Yüksel Güvenilir,Perşembe,1230/1529,KMB,24,25,BIO KMM,21119,2021 - 2022 Bahar Dönemi
+KMM 424E,Biotechnological Applications,Ramazan Kızıl,Pazartesi,1030/1329,KMB,1,25,KMM KMME,21120,2021 - 2022 Bahar Dönemi
+KMM 434,"Kalite,Çevre ve Güvenlik","Ahmet Alper Aydın, Alper Sarıoğlan",Pazartesi,1330/1629,KMB,80,105,KMM KMMM,21121,2021 - 2022 Bahar Dönemi
+KMM 434E,Quality Environment & Safety,--,Pazartesi,1330/1629,KMB,0,0,KMM KMME,21122,2021 - 2022 Bahar Dönemi
+KMM 448,Yakıt Kimyası ve Teknolojisi,Filiz Karaosmanoğlu,Salı,1330/1629,KMB,21,25,KMM,21123,2021 - 2022 Bahar Dönemi
+KMM 462,Kimya Mühendisliği Lab II,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın",Salı,1330/1729,KMB,40,40,KMM,21124,2021 - 2022 Bahar Dönemi
+KMM 462,Kimya Mühendisliği Lab II,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın",Salı,0830/1229,KMB,12,40,KMM,21125,2021 - 2022 Bahar Dönemi
+KMM 462E,Chemical Engineering Lab. II,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın",Salı,1330/1729,KMB,0,5,KMME,21126,2021 - 2022 Bahar Dönemi
+KMM 466,Bor Teknolojisi,Hale Gürbüz,Salı,1330/1629,KMB,16,25,KMM,21127,2021 - 2022 Bahar Dönemi
+KMM 468,Endüstride Enerji Tasarrufu,Serdar Yaman,Salı,1330/1629,KMB,25,25,KMM,21128,2021 - 2022 Bahar Dönemi
+KMM 468E,Energy Conservation in Indstry,Serdar Yaman,Salı,0930/1229,KMB,24,25,KMM KMME,21129,2021 - 2022 Bahar Dönemi
+KMM 474,Yağ Teknolojisi,Melek Tüter,Perşembe,1230/1529,KMB,12,25,KMM,21130,2021 - 2022 Bahar Dönemi
+KMM 477,Endüstriyel Su Hazırlama Yöntm,Hanzade Açma,Salı,0930/1229,KMB,25,25,KMM,21131,2021 - 2022 Bahar Dönemi
+KMM 4902E,Chem. Eng. Design II,"Devrim Barış Kaymak, Mehmet Ferhat Yardım",Pazartesi Çarşamba,0830/1029 0930/1229,KMB KMB,52,500,KMM KMME KMMM,21132,2021 - 2022 Bahar Dönemi
+KMM 492,Bitirme Çalışması,Gülhayat Saygılı,----,/,KMB,5,500,KMM,21133,2021 - 2022 Bahar Dönemi
+KMM 492E,Graduation Project,Gülhayat Saygılı,----,/,KMB,2,500,KMM KMME,21134,2021 - 2022 Bahar Dönemi

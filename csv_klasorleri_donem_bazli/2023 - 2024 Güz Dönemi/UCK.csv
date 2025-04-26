@@ -1,0 +1,31 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+UCK 205E,Thermodynamics I,Ayşe Gül Güngör,Çarşamba,0930/1129,UUB / D213,22,50,"UCK, UZBE",11882,2023 - 2024 Güz Dönemi
+UCK 207,Termodinamik,Baha Zafer,Cuma,0930/1229,UUB / D-Z08,64,70,"UCK, UZB",11883,2023 - 2024 Güz Dönemi
+UCK 207E,Thermodynamics,Bülent Tutkun,Cuma,0930/1229,UUB / D216,102,90,"UZB, UZBE",11874,2023 - 2024 Güz Dönemi
+UCK 217E,Aerospace Materials,Hülya Cebeci,Pazartesi,0930/1229,UUB / D216,100,100,"UCK, UZB, UZBE",11886,2023 - 2024 Güz Dönemi
+UCK 217E,Aerospace Materials,Hülya Cebeci,Salı,0830/1129,UUB / D216,111,100,"UCK, UZB, UZBE",11887,2023 - 2024 Güz Dönemi
+UCK 303E,Automatic Control,Emre Koyuncu,Salı,1430/1729,UUB / D213,76,80,"UCK, UZB, UZBE",11885,2023 - 2024 Güz Dönemi
+UCK 303E,Automatic Control,Gökhan İnalhan,Cuma,1430/1729,UUB / D-Z09,75,80,"UCK, UZB, UZBE",11984,2023 - 2024 Güz Dönemi
+UCK 305,Aerodinamik,Baha Zafer,Çarşamba,1230/1529,UUB / D-Z08,106,100,UCK,11884,2023 - 2024 Güz Dönemi
+UCK 305E,Aerodynamics,Aydın Mısırlıoğlu,Çarşamba,1230/1529,UUB / D216,117,120,"UZB, UZBE",11940,2023 - 2024 Güz Dönemi
+UCK 322E,Flight Mechanics,Barış Başpınar,Pazartesi,1130/1429,UUB / D-Z09,30,50,"UCK, UCKE, UCKM",11890,2023 - 2024 Güz Dönemi
+UCK 322E,Flight Mechanics,Barış Başpınar,Çarşamba,0830/1129,UUB / D209,58,55,"UCK, UCKE, UCKM",11891,2023 - 2024 Güz Dönemi
+UCK 337E,Introduction to Optimization,İsmail Bayezit,Salı,0930/1229,UUB / D109,16,40,"UCK, UCKM, UZBE, UZBM",15158,2023 - 2024 Güz Dönemi
+UCK 348E,Computer Applic.in Engineering,Bülent Tutkun,Perşembe,1130/1429,UUB / D215,55,55,"UCK, UCKE, UZB, UZBE",11877,2023 - 2024 Güz Dönemi
+UCK 360E,Automatic Control I,Elbrus Caferov,Perşembe,1430/1729,UUB / D213,3,40,"UCK, UCKE, UZBE, UZBM",15246,2023 - 2024 Güz Dönemi
+UCK 361E,Design of Machine Elements,Halit Süleyman Türkmen,Salı,0930/1229,UUB / D113,55,55,"UCK, UCKE, UCKM, UZB, UZBE, UZBM",11947,2023 - 2024 Güz Dönemi
+UCK 372E,Experimental Engineering,"Halit Süleyman Türkmen, Duygu Erdem, İsmail Bayezit",Salı,1230/1529,UUB / ---,12,8,"UCK, UCKE, UZB, UZBE",15157,2023 - 2024 Güz Dönemi
+UCK 421E,Jet Propulsion Principles,Onur Tunçer,Perşembe,1130/1429,UUB / D209,74,70,"UCK, UCKE",11998,2023 - 2024 Güz Dönemi
+UCK 423E,Princip. of Aircraft Design I,Hayri Acar,Salı,1130/1429,UUB / D209,47,55,"UCK, UCKM",11898,2023 - 2024 Güz Dönemi
+UCK 423E,Princip. of Aircraft Design I,Hayri Acar,Salı,1430/1729,UUB / D209,51,55,"UCK, UCKM",11899,2023 - 2024 Güz Dönemi
+UCK 427E,Combustion,İskender Gökalp,Pazartesi,0930/1229,UUB / D110,25,50,"UCK, UCKE, UZB, UZBE",14879,2023 - 2024 Güz Dönemi
+UCK 445,Helikopter Tasarımı,--,Cuma,0930/1229,UUB / ---,0,0,UCK,11888,2023 - 2024 Güz Dönemi
+UCK 448E,Avionic Systems,Cengiz Hacızade,Cuma,1430/1729,UUB / D214,27,40,"KOM, KOME, UCK, UCKE, UZB, UZBE, UZBM",11976,2023 - 2024 Güz Dönemi
+UCK 459E,Helicopter Theory,Özge Özdemir,Pazartesi,0830/1129,UUB / D209,79,55,"UCK, UCKE, UZB, UZBE, UZBM",11919,2023 - 2024 Güz Dönemi
+UCK 468E,"Guidance, Control & Navigation",İsmail Bayezit,Perşembe,0830/1129,UUB / D215,54,55,"UCK, UCKE, UZB, UZBE, UZBM",11900,2023 - 2024 Güz Dönemi
+UCK 472E,Aeroelasticity,Melike Nikbay,Çarşamba,0830/1129,UUB / D108,17,40,"UCK, UCKE, UZB, UZBE, UZBM",11959,2023 - 2024 Güz Dönemi
+UCK 474E,Aircraft Engine Design,"Onur Tunçer, Mehmet Kahraman",Çarşamba,1130/1429,UUB / D111,36,50,"UCK, UCKE, UZB, UZBE, UZBM",11995,2023 - 2024 Güz Dönemi
+UCK 4901,Uçak Müh. Tasarımı I,Halit Süleyman Türkmen,----,/,UUB / ---,84,500,UCK,11952,2023 - 2024 Güz Dönemi
+UCK 4902,Uçak Müh. Tasarımı II,Halit Süleyman Türkmen,----,/,UUB / ---,17,500,UCK,11953,2023 - 2024 Güz Dönemi
+UCK 492,Bitirme Çalışması,Halit Süleyman Türkmen,----,/,UUB / ---,1,6,UCK,11954,2023 - 2024 Güz Dönemi
+UCK 492E,Graduation Project,Halit Süleyman Türkmen,----,/,UUB / ---,1,500,"UCK, UCKE",11956,2023 - 2024 Güz Dönemi

@@ -1,0 +1,96 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BLG 102E,Intr to Sci&Eng Comp (C),Hayri Turgut Uyar,Salı Perşembe,0830/1129 1530/1729,EEB INB,110,110,BLG BLGE CEN,21517,2021 - 2022 Bahar Dönemi
+BLG 102E,Intr to Sci&Eng Comp (C),"Ayşe Tosun, Ali Çakmak",Salı Perşembe,0830/1129 1530/1729,EEB EEB,84,110,BLG BLGE CEN,21516,2021 - 2022 Bahar Dönemi
+BLG 112,Ayrık Matematik,Şule Öğüdücü,----,/,EEB,1,1,BLG CHZ DEN EHB ELE ELH ELK JEO KOM MAD MATM PET TEL,26031,2021 - 2022 Bahar Dönemi
+BLG 112E,Discrete Mathematics,Hayri Turgut Uyar,Çarşamba,1230/1529,EEB,116,115,BLG BLGE YZVE,21520,2021 - 2022 Bahar Dönemi
+BLG 112E,Discrete Mathematics,Şule Öğüdücü,Çarşamba,1230/1529,EEB,114,115,BLG BLGE CEN YZVE,21519,2021 - 2022 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Yusuf Yaslan,----,/,EEB,2,2,BLG BLGE YZVE,26032,2021 - 2022 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Mehmet Keskinöz,Salı,0830/1129,EEB,68,110,BLG BLGE YZVE,21530,2021 - 2022 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Yusuf Yaslan,Salı,0830/1129,EEB,111,110,BLG BLGE YZVE,21529,2021 - 2022 Bahar Dönemi
+BLG 212,Mikroişlemci Sistemleri,Yaşar Erenler,----,/,EEB,2,2,BLG EHB ELE ELK TEL UZB,26033,2021 - 2022 Bahar Dönemi
+BLG 212,Mikroişlemci Sistemleri,Tamer Ölmez,Perşembe,0830/1129,EEB,33,50,EHB ELE ELK ELKE KOM KOME TEL,23137,2021 - 2022 Bahar Dönemi
+BLG 212E,Microprocessor Systems,Tankut Akgül,----,/,EEB,2,2,BLG BLGE EHB EHBE EHS ELE ELH ELK ELKE KOM KOME UCKE,26034,2021 - 2022 Bahar Dönemi
+BLG 212E,Microprocessor Systems,Tankut Akgül,Perşembe,0830/1129,EEB,84,70,EHB EHBE ELE ELH ELK ELKE KOM KOME,22989,2021 - 2022 Bahar Dönemi
+BLG 222,Bilgisayar Organizasyonu,Deniz Turgay Altılar,----,/,EEB,1,1,BLG,26035,2021 - 2022 Bahar Dönemi
+BLG 222E,Computer Organization,Gökhan İnce,Perşembe,0830/1129,EEB,109,110,BLG BLGE,21527,2021 - 2022 Bahar Dönemi
+BLG 222E,Computer Organization,Deniz Turgay Altılar,Perşembe,0830/1129,EEB,89,110,BLG BLGE,21526,2021 - 2022 Bahar Dönemi
+BLG 223,Veri Yapıları,Mehmet Baysan,----,/,EEB,1,1,BLG,26036,2021 - 2022 Bahar Dönemi
+BLG 223E,Data Structures,Mehmet Baysan,Salı Perşembe,1330/1629 1330/1429,EEB INB,79,80,BLG BLGE,21521,2021 - 2022 Bahar Dönemi
+BLG 231,Sayısal Devreler,Ali Sinan Çabuk,----,/,EEB,2,2,BLG EHB ELE ELH ELK KOM MKN TEL UZB,26037,2021 - 2022 Bahar Dönemi
+BLG 231,Sayısal Devreler,Ali Saffet Altay,Perşembe,0830/1129,EEB,67,68,ELK KOM MKN,22991,2021 - 2022 Bahar Dönemi
+BLG 231,Sayısal Devreler,Ali Sinan Çabuk,Perşembe,0830/1129,EEB,70,60,ELK KOM MKN,22990,2021 - 2022 Bahar Dönemi
+BLG 231E,Digital Circuits,Ali Sinan Çabuk,Cuma,0830/1129,EEB,76,64,ELK ELKE KOM KOME MKN,22992,2021 - 2022 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,İlkay Öksüz,----,/,EEB,1,1,BLG BLGE,26038,2021 - 2022 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,İlkay Öksüz,Cuma,1400/1559,EEB,54,60,BLG BLGE,21546,2021 - 2022 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Ali Çakmak,Cuma,1030/1229,EEB,60,60,BLG BLGE,21544,2021 - 2022 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,İlkay Öksüz,Perşembe,1330/1529,EEB,35,60,BLG BLGE,21547,2021 - 2022 Bahar Dönemi
+BLG 252,Nesneye Yönelik Programlama,Gülşen Eryiğit,----,/,EEB,1,1,FIZ KOM,26039,2021 - 2022 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Gülşen Eryiğit,----,/,EEB,2,2,BLG BLGE EHB EHBE EHS ELE KOM KOME TEL YZVE,26040,2021 - 2022 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Tankut Akgül,Salı,0830/1129,,117,85,EHB EHBE ELE KOM KOME TEL,22993,2021 - 2022 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Hatice Köse,Pazartesi,0830/1129,EEB,90,90,BLG BLGE YZVE,21524,2021 - 2022 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Gülşen Eryiğit,Pazartesi,0830/1129,EEB,91,90,BLG BLGE YZVE,21523,2021 - 2022 Bahar Dönemi
+BLG 311,Biçimsel Diller ve Otom,Berk Canberk,----,/,EEB,1,1,BLG,26041,2021 - 2022 Bahar Dönemi
+BLG 311E,Formal Languages and Automata,Tolga Ovatman,Çarşamba,1230/1529,EEB,122,100,BLG BLGE YZVE,21541,2021 - 2022 Bahar Dönemi
+BLG 311E,Formal Languages and Automata,Berk Canberk,Çarşamba,0930/1229,MDB,66,90,BLG BLGE YZVE,21542,2021 - 2022 Bahar Dönemi
+BLG 312,Bilgisayar İşletim Sistemleri,Takuhi Nadia Erdoğan,----,/,EEB,1,1,BLG,26042,2021 - 2022 Bahar Dönemi
+BLG 312,Bilgisayar İşletim Sistemleri,--,Çarşamba,0830/1129,,0,0,BLG,21556,2021 - 2022 Bahar Dönemi
+BLG 312E,Computer Operating Systems,Gökhan Seçinti,Çarşamba,0830/1129,EEB,174,150,BLG BLGE YZVE,21555,2021 - 2022 Bahar Dönemi
+BLG 317,Veri Tabanı Sistemleri,Hayri Turgut Uyar,----,/,EEB,1,1,BLG,26043,2021 - 2022 Bahar Dönemi
+BLG 322,Bilgisayar Mimarisi,Ayşe Yılmazer,----,/,EEB,2,2,BLG,26044,2021 - 2022 Bahar Dönemi
+BLG 322E,Computer Architecture,Ayşe Yılmazer,----,/,EEB,2,2,BLG BLGE,26045,2021 - 2022 Bahar Dönemi
+BLG 322E,Computer Architecture,Sanem Kabadayı,Perşembe,0830/1129,EEB,71,80,BLG BLGE,21554,2021 - 2022 Bahar Dönemi
+BLG 322E,Computer Architecture,Ayşe Yılmazer,Perşembe,0830/1129,EEB,81,80,BLG BLGE,21553,2021 - 2022 Bahar Dönemi
+BLG 335E,Analysis of Algorithms I,Hazım Kemal Ekenel,----,/,EEB,3,3,BLG BLGE YZVE,26046,2021 - 2022 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,Zehra Çataltepe,----,/,EEB,4,4,BLG BLGE YZVE,26047,2021 - 2022 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,İlkay Öksüz,Salı,0830/1129,MED,166,144,BLG BLGE YZVE,21549,2021 - 2022 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,--,Salı,0830/1129,GDB,0,0,BLG BLGE YZVE,21559,2021 - 2022 Bahar Dönemi
+BLG 351,Mikrobilgisayar Laboratuvarı,İlkay Öksüz,----,/,EEB,1,1,BLG,26048,2021 - 2022 Bahar Dönemi
+BLG 354E,Signal&Systems for Comp.Eng.,Hazım Kemal Ekenel,Pazartesi,0830/1129,EEB,110,110,BLG BLGE,21562,2021 - 2022 Bahar Dönemi
+BLG 354E,Signal&Systems for Comp.Eng.,Hazım Kemal Ekenel,----,/,EEB,4,4,BLG BLGE,26049,2021 - 2022 Bahar Dönemi
+BLG 354E,Signal&Systems for Comp.Eng.,Burak Berk Üstündağ,Pazartesi,0830/1129,EEB,90,110,BLG BLGE,21560,2021 - 2022 Bahar Dönemi
+BLG 368,Yöneylem Araştırması,Nizamettin Bayyurt,----,/,EEB,4,4,BLG EHB ELE ELH KOM TEL,26050,2021 - 2022 Bahar Dönemi
+BLG 368E,Operations Research,--,Salı,1330/1629,EEB,0,0,BLG BLGE EHB EHBE ELE KOM KOME TEL YZVE,21567,2021 - 2022 Bahar Dönemi
+BLG 368E,Operations Research,Nizamettin Bayyurt,Salı,1230/1529,,100,115,BLG BLGE YZVE,25008,2021 - 2022 Bahar Dönemi
+BLG 374E,Tech. Communic.for Comp.Eng.,Esbie van Heerden,Cuma,1430/1629,,91,95,BLG BLGE,21564,2021 - 2022 Bahar Dönemi
+BLG 374E,Tech. Communic.for Comp.Eng.,Esbie van Heerden,Perşembe,1430/1629,,89,90,BLG BLGE,21563,2021 - 2022 Bahar Dönemi
+BLG 411E,Software Engineering,Ahmet Cüneyd Tantuğ,----,/,EEB,2,2,BLG BLGE YZVE,26051,2021 - 2022 Bahar Dönemi
+BLG 412,Bilişim Etiği,Mehmet Tahir Sandıkkaya,----,/,EEB,1,1,BLG,26052,2021 - 2022 Bahar Dönemi
+BLG 412E,Computer Ethics,Mehmet Tahir Sandıkkaya,----,/,EEB,2,2,BLG BLGE,26053,2021 - 2022 Bahar Dönemi
+BLG 412E,Computer Ethics,Eşref Adalı,Perşembe,1130/1229,,16,100,BLG BLGE,21568,2021 - 2022 Bahar Dönemi
+BLG 413E,System Programming,Hayri Turgut Uyar,----,/,EEB,3,3,BLG BLGE,26054,2021 - 2022 Bahar Dönemi
+BLG 433E,Computer Communications,Gökhan Seçinti,----,/,EEB,3,3,BLG BLGE KOM KOME,26055,2021 - 2022 Bahar Dönemi
+BLG 435E,Artificial Intelligence,Sanem Sarıel,----,/,EEB,2,2,BLG BLGE,26056,2021 - 2022 Bahar Dönemi
+BLG 435E,Artificial Intelligence,Sanem Sarıel,Pazartesi,1430/1629,,29,60,BLG BLGE,21570,2021 - 2022 Bahar Dönemi
+BLG 439E,Computer Project I,Deniz Turgay Altılar,----,/,EEB,1,1,BLG BLGE,26057,2021 - 2022 Bahar Dönemi
+BLG 442E,Tech.&Innov. Mng.for Inf.Tech.,Gökhan İnce,----,/,EEB,1,1,BLG BLGE,26058,2021 - 2022 Bahar Dönemi
+BLG 442E,Tech.&Innov. Mng.for Inf.Tech.,Gökhan İnce,Cuma,0830/1129,EEB,31,60,BLG BLGE,21582,2021 - 2022 Bahar Dönemi
+BLG 443E,Discrete Event Simulation,--,Pazartesi,0830/1029,,0,0,BLG BLGE,21579,2021 - 2022 Bahar Dönemi
+BLG 443E,Discrete Event Simulation,Sanem Kabadayı,----,/,EEB,5,5,BLG BLGE,26059,2021 - 2022 Bahar Dönemi
+BLG 447,Derleyici Tasarımı,Takuhi Nadia Erdoğan,----,/,EEB,1,1,BLG,26060,2021 - 2022 Bahar Dönemi
+BLG 448E,Project Management in Eng.,Selin Metin,Cuma,0830/1129,,109,105,BLG BLGE YZVE,25098,2021 - 2022 Bahar Dönemi
+BLG 449E,Prog.in Parallel&DistrubedSys.,Deniz Turgay Altılar,----,/,EEB,4,4,BLG BLGE,26061,2021 - 2022 Bahar Dönemi
+BLG 449E,Prog.in Parallel&DistrubedSys.,Deniz Turgay Altılar,Pazartesi,1030/1229,EEB,4,60,BLG BLGE,21581,2021 - 2022 Bahar Dönemi
+BLG 450E,Real-Time Systems Software,Deniz Turgay Altılar,----,/,EEB,3,3,BLG BLGE,26062,2021 - 2022 Bahar Dönemi
+BLG 453E,Computer Vision,Gözde Ünal,----,/,EEB,1,1,BLG BLGE,26063,2021 - 2022 Bahar Dönemi
+BLG 454E,Learning From Data,Islem Rekik,----,/,EEB,2,2,BLG BLGE ECNE YZVE,26064,2021 - 2022 Bahar Dönemi
+BLG 454E,Learning From Data,Islem Rekik,Çarşamba,1230/1529,,97,100,BLG BLGE ECNE YZVE,21565,2021 - 2022 Bahar Dönemi
+BLG 456E,Robotics,Hatice Köse,----,/,EEB,1,1,BLG BLGE,26065,2021 - 2022 Bahar Dönemi
+BLG 458E,Functional Programming,Hayri Turgut Uyar,Cuma,1400/1559,EEB,85,70,BLG BLGE,21572,2021 - 2022 Bahar Dönemi
+BLG 460E,Secure Programming,Mehmet Tahir Sandıkkaya,----,/,EEB,1,1,BLG BLGE,26066,2021 - 2022 Bahar Dönemi
+BLG 460E,Secure Programming,Mehmet Tahir Sandıkkaya,Salı,1530/1729,EEB,62,70,BLG BLGE,21574,2021 - 2022 Bahar Dönemi
+BLG 463E,Innov. Leadership in Comp.Eng.,Alper Almelek,Perşembe,1030/1329,,0,40,BLG BLGE YZVE,25100,2021 - 2022 Bahar Dönemi
+BLG 468E,Object Oriented Model.&Design,Feza Buzluca,----,/,EEB,1,1,BLG BLGE,26067,2021 - 2022 Bahar Dönemi
+BLG 468E,Object Oriented Model.&Design,Feza Buzluca,Pazartesi,0830/1029,EEB,54,60,BLG BLGE,21576,2021 - 2022 Bahar Dönemi
+BLG 475E,Software Quality and Testing,Ayşe Tosun,Perşembe,0830/1029,,46,60,BLG BLGE,21583,2021 - 2022 Bahar Dönemi
+BLG 477E,Multimedia Computing,Uluğ Bayazıt,----,/,EEB,1,1,BLG BLGE,26068,2021 - 2022 Bahar Dönemi
+BLG 477E,Multimedia Computing,Uluğ Bayazıt,Salı,1330/1529,EEB,10,60,BLG BLGE,21584,2021 - 2022 Bahar Dönemi
+BLG 478E,Network Security,Şerif Bahtiyar,----,/,EEB,2,2,BLG BLGE,26069,2021 - 2022 Bahar Dönemi
+BLG 478E,Network Security,Şerif Bahtiyar,Salı,0830/1029,EEB,70,70,BLG BLGE,21577,2021 - 2022 Bahar Dönemi
+BLG 4901,Bilgisayar Müh. Tasarımı I,Ali Çakmak,----,/,EEB,5,500,BLG,21587,2021 - 2022 Bahar Dönemi
+BLG 4901E,Computer Engineering Design I,Ali Çakmak,----,/,EEB,22,500,BLGE,21589,2021 - 2022 Bahar Dönemi
+BLG 4902,Bilgisayar Mühen. Tasarımı II,Ali Çakmak,----,/,EEB,6,500,BLG,21588,2021 - 2022 Bahar Dönemi
+BLG 4902E,Computer Engineering Design II,Ali Çakmak,----,/,EEB,103,500,BLGE,21590,2021 - 2022 Bahar Dönemi
+BLG 492,Bitirme Çalışması,Ali Çakmak,----,/,EEB,4,4,BLG,25458,2021 - 2022 Bahar Dönemi
+BLG 492,Bitirme Çalışması,Ali Çakmak,----,/,EEB,30,500,BLG,21585,2021 - 2022 Bahar Dönemi
+BLG 492E,Graduation Project,Ali Çakmak,----,/,EEB,4,4,BLG BLGE,25459,2021 - 2022 Bahar Dönemi
+BLG 492E,Graduation Project,Ali Çakmak,----,/,EEB,34,500,BLG BLGE,21586,2021 - 2022 Bahar Dönemi

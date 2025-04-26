@@ -1,0 +1,55 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BLG 102E,Intr to Sci&Eng Comp (C),Ayşe Tosun,Çarşamba Perşembe,0830/1129 1330/1529,MDB EEB,82,85,BLG BLGE,21619,2019 - 2020 Bahar Dönemi
+BLG 102E,Intr to Sci&Eng Comp (C),Ahmet Cüneyd Tantuğ,Salı Perşembe,0830/1129 1530/1729,EEB EEB,78,80,BLG BLGE,21618,2019 - 2020 Bahar Dönemi
+BLG 102E,Intr to Sci&Eng Comp (C),Hayri Turgut Uyar,Pazartesi Perşembe,1430/1729 1530/1729,EEB INB,80,80,BLG BLGE,21620,2019 - 2020 Bahar Dönemi
+BLG 112E,Discrete Mathematics,Şule Öğüdücü,Çarşamba,1230/1529,MDB,127,127,BLG BLGE,21611,2019 - 2020 Bahar Dönemi
+BLG 112E,Discrete Mathematics,Hayri Turgut Uyar,Çarşamba,1230/1529,EEB,127,127,BLG BLGE,21610,2019 - 2020 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Yusuf Yaslan,Salı,0830/1129,EEB,102,102,BLG BLGE,21622,2019 - 2020 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Şerif Bahtiyar,Salı,0830/1129,EEB,102,102,BLG BLGE,21621,2019 - 2020 Bahar Dönemi
+BLG 212,Mikroişlemci Sistemleri,Tamer Ölmez,Salı,1230/1529,EEB,38,55,EHB ELE KOM TEL,21303,2019 - 2020 Bahar Dönemi
+BLG 212E,Microprocessor Systems,Tankut Akgül,Salı,1230/1529,EEB,64,55,EHB EHBE ELE KOM KOME TEL,21304,2019 - 2020 Bahar Dönemi
+BLG 222E,Computer Organization,Gökhan İnce,Perşembe,0830/1129,EEB,95,95,BLG BLGE,21623,2019 - 2020 Bahar Dönemi
+BLG 222E,Computer Organization,Mustafa Ersel Kamaşak,Perşembe,0830/1129,EEB,62,95,BLG BLGE,21624,2019 - 2020 Bahar Dönemi
+BLG 231,Sayısal Devreler,Ali Saffet Altay,Perşembe,0830/1129,EEB,54,55,ELK MKN,21146,2019 - 2020 Bahar Dönemi
+BLG 231,Sayısal Devreler,Ali Sinan Çabuk,Perşembe,0830/1129,EEB,56,55,ELK MKN,21144,2019 - 2020 Bahar Dönemi
+BLG 231E,Digital Circuits,Ali Sinan Çabuk,Cuma,0830/1129,EEB,44,50,ELK ELKE MKN,21145,2019 - 2020 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,İlkay Öksüz,Cuma,1530/1729,EEB,44,50,BLG BLGE,21667,2019 - 2020 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,İlkay Öksüz,Cuma,1330/1529,EEB,47,50,BLG BLGE,21666,2019 - 2020 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Gökhan Seçinti,Cuma,0830/1029,EEB,41,50,BLG BLGE,21664,2019 - 2020 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,İlkay Öksüz,Cuma,1030/1229,EEB,49,50,BLG BLGE,21665,2019 - 2020 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Tankut Akgül,Pazartesi,0830/1129,EEB,53,52,EHB EHBE TEL,21148,2019 - 2020 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Serkan Türkeli,Salı,0830/1129,EEB,49,40,EHB EHBE ELE KOM KOME TEL,21305,2019 - 2020 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Gülşen Eryiğit,Pazartesi,0830/1129,EEB,97,97,BLG BLGE,21625,2019 - 2020 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Hatice Köse,Pazartesi,0830/1129,EEB,97,97,BLG BLGE,21626,2019 - 2020 Bahar Dönemi
+BLG 311E,Formal Languages and Automata,Berk Canberk,Çarşamba,1230/1529,GDB,114,110,BLG BLGE,21627,2019 - 2020 Bahar Dönemi
+BLG 311E,Formal Languages and Automata,Tolga Ovatman,Çarşamba,1230/1529,EEB,116,110,BLG BLGE,21628,2019 - 2020 Bahar Dönemi
+BLG 312,Bilgisayar İşletim Sistemleri,Takuhi Nadia Erdoğan,Çarşamba,0830/1129,EEB,95,95,BLG,21629,2019 - 2020 Bahar Dönemi
+BLG 312E,Computer Operating Systems,Gökhan Seçinti,Çarşamba,0830/1129,EEB,128,115,BLG BLGE,21630,2019 - 2020 Bahar Dönemi
+BLG 322E,Computer Architecture,Feza Buzluca,Perşembe,0830/1129,EEB,103,105,BLG BLGE,21613,2019 - 2020 Bahar Dönemi
+BLG 322E,Computer Architecture,Sanem Kabadayı,Perşembe,0830/1129,EEB,88,105,BLG BLGE,21612,2019 - 2020 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,İlkay Öksüz,Salı,0830/1129,EEB,114,110,BLG BLGE,21616,2019 - 2020 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,Hazım Kemal Ekenel,Salı,0830/1129,EEB,114,110,BLG BLGE,21617,2019 - 2020 Bahar Dönemi
+BLG 354E,Signal&Systems for Comp.Eng.,Burak Berk Üstündağ,Pazartesi,1330/1629,MDB,117,130,BLG BLGE,21615,2019 - 2020 Bahar Dönemi
+BLG 354E,Signal&Systems for Comp.Eng.,Gözde Ünal,Pazartesi,0830/1129,EEB,141,135,BLG BLGE,21614,2019 - 2020 Bahar Dönemi
+BLG 368E,Operations Research,Serkan Türkeli,Salı,1230/1529,EEB,54,40,EHB EHBE ELE KOM KOME TEL,21306,2019 - 2020 Bahar Dönemi
+BLG 368E,Operations Research,Nizamettin Bayyurt,Salı,1330/1629,EEB,92,105,BLG BLGE,22975,2019 - 2020 Bahar Dönemi
+BLG 374E,Tech. Communic.for Comp.Eng.,İmge Şahin Girtten,Cuma,1230/1429,EEB,92,100,BLG BLGE,21634,2019 - 2020 Bahar Dönemi
+BLG 374E,Tech. Communic.for Comp.Eng.,İmge Şahin Girtten,Cuma,1430/1629,EEB,71,95,BLG BLGE,21635,2019 - 2020 Bahar Dönemi
+BLG 412E,Computer Ethics,Eşref Adalı,Perşembe,1130/1229,EEB,107,150,BLG BLGE,21609,2019 - 2020 Bahar Dönemi
+BLG 433E,Computer Communications,Gökhan Seçinti,Çarşamba,1330/1529,EEB,69,75,BLG BLGE,21636,2019 - 2020 Bahar Dönemi
+BLG 440E,Computer Project II,Devrim Yıldırım,Çarşamba,0830/1129,EEB,30,30,BLG BLGE,25013,2019 - 2020 Bahar Dönemi
+BLG 440E,Computer Project II,Barış Bilen Vural,Cuma,1200/1459,EEB,31,30,BLG BLGE,25014,2019 - 2020 Bahar Dönemi
+BLG 442E,Tech.&Innov. Mng.for Inf.Tech.,Gökhan İnce,Cuma,0830/1129,EEB,54,65,BLG BLGE,21637,2019 - 2020 Bahar Dönemi
+BLG 443E,Discrete Event Simulation,Sanem Kabadayı,Pazartesi,0830/1029,MED,9,60,BLG BLGE,21638,2019 - 2020 Bahar Dönemi
+BLG 448E,Project Management in Eng.,Serkan Türkeli,Pazartesi,1230/1529,EEB,21,40,KOM KOME,21307,2019 - 2020 Bahar Dönemi
+BLG 448E,Project Management in Eng.,Selin Metin,Cuma,0830/1129,EEB,64,75,BLG BLGE,25057,2019 - 2020 Bahar Dönemi
+BLG 449E,Prog.in Parallel&DistrubedSys.,Deniz Turgay Altılar,Pazartesi,0830/1029,MED,13,60,BLG BLGE,21639,2019 - 2020 Bahar Dönemi
+BLG 454E,Learning From Data,--,Çarşamba,1230/1529,EEB,0,0,BLG BLGE ECNE,25221,2019 - 2020 Bahar Dönemi
+BLG 454E,Learning From Data,Islem Rekik,Çarşamba,1230/1529,KMB,109,105,BLG BLGE ECNE,21640,2019 - 2020 Bahar Dönemi
+BLG 458E,Functional Programming,Hayri Turgut Uyar,Cuma,1400/1559,EEB,79,75,BLG BLGE,21641,2019 - 2020 Bahar Dönemi
+BLG 460E,Secure Programming,Mehmet Tahir Sandıkkaya,Salı,1530/1729,EEB,73,75,BLG BLGE,21645,2019 - 2020 Bahar Dönemi
+BLG 468E,Object Oriented Model.&Design,Feza Buzluca,Pazartesi,0830/1029,KMB,75,75,BLG BLGE,21642,2019 - 2020 Bahar Dönemi
+BLG 475E,Software Quality and Testing,Ayşe Tosun,Perşembe,0830/1029,MDB,40,75,BLG BLGE,21643,2019 - 2020 Bahar Dönemi
+BLG 477E,Multimedia Computing,Uluğ Bayazıt,Salı,1330/1529,EEB,12,60,BLG BLGE,21644,2019 - 2020 Bahar Dönemi
+BLG 492,Bitirme Çalışması,Gökhan Seçinti,----,/,---,41,500,BLG,21632,2019 - 2020 Bahar Dönemi
+BLG 492E,Graduation Project,Gökhan Seçinti,----,/,---,109,500,BLG BLGE,21633,2019 - 2020 Bahar Dönemi

@@ -1,0 +1,73 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEO 101E,Intro. to Info. Technologies,Ergin Tarı,Cuma,1430/1629,INB,75,60,GEO GEOE JDF,12302,2019 - 2020 Güz Dönemi
+GEO 101E,Intro. to Info. Technologies,Ergin Tarı,Cuma,0830/1029,INB,77,60,GEO GEOE JDF,12301,2019 - 2020 Güz Dönemi
+GEO 103,Temel Ölçme Bilgisi,Turan Erden,Çarşamba,0830/1229,INB,61,70,GEO,12303,2019 - 2020 Güz Dönemi
+GEO 103E,Fundamentals of Surveying,Himmet Karaman,Pazartesi,1330/1729,INB,83,70,GEO GEOE,12304,2019 - 2020 Güz Dönemi
+GEO 105,Geomatik Müh. Giriş,Çiğdem Göksel,Çarşamba,1330/1529,INB,66,60,GEO,12305,2019 - 2020 Güz Dönemi
+GEO 105E,Intro. to Geomat. Engineering,Filiz Bektaş Balçık,Çarşamba,1330/1529,INB,78,60,GEO GEOE,12306,2019 - 2020 Güz Dönemi
+GEO 106E,Fundamentals of Programming,Ergin Tarı,Pazartesi Pazartesi,0830/1029 1030/1229,INB INB,23,40,GEO GEOE JDF,14638,2019 - 2020 Güz Dönemi
+GEO 107,Analitik Geometri&Ve..,Hasan Hakan Yavaşoğlu,Perşembe,1330/1629,INB,70,60,GEO JDF,12307,2019 - 2020 Güz Dönemi
+GEO 107E,Analy. Geom. and Vect. Algeb.,Caner Güney,Salı,0830/1129,INB,85,60,GEO GEOE,12308,2019 - 2020 Güz Dönemi
+GEO 201,Kartografya I,Nesibe Necla Uluğtekin,Çarşamba,1030/1229,INB,67,65,GEO,12311,2019 - 2020 Güz Dönemi
+GEO 201E,Cartography I,Ahmet Özgür Doğru,Cuma,1430/1629,INB,45,50,GEO GEOE,12313,2019 - 2020 Güz Dönemi
+GEO 203,Koord. Sist. Ve Jeodezi I,Hayri Hakan Denli,Cuma,0830/1229,INB,49,60,GEO,12329,2019 - 2020 Güz Dönemi
+GEO 203E,Coordinate Sys. and Geodesy I,Bihter Erol,Cuma,0830/1229,INB,47,60,GEO GEOE,12330,2019 - 2020 Güz Dönemi
+GEO 204E,Th.of Err. And Ad. C.,Mustafa Tevfik Özlüdemir,Salı,1330/1729,INB,36,60,GEO GEOE JDF,12314,2019 - 2020 Güz Dönemi
+GEO 205,Mühendislik Etiği,Çiğdem Göksel,Salı,1130/1329,INB,56,55,GEO,12315,2019 - 2020 Güz Dönemi
+GEO 205E,Engineering Ethics,Ahmet Özgür Doğru,Pazartesi,0830/1029,INB,49,55,GEO GEOE,12316,2019 - 2020 Güz Dönemi
+GEO 207,"İş Hukuku,İşçi Sağl.&İş Güv.",Hasan Hakan Yavaşoğlu,Pazartesi,1330/1529,INB,67,61,GEO,12317,2019 - 2020 Güz Dönemi
+GEO 207E,"Labor Law,Occupati.H..",Hasan Hakan Yavaşoğlu,Salı,0830/1029,INB,45,50,GEO GEOE,12318,2019 - 2020 Güz Dönemi
+GEO 208,Uzaktan Algılama I,Şinasi Kaya,Cuma,1430/1629,INB,16,40,GEO,12319,2019 - 2020 Güz Dönemi
+GEO 208E,Remote Sensing I,Ayşe Filiz Sunar,Çarşamba,0830/1029,INB,21,40,GEO GEOE,12320,2019 - 2020 Güz Dönemi
+GEO 209,Taşınmaz Hukuku,Mustafa Yanalak,Çarşamba,1330/1529,INB,57,60,GEO,12321,2019 - 2020 Güz Dönemi
+GEO 209E,Real Estate's Law,Mustafa Yanalak,Salı,1130/1329,INB,47,50,GEO GEOE,12322,2019 - 2020 Güz Dönemi
+GEO 211E,Num. Meth. for Geomatics Eng.,Uğur Algancı,Salı,1330/1729,INB,100,100,GEO GEOE,12323,2019 - 2020 Güz Dönemi
+GEO 213,Konum Bel. Yönt. ve Sist.,Hasan Hakan Yavaşoğlu,Perşembe,0830/1129,INB,58,55,GEO,12325,2019 - 2020 Güz Dönemi
+GEO 213,Konum Bel. Yönt. ve Sist.,--,Perşembe,0830/1129,INB,0,0,GEO,12324,2019 - 2020 Güz Dönemi
+GEO 213E,Positioning Method and Systems,--,Çarşamba,1030/1329,INB,0,0,GEO GEOE JDF,12327,2019 - 2020 Güz Dönemi
+GEO 213E,Positioning Method and Systems,Rahmi Nurhan Çelik,Çarşamba,1030/1329,INB,50,52,GEO GEOE JDF,12326,2019 - 2020 Güz Dönemi
+GEO 215E,Prob.and Stat. for Geom. Eng.,Esra Erten,Pazartesi,1030/1329,INB,79,100,GEO GEOE,12328,2019 - 2020 Güz Dönemi
+GEO 301,Özel Ölçme Uygulamaları,Reha Metin Alkan,Pazartesi,0830/1129,INB,50,50,GEO,12331,2019 - 2020 Güz Dönemi
+GEO 301E,Special Surveying Applications,Turan Erden,Pazartesi,0830/1129,INB,33,55,GEO GEOE,12332,2019 - 2020 Güz Dönemi
+GEO 303,Kadastro Bilgisi,--,Çarşamba,0830/1029,INB,0,0,GEO,12333,2019 - 2020 Güz Dönemi
+GEO 303,Kadastro Bilgisi,Mustafa Yanalak,Salı,1430/1629,INB,29,50,GEO,13950,2019 - 2020 Güz Dönemi
+GEO 303E,Cadastre,Mustafa Yanalak,Pazartesi,1130/1329,INB,40,50,GEO GEOE,12334,2019 - 2020 Güz Dönemi
+GEO 307,Kartografya II,Nesibe Necla Uluğtekin,Perşembe,0830/1029,INB,39,50,GEO,12335,2019 - 2020 Güz Dönemi
+GEO 307E,Cartography II,Ahmet Özgür Doğru,Perşembe,1030/1229,INB,41,50,GEO GEOE,12336,2019 - 2020 Güz Dönemi
+GEO 309,Fotogrametri I,"Zaide Duran, Fatma Gönül Toz",Salı,0830/1029,INB,58,52,GEO,12337,2019 - 2020 Güz Dönemi
+GEO 309E,Photogrammetry I,"Zaide Duran, Fatma Gönül Toz",Perşembe,0830/1029,INB,45,50,GEO GEOE,12338,2019 - 2020 Güz Dönemi
+GEO 311,Jeodezik Altyapı ve Ağlar,"Serdar Erol, Bihter Erol",Cuma,1430/1629,INB,53,52,GEO JDF,12340,2019 - 2020 Güz Dönemi
+GEO 311E,Geodetic Infrast. and Network,Mustafa Tevfik Özlüdemir,Cuma,1430/1629,INB,22,50,GEO GEOE,12339,2019 - 2020 Güz Dönemi
+GEO 311E,Geodetic Infrast. and Network,Rahmi Nurhan Çelik,Çarşamba,0830/1029,INB,14,50,GEO GEOE,12341,2019 - 2020 Güz Dönemi
+GEO 313E,Digital Image Processing,Hilal Gonca Coşkun,Çarşamba,1030/1329,INB,54,50,GEO GEOE,12342,2019 - 2020 Güz Dönemi
+GEO 313E,Digital Image Processing,Ayşe Filiz Sunar,Salı,1330/1629,INB,15,50,GEO GEOE,12343,2019 - 2020 Güz Dönemi
+GEO 313E,Digital Image Processing,--,Pazartesi,1330/1629,INB,0,0,GEO GEOE,12344,2019 - 2020 Güz Dönemi
+GEO 315E,Fund. of Geographic Inf. Sys.,--,Çarşamba,0830/1029,INB,0,0,GEO GEOE,15062,2019 - 2020 Güz Dönemi
+GEO 315E,Fund. of Geographic Inf. Sys.,Dursun Zafer Şeker,Çarşamba,0830/1029,INB,74,59,GEO GEOE JDF,12346,2019 - 2020 Güz Dönemi
+GEO 315E,Fund. of Geographic Inf. Sys.,Nesibe Necla Uluğtekin,Salı,0830/1029,INB,39,40,GEO GEOE JDF,12347,2019 - 2020 Güz Dönemi
+GEO 317,Arazi Modelleme,Cengizhan İpbüker,Salı,1130/1429,INB,24,30,GEO JDF,14639,2019 - 2020 Güz Dönemi
+GEO 401,Fiziksel Jeodezi,Bihter Erol,Pazartesi,0830/1029,INB,31,50,GEO JDF,12348,2019 - 2020 Güz Dönemi
+GEO 401E,Physical Geodesy,Bihter Erol,Pazartesi,1330/1529,INB,35,50,GEO GEOE,12349,2019 - 2020 Güz Dönemi
+GEO 403,CBS Projeleri,"Dursun Zafer Şeker, Caner Güney, Hande Demirel, Nesibe Necla Uluğtekin",Perşembe,1230/1529,INB,22,20,GEO,12360,2019 - 2020 Güz Dönemi
+GEO 403,CBS Projeleri,--,Perşembe,1230/1529,INB,0,0,GEO,12359,2019 - 2020 Güz Dönemi
+GEO 403E,GIS Projects,--,Perşembe,1230/1529,INB,0,0,GEO GEOE,12362,2019 - 2020 Güz Dönemi
+GEO 403E,GIS Projects,"Uğur Algancı, Ahmet Özgür Doğru, Filiz Bektaş Balçık, Himmet Karaman",Perşembe,1230/1529,INB,22,23,GEO GEOE,12361,2019 - 2020 Güz Dönemi
+GEO 417,Jeodezik Astronomi,Serdar Erol,Pazartesi,1230/1429,INB,19,40,GEO,12350,2019 - 2020 Güz Dönemi
+GEO 417E,Geodetic Astronomy,Caner Güney,Pazartesi,1130/1329,INB,16,40,GEO GEOE,12351,2019 - 2020 Güz Dönemi
+GEO 423,Kırsal Alan Düzenlemesi,Gaye Onursal Denli,Pazartesi,1030/1229,INB,12,30,GEO,12369,2019 - 2020 Güz Dönemi
+GEO 425E,Digital Image Processing II,Ayşe Filiz Sunar,Salı,1030/1229,INB,14,40,GEO GEOE,12364,2019 - 2020 Güz Dönemi
+GEO 429E,Close Range Photogrammetry,Dursun Zafer Şeker,Salı,1130/1329,INB,42,40,GEO GEOE,12352,2019 - 2020 Güz Dönemi
+GEO 444,Hesaplamalı Geometri,Cengizhan İpbüker,Cuma,1030/1229,INB,8,40,GEO,12366,2019 - 2020 Güz Dönemi
+GEO 452,UA Verileri ile 3B Model.,"Nebiye Musaoğlu, Esra Erten",Salı,0830/1029,INB,17,40,GEO,12673,2019 - 2020 Güz Dönemi
+GEO 454E,Rem.Sens. for Nat. Res. Man.,Filiz Bektaş Balçık,Salı,0830/1029,INB,5,40,GEO GEOE,12363,2019 - 2020 Güz Dönemi
+GEO 458E,City Planning,Hüseyin Murat Çelik,Perşembe,1330/1529,INB,19,40,GEO GEOE,12353,2019 - 2020 Güz Dönemi
+GEO 460,Yol Planlaması ve İnşaatı,"Murat Ergün, Adem Faik İyinam",Perşembe,0830/1029,INB,30,40,GEO JDF,12354,2019 - 2020 Güz Dönemi
+GEO 460E,Road Design and Construction,"Murat Ergün, Adem Faik İyinam",Salı,1530/1729,INB,23,40,GEO GEOE,12355,2019 - 2020 Güz Dönemi
+GEO 462E,Advance. Progr. in Geom. Eng.,Ergin Tarı,Çarşamba,0830/1029,INB,19,20,GEO GEOE,12372,2019 - 2020 Güz Dönemi
+GEO 464E,Eng. Spatial Sys. Design,--,Cuma,1030/1229,INB,0,0,GEO GEOE,12356,2019 - 2020 Güz Dönemi
+GEO 468,UA'da Özel Konular,Şinasi Kaya,Perşembe,1030/1229,INB,16,40,GEO,12367,2019 - 2020 Güz Dönemi
+GEO 468E,Spec. Topics in Remote Sens.,Elif Sertel,Pazartesi,1530/1729,INB,18,40,GEO GEOE,12368,2019 - 2020 Güz Dönemi
+GEO 476,Geo. Müh. Proje Planlama Yön.,Reha Metin Alkan,Çarşamba,1330/1529,INB,40,40,GEO,12365,2019 - 2020 Güz Dönemi
+GEO 478,Kamulaştırma Tekniği,Reha Metin Alkan,Çarşamba,1030/1229,INB,19,40,GEO,12370,2019 - 2020 Güz Dönemi
+GEO 4901,Geomatik Müh. Tasarımı I,Mustafa Yanalak,----,/,---,24,500,GEO,12357,2019 - 2020 Güz Dönemi
+GEO 4901E,Geomatics Eng. Design I,Mustafa Yanalak,----,/,---,16,500,GEO GEOE,12358,2019 - 2020 Güz Dönemi

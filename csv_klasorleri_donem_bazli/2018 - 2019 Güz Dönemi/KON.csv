@@ -1,0 +1,40 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KON 101,Kontrol ve Otomasyon Müh. Etik,Mustafa Doğan,Salı,1030/1129,EEB,79,50,KOM KON,11125,2018 - 2019 Güz Dönemi
+KON 101E,Cont.& Automation Eng. Ethics,Mustafa Doğan,Salı,1130/1229,EEB,13,50,KOME,11128,2018 - 2019 Güz Dönemi
+KON 110E,Intr. to Prog. Language (C),Serkan Türkeli,Pazartesi Pazartesi,1330/1529 1530/1629,EEB EEB,50,40,KOM KOME,11130,2018 - 2019 Güz Dönemi
+KON 111,Kontrol Müh. Grş.,Hakan Temeltaş,Salı,1130/1229,EEB,80,80,KOM,11135,2018 - 2019 Güz Dönemi
+KON 111E,Intr. to Control Eng.,Hakan Temeltaş,Salı,1230/1329,EEB,20,50,KOM KOME,11137,2018 - 2019 Güz Dönemi
+KON 201E,Differential Equations,Gülay Öke Günel,Perşembe,1330/1729,EEB,55,60,KOM KOME,11145,2018 - 2019 Güz Dönemi
+KON 214E,System Modelling&Simulation;,Hakan Temeltaş,Cuma,0900/1159,EEB,39,40,KOM KOME,11143,2018 - 2019 Güz Dönemi
+KON 309E,Microcontroller Systems,Osman Kaan Erol,Salı,0830/1229,EEB,78,80,KOM KOME MKN,11154,2018 - 2019 Güz Dönemi
+KON 313,Geribeslemeli Kontrol Sist.,Müjde Güzelkaya,Pazartesi,1330/1629,EEB,63,80,KOM,11155,2018 - 2019 Güz Dönemi
+KON 313E,Feedback Control Systems,--,Pazartesi,1330/1629,---,0,0,KOM KOME,11156,2018 - 2019 Güz Dönemi
+KON 314E,Control System Design,Mehmet Turan Söylemez,Pazartesi Cuma,1030/1229 1530/1729,EEB EEB,30,40,KOM KOME,11159,2018 - 2019 Güz Dönemi
+KON 315,Elektronik Enstrümantasyon,Serhat İkizoğlu,Çarşamba,0830/1229,EEB,67,90,KOM,11163,2018 - 2019 Güz Dönemi
+KON 315E,Electronic Instrumentation,Serhat İkizoğlu,Perşembe,0930/1329,EEB,12,50,KOM KOME,11164,2018 - 2019 Güz Dönemi
+KON 317,Otomatik Kontrol Sistemleri,Sıddık Murat Yeşiloğlu,Pazartesi,1330/1629,GDB,51,50,BLG EHB ELE ELH ELK TEL,11167,2018 - 2019 Güz Dönemi
+KON 317,Otomatik Kontrol Sistemleri,Yücel Aydın,Pazartesi,1330/1629,EEB,49,50,BLG EHB ELE ELH ELK TEL,11166,2018 - 2019 Güz Dönemi
+KON 317,Otomatik Kontrol Sistemleri,Tufan Kumbasar,Pazartesi,1330/1629,EEB,53,50,BLG EHB ELE ELH ELK TEL,11165,2018 - 2019 Güz Dönemi
+KON 317E,Control Systems,Gülay Öke Günel,Pazartesi,1330/1629,EEB,48,50,BLG BLGE EHB EHBE ELK ELKE,11148,2018 - 2019 Güz Dönemi
+KON 318E,Introduction to Robotics,Hakan Temeltaş,Salı,1330/1629,EEB,82,80,KOM KOME,11168,2018 - 2019 Güz Dönemi
+KON 407E,State Space Meth.in Contr.Syst,Fikret Çalışkan,Pazartesi,0930/1229,EEB,43,90,KOM KOME,11181,2018 - 2019 Güz Dönemi
+KON 409,Bitirme Tasarım Prj. Giriş,Hakan Temeltaş,Perşembe,1130/1329,EEB,41,40,KOM,11171,2018 - 2019 Güz Dönemi
+KON 409E,Int. to Senior Design Project,Hakan Temeltaş,Perşembe,1330/1529,EEB,8,40,KOM KOME,11172,2018 - 2019 Güz Dönemi
+KON 411,Kontrol Lab.,Yaprak Yalçın,Cuma,1030/1229,EEB,7,24,KOM,11183,2018 - 2019 Güz Dönemi
+KON 411,Kontrol Lab.,Yaprak Yalçın,Perşembe,0930/1129,EEB,23,24,KOM,15744,2018 - 2019 Güz Dönemi
+KON 411,Kontrol Lab.,Ali Fuat Ergenç,Çarşamba,1230/1429,EEB,18,24,KOM,15743,2018 - 2019 Güz Dönemi
+KON 411,Kontrol Lab.,Mehmet Turan Söylemez,Çarşamba,0830/1029,EEB,6,24,KOM,11182,2018 - 2019 Güz Dönemi
+KON 411,Kontrol Lab.,Yaprak Yalçın,Pazartesi,0830/1029,EEB,13,24,KOM,11184,2018 - 2019 Güz Dönemi
+KON 411E,Control Laboratory,Ali Fuat Ergenç,Cuma,0830/1029,EEB,8,24,KOM KOME,11179,2018 - 2019 Güz Dönemi
+KON 411E,Control Laboratory,--,Çarşamba,1230/1429,EEB,0,0,KOM KOME,11180,2018 - 2019 Güz Dönemi
+KON 413,Endüstriyel Otomasyon,Salman Kurtulan,Perşembe,1330/1729,EEB,31,32,KOM,11185,2018 - 2019 Güz Dönemi
+KON 413E,Industrial Automation,--,Pazartesi,1330/1729,EEB,0,0,KOME,11186,2018 - 2019 Güz Dönemi
+KON 417,Servo Motorlar,Metin Gökaşan,Salı,0930/1229,EEB,10,75,KOM MKN,11187,2018 - 2019 Güz Dönemi
+KON 417E,Servo Motors,Ovsanna Seta Estrada,Salı,0930/1229,MED,3,75,KOM KOME,11188,2018 - 2019 Güz Dönemi
+KON 419E,Control Sys. Dsgn. Project,Ali Fuat Ergenç,Pazartesi Cuma,1230/1329 1130/1229,EEB EEB,62,90,KOM KOME,11178,2018 - 2019 Güz Dönemi
+KON 422,Elektrikli Ulaşım Sistemleri,Salman Kurtulan,Çarşamba,1230/1529,EEB,28,50,KOM,11189,2018 - 2019 Güz Dönemi
+KON 425E,Process Control,Tufan Kumbasar,Çarşamba,0830/1129,EEB,52,40,KOM KOME,11190,2018 - 2019 Güz Dönemi
+KON 435E,Industrial Data Communications,Ali Fuat Ergenç,Pazartesi,1330/1729,EEB,43,50,END ENDE KOM KOME,11177,2018 - 2019 Güz Dönemi
+KON 437,Hareket Kontrol Sistemleri,--,Salı Perşembe,0830/1029 0930/1129,EEB EEB,0,0,KOM,11175,2018 - 2019 Güz Dönemi
+KON 492,Bitirme Tasarım Projesi,Hakan Temeltaş,----,/,EEB,18,500,KOM,11174,2018 - 2019 Güz Dönemi
+KON 492E,Senior Design Project,Hakan Temeltaş,----,/,EEB,3,500,KOM KOME,11173,2018 - 2019 Güz Dönemi

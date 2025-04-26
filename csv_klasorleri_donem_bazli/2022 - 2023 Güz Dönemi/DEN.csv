@@ -1,0 +1,31 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+DEN 101,Gemi&Deniz Tek.Müh.Giriş&Etik,Ayhan Menteş,Pazartesi,1430/1629,GDB,0,0,DEN SORM,13178,2022 - 2023 Güz Dönemi
+DEN 210E,Engineering Mathematics,Ayhan Menteş,Pazartesi,0830/1229,GDB,0,0,DEN DENE,13721,2022 - 2023 Güz Dönemi
+DEN 211,Mühendislik Tasarımına Giriş,"Kadir Sarıöz, Ebru Sarıöz",Çarşamba,1330/1529,GDB,0,0,DEN,13184,2022 - 2023 Güz Dönemi
+DEN 323E,Wave Mechanics,Şafak Nur Ertürk Bozkurtoğlu,Perşembe,0930/1229,GDB,0,0,DEN,13230,2022 - 2023 Güz Dönemi
+DEN 325E,Adv. Manufacturing Process,Necip Ünlü,Salı,1330/1629,GDB,0,0,DEN,13233,2022 - 2023 Güz Dönemi
+DEN 326,Bilg.Dest.Açık Deniz Yap.Hes.,Münir Cansın Özden,Çarşamba,0830/1129,GDB,0,0,DEN,13235,2022 - 2023 Güz Dönemi
+DEN 327E,Safety Mang.&Risk Analy.,Ayhan Menteş,Pazartesi,1230/1429,GDB,0,0,DEN,13189,2022 - 2023 Güz Dönemi
+DEN 337E,Intr. to Marine Ecolo. Process,Burak Karacık,Salı,1130/1329,GDB,0,0,DEN DENE,13188,2022 - 2023 Güz Dönemi
+DEN 341E,Ship Theory,Hakan Akyıldız,Çarşamba,0830/1129,GDB,0,0,DEN DENE,13190,2022 - 2023 Güz Dönemi
+DEN 345E,Dynamics of Marine Ecosystems,Sevil Deniz Yakan Dündar,Salı,1130/1329,GDB,0,0,DEN DENE,13187,2022 - 2023 Güz Dönemi
+DEN 349E,Prdct.Princip.ofOffshore Units,Özgür Özgüç,Perşembe,1330/1629,GDB,0,0,DEN,13216,2022 - 2023 Güz Dönemi
+DEN 351,Sörvey&Sertifikasyon Sür.Gir.,Erdal Gedikoğlu,Cuma,0930/1229,GDB,0,0,DEN SORM,13220,2022 - 2023 Güz Dönemi
+DEN 353,Gemi Yönetimi Sistem.Giriş,Osman Çamözü,Pazartesi,0930/1229,GDB,0,0,DEN SORM,13225,2022 - 2023 Güz Dönemi
+DEN 405E,Coastal Engineering,Bilge Tutak,Salı,1330/1629,GDB,0,0,DEN,13248,2022 - 2023 Güz Dönemi
+DEN 411,Hidrodinamik,Deniz Bayraktar Bural,Perşembe,0830/1129,GDB,0,0,DEN,13249,2022 - 2023 Güz Dönemi
+DEN 411E,Hydrodynamics,Kadir Sarıöz,Perşembe,0830/1129,DZB,0,0,DEN DENE,14796,2022 - 2023 Güz Dönemi
+DEN 412E,Underwater Acoustics,Münir Cansın Özden,Pazartesi,1030/1229,GDB,0,0,DEN DENE,13242,2022 - 2023 Güz Dönemi
+DEN 421E,Ship Propulsion,Ömer Kemal Kınacı,Perşembe,1330/1529,GDB,0,0,DEN DENE,13250,2022 - 2023 Güz Dönemi
+DEN 431E,Stgth of Shps & Offshr Strctrs,Özgür Özgüç,Çarşamba,1230/1529,GDB,0,0,DEN DENE,13212,2022 - 2023 Güz Dönemi
+DEN 436E,Ecotoxicology in the Marine En,--,Salı,0930/1129,GDB,0,0,DEN DENE,13246,2022 - 2023 Güz Dönemi
+DEN 441E,Marine Structures Project I,"Hakan Akyıldız, Burak Karacık, Kadir Sarıöz, Özgür Özgüç",Salı,1530/1729,GDB,0,0,DEN DENE,14699,2022 - 2023 Güz Dönemi
+DEN 445E,Experim.Design & Data Analysis,Burcu Erbaş,Salı,0930/1129,GDB,0,0,DEN,13247,2022 - 2023 Güz Dönemi
+DEN 447E,Engineering Optimisation,Kadir Sarıöz,Salı,0930/1129,GDB,0,0,DEN,13243,2022 - 2023 Güz Dönemi
+DEN 449E,Inr. to the Analysis of Oce.Da,Bilge Tutak,Salı,0930/1129,GDB,0,0,DEN,13244,2022 - 2023 Güz Dönemi
+DEN 450E,Ballast Water Management,Ceren Bilgin Güney,Çarşamba,0930/1129,GDB,0,0,DEN,13237,2022 - 2023 Güz Dönemi
+DEN 479E,Underwater Vehicle Technology,Bilge Tutak,Çarşamba,0930/1129,GDB,0,0,DEN DENE,13238,2022 - 2023 Güz Dönemi
+DEN 482,Bireysel Proje,Kadir Sarıöz,----,/,GDB,0,0,DEN,13252,2022 - 2023 Güz Dönemi
+DEN 4901E,Shipbuilding&Ocean Eng.Desig.I,"Hakan Akyıldız, Burak Karacık, Kadir Sarıöz, Serdar Aytekin Köroğlu, Özgür Özgüç",Cuma Cuma,0930/1229 1400/1659,GDB GDB,0,0,DEN,13251,2022 - 2023 Güz Dönemi
+DEN 4902,Gemi& Dnz.Tek.Müh. Tasarımı II,--,Pazartesi Pazartesi Salı,0830/1029 1430/1629 1430/1629,GDB GDB GDB,0,0,DEN,13720,2022 - 2023 Güz Dönemi
+DEN 492E,Graduation Project,Kadir Sarıöz,----,/,GDB,0,0,DEN DENE,13253,2022 - 2023 Güz Dönemi

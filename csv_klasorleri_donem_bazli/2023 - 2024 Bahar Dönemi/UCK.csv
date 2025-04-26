@@ -1,0 +1,37 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+UCK 106,Uçak Müh. Giriş ve Tasarım,Hayri Acar,Cuma,0830/1229,UUB / D-Z08,92,100,UCK,22780,2023 - 2024 Bahar Dönemi
+UCK 203E,"Circuits, Signals and Systems",Ramazan Yeniçeri,Salı,1430/1729,UUB / D110,106,110,"UCK, UZBE",22790,2023 - 2024 Bahar Dönemi
+UCK 203E,"Circuits, Signals and Systems",Ramazan Yeniçeri,Çarşamba,0830/1129,UUB / D110,96,110,"UCK, UZBE",22791,2023 - 2024 Bahar Dönemi
+UCK 236E,Composite Materials,Kaan Yıldız,Perşembe,0830/1129,UUB / D214,49,50,"UCK, UCKE, UZB, UZBE",22788,2023 - 2024 Bahar Dönemi
+UCK 303E,Automatic Control,Elbrus Caferov,Cuma,1430/1729,UUB / D214,15,50,"UCK, UZB, UZBE",25092,2023 - 2024 Bahar Dönemi
+UCK 304E,Experimental Engineering,Halit Süleyman Türkmen,Pazartesi,0830/1029,UUB / D109,31,32,"UCK, UCKE, UZB, UZBE",22796,2023 - 2024 Bahar Dönemi
+UCK 304E,Experimental Engineering,Saliha Banu Yılmaz,Pazartesi,1430/1629,UUB / D215,27,32,"UCK, UCKE, UZB, UZBE",22799,2023 - 2024 Bahar Dönemi
+UCK 304E,Experimental Engineering,Demet Balkan,Salı,0830/1029,UUB / D109,35,32,"UCK, UCKE, UZB, UZBE",22795,2023 - 2024 Bahar Dönemi
+UCK 304E,Experimental Engineering,Saliha Banu Yılmaz,Salı,1130/1329,UUB / D113,47,32,"UCK, UCKE, UZB, UZBE",22797,2023 - 2024 Bahar Dönemi
+UCK 304E,Experimental Engineering,Saliha Banu Yılmaz,Perşembe,1430/1629,UUB / D109,31,32,"UCK, UCKE, UZB, UZBE",22798,2023 - 2024 Bahar Dönemi
+UCK 304E,Experimental Engineering,Duygu Erdem,Cuma,0930/1129,UUB / D109,15,32,"UCK, UCKE, UZB, UZBE",22794,2023 - 2024 Bahar Dönemi
+UCK 328E,Structural Analysis and Design,Seher Durmaz,Pazartesi,1330/1629,UUB / BIL1,60,60,"UCK, UCKE, UZB, UZBE",22818,2023 - 2024 Bahar Dönemi
+UCK 350E,Analytical Dynamics,İbrahim Özkol,Pazartesi,0830/1129,UUB / D215,30,50,"UCK, UCKE, UZB, UZBE",22826,2023 - 2024 Bahar Dönemi
+UCK 358E,Int.to Artificial Intelligence,Barış Başpınar,Perşembe,1130/1429,UUB / D213,47,50,"UCK, UCKE, UZB, UZBE",22828,2023 - 2024 Bahar Dönemi
+UCK 360E,Automatic Control I,Elbrus Caferov,Perşembe,1430/1729,UUB / D214,13,30,"UCK, UCKE, UZB, UZBE",22789,2023 - 2024 Bahar Dönemi
+UCK 416E,Aircraft Structures,--,Salı,0830/1129,UUB / ---,0,0,"UCK, UZBE",22832,2023 - 2024 Bahar Dönemi
+UCK 419E,Computational Aerodynamics,Melike Nikbay,Cuma,0930/1229,UUB / D215,30,50,"UCK, UZBE",22837,2023 - 2024 Bahar Dönemi
+UCK 424E,Princip. of Aircraft Design II,Hayri Acar,Pazartesi,0830/1229,UUB / D111,47,50,"UCK, UCKE, UCKM",22801,2023 - 2024 Bahar Dönemi
+UCK 424E,Princip. of Aircraft Design II,Hayri Acar,Pazartesi,1330/1729,UUB / D111,51,50,"UCK, UCKE, UCKM",22800,2023 - 2024 Bahar Dönemi
+UCK 427E,Combustion,İskender Gökalp,Pazartesi,0930/1229,UUB / D209,43,45,"UCK, UCKE, UZB, UZBE",25003,2023 - 2024 Bahar Dönemi
+UCK 439E,Intr. to Optimal Control,Barış Başpınar,Pazartesi,1430/1729,UUB / D113,33,50,"UCK, UZBE",22830,2023 - 2024 Bahar Dönemi
+UCK 441E,Flight Stability and Control,Emre Koyuncu,Perşembe,1130/1429,UUB / D209,56,55,"UCK, UCKE",22819,2023 - 2024 Bahar Dönemi
+UCK 441E,Flight Stability and Control,Gökhan İnalhan,Cuma,1430/1729,UUB / D110,61,55,"UCK, UCKE",22820,2023 - 2024 Bahar Dönemi
+UCK 445,Helikopter Tasarımı,Özge Özdemir,Salı,1130/1429,UUB / D-Z08,68,60,UCK,23271,2023 - 2024 Bahar Dönemi
+UCK 451E,Principles of Aircraft Design,--,Salı,0830/1129,UUB / ---,0,0,"UZB, UZBE",22825,2023 - 2024 Bahar Dönemi
+UCK 457,Havayolu İşletmeciliği,Caner Şentürk,Çarşamba,0830/1129,UUB / D214,31,35,"UCK, UZB",22831,2023 - 2024 Bahar Dönemi
+UCK 461E,Flight Instruments,Cengiz Hacızade,Salı,1430/1729,UUB / D113,3,35,"UCK, UCKE, UZB, UZBE",25079,2023 - 2024 Bahar Dönemi
+UCK 470,Jet Motor Sis.Tas.&Pratik Uyg.,--,Cuma,0830/1129,UUB / ---,0,0,"UCK, UZB",25005,2023 - 2024 Bahar Dönemi
+UCK 470E,Jet Eng.Sys.Dsg.with Prac.App.,Osman Saim Dinç,Cuma,0830/1129,UUB / D210,31,35,"UCK, UZB",25065,2023 - 2024 Bahar Dönemi
+UCK 471E,Aviation Maintenance Manag.,Şükrü Can,Perşembe,1130/1429,UUB / D108,53,50,"UCK, UCKE, UZB, UZBE",22802,2023 - 2024 Bahar Dönemi
+UCK 488,Uçak Sistemleri,Atilla Coşkun,Cuma,1430/1729,UUB / D215,38,35,"UCK, UZB",25006,2023 - 2024 Bahar Dönemi
+UCK 4901,Uçak Müh. Tasarımı I,Halit Süleyman Türkmen,----,/,UUB / ---,13,500,UCK,22852,2023 - 2024 Bahar Dönemi
+UCK 4902,Uçak Müh. Tasarımı II,Halit Süleyman Türkmen,----,/,UUB / ---,83,500,UCK,22853,2023 - 2024 Bahar Dönemi
+UCK 4902E,Aeronautical Eng. Design II,--,----,/,UUB / ---,0,0,UZBE,22849,2023 - 2024 Bahar Dönemi
+UCK 492,Bitirme Çalışması,Halit Süleyman Türkmen,----,/,UUB / ---,4,500,UCK,22850,2023 - 2024 Bahar Dönemi
+UCK 492E,Graduation Project,Halit Süleyman Türkmen,----,/,UUB / ---,1,500,"UCK, UCKE",22851,2023 - 2024 Bahar Dönemi

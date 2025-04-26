@@ -1,0 +1,33 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTO 102,Bilgisayarlı Teknik Resim,Hüsnü Barbaros Soyer,Cuma,1430/1729,UUB,84,87,MTO,23028,2019 - 2020 Bahar Dönemi
+MTO 111,Atmosfer Bilimlerine Giriş,Ceyhan Kahya,Pazartesi,1430/1729,UUB,27,35,MTO,23026,2019 - 2020 Bahar Dönemi
+MTO 112,Meteoroloji Alet & Gözlem Usul,"Levent Şaylan, Barış Çaldağ",Salı Perşembe,0930/1129 0930/1129,UUB UUB,71,73,MTO,23027,2019 - 2020 Bahar Dönemi
+MTO 214,Atmosfer Termodinamiği,Kasım Koçak,Pazartesi Salı,0830/1029 1230/1429,UUB UUB,36,35,MTO MTOM,23031,2019 - 2020 Bahar Dönemi
+MTO 214E,Atmospheric Thermodynamics,Ahmet Duran Şahin,Pazartesi Salı,0830/1029 1230/1429,UUB UUB,20,35,MTO MTOE,23032,2019 - 2020 Bahar Dönemi
+MTO 222,Hidroloji,Barış Çaldağ,Perşembe Cuma,1430/1629 0830/1029,UUB UUB,47,60,MTO,23030,2019 - 2020 Bahar Dönemi
+MTO 229E,Physics of Clouds&Precipitatio,Sevinç Asilhan,Perşembe,1130/1429,UUB,44,50,MTO MTOE MTOM,23044,2019 - 2020 Bahar Dönemi
+MTO 254,Klimatoloji,Yurdanur Ünal,Salı,1430/1729,UUB,35,35,MTO MTOM,23036,2019 - 2020 Bahar Dönemi
+MTO 254E,Climatology,Barış Önol,Salı,1430/1729,UUB,27,35,MTO MTOE,23037,2019 - 2020 Bahar Dönemi
+MTO 262,Güneş ve Yer Radyasyonu,Hatice Sema Topçu,Perşembe,1430/1729,UUB,10,10,FIZ MTO,23039,2019 - 2020 Bahar Dönemi
+MTO 262E,Solar & Terrestrial Radiation,"Filiz Türk Katırcıoğlu, Deniz Demirhan Barı",Perşembe,1430/1729,UUB,10,10,FIZE MTO MTOE,23040,2019 - 2020 Bahar Dönemi
+MTO 322E,Weather Anly&Prediction II,Mikdat Kadıoğlu,Salı Çarşamba,0930/1129 0830/1129,UUB UUB,16,40,MTO MTOE,23244,2019 - 2020 Bahar Dönemi
+MTO 323,Atmosfer Kimyası,Orhan Şen,Salı,0830/1129,UUB,17,15,MTO,23056,2019 - 2020 Bahar Dönemi
+MTO 336,Hava Kirliliği Meteorolojisi,Orhan Şen,Çarşamba,0830/1129,UUB,16,15,MTO,23054,2019 - 2020 Bahar Dönemi
+MTO 337E,Atmospheric Dynamics I,Elçin Tan,Pazartesi Çarşamba,1530/1729 1130/1329,UUB UUB,45,45,MTO MTOE,23049,2019 - 2020 Bahar Dönemi
+MTO 338,Havacılık Meteorolijisi,Ali Deniz,Pazartesi,1130/1429,UUB,60,62,MTO,23042,2019 - 2020 Bahar Dönemi
+MTO 340,Atmosfer Dinamiği II,Ali Deniz,Pazartesi Çarşamba,1530/1729 1130/1329,UUB UUB,12,35,MTO MTOM,23043,2019 - 2020 Bahar Dönemi
+MTO 340E,Atmospheric Dynamics II,Yurdanur Ünal,Pazartesi Çarşamba,1530/1729 1230/1429,UUB UUB,20,35,MTO,23052,2019 - 2020 Bahar Dönemi
+MTO 344,Hava Analizi ve Öngörü I,Şükran Sibel Menteş,Salı Perşembe,0930/1129 0830/1129,UUB UUB,15,35,MTO MTOM,23047,2019 - 2020 Bahar Dönemi
+MTO 351E,Hydrometeorology,Sevinç Asilhan,Salı,1430/1729,UUB,11,12,MTO,23045,2019 - 2020 Bahar Dönemi
+MTO 354,Tarım & Orman Meteorolojisi II,Levent Şaylan,Pazartesi,0830/1129,UUB,18,15,MTO,23051,2019 - 2020 Bahar Dönemi
+MTO 388,Coğrafi Bilgi Bilimi,Filiz Türk Katırcıoğlu,Cuma,0830/1129,UUB,30,60,MTO,23242,2019 - 2020 Bahar Dönemi
+MTO 428E,Climate Dynamics,--,Çarşamba,0830/1129,UUB,0,0,MTO MTOE,23053,2019 - 2020 Bahar Dönemi
+MTO 437,Fiziksel Klimatoloji,--,Pazartesi,1130/1429,UUB,0,0,MTO,25183,2019 - 2020 Bahar Dönemi
+MTO 452E,Intro.Gen.Circ.Earth's.Atm.,Deniz Demirhan Barı,Salı,1130/1429,UUB,15,15,MTO MTOE,23046,2019 - 2020 Bahar Dönemi
+MTO 456E,Air Pollution Control,Orhan Şen,Salı,1430/1729,UUB,21,15,MTO MTOE,23055,2019 - 2020 Bahar Dönemi
+MTO 458E,Intr. to the Planetary Atmos.,Zerefşan Kaymaz,Perşembe,1430/1729,UUB,14,15,FIZ FIZE MTO MTOE,23057,2019 - 2020 Bahar Dönemi
+MTO 460,Enerji Meteorolojisine Giriş,Ahmet Duran Şahin,Perşembe,1430/1729,UUB,17,15,MTO,23061,2019 - 2020 Bahar Dönemi
+MTO 468E,Severe and Hazardous Weather,Mikdat Kadıoğlu,Salı,1430/1729,UUB,14,15,MTO MTOE,23059,2019 - 2020 Bahar Dönemi
+MTO 487E,Int. to Computer Graphics,Barış Önol,Cuma,1430/1729,UUB,29,25,FIZ FIZE MTO MTOE,23050,2019 - 2020 Bahar Dönemi
+MTO 492,Bitirme Çalışması,Ahmet Duran Şahin,----,/,UUB,34,500,MTO,23062,2019 - 2020 Bahar Dönemi
+MTO 492E,Graduation Project,Ahmet Duran Şahin,----,/,UUB,6,500,MTO MTOE,23063,2019 - 2020 Bahar Dönemi

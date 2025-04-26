@@ -1,0 +1,80 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+EHB 101,EHM Giriş ve Müh. Etiği,Ali Bahadır,Salı,0930/1129,MED,134,65,EHB,12218,2018 - 2019 Güz Dönemi
+EHB 101E,Int.toElctr.&Comm.En..,Bora Döken,Salı,0930/1129,EEB,65,65,EHB EHBE,12221,2018 - 2019 Güz Dönemi
+EHB 101E,Int.toElctr.&Comm.En..,Tayfun Akgül,Salı,0930/1129,EEB,32,65,EHB EHBE,12220,2018 - 2019 Güz Dönemi
+EHB 110E,Intr to Sci&Eng; Comp (C),Bora Döken,Pazartesi Pazartesi,1330/1529 1530/1729,MDB MDB,68,57,EHB EHBE ELE TEL,12224,2018 - 2019 Güz Dönemi
+EHB 110E,Intr to Sci&Eng; Comp (C),İbrahim Çatalkaya,Pazartesi Pazartesi,1330/1529 1530/1729,EEB EEB,65,57,EHB EHBE ELE TEL,12222,2018 - 2019 Güz Dönemi
+EHB 110E,Intr to Sci&Eng; Comp (C),Ali Bahadır,Pazartesi Pazartesi,1330/1529 1530/1729,EEB KMB,63,57,EHB EHBE ELE TEL,12219,2018 - 2019 Güz Dönemi
+EHB 110E,Intr to Sci&Eng; Comp (C),Yaşar Erenler,Pazartesi Pazartesi,1330/1529 1530/1729,EEB EEB,73,73,EHB EHBE,10949,2018 - 2019 Güz Dönemi
+EHB 205,Lojik Tasarıma Giriş,Sıddıka Berna Örs Yalçın,Cuma,0930/1229,EEB,85,70,EHB ELE TEL,12226,2018 - 2019 Güz Dönemi
+EHB 205,Lojik Tasarıma Giriş,Ece Olcay Güneş,Salı,1330/1629,EEB,58,70,EHB ELE TEL,12227,2018 - 2019 Güz Dönemi
+EHB 205E,Introduction to Logic Design,Ahmet Can Erten,Cuma,0930/1229,EEB,83,70,EHB EHBE ELE TEL,12230,2018 - 2019 Güz Dönemi
+EHB 205E,Introduction to Logic Design,İsmail Serdar Özoğuz,Cuma,0930/1229,EEB,81,70,EHB EHBE ELE TEL,12229,2018 - 2019 Güz Dönemi
+EHB 205E,Introduction to Logic Design,Mustafa Altun,Salı,1330/1629,EEB,70,70,EHB EHBE ELE TEL,12228,2018 - 2019 Güz Dönemi
+EHB 211,Elektrik Devre Temelleri,Mürvet Kırcı,Pazartesi,0930/1229,EEB,79,75,BLG EHB ELE ELK KOM TEL,12233,2018 - 2019 Güz Dönemi
+EHB 211,Elektrik Devre Temelleri,İsa Yıldırım,Pazartesi,0930/1229,EEB,83,75,BLG EHB ELE ELK KOM TEL,12232,2018 - 2019 Güz Dönemi
+EHB 211,Elektrik Devre Temelleri,Neslihan Serap Şengör,Pazartesi,0930/1229,EEB,84,75,BLG EHB ELE ELK KOM TEL,12231,2018 - 2019 Güz Dönemi
+EHB 211E,Basics of Electrical Circuits,Hasan Bülent Yağcı,Pazartesi,0930/1229,EEB,76,75,BLG BLGE EHB EHBE ELE ELK ELKE KOM KOME TEL,12238,2018 - 2019 Güz Dönemi
+EHB 211E,Basics of Electrical Circuits,Metin Hüner,Pazartesi,0930/1229,EEB,77,75,BLG BLGE EHB EHBE ELE ELK ELKE KOM KOME TEL,12237,2018 - 2019 Güz Dönemi
+EHB 211E,Basics of Electrical Circuits,Nil Banu Tarım,Pazartesi,0930/1229,EEB,74,75,BLG BLGE EHB EHBE ELE ELK ELKE KOM KOME TEL,12236,2018 - 2019 Güz Dönemi
+EHB 211E,Basics of Electrical Circuits,Ahmet Can Erten,Pazartesi,0930/1229,EEB,76,75,BLGE EHB EHBE ELE ELK ELKE KOM KOME TEL,12235,2018 - 2019 Güz Dönemi
+EHB 211E,Basics of Electrical Circuits,Müştak Erhan Yalçın,Pazartesi,0930/1229,EEB,79,75,BLGE EHB EHBE ELE ELK ELKE KOM KOME TEL,12234,2018 - 2019 Güz Dönemi
+EHB 212,Elektromagnetik Alanlara Giriş,Murat Tayfun Günel,Cuma,1400/1659,EEB,82,75,EHB ELE ELH ELK KOM TEL,12239,2018 - 2019 Güz Dönemi
+EHB 212E,Intr.to Electromagnetic Fields,Tuba Yılmaz Abdolsaheb,Cuma,1400/1659,EEB,89,75,EHB EHBE ELE ELH ELK ELKE KOM KOME TEL,12240,2018 - 2019 Güz Dönemi
+EHB 221E,Basics of Elec. Circuits Lab.,Hasan Bülent Yağcı,Çarşamba,1030/1229,EEB,35,30,EHB EHBE ELE TEL,12244,2018 - 2019 Güz Dönemi
+EHB 221E,Basics of Elec. Circuits Lab.,Hasan Bülent Yağcı,Pazartesi,1330/1529,EEB,7,30,EHB EHBE ELE TEL,12243,2018 - 2019 Güz Dönemi
+EHB 222,Elektroniğe Giriş,İbrahim Çatalkaya,Salı,1330/1629,EEB,72,64,BLG ELE ELH ELK KOM MKN TEL,12246,2018 - 2019 Güz Dönemi
+EHB 222,Elektroniğe Giriş,Hasan Bülent Yağcı,Salı,1330/1629,EEB,71,64,BLG ELE ELH ELK KOM MKN TEL,12245,2018 - 2019 Güz Dönemi
+EHB 222E,Introduction to Electronics,Bora Döken,Salı,1330/1629,EEB,133,64,BLGE ELE ELH ELK ELKE KOM KOME MKN TEL,12248,2018 - 2019 Güz Dönemi
+EHB 222E,Introduction to Electronics,--,Salı,1330/1629,EEB,0,0,BLG BLGE ELE ELH ELK ELKE KOM KOME MKN TEL,12247,2018 - 2019 Güz Dönemi
+EHB 227E,Introduction to Optics,Onur Ferhanoğlu,Çarşamba,1230/1529,EEB,59,55,EHB EHBE,12257,2018 - 2019 Güz Dönemi
+EHB 231,Elektronik I,Selçuk Paker,Salı,1330/1629,EEB,64,57,EHB ELE,12250,2018 - 2019 Güz Dönemi
+EHB 231,Elektronik I,Metin Yazgı,Salı,1330/1629,EEB,67,57,EHB ELE,12249,2018 - 2019 Güz Dönemi
+EHB 231E,Electronics I,İsmail Çevik,Salı,1330/1629,EEB,64,57,EHB EHBE ELE,12252,2018 - 2019 Güz Dönemi
+EHB 231E,Electronics I,Onur Ferhanoğlu,Salı,1330/1629,EEB,67,57,EHB EHBE ELE,12251,2018 - 2019 Güz Dönemi
+EHB 232,Devre ve Sistem Analizi,Mürvet Kırcı,Perşembe,1330/1629,EEB,77,75,EHB ELE ELH ELK TEL,12253,2018 - 2019 Güz Dönemi
+EHB 232E,Circuit and System Analysis,Sıddıka Berna Örs Yalçın,Perşembe,1330/1629,EEB,80,75,EHB EHBE ELE ELH ELK ELKE TEL,12254,2018 - 2019 Güz Dönemi
+EHB 252,İşaretler ve Sistemler,Bilge Günsel Kalyoncu,Cuma,1400/1659,EEB,68,65,EHB ELE ELH KOM MKN TEL,12255,2018 - 2019 Güz Dönemi
+EHB 252E,Signals and Systems,Hakan Ali Çırpan,Cuma,1400/1659,EEB,66,65,EHB EHBE ELE ELH ELK ELKE KOM KOME MKN TEL,12256,2018 - 2019 Güz Dönemi
+EHB 311,Elektroniğe Giriş Lab.,İbrahim Çatalkaya,Cuma,1400/1559,EEB,60,60,BLG EHB ELE KOM TEL,12258,2018 - 2019 Güz Dönemi
+EHB 311,Elektroniğe Giriş Lab.,Bora Döken,Çarşamba,1230/1429,EEB,60,60,BLG EHB ELE KOM TEL,12260,2018 - 2019 Güz Dönemi
+EHB 311,Elektroniğe Giriş Lab.,İbrahim Çatalkaya,Çarşamba,1230/1429,EEB,62,60,BLG EHB ELE KOM TEL,12259,2018 - 2019 Güz Dönemi
+EHB 311E,Intr.to Electronics Laboratory,Ali Bahadır,Cuma,1400/1559,EEB,45,45,BLGE EHB EHBE ELE KOME TEL,12264,2018 - 2019 Güz Dönemi
+EHB 311E,Intr.to Electronics Laboratory,Hasan Bülent Yağcı,Cuma,0930/1129,EEB,40,45,BLG BLGE EHB EHBE ELE KOM KOME TEL,12263,2018 - 2019 Güz Dönemi
+EHB 311E,Intr.to Electronics Laboratory,Ali Bahadır,Cuma,0930/1129,EEB,45,45,BLG BLGE EHB EHBE ELE KOM KOME TEL,12261,2018 - 2019 Güz Dönemi
+EHB 311E,Intr.to Electronics Laboratory,Bora Döken,Perşembe,0930/1129,EEB,45,45,BLG BLGE EHB EHBE ELE KOM KOME TEL,12265,2018 - 2019 Güz Dönemi
+EHB 311E,Intr.to Electronics Laboratory,Hasan Bülent Yağcı,Perşembe,0930/1129,EEB,11,45,BLG BLGE EHB EHBE ELE KOM KOME TEL,12262,2018 - 2019 Güz Dönemi
+EHB 313,Elektromagnetik Dalgalar,Funda Akleman Yapar,Salı,0930/1229,EEB,53,50,EHB ELE TEL,12266,2018 - 2019 Güz Dönemi
+EHB 313E,Electromagnetic Waves,Mehmet Çayören,Salı,0930/1229,EEB,54,50,EHB EHBE ELE TEL,12269,2018 - 2019 Güz Dönemi
+EHB 313E,Electromagnetic Waves,İbrahim Akduman,Salı,0930/1229,EEB,50,50,EHB EHBE ELE TEL,12268,2018 - 2019 Güz Dönemi
+EHB 313E,Electromagnetic Waves,Serkan Şimşek,Salı,0930/1229,EEB,49,50,EHB EHBE ELE TEL,12267,2018 - 2019 Güz Dönemi
+EHB 315,Sayısal İşaret İşleme,Işın Erer,Pazartesi,1330/1629,EEB,60,55,EHB TEL,12270,2018 - 2019 Güz Dönemi
+EHB 315E,Digital Signal Processing,Ahmet Hamdi Kayran,Pazartesi,1330/1629,EEB,63,55,EHB EHBE TEL,12272,2018 - 2019 Güz Dönemi
+EHB 315E,Digital Signal Processing,Tayfun Akgül,Pazartesi,1330/1629,EEB,53,55,EHB EHBE TEL,12271,2018 - 2019 Güz Dönemi
+EHB 326E,Intr.to Embedded Systems,Müştak Erhan Yalçın,Perşembe,1330/1629,EEB,29,30,EHB EHBE ELE,12273,2018 - 2019 Güz Dönemi
+EHB 328E,Machine Learning for Sig.Proc.,Ender Mete Ekşioğlu,Cuma,0930/1229,EEB,39,43,EHB EHBE ELE,12274,2018 - 2019 Güz Dönemi
+EHB 335,Analog Elektronik Devreleri,Metin Yazgı,Çarşamba,0830/1129,EEB,71,65,EHB ELE ELH TEL,12275,2018 - 2019 Güz Dönemi
+EHB 335E,Analog Electronic Circuits,Mustafa Berke Yelten,Çarşamba,0830/1129,EEB,64,65,EHB EHBE ELE ELH TEL,12276,2018 - 2019 Güz Dönemi
+EHB 351,Analog Haberleşme,Bilge Günsel Kalyoncu,Perşembe,0930/1229,EEB,63,62,EHB ELE TEL,12278,2018 - 2019 Güz Dönemi
+EHB 351,Analog Haberleşme,İbrahim Altunbaş,Perşembe,0930/1229,EEB,70,62,EHB ELE TEL,12277,2018 - 2019 Güz Dönemi
+EHB 351E,Analog Communications,Mustafa Ergen,Perşembe,0930/1229,EEB,68,62,EHB EHBE ELE TEL,12289,2018 - 2019 Güz Dönemi
+EHB 351E,Analog Communications,Hakan Ali Çırpan,Perşembe,0930/1229,EEB,63,62,EHB EHBE ELE TEL,12288,2018 - 2019 Güz Dönemi
+EHB 413E,VLSI Circuit Design I,Tufan Coşkun Karalar,Cuma,0930/1229,EEB,10,30,EHB EHBE ELE,12290,2018 - 2019 Güz Dönemi
+EHB 415E,Data Communications,Güneş Zeynep Karabulut Kurt,Pazartesi,0930/1229,EEB,30,40,EHB EHBE TEL,12291,2018 - 2019 Güz Dönemi
+EHB 417E,RF Microelectronics,Tufan Coşkun Karalar,Pazartesi,0930/1229,EEB,26,40,EHB EHBE ELE,12292,2018 - 2019 Güz Dönemi
+EHB 419,Sayısal Sistem Tasarımı,Ece Olcay Güneş,Çarşamba,0830/1129,EEB,16,40,EHB ELE ELH,12293,2018 - 2019 Güz Dönemi
+EHB 421,Tıp Elektroniğine Giriş,Zümray Ölmez,Salı,1330/1629,EEB,31,40,EHB ELE ELH,12298,2018 - 2019 Güz Dönemi
+EHB 422,Biyolojik İşar.Ol.&A..,"Zümray Ölmez, Tamer Ölmez",Çarşamba,1230/1529,EEB,48,40,EHB ELE ELH,12299,2018 - 2019 Güz Dönemi
+EHB 436E,Digital System Design Applic.,Ece Olcay Güneş,Perşembe,1330/1729,EEB,11,20,EHB EHBE ELE,12294,2018 - 2019 Güz Dönemi
+EHB 436E,Digital System Design Applic.,Sıddıka Berna Örs Yalçın,Salı,1330/1729,EEB,23,20,EHB EHBE ELE,12297,2018 - 2019 Güz Dönemi
+EHB 442E,Semiconductor Devices,Mustafa Berke Yelten,Perşembe,0930/1229,EEB,19,40,EHB EHBE ELE,12295,2018 - 2019 Güz Dönemi
+EHB 451E,Active Microwave Circuits,Mesut Kartal,Pazartesi,1330/1629,EEB,51,40,EHB EHBE TEL,12296,2018 - 2019 Güz Dönemi
+EHB 453E,Intr.to Mobile Communications,Mustafa Ergen,Salı,0930/1229,EEB,52,40,EHB EHBE ELH TEL,12287,2018 - 2019 Güz Dönemi
+EHB 454,Haberleşme Teorisi,Hasan Ümit Aygölü,Salı,1330/1629,EEB,34,40,EHB ELH TEL,12286,2018 - 2019 Güz Dönemi
+EHB 456E,Antennas,Selçuk Paker,Cuma,1400/1659,EEB,36,40,EHB EHBE TEL,12285,2018 - 2019 Güz Dönemi
+EHB 465E,Fiberoptic Com. Systems,Cafer Özkul,Perşembe,0930/1229,EEB,3,30,EHB EHBE ELH TEL,12284,2018 - 2019 Güz Dönemi
+EHB 473,Mikrodalga&RF; Haberleşmesi,Mesut Kartal,Cuma,0930/1229,EEB,47,40,EHB ELH TEL,12283,2018 - 2019 Güz Dönemi
+EHB 481E,Des.&Applic.of; Basi..,Güneş Zeynep Karabulut Kurt,Cuma Cuma,0830/1029 1030/1229,EEB EEB,15,20,EHB EHBE TEL,12281,2018 - 2019 Güz Dönemi
+EHB 481E,Des.&Applic.of; Basi..,Güneş Zeynep Karabulut Kurt,Salı Salı,1330/1529 1530/1729,EEB EEB,20,20,EHB EHBE TEL,12282,2018 - 2019 Güz Dönemi
+EHB 492,Bitirme Projesi,İbrahim Akduman,----,/,EEB,19,500,EHB,12279,2018 - 2019 Güz Dönemi
+EHB 492E,Graduation Project,İbrahim Akduman,----,/,EEB,17,500,EHB EHBE,12280,2018 - 2019 Güz Dönemi

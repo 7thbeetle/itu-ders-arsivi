@@ -1,0 +1,32 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KON 218,Ölçme Tekniği ve Algılayıcılar,Yücel Aydın,Friday,08:30/12:29,EEB / 5202,55,85,"EHB_LS, ELK_LS, KOM_LS, MKN_LS",22137,2024 - 2025 Bahar Dönemi
+KON 218,Ölçme Tekniği ve Algılayıcılar,Onur Akbatı,Friday,08:30/12:29,EEB / 5204,86,85,"EHB_LS, ELK_LS, KOM_LS, MKN_LS",22138,2024 - 2025 Bahar Dönemi
+KON 218E,Measurement and Sensors,Onur Akbatı,Thursday,08:30/12:29,EEB / 6309,139,85,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",22139,2024 - 2025 Bahar Dönemi
+KON 301E,System Modelling&Simulation,Abdurrahman Yılmaz,Monday,12:30/16:29,EEB / 5105,27,70,"KOM_LS, KOME_LS",22140,2024 - 2025 Bahar Dönemi
+KON 306,Bilgisayar Kontrollü Sistemler,Ahmet Onat,Tuesday / Wednesday,15:30/17:29 / 12:30/14:29,EEB / EEB / 5104 / 5104,73,75,KOM_LS,22141,2024 - 2025 Bahar Dönemi
+KON 306E,Computer Controlled Systems,Yaprak Yalçın,Tuesday / Wednesday,15:30/17:29 / 12:30/14:29,EEB / EEB / 5102 / 2102,66,75,"EEE_LS, KOM_LS, KOME_LS",22142,2024 - 2025 Bahar Dönemi
+KON 313E,Feedback Control Systems,Erhan Yumuk,Tuesday,12:30/15:29,EEB / 5302,70,70,"CEN_LS, EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, MKN_LS",22143,2024 - 2025 Bahar Dönemi
+KON 313E,Feedback Control Systems,Farzad Hashemzadeh,Tuesday,12:30/15:29,EEB / 5304,69,70,"CEN_LS, EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS, MKN_LS",22144,2024 - 2025 Bahar Dönemi
+KON 314,Kontrol Sistem Tasarımı,Mehmet Turan Söylemez,Monday / Thursday,11:30/13:29 / 15:30/17:29,EEB / EEB / 2104 / 6307,61,70,KOM_LS,22145,2024 - 2025 Bahar Dönemi
+KON 314E,Control System Design,İlker Üstoğlu,Monday / Friday,11:30/13:29 / 15:30/17:29,EEB / EEB / 2106 / 6307,65,70,"EEE_LS, KOM_LS, KOME_LS",22146,2024 - 2025 Bahar Dönemi
+KON 315,Elektronik Enstrümantasyon,Yücel Aydın,Friday,14:00/17:59,EEB / 5202,5,70,KOM_LS,22147,2024 - 2025 Bahar Dönemi
+KON 318E,Introduction to Robotics,Hakan Temeltaş,Tuesday,12:30/15:29,EEB / 2106,79,80,"KOM_LS, KOME_LS",22148,2024 - 2025 Bahar Dönemi
+KON 318E,Introduction to Robotics,Abdurrahman Yılmaz,Friday,08:30/11:29,EEB / 2104,22,30,"KOM_LS, KOME_LS",25273,2024 - 2025 Bahar Dönemi
+KON 324E,Sensors&Transducers in Contr.,Ali Fuat Ergenç,Thursday,12:30/15:29,EEB / 5205,30,70,"EEE_LS, END_LS, ENDE_LS, KOM_LS, KOME_LS, MKN_LS",22149,2024 - 2025 Bahar Dönemi
+KON 325,Endüstriyel Otomasyon Sist.,Onur Akbatı,Tuesday,12:30/15:29,EEB / 2104,59,70,KOM_LS,22150,2024 - 2025 Bahar Dönemi
+KON 325E,Industrial Automation Systems,Yaprak Yalçın,Tuesday,12:30/15:29,EEB / 2102,23,70,"KOM_LS, KOME_LS",22151,2024 - 2025 Bahar Dönemi
+KON 405E,State Space Meth.in Contr.Syst,Farzad Hashemzadeh,Friday,08:30/11:29,EEB / 5201,39,60,"KOM_LS, KOME_LS, MKN_LS, ROS_LS, ROSE_LS",24551,2024 - 2025 Bahar Dönemi
+KON 417E,Servo Motors,Metin Gökaşan,Tuesday,08:30/11:29,EEB / 5201,67,70,"EEE_LS, KOM_LS, KOME_LS",22152,2024 - 2025 Bahar Dönemi
+KON 421E,Robot Control,Sıddık Murat Yeşiloğlu,Thursday,09:30/12:29,EEB / 5201,2,50,"KOM_LS, KOME_LS, MKN_LS",25151,2024 - 2025 Bahar Dönemi
+KON 424E,Mod.&Cntrl of Biological Sys.,Emre Dincel,Wednesday,12:30/15:29,EEB / --,75,65,"EEE_LS, EHB_LS, EHBE_LS, KOM_LS, KOME_LS",22154,2024 - 2025 Bahar Dönemi
+KON 426E,Intelligent Control Systems,Gülay Öke Günel,Monday,12:30/15:29,EEB / 4104,53,65,"EEE_LS, KOM_LS, KOME_LS, MKN_LS",22155,2024 - 2025 Bahar Dönemi
+KON 428,Optimal Kontrole Giriş,Müjde Güzelkaya,Monday,08:30/11:29,EEB / 2104,62,60,"KOM_LS, MKN_LS",22156,2024 - 2025 Bahar Dönemi
+KON 428E,Intr. to Optimal Control,Osman Kaan Erol,Monday,08:30/11:29,EEB / 5105,42,60,"EEE_LS, KOM_LS, KOME_LS, MKN_LS",22157,2024 - 2025 Bahar Dönemi
+KON 429E,Autonomous Vehicles,Volkan Sezer,Monday,08:30/11:29,EEB / 2106,44,45,"EEE_LS, EHB_LS, EHBE_LS, KOM_LS, KOME_LS",22158,2024 - 2025 Bahar Dönemi
+KON 436E,Int.to Nonlinear Control Syst.,Emre Dincel,Thursday,08:30/11:29,EEB / --,98,65,"EEE_LS, KOM_LS, KOME_LS, MKN_LS",22159,2024 - 2025 Bahar Dönemi
+KON 4901,Kontrol&Otom. Müh.Tasarımı I,Mehmet Turan Söylemez,-,-/-,- / -,23,200,KOM_LS,22160,2024 - 2025 Bahar Dönemi
+KON 4901E,Contr.&Automation Eng.Design I,Mehmet Turan Söylemez,-,-/-,- / -,20,200,"KOM_LS, KOME_LS",22161,2024 - 2025 Bahar Dönemi
+KON 4902,Kontrol&Otom. Müh.Tasarımı II,Mehmet Turan Söylemez,-,-/-,- / -,53,200,KOM_LS,22162,2024 - 2025 Bahar Dönemi
+KON 4902E,Contr.&Automation Eng.DesignII,Mehmet Turan Söylemez,-,-/-,- / -,60,200,"KOM_LS, KOME_LS",22163,2024 - 2025 Bahar Dönemi
+KON 492,Bitirme Tasarım Projesi,Mehmet Turan Söylemez,-,-/-,- / -,3,50,KOM_LS,22164,2024 - 2025 Bahar Dönemi
+KON 492E,Senior Design Project,Mehmet Turan Söylemez,-,-/-,- / -,2,50,"KOM_LS, KOME_LS",22165,2024 - 2025 Bahar Dönemi

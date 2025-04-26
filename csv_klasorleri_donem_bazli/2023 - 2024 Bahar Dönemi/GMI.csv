@@ -1,0 +1,62 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GMI 115,Bilgisayar Dest. Teknik Resim,Emre Kahramanoğlu,Çarşamba,0830/1129,DZB / ---,20,40,GMI,24262,2023 - 2024 Bahar Dönemi
+GMI 115,Bilgisayar Dest. Teknik Resim,Emre Kahramanoğlu,Çarşamba,1230/1529,DZB / ---,27,40,GMI,24263,2023 - 2024 Bahar Dönemi
+GMI 115,Bilgisayar Dest. Teknik Resim,Emre Kahramanoğlu,Perşembe,0830/1129,DZB / ---,26,40,GMI,24264,2023 - 2024 Bahar Dönemi
+GMI 132E,Numerical Analy. of Eng.Syst.,Ata Bilgili,Salı,0830/1029,DZB / ---,29,60,MEN,23744,2023 - 2024 Bahar Dönemi
+GMI 132E,Numerical Analy. of Eng.Syst.,Ata Bilgili,Salı,1030/1229,DZB / ---,99,100,GMI,23974,2023 - 2024 Bahar Dönemi
+GMI 171E,Maritime English I,Veysi Başhan,Çarşamba,1030/1229,DZB / ---,12,20,GMI,23984,2023 - 2024 Bahar Dönemi
+GMI 171E,Maritime English I,Veysi Başhan,Çarşamba,1330/1529,DZB / ---,19,20,GMI,23985,2023 - 2024 Bahar Dönemi
+GMI 171E,Maritime English I,Veysi Başhan,Perşembe,1030/1229,DZB / ---,42,60,MEN,23745,2023 - 2024 Bahar Dönemi
+GMI 171E,Maritime English I,Kadir Çiçek,Perşembe,1230/1429,DZB / ---,16,20,GMI,23986,2023 - 2024 Bahar Dönemi
+GMI 171E,Maritime English I,Çağlar Karatuğ,Perşembe,1430/1629,DZB / ---,26,30,GMI,23988,2023 - 2024 Bahar Dönemi
+GMI 209,Bilg. Destekli Katı Modelleme,Emre Kahramanoğlu,Pazartesi,1530/1729,DZB / ---,11,20,GMI,24265,2023 - 2024 Bahar Dönemi
+GMI 210,Titreşimin Temelleri,İsmail Çiçek,Pazartesi,1530/1729,DZB / ---,18,30,GMI,23997,2023 - 2024 Bahar Dönemi
+GMI 213,Termodinamik,Yalçın Durmuşoğlu,Salı,1430/1729,DZB / ---,19,40,GMI,23998,2023 - 2024 Bahar Dönemi
+GMI 213,Termodinamik,Veysi Başhan,Perşembe,1430/1729,DZB / ---,43,42,GMI,23999,2023 - 2024 Bahar Dönemi
+GMI 213E,Thermodynamics,Yasin Arslanoğlu,"Salı
+Perşembe","1230/1429
+1830/1929","DZB
+DZB / ---
+---",16,60,MEN,23841,2023 - 2024 Bahar Dönemi
+GMI 214,Hidrolik ve Pnömatik,Ömer Berkehan İnal,Pazartesi,1430/1729,DZB / ---,35,35,GMI,24000,2023 - 2024 Bahar Dönemi
+GMI 214,Hidrolik ve Pnömatik,Ömer Berkehan İnal,Çarşamba,1230/1529,DZB / ---,27,35,GMI,24002,2023 - 2024 Bahar Dönemi
+GMI 214E,Hydraulic and Pneumatic,Kemal Demirel,Salı,1430/1729,DZB / ---,24,60,MEN,23842,2023 - 2024 Bahar Dönemi
+GMI 223,Makine Elemanları,Hakan Demirel,Çarşamba,1330/1529,DZB / ---,42,40,GMI,24003,2023 - 2024 Bahar Dönemi
+GMI 223E,Machine Elements,Ömer Berkehan İnal,Perşembe,0830/1029,DZB / ---,27,60,MEN,23846,2023 - 2024 Bahar Dönemi
+GMI 225,Gemi Dizel Makineleri I,Cengiz Deniz,Salı,1430/1729,DZB / ---,40,40,GMI,24005,2023 - 2024 Bahar Dönemi
+GMI 225,Gemi Dizel Makineleri I,Burak Zincir,Perşembe,1430/1729,DZB / ---,32,40,GMI,24006,2023 - 2024 Bahar Dönemi
+GMI 225E,Marine Diesel Engines I,Cumali Seçkin Mengeçin,Pazartesi,0930/1229,DZB / ---,9,60,MEN,23843,2023 - 2024 Bahar Dönemi
+GMI 228,Temel Elektronik,Gazi Koçak,Perşembe,1130/1329,DZB / ---,81,82,GMI,24007,2023 - 2024 Bahar Dönemi
+GMI 228E,Basic Electronics,Tayfun Uyanık,Perşembe,1030/1229,DZB / ---,27,60,"MEN, MTM",23844,2023 - 2024 Bahar Dönemi
+GMI 243,Denizel Çevre Kimyası,Yasin Arslanoğlu,Pazartesi,0930/1229,DZB / ---,42,60,GMI,24008,2023 - 2024 Bahar Dönemi
+GMI 243E,Marine Environmental Chemistry,Yasin Arslanoğlu,"Salı
+Perşembe","1030/1229
+1730/1829","DZB
+DZB / ---
+---",16,60,MEN,23847,2023 - 2024 Bahar Dönemi
+GMI 256,Elektroteknik,Tayfun Uyanık,Salı,1430/1729,DZB / ---,40,40,GMI,24583,2023 - 2024 Bahar Dönemi
+GMI 256,Elektroteknik,Gazi Koçak,Çarşamba,0830/1129,DZB / ---,30,75,GMI,24010,2023 - 2024 Bahar Dönemi
+GMI 256E,Electrotechnics,--,Perşembe,1430/1729,DZB / ---,0,0,MEN,23845,2023 - 2024 Bahar Dönemi
+GMI 261E,Fluid Mechanics,Ata Bilgili,Perşembe,0830/1129,DZB / ---,52,70,GMI,24011,2023 - 2024 Bahar Dönemi
+GMI 270E,Maritime English II,Veysi Başhan,Salı,1230/1429,DZB / ---,32,38,GMI,24894,2023 - 2024 Bahar Dönemi
+GMI 384E,Engine Room Simulator (ERS) I,Çağlar Karatuğ,Salı,1130/1429,DZB / ---,10,10,GMI,24582,2023 - 2024 Bahar Dönemi
+GMI 392E,Long Term Sea Training,İsmail Çiçek,----,/,DZB / ---,11,500,GMI,24013,2023 - 2024 Bahar Dönemi
+GMI 393E,Long Term Sea Training (6 ay),İsmail Çiçek,----,/,DZB / ---,59,500,GMI,24895,2023 - 2024 Bahar Dönemi
+GMI 422E,Surveying Procedures,Fırat Bolat,Perşembe,1230/1429,DZB / ---,15,15,GMI,24014,2023 - 2024 Bahar Dönemi
+GMI 436E,Quality and Safety Manag.Sys.,Metin Çelik,Perşembe,0930/1129,DZB / ---,25,23,GMI,24015,2023 - 2024 Bahar Dönemi
+GMI 461,Buhar & Gaz Türbinleri Operas.,Yalçın Durmuşoğlu,Çarşamba,0830/1229,DZB / ---,97,100,GMI,24017,2023 - 2024 Bahar Dönemi
+GMI 471E,Refrigeration and HVAC Systems,Gazi Koçak,Çarşamba,1330/1529,DZB / ---,14,25,GMI,24020,2023 - 2024 Bahar Dönemi
+GMI 471E,Refrigeration and HVAC Systems,--,Perşembe,0930/1129,DZB / ---,0,0,GMI,24022,2023 - 2024 Bahar Dönemi
+GMI 475E,Ship Electrical Systems,Tayfun Uyanık,Perşembe,1230/1429,DZB / ---,19,25,GMI,24480,2023 - 2024 Bahar Dönemi
+GMI 477E,Alternative Fuel Technologies,--,Çarşamba,1330/1529,DZB / ---,0,0,GMI,24026,2023 - 2024 Bahar Dönemi
+GMI 484E,Engine Room Simulator (ERS) II,Çağlar Karatuğ,Pazartesi,0830/1129,DZB / ---,15,19,GMI,24027,2023 - 2024 Bahar Dönemi
+GMI 484E,Engine Room Simulator (ERS) II,İsmail Çiçek,Pazartesi,1130/1429,DZB / ---,10,19,GMI,24028,2023 - 2024 Bahar Dönemi
+GMI 484E,Engine Room Simulator (ERS) II,Samet Biçen,Pazartesi,1430/1729,DZB / ---,19,19,GMI,24029,2023 - 2024 Bahar Dönemi
+GMI 484E,Engine Room Simulator (ERS) II,İsmail Çiçek,Salı,1430/1729,DZB / ---,21,19,GMI,24030,2023 - 2024 Bahar Dönemi
+GMI 484E,Engine Room Simulator (ERS) II,Burak Zincir,Çarşamba,1230/1529,DZB / ---,8,7,GMI,25102,2023 - 2024 Bahar Dönemi
+GMI 484E,Engine Room Simulator (ERS) II,Samet Biçen,Perşembe,1430/1729,DZB / ---,25,19,GMI,24031,2023 - 2024 Bahar Dönemi
+GMI 485E,Envir.Manag.in Ship Operations,Kadir Çiçek,Perşembe,0930/1129,DZB / ---,14,15,GMI,24032,2023 - 2024 Bahar Dönemi
+GMI 4901,Gemi Mak. İşl. Müh. Tasarımı I,Burak Zincir,----,/,DZB / ---,12,500,GMI,24034,2023 - 2024 Bahar Dönemi
+GMI 4902,Gemi Mak. İşl. Müh.Tasarımı II,Burak Zincir,----,/,DZB / ---,80,500,GMI,24035,2023 - 2024 Bahar Dönemi
+GMI 492,Tasarım Projesi,Burak Zincir,----,/,DZB / ---,1,500,GMI,24036,2023 - 2024 Bahar Dönemi
+GMI 492E,Design Project,--,----,/,DZB / ---,1,0,GMIE,24037,2023 - 2024 Bahar Dönemi

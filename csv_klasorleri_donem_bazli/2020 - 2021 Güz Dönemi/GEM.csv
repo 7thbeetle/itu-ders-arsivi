@@ -1,0 +1,30 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEM 101,Gemi İnş.&Gem.Mak.Müh.Gir.&Etk,Şebnem Helvacıoğlu,Salı,1030/1229,,22,40,GEM,12223,2020 - 2021 Güz Dönemi
+GEM 101,Gemi İnş.&Gem.Mak.Müh.Gir.&Etk,Şebnem Helvacıoğlu,Pazartesi,1030/1229,,53,40,GEM,14436,2020 - 2021 Güz Dönemi
+GEM 211,Gemi Geometrisi,"Fuzuli Ağrı Akçay, Barış Barlas",Cuma,1330/1629,,37,38,GEM,12227,2020 - 2021 Güz Dönemi
+GEM 211,Gemi Geometrisi,Devrim Bülent Danışman,Cuma,1330/1629,,33,34,GEM,12226,2020 - 2021 Güz Dönemi
+GEM 211,Gemi Geometrisi,Burak Karacık,Perşembe,1030/1329,,65,65,DEN,12286,2020 - 2021 Güz Dönemi
+GEM 313,Gemi Makinaları,"Murat Emre Demir, Halil Saraçoğlu",Perşembe,1330/1729,,59,70,GEM GEMM,12232,2020 - 2021 Güz Dönemi
+GEM 320,Hesap. Akışkanlar Dinam.Gir.,Uğur Oral Ünal,Cuma,1330/1629,,29,32,GEM,12260,2020 - 2021 Güz Dönemi
+GEM 321E,Ship Theory,Metin Taylan,Pazartesi Cuma,1330/1529 1330/1529,,62,70,GEM GEME GEMK,12233,2020 - 2021 Güz Dönemi
+GEM 322,Gemi Mukavemeti,Ertekin Bayraktarkatal,Salı Çarşamba,1030/1229 1330/1529,,28,60,GEM GEMM,12234,2020 - 2021 Güz Dönemi
+GEM 325,Gemi Yapı Elemanları,Yalçın Ünsan,Pazartesi Cuma,1030/1229 1030/1229,,49,70,GEM GEMM,12238,2020 - 2021 Güz Dönemi
+GEM 327E,Ship Hydrodynamics(Resistance),Ömer Gören,Salı,0830/1029,,63,70,GEM GEMM,14438,2020 - 2021 Güz Dönemi
+GEM 329,Deniz ve İş Hukuku,H Murat Demirkıran,Perşembe,0830/1029,,56,70,GEM,12236,2020 - 2021 Güz Dönemi
+GEM 331,Gemi Işletmeciliği,Erdem Üçer,Cuma,0830/1029,,50,70,GEM GEMM,12235,2020 - 2021 Güz Dönemi
+GEM 407E,Methods of Ship Production,Gökhan Tansel Tayyar,Pazartesi,1330/1629,,41,70,DEN DENE GEM GEME GEMK,12277,2020 - 2021 Güz Dönemi
+GEM 409,Gemi Titreşimleri,Bahadır Uğurlu,Perşembe,1330/1629,,23,70,GEM,12278,2020 - 2021 Güz Dönemi
+GEM 411E,Ship Design Project I,Emin Korkut,Çarşamba,1030/1229,,33,40,GEM GEME GEMK,12256,2020 - 2021 Güz Dönemi
+GEM 413,Gemilerin Yapısal Dizaynı,Gökhan Tansel Tayyar,Cuma,1330/1629,,10,20,GEM,12258,2020 - 2021 Güz Dönemi
+GEM 415E,Computer Aided Ship Dsgn&Cons.,Devrim Bülent Danışman,Salı,1330/1629,,1,20,GEM GEME GEMK,12262,2020 - 2021 Güz Dönemi
+GEM 421,Gemi Hareket ve Manevraları,Ömer Gören,Pazartesi Çarşamba,1030/1229 0830/1029,,65,70,GEM GEMM,12272,2020 - 2021 Güz Dönemi
+GEM 421E,Ship Motions and Maneuvering,Şakir Bal,Pazartesi Çarşamba,1030/1229 0830/1029,,2,40,GEME GEMK,12273,2020 - 2021 Güz Dönemi
+GEM 423E,Advanced Propulsion Systems,Ali Can Takinacı,Salı,1330/1529,,18,20,GEM GEME GEMK,12267,2020 - 2021 Güz Dönemi
+GEM 427,Makina Dairesi Dizayn Prensipl,Osman Azmi Özsoysal,Cuma,1030/1229,,27,35,GEM,12275,2020 - 2021 Güz Dönemi
+GEM 445,Gemi Boru Donanımları,Osman Azmi Özsoysal,Salı,1330/1529,,20,20,GEM,12265,2020 - 2021 Güz Dönemi
+GEM 447E,Vent & Air Cond Sys For Ships,Selma Ergin,Pazartesi,0830/1029,,17,25,DEN DENE GEM GEME GEMK,12270,2020 - 2021 Güz Dönemi
+GEM 453E,Automatic Control of Ships,Ahmet Ergün Palaz,Salı,1330/1629,,27,27,GEM GEME GEMK,12263,2020 - 2021 Güz Dönemi
+GEM 4901,Gemi İnş.&Gemi Mak. Müh.Tas.I,"Yalçın Ünsan, Devrim Bülent Danışman, Ertekin Bayraktarkatal, Metin Taylan, Selma Ergin, Uğur Oral Ünal, Ömer Gören, İsmail Yalçın, Şebnem Helvacıoğlu",Çarşamba Çarşamba,1030/1329 1730/2029,,49,500,GEM,15149,2020 - 2021 Güz Dönemi
+GEM 4901,Gemi İnş.&Gemi Mak. Müh.Tas.I,Barış Barlas,----,/,,0,500,GEM,14395,2020 - 2021 Güz Dönemi
+GEM 492,Bitirme Tasarım Projesi,Barış Barlas,----,/,,11,50,GEM,12279,2020 - 2021 Güz Dönemi
+GEM 492E,Graduation Design Project,Barış Barlas,----,/,,4,50,GEME,12280,2020 - 2021 Güz Dönemi

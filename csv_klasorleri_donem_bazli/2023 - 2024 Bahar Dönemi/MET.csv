@@ -1,0 +1,47 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MET 214,Çözelti Termodinamiğinin Tem.,Nuri Solak,Salı,1030/1329,KMB / D301,67,90,MET,23078,2023 - 2024 Bahar Dönemi
+MET 214E,Fund. of Sol. Thermodynamics,Nuri Solak,Perşembe,1330/1629,KMB / D201,85,90,"MET, METE",23079,2023 - 2024 Bahar Dönemi
+MET 224,Faz Denge Diyagramları,Nuri Solak,Perşembe,1030/1329,KMB / D104,85,100,MET,23080,2023 - 2024 Bahar Dönemi
+MET 224E,Phase Equilibrium Diagrams,Nuri Solak,Salı,1330/1629,KMB / D301,82,100,"MET, METE",23081,2023 - 2024 Bahar Dönemi
+MET 228,Malzeme Kimyası,Servet İbrahim Timur,Pazartesi,1330/1529,KMB / D104,79,100,MET,23082,2023 - 2024 Bahar Dönemi
+MET 228E,Materials Chemistry,Mehmet Şeref Sönmez,Cuma,1400/1559,KMB / D201,69,90,METE,23083,2023 - 2024 Bahar Dönemi
+MET 246,Malzeme Fiziği,Muhammet Kürşat Kazmanlı,Çarşamba,1330/1529,KMB / D201,75,90,MET,23084,2023 - 2024 Bahar Dönemi
+MET 246E,Materials Physics,Hüseyin Kızıl,Çarşamba,1330/1529,KMB / D301,69,90,METE,23085,2023 - 2024 Bahar Dönemi
+MET 248E,Mass & Energy Balance,Cevat Bora Derin,Pazartesi,1130/1329,KMB / D201,88,90,"MET, METE",23086,2023 - 2024 Bahar Dönemi
+MET 248E,Mass & Energy Balance,Mehmet Şeref Sönmez,Pazartesi,1130/1329,KMB / D102,54,90,"MET, METE",23087,2023 - 2024 Bahar Dönemi
+MET 252,Mlz.Sta. ve Dinamik Mukavemeti,Murat Baydoğan,Salı,1330/1629,KMB / D104,87,100,MET,23088,2023 - 2024 Bahar Dönemi
+MET 252E,Sta and Dyn. Strng ofMaterials,Murat Baydoğan,Cuma,0830/1129,KMB / D201,80,100,METE,23089,2023 - 2024 Bahar Dönemi
+MET 326,Kimyasal Metalurji II,Servet İbrahim Timur,Pazartesi,0830/1129,KMB / D204,91,100,MET,23090,2023 - 2024 Bahar Dönemi
+MET 326E,Chemical Metallurgy II,"Onuralp Yücel, Cevat Bora Derin, Mehmet Şeref Sönmez",Pazartesi,0830/1129,KMB / D202,74,90,METE,23091,2023 - 2024 Bahar Dönemi
+MET 328E,Introduction to Biomaterials,"Gültekin Göller, İpek Akın Karadayı",Pazartesi,1330/1529,KMB / D201,167,170,"MET, METE",23092,2023 - 2024 Bahar Dönemi
+MET 344E,Mech. Properties of Materials,"Hüseyin Çimenoğlu, Murat Baydoğan",Perşembe,1130/1329,KMB / D201,170,175,"MET, METE",23093,2023 - 2024 Bahar Dönemi
+MET 346,Met.&Malz.Pros.Mod.&Sim.,Sebahattin Gürmen,Salı,0830/1029,KMB / D301,83,90,MET,23094,2023 - 2024 Bahar Dönemi
+MET 346E,Mod.&Sim.of Met.&Mat.Process,Cüneyt Arslan,Perşembe,1330/1529,KMB / D105,74,90,METE,23095,2023 - 2024 Bahar Dönemi
+MET 348E,Quality Engineering,"Özgül Keleş, Billur Deniz Karahan",Çarşamba,0830/1029,KMB / D201,166,170,"MET, METE",23097,2023 - 2024 Bahar Dönemi
+MET 364,Ekstraktif Metalurji Lab.,"Faiz Muhaffel, Bihter Zeytuncu Gökoğlu, Billur Deniz Karahan, Cevat Bora Derin, Cevat Fahir Arısoy, Cüneyt Arslan, Duygu Ağaoğulları, Erçin Çağan Duran, Filiz Şahin, Gültekin Göller, Hüseyin Kızıl, Hüseyin Çimenoğlu, Mehmet Şeref Sönmez, Muhammet Kürşat Kazmanlı, Murat Baydoğan, Mustafa Lutfi Öveçoğlu, Necip Ünlü, Nuri Solak, Onuralp Yücel, Sebahattin Gürmen, Servet İbrahim Timur, Özgül Keleş, İpek Akın Karadayı",Çarşamba,1130/1329,KMB / ML1,87,90,MET,23098,2023 - 2024 Bahar Dönemi
+MET 364E,Extractive Metallurgy Lab.,"Mohammadreza Nofar, Bihter Zeytuncu Gökoğlu, Billur Deniz Karahan, Cevat Bora Derin, Cüneyt Arslan, Duygu Ağaoğulları, Erçin Çağan Duran, Faiz Muhaffel, Güldem Kartal Şireli, Hüseyin Çimenoğlu, Mehmet Şeref Sönmez, Murat Baydoğan, Mustafa Lutfi Öveçoğlu, Necip Ünlü, Nuri Solak, Onuralp Yücel, Sebahattin Gürmen, Servet İbrahim Timur, Özgül Keleş, İpek Akın Karadayı",Çarşamba,1330/1529,KMB / ML1,71,80,METE,23099,2023 - 2024 Bahar Dönemi
+MET 366E,Energy Materials,"Onuralp Yücel, Özgül Keleş",Cuma,0830/1029,KMB / D304,55,55,"MET, METE",23124,2023 - 2024 Bahar Dönemi
+MET 368E,Product.Tec. of Metallic Powd.,Duygu Ağaoğulları,Cuma,0830/1029,KMB / D102,19,35,"MET, METE",23126,2023 - 2024 Bahar Dönemi
+MET 374,Proses Metalurjisi,"Servet İbrahim Timur, Güldem Kartal Şireli",Cuma,1400/1559,KMB / D303,6,35,MET,23127,2023 - 2024 Bahar Dönemi
+MET 374E,Process Metallurgy,--,Cuma,1030/1229,KMB / ---,0,0,METE,23130,2023 - 2024 Bahar Dönemi
+MET 376E,Heat Treatment of Metals,"Hüseyin Çimenoğlu, Murat Baydoğan",Salı,1130/1329,KMB / D201,127,150,"MET, METE",23131,2023 - 2024 Bahar Dönemi
+MET 378E,Non-Ferrous Eng. Materials,"Güldem Kartal Şireli, Duygu Ağaoğulları",Perşembe,0930/1129,KMB / D103,97,110,"MET, METE",23134,2023 - 2024 Bahar Dönemi
+MET 435E,PST Desg.&Prj.Mng. and Innov.,"Özgül Keleş, Billur Deniz Karahan",Salı,1330/1529,KMB / D102,48,75,"MET, METE",23136,2023 - 2024 Bahar Dönemi
+MET 442,Kompozit Malzemelerin Tem.,"Mustafa Lutfi Öveçoğlu, Duygu Ağaoğulları",Cuma,1030/1229,KMB / D304,88,100,MET,23138,2023 - 2024 Bahar Dönemi
+MET 442E,Fund. of Composite Materials,Mohammadreza Nofar,Pazartesi,1130/1329,KMB / D104,92,90,METE,23139,2023 - 2024 Bahar Dönemi
+MET 444,Müh.Uyg.Demir ve Çelik E.Mlz.,Cevat Fahir Arısoy,Çarşamba,1330/1529,KMB / D303,74,90,MET,23140,2023 - 2024 Bahar Dönemi
+MET 444E,Iron&Steel Mat.in Eng. App,Cevat Fahir Arısoy,Salı,1030/1229,KMB / D104,81,90,METE,23142,2023 - 2024 Bahar Dönemi
+MET 446,Met.ve Malz.Pros.Çevre ve Etik,"Servet İbrahim Timur, Güldem Kartal Şireli",Salı,0830/1029,KMB / D104,75,90,MET,23145,2023 - 2024 Bahar Dönemi
+MET 446E,Envir.&Ethc.inMet.&Mat.Proces,"Mehmet Şeref Sönmez, Cevat Fahir Arısoy",Salı,1330/1529,KMB / D303,68,70,METE,23146,2023 - 2024 Bahar Dönemi
+MET 462,Mtlk.Nanparik.:Üret.&Karak.,Sebahattin Gürmen,Perşembe,1330/1529,KMB / D202,43,45,MET,23147,2023 - 2024 Bahar Dönemi
+MET 462E,Metallic Nanopart.:Prod.&Char.,Mehmet Şeref Sönmez,Pazartesi,1330/1529,KMB / D202,15,40,METE,23149,2023 - 2024 Bahar Dönemi
+MET 464E,Princip. of Surfaca Treatment,Muhammet Kürşat Kazmanlı,Perşembe,0830/1029,KMB / D104,25,40,"MET, METE",23152,2023 - 2024 Bahar Dönemi
+MET 468E,Welding Tech. and Metallurgy,"Hüseyin Çimenoğlu, Murat Baydoğan",Cuma,1500/1659,KMB / D102,101,110,"MET, METE",23154,2023 - 2024 Bahar Dönemi
+MET 472E,Casting Processes,Necip Ünlü,Pazartesi,0830/1029,KMB / D201,96,110,"MET, METE",23157,2023 - 2024 Bahar Dönemi
+MET 476E,Intro. to Technical Ceramics,Filiz Şahin,Perşembe,1330/1529,KMB / D203,15,55,"MET, METE",23159,2023 - 2024 Bahar Dönemi
+MET 4901,Met. Malz. Müh. Tasarımı I,--,----,/,KMB / ---,0,0,MET,23163,2023 - 2024 Bahar Dönemi
+MET 4901E,Met. & Mat. Engn. Design I,--,----,/,KMB / ---,0,0,"MET, METE",23164,2023 - 2024 Bahar Dönemi
+MET 4902,Met. Malz. Müh. Tasarımı II,Cevat Bora Derin,----,/,KMB / ---,34,500,MET,23166,2023 - 2024 Bahar Dönemi
+MET 4902E,Met. & Mat. Engn. Design II,Cevat Bora Derin,----,/,KMB / ---,107,500,"MET, METE",23168,2023 - 2024 Bahar Dönemi
+MET 492,Tasarım Projesi,Cevat Bora Derin,----,/,KMB / ---,3,500,MET,23169,2023 - 2024 Bahar Dönemi
+MET 492E,Design Project,Cevat Bora Derin,----,/,KMB / ---,2,500,"MET, METE",23171,2023 - 2024 Bahar Dönemi

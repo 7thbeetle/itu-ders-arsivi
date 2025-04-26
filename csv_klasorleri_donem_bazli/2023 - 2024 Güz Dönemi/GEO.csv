@@ -1,0 +1,81 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEO 101E,Intro. to Info. Technologies,Muhammed Enes Atik,Perşembe,0830/1029,---- / ----,100,100,"GEO, GEOE",12027,2023 - 2024 Güz Dönemi
+GEO 101E,Intro. to Info. Technologies,Ramazan Alper Kuçak,Cuma,0830/1029,---- / ----,81,90,"GEO, GEOE",12026,2023 - 2024 Güz Dönemi
+GEO 103,Temel Ölçme Bilgisi,Turan Erden,Çarşamba,0830/1229,INB / B101,60,60,GEO,12028,2023 - 2024 Güz Dönemi
+GEO 103,Temel Ölçme Bilgisi,Ramazan Alper Kuçak,Çarşamba,0830/1229,INB / B205,48,60,GEO,12029,2023 - 2024 Güz Dönemi
+GEO 103E,Fundamentals of Surveying,Adalet Dervişoğlu,Pazartesi,1330/1729,INB / B103,82,100,"GEO, GEOE",12034,2023 - 2024 Güz Dönemi
+GEO 105E,Intro. to Geomat. Engineering,Filiz Bektaş Balçık,Çarşamba,1330/1529,INB / B304,3,30,"GEO, GEOE",12036,2023 - 2024 Güz Dönemi
+GEO 109,Analitik Geometri&Vektör Hesab,Ramazan Alper Kuçak,Perşembe,1330/1629,INB / B103,100,100,GEO,12037,2023 - 2024 Güz Dönemi
+GEO 109E,Analy. Geom. and Vect. Algeb.,Caner Güney,Salı,0830/1129,INB / B104,87,95,"GEO, GEOE",12066,2023 - 2024 Güz Dönemi
+GEO 111,Geomatik Müh. Giriş ve Etik,Çiğdem Göksel,Salı,0830/1029,INB / B103,96,100,GEO,12067,2023 - 2024 Güz Dönemi
+GEO 111E,Intro. to Geomat. Eng.&Ethics,Filiz Bektaş Balçık,Salı,1430/1629,INB / B103,81,90,"GEO, GEOE",12068,2023 - 2024 Güz Dönemi
+GEO 201,Kartografya I,Adalet Dervişoğlu,Çarşamba,1030/1229,INB / B306,18,80,GEO,12069,2023 - 2024 Güz Dönemi
+GEO 201E,Cartography I,Adalet Dervişoğlu,Perşembe,1430/1629,INB / B104,79,85,"GEO, GEOE",12070,2023 - 2024 Güz Dönemi
+GEO 203,Koord. Sist. Ve Jeodezi I,Hayri Hakan Denli,Pazartesi,1330/1729,INB / B104,64,70,GEO,12071,2023 - 2024 Güz Dönemi
+GEO 203E,Coordinate Sys. and Geodesy I,Mustafa Serkan Işık,Cuma,0830/1229,INB / A105,48,50,"GEO, GEOE",12072,2023 - 2024 Güz Dönemi
+GEO 203E,Coordinate Sys. and Geodesy I,Bihter Erol,Cuma,0830/1229,INB / B101,43,50,"GEO, GEOE",13459,2023 - 2024 Güz Dönemi
+GEO 204,Hata Teo ve Dengeleme,Orhan Akyılmaz,Cuma,0830/1229,INB / A103,41,50,GEO,14300,2023 - 2024 Güz Dönemi
+GEO 204E,Th.of Err. And Ad. C.,Mustafa Tevfik Özlüdemir,"Salı
+Salı","0830/1129
+1330/1429","INB
+INB / B204
+B202",18,60,"GEO, GEOE",12073,2023 - 2024 Güz Dönemi
+GEO 205,Mühendislik Etiği,Çiğdem Göksel,Salı,1130/1329,INB / ---,3,30,GEO,12074,2023 - 2024 Güz Dönemi
+GEO 205E,Engineering Ethics,Zaide Duran,Perşembe,0830/1029,INB / ---,1,10,"GEO, GEOE",15348,2023 - 2024 Güz Dönemi
+GEO 208E,Remote Sensing I,--,Çarşamba,1330/1529,INB / ---,0,0,"GEO, GEOE",12075,2023 - 2024 Güz Dönemi
+GEO 208E,Remote Sensing I,Uğur Algancı,Çarşamba,1330/1529,INB / A105,48,50,"GEO, GEOE",12429,2023 - 2024 Güz Dönemi
+GEO 209,Taşınmaz Hukuku,Mustafa Yanalak,Çarşamba,1330/1529,INB / B104,47,85,GEO,12076,2023 - 2024 Güz Dönemi
+GEO 209E,Real Estate's Law,Tahsin Yomralıoğlu,Salı,1130/1329,INB / B103,60,75,"GEO, GEOE",12077,2023 - 2024 Güz Dönemi
+GEO 213,Konum Bel. Yönt. ve Sist.,Mahmut Oğuz Selbesoğlu,Perşembe,0830/1129,INB / A305,38,80,GEO,12078,2023 - 2024 Güz Dönemi
+GEO 213E,Positioning Method and Systems,Rahmi Nurhan Çelik,Çarşamba,1130/1429,INB / B103,56,75,"GEO, GEOE",12079,2023 - 2024 Güz Dönemi
+GEO 220,Geomatik Müh.İçin Müh. Mat.,Mehmet Ufuk Özerman,Salı,0830/1129,INB / D203,10,70,GEO,12080,2023 - 2024 Güz Dönemi
+GEO 220E,Mathematics for Geomatics Eng.,Doğuş Güler,Pazartesi,1330/1629,INB / B203,25,70,"GEO, GEOE",12081,2023 - 2024 Güz Dönemi
+GEO 221E,Num. Meth. for Geomatics Eng.,Ramazan Alper Kuçak,Salı,1430/1729,INB / B101,77,80,"GEO, GEOE",12083,2023 - 2024 Güz Dönemi
+GEO 221E,Num. Meth. for Geomatics Eng.,Doğuş Güler,Cuma,1430/1729,INB / A304,28,70,"GEO, GEOE",12082,2023 - 2024 Güz Dönemi
+GEO 225E,Prob.and Stat. for Geom. Eng.,Adil Enis Arslan,Pazartesi,1030/1329,INB / B101,69,75,"GEO, GEOE",12084,2023 - 2024 Güz Dönemi
+GEO 225E,Prob.and Stat. for Geom. Eng.,Esra Erten,Pazartesi,1030/1329,INB / B103,12,70,"GEO, GEOE",12085,2023 - 2024 Güz Dönemi
+GEO 227,"İş Hukuku,İşçi Sağl.&İş Güv.",Hasan Hakan Yavaşoğlu,Pazartesi,1330/1529,---- / ----,36,80,GEO,12086,2023 - 2024 Güz Dönemi
+GEO 227E,"Labor Law,Occupati.Health&Saf.",Hasan Hakan Yavaşoğlu,Salı,0830/1029,---- / ----,46,70,"GEO, GEOE",12087,2023 - 2024 Güz Dönemi
+GEO 303,Kadastro Bilgisi,Tahsin Yomralıoğlu,Salı,1430/1629,INB / A304,46,65,GEO,12088,2023 - 2024 Güz Dönemi
+GEO 303E,Cadastre,Tahsin Yomralıoğlu,Pazartesi,1130/1329,INB / A205,54,65,"GEO, GEOE",12089,2023 - 2024 Güz Dönemi
+GEO 307,Kartografya II,Serdar Bilgi,Perşembe,0830/1029,INB / A204,55,70,GEO,12090,2023 - 2024 Güz Dönemi
+GEO 307E,Cartography II,Serdar Bilgi,Perşembe,1030/1229,INB / A304,65,75,"GEO, GEOE",12091,2023 - 2024 Güz Dönemi
+GEO 309,Fotogrametri I,Zaide Duran,Salı,0830/1029,INB / D202,62,75,GEO,12092,2023 - 2024 Güz Dönemi
+GEO 309E,Photogrammetry I,Dursun Zafer Şeker,Perşembe,0830/1029,INB / A304,67,70,"GEO, GEOE",12093,2023 - 2024 Güz Dönemi
+GEO 310,Uzaktan Algılama II,Nebiye Musaoğlu,Çarşamba,1230/1529,INB / A302,18,40,GEO,13910,2023 - 2024 Güz Dönemi
+GEO 311,Jeodezik Altyapı ve Ağlar,"Serdar Erol, Bihter Erol",Cuma,1430/1629,INB / B101,65,75,GEO,12097,2023 - 2024 Güz Dönemi
+GEO 311E,Geodetic Infrast. and Network,Mustafa Tevfik Özlüdemir,Cuma,1430/1629,INB / B103,65,75,"GEO, GEOE",12102,2023 - 2024 Güz Dönemi
+GEO 313E,Digital Image Processing,Ayşe Filiz Sunar,Salı,1330/1629,INB / B206,14,40,"GEO, GEOE",12110,2023 - 2024 Güz Dönemi
+GEO 313E,Digital Image Processing,Uğur Algancı,Salı,1330/1629,INB / D203,40,40,"GEO, GEOE",12430,2023 - 2024 Güz Dönemi
+GEO 313E,Digital Image Processing,Esra Erten,Çarşamba,1030/1329,INB / A304,63,90,"GEO, GEOE",12107,2023 - 2024 Güz Dönemi
+GEO 314,Jeodezi-II ve Projeksiyonlar,--,Salı,1430/1729,INB / ---,0,0,GEO,15248,2023 - 2024 Güz Dönemi
+GEO 315E,Fund. of Geographic Inf. Sys.,Dursun Zafer Şeker,Çarşamba,0830/1029,INB / A305,48,52,"GEO, GEOE",12114,2023 - 2024 Güz Dönemi
+GEO 315E,Fund. of Geographic Inf. Sys.,Uğur Algancı,Çarşamba,0830/1029,INB / A304,53,52,"GEO, GEOE",12118,2023 - 2024 Güz Dönemi
+GEO 315E,Fund. of Geographic Inf. Sys.,Muhammed Oğuzhan Mete,Çarşamba,0830/1029,INB / B206,34,52,"GEO, GEOE",13691,2023 - 2024 Güz Dönemi
+GEO 321,Özel Ölçme Uygulamaları,Reha Metin Alkan,Pazartesi,0830/1029,INB / A303,55,70,GEO,12120,2023 - 2024 Güz Dönemi
+GEO 321E,Special Surveying Applications,Turan Erden,Pazartesi,0830/1029,INB / A305,81,80,"GEO, GEOE",12122,2023 - 2024 Güz Dönemi
+GEO 401,Fiziksel Jeodezi,Bihter Erol,Pazartesi,0830/1029,INB / A205,45,65,GEO,12126,2023 - 2024 Güz Dönemi
+GEO 401E,Physical Geodesy,Bihter Erol,Pazartesi,1330/1529,INB / A103,33,40,"GEO, GEOE",12127,2023 - 2024 Güz Dönemi
+GEO 401E,Physical Geodesy,Mustafa Serkan Işık,Pazartesi,1330/1529,INB / A301,20,40,"GEO, GEOE",12128,2023 - 2024 Güz Dönemi
+GEO 403,CBS Projeleri,Uğur Algancı,Perşembe,1230/1529,INB / B204,28,35,GEO,12129,2023 - 2024 Güz Dönemi
+GEO 403,CBS Projeleri,Hande Demirel,Perşembe,1230/1529,INB / B205,28,40,GEO,12130,2023 - 2024 Güz Dönemi
+GEO 403E,GIS Projects,"Himmet Karaman, Turan Erden",Perşembe,1230/1529,INB / A304,54,65,"GEO, GEOE",12131,2023 - 2024 Güz Dönemi
+GEO 413E,Navigation Sys. and Methods,Mahmut Oğuz Selbesoğlu,Salı,1330/1529,INB / A204,35,70,"GEO, GEOE",12132,2023 - 2024 Güz Dönemi
+GEO 417,Jeodezik Astronomi,--,Cuma,0830/1029,INB / ---,0,0,GEO,12133,2023 - 2024 Güz Dönemi
+GEO 417E,Geodetic Astronomy,Caner Güney,Pazartesi,1130/1329,INB / B205,35,36,"GEO, GEOE",12134,2023 - 2024 Güz Dönemi
+GEO 421E,Urban Land Readjustment,Muhammed Oğuzhan Mete,Salı,0830/1029,INB / B206,29,40,"GEO, GEOE",12135,2023 - 2024 Güz Dönemi
+GEO 425E,Digital Image Processing II,Ayşe Filiz Sunar,Pazartesi,1130/1329,INB / B308,13,40,"GEO, GEOE",12136,2023 - 2024 Güz Dönemi
+GEO 427,Fotog. Ve Laser Veri. Entg.,--,Perşembe,1030/1229,INB / ---,0,0,GEO,12144,2023 - 2024 Güz Dönemi
+GEO 429E,Close Range Photogrammetry,Dursun Zafer Şeker,Salı,1130/1329,INB / A203,53,45,"GEO, GEOE",12137,2023 - 2024 Güz Dönemi
+GEO 458E,City Planning,Rumeysa Ceylan Çalışkan,Perşembe,0830/1029,INB / B101,90,105,"GEO, GEOE",13469,2023 - 2024 Güz Dönemi
+GEO 460E,Road Design and Construction,Murat Ergün,Perşembe,1030/1229,INB / A303,8,40,"GEO, GEOE",13470,2023 - 2024 Güz Dönemi
+GEO 464E,Eng. Spatial Sys. Design,Hande Demirel,Perşembe,1030/1229,INB / B307,41,40,"GEO, GEOE",12138,2023 - 2024 Güz Dönemi
+GEO 468,UA'da Özel Konular,Şinasi Kaya,Perşembe,1030/1229,INB / B205,18,35,GEO,12139,2023 - 2024 Güz Dönemi
+GEO 468E,Spec. Topics in Remote Sens.,--,Salı,1430/1629,INB / ---,0,0,"GEO, GEOE",12140,2023 - 2024 Güz Dönemi
+GEO 476,Geo. Müh. Proje Planlama Yön.,Reha Metin Alkan,Çarşamba,1330/1529,INB / B202,19,40,GEO,12141,2023 - 2024 Güz Dönemi
+GEO 478,Kamulaştırma Tekniği,Reha Metin Alkan,Çarşamba,1030/1229,---- / ----,38,40,GEO,12142,2023 - 2024 Güz Dönemi
+GEO 484E,Geo.Eng.App.inDis.Mng.&Urb.Rs.,Himmet Karaman,Salı,1430/1629,INB / B307,26,40,"GEO, GEOE",12143,2023 - 2024 Güz Dönemi
+GEO 4901,Geomatik Müh. Tasarımı I,Mehmet Ufuk Özerman,----,/,INB / ---,53,500,GEO,12145,2023 - 2024 Güz Dönemi
+GEO 4901E,Geomatics Eng. Design I,Mehmet Ufuk Özerman,----,/,INB / ---,46,500,"GEO, GEOE",12146,2023 - 2024 Güz Dönemi
+GEO 4902,Geomatik Müh. Tasarımı II,Mustafa Yanalak,----,/,INB / ---,13,500,GEO,12147,2023 - 2024 Güz Dönemi
+GEO 4902E,Geomatics Eng. Design II,Mustafa Yanalak,----,/,INB / ---,7,500,"GEO, GEOE",12148,2023 - 2024 Güz Dönemi

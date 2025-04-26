@@ -1,0 +1,78 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEM 101,Gemi İnş.&Gem.Mak.Müh.Gir.&Etk,Erdem Üçer,Çarşamba,1330/1529,GDB / 410,95,140,"GEM, SORM",13778,2023 - 2024 Güz Dönemi
+GEM 201E,Dynamics,Mustafa Erden Yıldızdağ,"Çarşamba
+Perşembe","1030/1229
+1030/1229","GDB
+GDB / 410
+D304",48,50,GEM,13780,2023 - 2024 Güz Dönemi
+GEM 201E,Dynamics,Bahadır Uğurlu,"Çarşamba
+Perşembe","1030/1229
+1030/1229","GDB
+GDB / ---
+D401",42,50,GEM,13781,2023 - 2024 Güz Dönemi
+GEM 203,Mukavemet I,Bahadır Uğurlu,"Pazartesi
+Salı","1430/1629
+1430/1629","GDB
+GDB / 410
+R403",34,55,GEM,13782,2023 - 2024 Güz Dönemi
+GEM 203,Mukavemet I,Fuzuli Ağrı Akçay,"Pazartesi
+Salı","1430/1629
+1430/1629","GDB
+GDB / D401
+410",55,55,GEM,13783,2023 - 2024 Güz Dönemi
+GEM 205,Malzeme ve Imal Usulleri,Gökhan Tansel Tayyar,Pazartesi,1030/1329,GDB / D401,113,120,GEM,13784,2023 - 2024 Güz Dönemi
+GEM 210E,Engineering Mathematics,Devrim Bülent Danışman,"Pazartesi
+Çarşamba","0830/1029
+0830/1029","GDB
+GDB / 410
+410",72,120,"GEM, GEME",13785,2023 - 2024 Güz Dönemi
+GEM 211,Gemi Geometrisi,Burak Karacık,Pazartesi,1430/1729,GDB / R409,20,30,"DEN, GEM, GEMM",12040,2023 - 2024 Güz Dönemi
+GEM 313,Gemi Makinaları,"Murat Emre Demir, Halil Saraçoğlu","Perşembe
+Cuma","1330/1529
+1030/1229","GDB
+GDB / 409
+409",29,35,"GEM, GEMM",13788,2023 - 2024 Güz Dönemi
+GEM 313,Gemi Makinaları,"Oğuz Salim Söğüt, Ahmet Ergün Palaz","Perşembe
+Cuma","1330/1529
+1030/1229","GDB
+GDB / D401
+D401",35,35,"GEM, GEMM",13789,2023 - 2024 Güz Dönemi
+GEM 321E,Ship Theory,Metin Taylan,"Salı
+Cuma","0830/1029
+0830/1029","GDB
+GDB / D401
+D401",73,80,"GEM, GEME, GEMK",13790,2023 - 2024 Güz Dönemi
+GEM 322,Gemi Mukavemeti,Ertekin Bayraktarkatal,"Salı
+Çarşamba","1030/1229
+1330/1529","GDB
+GDB / D401
+D401",41,50,"GEM, GEMM",13791,2023 - 2024 Güz Dönemi
+GEM 325,Gemi Yapı Elemanları,Yalçın Ünsan,"Salı
+Çarşamba","1030/1229
+1330/1529","GDB
+GDB / R403
+R403",50,70,"GEM, GEMM",13792,2023 - 2024 Güz Dönemi
+GEM 327E,Ship Hydrodynamics(Resistance),"Uğur Oral Ünal, Ömer Gören",Perşembe,1530/1729,GDB / D401,77,85,"GEM, GEMM",13793,2023 - 2024 Güz Dönemi
+GEM 329,Deniz ve İş Hukuku,Hasan Murat Demirkıran,Cuma,1400/1559,GDB / 409,78,110,GEM,13794,2023 - 2024 Güz Dönemi
+GEM 331,Gemi Işletmeciliği,Erdem Üçer,Perşembe,0830/1029,GDB / D401,58,80,"GEM, GEMM",13795,2023 - 2024 Güz Dönemi
+GEM 407E,Methods of Ship Production,Gökhan Tansel Tayyar,Pazartesi,1430/1729,GDB / 409,56,75,"DEN, DENE, GEM, GEME, GEMK",13796,2023 - 2024 Güz Dönemi
+GEM 409,Gemi Titreşimleri,Ahmet Ergin,Pazartesi,1030/1329,GDB / 410,67,75,GEM,13797,2023 - 2024 Güz Dönemi
+GEM 411E,Ship Design Project I,--,Çarşamba,1030/1229,GDB / ---,0,0,"GEME, GEMK",13800,2023 - 2024 Güz Dönemi
+GEM 421,Gemi Hareket ve Manevraları,"Ömer Gören, Şakir Bal","Pazartesi
+Çarşamba","0830/1029
+0830/1029","GDB
+GDB / D401
+D401",43,90,"GEM, GEMM",13798,2023 - 2024 Güz Dönemi
+GEM 423E,Advanced Propulsion Systems,Ali Can Takinacı,Salı,1530/1729,GDB / D407,19,30,"GEM, GEME, GEMK",13801,2023 - 2024 Güz Dönemi
+GEM 425E,Finite Elem.Anl.of MarineStrc.,Mustafa Erden Yıldızdağ,Salı,1530/1729,GDB / D309,12,30,"DEN, DENE, GEM, GEME, GEMK",13802,2023 - 2024 Güz Dönemi
+GEM 427,Makina Dairesi Dizayn Prensipl,Osman Azmi Özsoysal,Salı,1330/1529,GDB / D304,22,30,GEM,13803,2023 - 2024 Güz Dönemi
+GEM 445,Gemi Boru Donanımları,Osman Azmi Özsoysal,Salı,1530/1729,GDB / D304,35,35,GEM,13804,2023 - 2024 Güz Dönemi
+GEM 453E,Automatic Control of Ships,"Oğuz Salim Söğüt, Ahmet Ergün Palaz",Salı,1230/1529,GDB / D309,38,40,"GEM, GEME, GEMK",13805,2023 - 2024 Güz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Selma Ergin,----,/,GDB / ---,22,100,GEM,13806,2023 - 2024 Güz Dönemi
+GEM 4901,Gemi İnş.&Gemi Mak. Müh.Tas.I,"Gökhan Tansel Tayyar, Devrim Bülent Danışman, Emin Korkut, Ertekin Bayraktarkatal, Metin Taylan, Oğuz Salim Söğüt, Selma Ergin, Yalçın Ünsan, Ömer Gören, İsmail Yalçın","Çarşamba
+Perşembe","1030/1329
+1030/1329","GDB
+GDB / R403
+R403",62,70,GEM,13799,2023 - 2024 Güz Dönemi
+GEM 492,Bitirme Tasarım Projesi,Selma Ergin,----,/,GDB / ---,1,100,GEM,13807,2023 - 2024 Güz Dönemi
+GEM 492E,Graduation Design Project,Selma Ergin,----,/,GDB / ---,0,100,"GEM, GEME, GEMK",13808,2023 - 2024 Güz Dönemi

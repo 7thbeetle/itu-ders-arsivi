@@ -1,0 +1,92 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTR 101,Makam Teorisi I,Eren Özek,----,/,TMB,4,4,MTR MUT MUZ MZT SES,25399,2021 - 2022 Bahar Dönemi
+MTR 102,Makam Teorisi II,Eren Özek,----,/,TMB,5,5,MTR MUT MUZ MZT SES,25401,2021 - 2022 Bahar Dönemi
+MTR 102,Makam Teorisi II,Eren Özek,Pazartesi Salı Perşembe,1530/1729 1530/1729 1030/1229,TMB TMB TMB,22,40,MTR MUT MUZ MZT SES,21658,2021 - 2022 Bahar Dönemi
+MTR 102,Makam Teorisi II,Eren Özek,Pazartesi Salı Perşembe,1330/1529 1030/1229 1330/1529,TMB TMB TMB,12,40,MTR MUT MUZ MZT SES,21677,2021 - 2022 Bahar Dönemi
+MTR 102,Makam Teorisi II,Şerife Güvençoğlu,Pazartesi Salı Çarşamba,1330/1529 1030/1229 1030/1229,TMB TMB TMB,18,40,MTR MUT MUZ MZT SES,21660,2021 - 2022 Bahar Dönemi
+MTR 102,Makam Teorisi II,Şerife Güvençoğlu,Pazartesi Salı Çarşamba,1030/1229 1330/1529 1330/1529,TMB TMB TMB,25,40,MTR MUT MUZ MZT SES,21657,2021 - 2022 Bahar Dönemi
+MTR 103,Müzik Teorisi I,Ayşecan Olgun,----,/,TMB,4,4,MTR MUT MUZ MZT SES,25402,2021 - 2022 Bahar Dönemi
+MTR 104,Müzik Teorisi II,Ayşecan Olgun,----,/,TMB,6,6,MTR MUT MUZ MZT SES,25403,2021 - 2022 Bahar Dönemi
+MTR 104,Müzik Teorisi II,Mehmet Özkan,Çarşamba Perşembe Cuma,1030/1229 0830/1029 1030/1229,TMB TMB TMB,15,30,MTR MUT MUZ MZT SES,21672,2021 - 2022 Bahar Dönemi
+MTR 104,Müzik Teorisi II,Ufuk Biçak,Çarşamba Perşembe Cuma,1030/1229 1330/1529 1030/1229,TMB TMB TMB,11,30,MTR MUT MUZ MZT SES,21666,2021 - 2022 Bahar Dönemi
+MTR 104,Müzik Teorisi II,Ayşecan Olgun,Pazartesi Çarşamba Cuma,1030/1229 1330/1529 1400/1559,TMB TMB TMB,30,30,MTR MUT MUZ MZT SES,21681,2021 - 2022 Bahar Dönemi
+MTR 104,Müzik Teorisi II,Emel Şenocak,Pazartesi Salı Perşembe,1030/1229 1530/1729 0830/1029,TMB TMB TMB,12,30,MTR MUT MUZ MZT SES,21679,2021 - 2022 Bahar Dönemi
+MTR 105,Ritim Uygulama I,Serhat Tansu Altuğ,----,/,TMB,1,1,MTR,25404,2021 - 2022 Bahar Dönemi
+MTR 106,Ritim Uygulama II,Eyüp Uzunkaya,----,/,TMB,2,2,MTR,25405,2021 - 2022 Bahar Dönemi
+MTR 106,Ritim Uygulama II,Eyüp Uzunkaya,Perşembe,1330/1529,TMB,24,25,MTR,21676,2021 - 2022 Bahar Dönemi
+MTR 122,Makam Teorisi II,Göknil Bişak Özdemir,Pazartesi Çarşamba,1030/1229 1330/1529,TMB TMB,11,25,THO,21721,2021 - 2022 Bahar Dönemi
+MTR 124,Müzik Teorisi II,Emel Şenocak,Pazartesi Perşembe,0830/1029 1030/1229,TMB TMB,14,25,THO,21720,2021 - 2022 Bahar Dönemi
+MTR 131,Makam Teorisi I,Eren Özek,----,/,TMB,1,1,CGM6 MUT SES THO,25406,2021 - 2022 Bahar Dönemi
+MTR 132,Makam Teorisi II,Eren Özek,----,/,TMB,1,1,CGM6 MUT SES THO,25407,2021 - 2022 Bahar Dönemi
+MTR 133,Müzik Teorisi I,Emel Şenocak,----,/,TMB,1,1,CGM6 MUT SES THO,25408,2021 - 2022 Bahar Dönemi
+MTR 134,Müzik Teorisi II,Emel Şenocak,----,/,TMB,1,1,CGM6 MUT SES THO,25409,2021 - 2022 Bahar Dönemi
+MTR 142,Makam Teorisi II,Ferda Cengiz Ünal,Salı Perşembe,1330/1529 1330/1529,TMB TMB,12,30,BST CAB CEB CGM7 KMP,21728,2021 - 2022 Bahar Dönemi
+MTR 144,Müzik Teorisi II,Recep Gül,Pazartesi Çarşamba,1030/1229 1030/1229,TMB TMB,4,30,BST CAB CEB CGM7 KMP,21729,2021 - 2022 Bahar Dönemi
+MTR 201,Makam Teorisi III,Nurullah Kanık,----,/,TMB,8,8,MTR MUT MUZ MZT SES,25411,2021 - 2022 Bahar Dönemi
+MTR 202,Makam Teorisi IV,Nurullah Kanık,----,/,TMB,11,11,MTR MUT MUZ MZT SES,25412,2021 - 2022 Bahar Dönemi
+MTR 202,Makam Teorisi IV,Nurullah Kanık,Salı Perşembe Cuma,1030/1229 1530/1729 1030/1229,TMB TMB TMB,18,40,MTR MUT MUZ MZT SES,21689,2021 - 2022 Bahar Dönemi
+MTR 202,Makam Teorisi IV,Nurullah Kanık,Salı Perşembe Cuma,0830/1029 1330/1529 1600/1759,TMB TMB TMB,13,40,MTR MUT MUZ MZT SES,21668,2021 - 2022 Bahar Dönemi
+MTR 202,Makam Teorisi IV,Şirin Karadeniz,Pazartesi Çarşamba Perşembe,1330/1529 1030/1229 0830/1029,TMB TMB TMB,9,40,MTR MUT MUZ MZT SES,21684,2021 - 2022 Bahar Dönemi
+MTR 203,Müzik Teorisi III,Ufuk Biçak,----,/,TMB,7,7,MTR MUT MUZ MZT SES,25413,2021 - 2022 Bahar Dönemi
+MTR 204,Müzik Teorisi IV,Ufuk Biçak,----,/,TMB,10,10,MTR MUT MUZ MZT SES,25415,2021 - 2022 Bahar Dönemi
+MTR 204,Müzik Teorisi IV,Mehmet Özkan,Çarşamba Perşembe Cuma,1330/1529 1030/1229 0830/1029,TMB TMB TMB,11,30,MTR MUT MUZ MZT SES,21691,2021 - 2022 Bahar Dönemi
+MTR 204,Müzik Teorisi IV,Ufuk Biçak,Salı Çarşamba Cuma,0830/1029 1330/1529 1400/1559,TMB TMB TMB,20,30,MTR MUT MUZ MZT SES,21688,2021 - 2022 Bahar Dönemi
+MTR 204,Müzik Teorisi IV,Ayşecan Olgun,Pazartesi Perşembe Cuma,1330/1529 1530/1729 1030/1229,TMB TMB TMB,24,30,MTR MUT MUZ MZT SES,21670,2021 - 2022 Bahar Dönemi
+MTR 205,Müzik Teorileri Tarihi I,Gülay Karamahmutoğlu,----,/,TMB,1,1,MTR MTRM,26311,2021 - 2022 Bahar Dönemi
+MTR 206,Müzik Teorileri Tarihi II,Gülay Karamahmutoğlu,----,/,TMB,1,1,MTR MTRM,26312,2021 - 2022 Bahar Dönemi
+MTR 206,Müzik Teorileri Tarihi II,Gülay Karamahmutoğlu,Perşembe,1030/1229,TMB,25,30,MTR MTRM,21692,2021 - 2022 Bahar Dönemi
+MTR 208,Teori Uygulama II,Süleyman Şenel,----,/,TMB,3,3,MTR MTRM,25416,2021 - 2022 Bahar Dönemi
+MTR 208,Teori Uygulama II,Süleyman Şenel,Perşembe,1330/1529,TMB,22,30,MTR MTRM,21696,2021 - 2022 Bahar Dönemi
+MTR 221,Makam Teorisi III,Göktan Ay,----,/,TMB,1,1,THO,25418,2021 - 2022 Bahar Dönemi
+MTR 222,Makam Teorisi IV,Göktan Ay,----,/,TMB,1,1,THO,25419,2021 - 2022 Bahar Dönemi
+MTR 222,Makam Teorisi IV,Göktan Ay,Pazartesi Çarşamba,1030/1229 1030/1229,,18,30,THO,21725,2021 - 2022 Bahar Dönemi
+MTR 224,Müzik Teorisi IV,Emel Şenocak,Salı Perşembe,1330/1529 1330/1529,TMB TMB,14,30,THO,21723,2021 - 2022 Bahar Dönemi
+MTR 231,Makam Teorisi III,Nurullah Kanık,----,/,TMB,1,1,CGM6 MUT SES THO,25420,2021 - 2022 Bahar Dönemi
+MTR 232,Makam Teorisi IV,Nurullah Kanık,----,/,TMB,1,1,MUT SES THO,25421,2021 - 2022 Bahar Dönemi
+MTR 233,Müzik Teorisi III,Ayşecan Olgun,----,/,TMB,1,1,MUT SES THO,25422,2021 - 2022 Bahar Dönemi
+MTR 234,Müzik Teorisi IV,Ayşecan Olgun,----,/,TMB,1,1,MUT SES THO,25423,2021 - 2022 Bahar Dönemi
+MTR 241,Makam Teorisi III,Ferda Cengiz Ünal,----,/,TMB,1,1,BST CAB CEB CGM7 KMP,25424,2021 - 2022 Bahar Dönemi
+MTR 242,Makam Teorisi IV,Ferda Cengiz Ünal,----,/,TMB,1,1,BST CAB CEB KMP,25425,2021 - 2022 Bahar Dönemi
+MTR 242,Makam Teorisi IV,Ferda Cengiz Ünal,Çarşamba Perşembe,1030/1229 1530/1729,TMB TMB,12,30,BST CAB CEB KMP,21730,2021 - 2022 Bahar Dönemi
+MTR 244,Müzik Teorisi IV,Ayşecan Olgun,----,/,TMB,1,1,BST CAB CEB KMP,25426,2021 - 2022 Bahar Dönemi
+MTR 244,Müzik Teorisi IV,Mehmet Özkan,Pazartesi Salı,1330/1529 1330/1529,TMB TMB,11,30,BST CAB CEB KMP,21732,2021 - 2022 Bahar Dönemi
+MTR 301,İleri Makam Teorisi I,Eren Özek,----,/,TMB,7,7,MTR,25427,2021 - 2022 Bahar Dönemi
+MTR 302,İleri Makam Teorisi II,Eren Özek,----,/,TMB,6,6,MTR,25428,2021 - 2022 Bahar Dönemi
+MTR 302,İleri Makam Teorisi II,Ferda Cengiz Ünal,Pazartesi Çarşamba,1330/1529 1330/1529,TMB TMB,18,35,MTR,21700,2021 - 2022 Bahar Dönemi
+MTR 303,İleri Müzik Teorisi I,Ayşecan Olgun,----,/,TMB,7,7,MTR,25429,2021 - 2022 Bahar Dönemi
+MTR 304,İleri Müzik Teorisi II,Ayşecan Olgun,----,/,TMB,7,7,MTR,25431,2021 - 2022 Bahar Dönemi
+MTR 304,İleri Müzik Teorisi II,Ayşecan Olgun,Çarşamba Cuma,0830/1029 1600/1759,TMB TMB,19,30,MTR,21712,2021 - 2022 Bahar Dönemi
+MTR 305,Müzik Teorileri Tarihi III,Gülay Karamahmutoğlu,----,/,TMB,2,2,MTR MTRM,26313,2021 - 2022 Bahar Dönemi
+MTR 305,Müzik Teorileri Tarihi III,Gülay Karamahmutoğlu,Salı,1330/1529,TMB,3,10,MTR MTRM,25102,2021 - 2022 Bahar Dönemi
+MTR 306,Müzik Teorileri Tarihi IV,Gülay Karamahmutoğlu,----,/,TMB,1,1,MTR MTRM,26314,2021 - 2022 Bahar Dönemi
+MTR 306,Müzik Teorileri Tarihi IV,Gülay Karamahmutoğlu,Perşembe,1330/1529,TMB,24,30,MTR,21694,2021 - 2022 Bahar Dönemi
+MTR 307,Teori Uygulama III,Gülay Karamahmutoğlu,----,/,TMB,2,2,MTR MTRM,25432,2021 - 2022 Bahar Dönemi
+MTR 308,Teori Uygulama IV,Gülay Karamahmutoğlu,----,/,TMB,2,2,MTR MTRM,25433,2021 - 2022 Bahar Dönemi
+MTR 308,Teori Uygulama IV,Gülay Karamahmutoğlu,Salı,1030/1229,TMB,26,30,MTR MTRM,21695,2021 - 2022 Bahar Dönemi
+MTR 309,Ses Sistemleri I,Ufuk Biçak,----,/,TMB,1,1,MTR MTRM,26315,2021 - 2022 Bahar Dönemi
+MTR 310,Ses Sistemleri II,Nurullah Kanık,Cuma,0830/1029,TMB,25,30,MTR MTRM,21713,2021 - 2022 Bahar Dönemi
+MTR 310,Ses Sistemleri II,Nurullah Kanık,----,/,TMB,1,1,MTR MTRM,26316,2021 - 2022 Bahar Dönemi
+MTR 318,Müzikte Metin Çözümlemeleri II,Kemal Hasan Karnal,Perşembe,1330/1529,TMB,11,25,SES,21662,2021 - 2022 Bahar Dönemi
+MTR 321,Müzikte Metin Çözümlemeleri I,Kemal Hasan Karnal,----,/,TMB,5,5,MTR,26317,2021 - 2022 Bahar Dönemi
+MTR 322,Müzikte Metin Çözümlemeleri II,Kemal Hasan Karnal,Perşembe,1530/1729,TMB,4,25,MTR,21664,2021 - 2022 Bahar Dönemi
+MTR 401,İleri Makam Teorisi III,Ferda Cengiz Ünal,----,/,TMB,9,9,MTR,25435,2021 - 2022 Bahar Dönemi
+MTR 402,İleri Makam Teorisi IV,Ferda Cengiz Ünal,----,/,TMB,8,8,MTR,25436,2021 - 2022 Bahar Dönemi
+MTR 402,İleri Makam Teorisi IV,Nurullah Kanık,Salı Perşembe,1330/1529 1030/1229,TMB TMB,17,35,MTR,21714,2021 - 2022 Bahar Dönemi
+MTR 403,İleri Müzik Teorisi III,Ufuk Biçak,----,/,TMB,7,7,MTR,25437,2021 - 2022 Bahar Dönemi
+MTR 404,İleri Müzik Teorisi IV,Ufuk Biçak,----,/,TMB,7,7,MTR,25439,2021 - 2022 Bahar Dönemi
+MTR 404,İleri Müzik Teorisi IV,Ufuk Biçak,Salı Perşembe,1030/1229 1530/1729,TMB TMB,19,25,MTR,21716,2021 - 2022 Bahar Dönemi
+MTR 405,Dikte ve Deşifre I,Göktan Ay,----,/,TMB,6,6,MTR,25440,2021 - 2022 Bahar Dönemi
+MTR 406,Dikte ve Deşifre II,Göktan Ay,----,/,TMB,6,6,MTR,25441,2021 - 2022 Bahar Dönemi
+MTR 406,Dikte ve Deşifre II,Göktan Ay,Pazartesi,1330/1529,,17,30,MTR,21717,2021 - 2022 Bahar Dönemi
+MTR 407,Eser Çözümleme I,Neşe Yeşim Altınel Çoban,----,/,TMB,2,2,MTR,25442,2021 - 2022 Bahar Dönemi
+MTR 408,Eser Çözümleme II,Neşe Yeşim Altınel Çoban,Çarşamba,1030/1229,TMB,14,25,MTR,21719,2021 - 2022 Bahar Dönemi
+MTR 408,Eser Çözümleme II,Neşe Yeşim Altınel Çoban,----,/,TMB,5,5,MTR,25444,2021 - 2022 Bahar Dönemi
+MTR 431,Dikte Deşifre I,Metin Eke,----,/,TMB,2,2,CAB CEB SES THO,25446,2021 - 2022 Bahar Dönemi
+MTR 432,Dikte Deşifre II,Metin Eke,----,/,TMB,3,3,CAB CEB SES THO,25447,2021 - 2022 Bahar Dönemi
+MTR 432,Dikte Deşifre II,Göktan Ay,Salı,1030/1229,,23,30,CAB CEB SES THO,21726,2021 - 2022 Bahar Dönemi
+MTR 434,Eser Çözümleme II,Neşe Yeşim Altınel Çoban,Perşembe,1330/1529,TMB,2,30,CAB CEB SES,21733,2021 - 2022 Bahar Dönemi
+MTR 442,Dikte Deşifre II,Göktan Ay,----,/,TMB,2,2,SES,25448,2021 - 2022 Bahar Dönemi
+MTR 442,Dikte Deşifre II,Göktan Ay,Pazartesi Çarşamba,1530/1729 0830/1029,,7,30,SES,21697,2021 - 2022 Bahar Dönemi
+MTR 444,Eser Çözümleme II,Neşe Yeşim Altınel Çoban,Pazartesi Çarşamba,1530/1729 0830/1029,TMB TMB,7,30,SES,21698,2021 - 2022 Bahar Dönemi
+MTR 492,Bitirme Çalışması,Eren Özek,----,/,TMB,9,9,MTR,25449,2021 - 2022 Bahar Dönemi
+MTR 492,Bitirme Çalışması,Eren Özek,----,/,TMB,13,100,MTR,21655,2021 - 2022 Bahar Dönemi

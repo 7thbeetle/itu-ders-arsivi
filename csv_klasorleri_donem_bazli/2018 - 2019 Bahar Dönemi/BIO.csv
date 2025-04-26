@@ -1,0 +1,28 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BIO 101,General Biology,Fatma Neşe Kök,Salı,1430/1729,MOBGAM,10,40,MBI,21526,2018 - 2019 Bahar Dönemi
+BIO 102E,Engineering Biology,Levent Trabzon,Perşembe,0830/1129,MKB,99,90,IML IMLE MAK MAKE,25029,2018 - 2019 Bahar Dönemi
+BIO 106E,General Biology II,Ceren Çıracı,Salı Perşembe,0830/1029 1230/1329,FEB FEB,43,40,BIO BIOE BIOM,21199,2018 - 2019 Bahar Dönemi
+BIO 106E,General Biology II,Bülent Balta,Salı Perşembe,0830/1029 1230/1329,FEB FEB,39,40,BIO BIOE BIOM,21189,2018 - 2019 Bahar Dönemi
+BIO 106EL,General Biology II Lab.,"Bülent Balta, Ceren Çıracı",Salı,1030/1329,FEB,85,90,BIO BIOE BIOM,21190,2018 - 2019 Bahar Dönemi
+BIO 212E,Genetics,Eda Tahir Turanlı,Perşembe,0830/1129,FEB,80,80,BIO BIOE BIOM,21192,2018 - 2019 Bahar Dönemi
+BIO 214,Mikrobiyoloji,--,Cuma,1330/1629,KMB,0,0,KMM,21508,2018 - 2019 Bahar Dönemi
+BIO 214E,Microbiology,Pervin Başaran Akocak,Perşembe,1330/1629,KMB,5,15,KMM KMME PETE,21509,2018 - 2019 Bahar Dönemi
+BIO 215,Biyokimya,Ramazan Kızıl,Çarşamba,1230/1529,KMB,14,15,FIZ GID KMM,21510,2018 - 2019 Bahar Dönemi
+BIO 215E,Biochemistry,--,Salı,1330/1629,KMB,0,0,FIZE GIDE KMME,21511,2018 - 2019 Bahar Dönemi
+BIO 216E,Microbiology,"Zeynep Petek Çakar, Ayten Karataş",Pazartesi,0830/1129,FEB,88,90,BIO BIOE BIOM,21194,2018 - 2019 Bahar Dönemi
+BIO 216EL,Microbiology Lab.,"Zeynep Petek Çakar, Ayten Karataş",Salı,1430/1729,FEB,64,90,BIO BIOE BIOM,21195,2018 - 2019 Bahar Dönemi
+BIO 222E,Systematic Biology,Deniz Şahin,Çarşamba,0930/1129,MOBGAM,4,5,BIO BIOE,25510,2018 - 2019 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Çarşamba,1230/1529,FEB,61,60,BIOM CHZ CHZE DEN EHB EHBE ELE ELH ELK ELKE FIZ FIZE GEM GID GIDE INS INSE ISL ISLE JEO JEOE KIM KIME KMM KMME KOM KOME MAD MADE MET METE PET PETE TEL,20859,2018 - 2019 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Salı,1130/1429,FEB,58,60,BIOM CHZ CHZE DEN EHB EHBE ELE ELH ELK ELKE FIZ FIZE GEM GID GIDE INS INSE ISL ISLE JEO JEOE KIM KIME KMM KMME KOM KOME MAD MADE MET METE PET PETE TEL,20858,2018 - 2019 Bahar Dönemi
+BIO 303,Biyomalzemeler,Fatma Seniha Güner,Çarşamba,1230/1529,KMB,16,15,KMM,21512,2018 - 2019 Bahar Dönemi
+BIO 312E,Biochemistry II,Nevin Gül-Karagüler,Salı Cuma,0830/1129 0930/1229,FEB FEB,65,80,BIO BIOE,21193,2018 - 2019 Bahar Dönemi
+BIO 331E,Molecular Genetics,"Arzu Karabay Korkmaz, Eda Tahir Turanlı",Salı Perşembe,1130/1329 1430/1729,FEB FEB,61,80,BIO BIOE BIOM,21197,2018 - 2019 Bahar Dönemi
+BIO 332E,Modern Techniques in Biology,"Hakan Bermek, Deniz Şahin",Pazartesi,1430/1729,FEB,67,80,BIO BIOE,21198,2018 - 2019 Bahar Dönemi
+BIO 342E,Enzymology,"Nevin Gül-Karagüler, Fatma Neşe Kök",Perşembe,0830/1129,MOBGAM,42,40,BIO BIOE BIOM,21201,2018 - 2019 Bahar Dönemi
+BIO 442E,Molecular Immunology,"Ceren Çıracı, Ayça Sayı Yazgan",Çarşamba,1230/1529,MOBGAM,18,40,BIO BIOE BIOM,21202,2018 - 2019 Bahar Dönemi
+BIO 462E,Prot. Struct.-Function Relat.,Gizem Dinler Doğanay,Salı,1430/1729,MOBGAM,30,40,BIO BIOE BIOM,21203,2018 - 2019 Bahar Dönemi
+BIO 466E,Developmental Biology,Aslı Kumbasar,Pazartesi,0830/1129,MOBGAM,35,40,BIO BIOE BIOM,21204,2018 - 2019 Bahar Dönemi
+BIO 468E,Current Topics in Ecology,Hasan Nüzhet Dalfes,Perşembe,1130/1429,FEB,20,20,BIO BIOE BIOM,21205,2018 - 2019 Bahar Dönemi
+BIO 471E,Protein Biotechnology,Hakan Bermek,Perşembe,1430/1729,FEB,17,60,BIO BIOE,21200,2018 - 2019 Bahar Dönemi
+BIO 492,Bitirme Çalışması,Fatma Neşe Kök,----,/,FEB,2,500,BIO,21206,2018 - 2019 Bahar Dönemi
+BIO 492E,Graduation Project,Fatma Neşe Kök,----,/,FEB,44,500,BIO BIOE,21207,2018 - 2019 Bahar Dönemi

@@ -1,0 +1,163 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MAT 115E,Intro. to Programming Language,Soner Aydınlık,Pazartesi,0830/1229,FEB / OBL3,44,45,MAT,10629,2023 - 2024 Güz Dönemi
+MAT 115E,Intro. to Programming Language,Burcu Tunga,Çarşamba,0830/1229,FEB / OBL3,46,45,MAT,10610,2023 - 2024 Güz Dönemi
+MAT 116E,Advanced Sci. & Eng. Computing,Nalan Antar,Perşembe,0830/1229,FEB / OBL3,50,50,MAT,10645,2023 - 2024 Güz Dönemi
+MAT 116E,Advanced Sci. & Eng. Computing,Nalan Antar,Cuma,0830/1229,FEB / OBL3,26,40,MAT,10644,2023 - 2024 Güz Dönemi
+MAT 117,Matematik Müh. Giriş ve Etik,Sevgi Harman,Çarşamba,1330/1529,FEB / D104,89,120,MAT,10599,2023 - 2024 Güz Dönemi
+MAT 143,Lineer Cebir,Güler Arsan,"Salı
+Cuma","1030/1229
+1030/1229","FEB
+FEB / D102
+D102",65,65,"MAT, MATM",10616,2023 - 2024 Güz Dönemi
+MAT 143,Lineer Cebir,Nurettin Cenk Turgay,"Salı
+Cuma","1030/1229
+1030/1229","FEB
+FEB / D104
+D104",56,65,"MAT, MATM",10617,2023 - 2024 Güz Dönemi
+MAT 175,Soyut Matematik,Burak Yıldıran Stodolsky,Perşembe,1430/1729,FEB / D104,75,75,"MAT, MATM",10620,2023 - 2024 Güz Dönemi
+MAT 175,Soyut Matematik,Atabey Kaygun,Perşembe,1430/1729,FEB / D102,67,75,"MAT, MATM",10632,2023 - 2024 Güz Dönemi
+MAT 185,Matematik I,Nurettin Cenk Turgay,"Salı
+Cuma","1430/1729
+1400/1559","FEB
+FEB / D104
+D104",59,60,MAT,10618,2023 - 2024 Güz Dönemi
+MAT 185,Matematik I,Semra Ahmetolan,"Salı
+Cuma","1430/1729
+1400/1559","FEB
+FEB / D102
+D102",29,60,MAT,10649,2023 - 2024 Güz Dönemi
+MAT 186,Matematik II,Gülçin Mihriye Muslu,"Salı
+Cuma","1430/1729
+1400/1559","FEB
+FEB / D103
+D103",60,70,MAT,10642,2023 - 2024 Güz Dönemi
+MAT 201E,Differential Equations,Seher Eken,Perşembe,0830/1229,UUB / D216,108,100,"UCK, UZBE",11922,2023 - 2024 Güz Dönemi
+MAT 201E,Differential Equations,Oğuzcan İnal,Perşembe,0830/1229,UUB / D-Z09,80,75,"UCK, UZBE",15294,2023 - 2024 Güz Dönemi
+MAT 202,Sayısal Yöntemler,Deniz Bayraktar Bural,Salı,0830/1129,GDB / D311,53,55,"CEV, CHZ, DEN, EHB, ELE, ELH, ELK, GEM, GEO, GID, IML, INS, ISL, JEF, JEO, KOM, KON, MAD, MAK, MET, PET, TEK, TEL",12032,2023 - 2024 Güz Dönemi
+MAT 202,Sayısal Yöntemler,Barış Barlas,"Salı
+Perşembe","1230/1429
+0930/1029","GDB
+GDB / R403
+R403",45,45,"CEV, CHZ, DEN, EHB, ELE, ELH, ELK, GEM, GEO, GID, IML, INS, ISL, JEF, JEO, KOM, KON, MAD, MAK, MET, PET, TEK, TEL",13786,2023 - 2024 Güz Dönemi
+MAT 202,Sayısal Yöntemler,İsmail Yalçın,"Salı
+Perşembe","1230/1429
+0930/1029","GDB
+GDB / 410
+D304",27,45,"CEV, CHZ, DEN, EHB, ELE, ELH, ELK, GEM, GEO, GID, IML, INS, ISL, JEF, JEO, KOM, KON, MAD, MAK, MET, PET, TEK, TEL",13787,2023 - 2024 Güz Dönemi
+MAT 202E,Numerical Methods,Emine Ayaz,Pazartesi,1230/1529,EEB / 6309,75,75,"BLG, BLGE, CEV, CEVE, CHZ, CHZE, DEN, DENE, EHB, EHBE, ELE, ELH, ELK, ELKE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, IML, IMLE, INS, INSE, ISL, ISLE, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, KON, KONE, MAD, MADE, MAK, MAKE, MET, METE, MTO, MTOE, NAE, PET, PETE, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",10577,2023 - 2024 Güz Dönemi
+MAT 202E,Numerical Methods,Serdar Turgut İnce,Çarşamba,1030/1329,GDB / D407,7,50,NAE,15115,2023 - 2024 Güz Dönemi
+MAT 210,Mühendislik Matematiği,Kübra Onbaşlı,"Pazartesi
+Çarşamba","1130/1329
+1330/1529","KMB
+KMB / D102
+D105",51,60,MET,12346,2023 - 2024 Güz Dönemi
+MAT 210,Mühendislik Matematiği,Sabire Cömert,"Salı
+Perşembe","0830/1029
+0830/1029","DZB
+DZB / ---
+---",62,90,"DUI, GMI",11613,2023 - 2024 Güz Dönemi
+MAT 210,Mühendislik Matematiği,"Bahtiyar Efe, Deniz Demirhan",Salı,0830/1229,UUB / D210,31,60,MTO,15237,2023 - 2024 Güz Dönemi
+MAT 210,Mühendislik Matematiği,Sabire Cömert,"Salı
+Perşembe","1030/1229
+1030/1229","DZB
+DZB / ---
+---",33,94,"DUI, GMI",11614,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,Elif Öztürk Er,"Pazartesi
+Pazartesi","1130/1329
+1430/1629","KMB
+KMB / D302
+D104",65,60,KMM,12278,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,Sabire Cömert,"Salı
+Perşembe","1330/1529
+1230/1429","DZB
+DZB / ---
+---",11,60,"CEN, MEN, MTM, NAE",13762,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,"Kadriye Nur Kasapoğlu, Gizem Çatalkaya",Çarşamba,0830/1229,KMB / D303,43,60,"GID, GIDE",12372,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,Levent Bilir,"Çarşamba
+Perşembe","0830/1029
+1230/1429","MDB
+MDB / A105
+B206",38,90,"CHZ, CHZE, JEF, JEFE, JEO, JEOE, MAD, MADE, PET, PETE",13135,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,Levent Bilir,"Çarşamba
+Perşembe","1130/1329
+0830/1029","MDB
+MDB / A201
+A103",74,90,"CHZ, CHZE, JEF, JEFE, JEO, JEOE, MAD, MADE, PET, PETE",13136,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,Hande Sezgin,"Çarşamba
+Perşembe","1130/1329
+0830/1029","MKB
+MKB / D359
+D359",50,65,"TEK, TEKE",13614,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,Ahmet Göncü,Cuma,0830/1229,MED / A15,96,110,"CEN, ECNE, ISL, ISLE, NAE",11424,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,Kübra Onbaşlı,"Cuma
+Cuma","1100/1259
+1400/1559","KMB
+KMB / D104
+D202",54,60,METE,12345,2023 - 2024 Güz Dönemi
+MAT 210E,Engineering Mathematics,Ahmet Göncü,Cuma,1400/1759,MED / A35,94,110,"CEN, ECNE, ISL, ISLE, NAE",11427,2023 - 2024 Güz Dönemi
+MAT 221,Olasılık Teorisi,Bahri Güldoğan,Pazartesi,0830/1129,FEB / D201,55,65,MAT,10619,2023 - 2024 Güz Dönemi
+MAT 221E,Probability Theory,Gül İnan,Pazartesi,0830/1129,FEB / D202,65,65,MAT,10622,2023 - 2024 Güz Dönemi
+MAT 232,Diferansiyel Denklemler,Semra Ahmetolan,"Çarşamba
+Cuma","1330/1529
+1030/1229","FEB
+FEB / D102
+D202",46,45,"MAT, MATM",10650,2023 - 2024 Güz Dönemi
+MAT 232E,Differential Equations,İrma Hacınlıyan,"Çarşamba
+Cuma","1330/1529
+1030/1229","FEB
+FEB / D101
+D101",29,45,"MAT, MATE, MATM",10624,2023 - 2024 Güz Dönemi
+MAT 263E,Computational Linear Algebra,Ahmet Kırış,Salı,0830/1129,FEB / D204,65,70,"MAT, MATM",10606,2023 - 2024 Güz Dönemi
+MAT 263E,Computational Linear Algebra,Ali Demirci,Salı,0830/1129,FEB / D202,70,70,"MAT, MATM",10609,2023 - 2024 Güz Dönemi
+MAT 271,Olasılık ve İstatistik,Ayşe Arifoğlu,Çarşamba,1230/1529,KMB / D303,49,50,"BIO, BLG, EHB, ELE, ELH, EUT, FIZ, GEM, GEO, GID, IML, INS, JEO, KMM, MET, MTO, PET, TEL, UCK, UZB",12274,2023 - 2024 Güz Dönemi
+MAT 271,Olasılık ve İstatistik,Filiz Türk Katırcıoğlu,Perşembe,1130/1429,UUB / D-Z08,69,55,"BIO, BLG, EHB, ELE, ELH, EUT, FIZ, GEM, GEO, GID, IML, IMLM, INS, JDF, JEO, KMM, MATM, MET, MTO, PET, TEL, UCK, UZB",11726,2023 - 2024 Güz Dönemi
+MAT 271,Olasılık ve İstatistik,Cemile Yerlikaya,Perşembe,1330/1629,KMB / D202,53,50,"BIO, BLG, EHB, ELE, ELH, EUT, FIZ, GEM, GEO, GID, IML, INS, JEO, KMM, MET, MTO, PET, TEL, UCK, UZB",12272,2023 - 2024 Güz Dönemi
+MAT 271E,Probability and Statistics,Faiz Muhaffel,Pazartesi,0830/1129,KMB / D302,75,70,"AIN, BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EHB, EHBE, EHN, ELE, ELH, ELK, ELKE, ENTE, EUT, EUTE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, INS, INSE, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, KON, KONE, MAD, MADE, MAK, MAKE, MEN, MET, METE, MMD, MTM, MTO, MTOE, NAE, PET, PETE, SBP, SBPE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",12344,2023 - 2024 Güz Dönemi
+MAT 271E,Probability and Statistics,Nazan Okur,Pazartesi,1330/1629,MKB / D380A,38,50,"AIN, BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EHB, EHBE, EHN, ELE, ELH, ELK, ELKE, ENTE, EUT, EUTE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, INS, INSE, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, KON, KONE, MAD, MADE, MAK, MAKE, MEN, MET, METE, MMD, MTM, MTO, MTOE, NAE, PET, PETE, SBP, SBPE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",13615,2023 - 2024 Güz Dönemi
+MAT 271E,Probability and Statistics,Sanem Kabadayı,Salı,1330/1629,KMB / D101,27,60,"BLG, BLGE, CEN",12162,2023 - 2024 Güz Dönemi
+MAT 271E,Probability and Statistics,Çiğdem Oral,Perşembe,1330/1629,KMB / D104,49,50,KMM,12276,2023 - 2024 Güz Dönemi
+MAT 271E,Probability and Statistics,Canan Sarıçam,Cuma,1400/1659,MKB / D360,50,50,"AIN, BIO, BIOE, BLG, BLGE, CEN, CEV, CEVE, CHZ, CHZE, DEN, DENE, DUI, EHB, EHBE, EHN, ELE, ELH, ELK, ELKE, ENTE, EUT, EUTE, FIZ, FIZE, GEM, GEME, GEMK, GEO, GEOE, GID, GIDE, GMI, GMIE, GMIK, IML, IMLE, INS, INSE, JEF, JEFE, JEO, JEOE, KMM, KMME, KOM, KOME, KON, KONE, MAD, MADE, MAK, MAKE, MEN, MET, METE, MMD, MTM, MTO, MTOE, NAE, PET, PETE, SBP, SBPE, SEH, TEK, TEKE, TEL, UCK, UCKE, UZB, UZBE",13616,2023 - 2024 Güz Dönemi
+MAT 281E,Linear Algebra and Applicat.,Uluğ Bayazıt,Salı,1330/1629,MEDB / 101,84,85,"BLG, BLGE",12153,2023 - 2024 Güz Dönemi
+MAT 281E,Linear Algebra and Applicat.,Ahmet Hamdi Kayran,Salı,1330/1629,EEB / 5104,85,85,"BLG, BLGE",12154,2023 - 2024 Güz Dönemi
+MAT 281E,Linear Algebra and Applicat.,Vasil Tabatadze,Çarşamba,1430/1729,INB / D202,92,85,CEN,15125,2023 - 2024 Güz Dönemi
+MAT 281E,Linear Algebra and Applicat.,Behçet Uğur Töreyin,Cuma,0930/1229,INB / A102,87,90,YZVE,12211,2023 - 2024 Güz Dönemi
+MAT 287,Matematik III,Kamil Oruçoğlu,"Salı
+Cuma","1430/1729
+1400/1559","FEB
+FEB / D202
+D202",50,55,"MAT, MATM",10643,2023 - 2024 Güz Dönemi
+MAT 287E,Mathematics III,Cihangir Özemir,"Salı
+Cuma","1430/1729
+1400/1559","FEB
+FEB / D204
+D204",56,55,"MAT, MATE, MATM",10613,2023 - 2024 Güz Dönemi
+MAT 303E,Dynamics,Rahmiye Ergün,Cuma,1400/1659,FEB / D203,44,60,MAT,10598,2023 - 2024 Güz Dönemi
+MAT 310,Briç,İzzet Göksel,Salı,0830/1129,FEB / L400,23,23,MAT,10628,2023 - 2024 Güz Dönemi
+MAT 333,Bilgi İşlem Algoritmaları,Evren Tanrıöver,Perşembe,0830/1129,FEB / D202,47,55,MAT,10630,2023 - 2024 Güz Dönemi
+MAT 333E,Data Processing Algorithms,İzzet Göksel,Perşembe,0830/1129,FEB / D204,52,55,MAT,10626,2023 - 2024 Güz Dönemi
+MAT 335E,Programming Algorithms,Burcu Tunga,Salı,1330/1729,FEB / OBL3,21,23,MAT,10611,2023 - 2024 Güz Dönemi
+MAT 345E,Complex Analysis,Aybike Özer,Çarşamba,0830/1129,FEB / D202,49,50,"MAT, MATM",10634,2023 - 2024 Güz Dönemi
+MAT 345E,Complex Analysis,Seher Melike Aydoğan,Çarşamba,0830/1129,FEB / D201,41,50,"MAT, MATM",10647,2023 - 2024 Güz Dönemi
+MAT 351E,Computational Optimization,Ersin Özuğurlu,Cuma,0930/1229,FEB / D103,56,70,"MAT, MATM",10638,2023 - 2024 Güz Dönemi
+MAT 365,Varyasyonlar Hesabı,Elmkhan Mahmudov,Salı,1430/1729,FEB / D306,9,20,"MAT, MATM",10636,2023 - 2024 Güz Dönemi
+MAT 368E,Mathematical Modeling,Samet Yücel Kadıoğlu,Cuma,1400/1659,FEB / D201,23,25,"MAT, MATM",10646,2023 - 2024 Güz Dönemi
+MAT 381E,Introduction to Data Science,Atabey Kaygun,Pazartesi,1430/1729,FEB / OBL2,24,23,"ECNE, MAT, MATE, MATM",10633,2023 - 2024 Güz Dönemi
+MAT 386E,Computational Data Science,"Ahmet Kırış, Burcu Tunga",Cuma,1400/1759,---- / ----,25,25,"ECNE, MAT, MATE, MATM",10608,2023 - 2024 Güz Dönemi
+MAT 388E,Data Analysis in Fund.Sciences,Gül İnan,Perşembe,1430/1729,FEB / OBL3,20,20,"MAT, MATE, MATM",10623,2023 - 2024 Güz Dönemi
+MAT 417E,Theory of Surfaces,Fatma Özdemir,Salı,1430/1729,FEB / D101,19,20,"FIZ, MAT, MATM",10640,2023 - 2024 Güz Dönemi
+MAT 423E,Numerical Solutions of ODE,Ahmet Kırış,Pazartesi,1430/1729,FEB / D106,7,20,"MAT, MATE, MATM",10607,2023 - 2024 Güz Dönemi
+MAT 425E,Stochastic ODE,--,Salı,1430/1729,FEB / ---,0,0,"MAT, MATE, MATM",10612,2023 - 2024 Güz Dönemi
+MAT 427E,Algebra II,Ergün Yaraneri,Perşembe,1430/1729,FEB / D105,8,20,"MAT, MATM",10614,2023 - 2024 Güz Dönemi
+MAT 437E,Real Analysis II,--,Perşembe,1430/1729,FEB / ---,0,0,"MAT, MATE, MATM",10648,2023 - 2024 Güz Dönemi
+MAT 448E,Number Theory,Ergün Yaraneri,Pazartesi,1430/1729,FEB / D105,20,21,"MAT, MATE, MATM",10615,2023 - 2024 Güz Dönemi
+MAT 453,Optimal Kontrol Teorisi,Elmkhan Mahmudov,Cuma,1400/1659,FEB / D206,11,25,"FIZ, MAT, MATM",10637,2023 - 2024 Güz Dönemi
+MAT 471E,Financial Mathematics,Ahmet Duran,Çarşamba,1230/1529,---- / ----,109,150,"ECNE, END, ENDE, MAT, MATM",10631,2023 - 2024 Güz Dönemi
+MAT 485E,Graph Theory,Burak Yıldıran Stodolsky,Pazartesi,1430/1729,FEB / D101,21,21,"MAT, MATE, MATM",10621,2023 - 2024 Güz Dönemi
+MAT 488E,Numerical Solutions of PDE,Ersin Özuğurlu,Perşembe,1430/1729,FEB / D205,6,20,"MAT, MATE, MATM",10639,2023 - 2024 Güz Dönemi
+MAT 4901,Matematik Müh. Tasarımı I,Sevgi Harman,----,/,FEB / ---,32,500,MAT,10600,2023 - 2024 Güz Dönemi
+MAT 4901E,Math. Engineering Design I,Sevgi Harman,----,/,FEB / ---,31,500,MAT,10601,2023 - 2024 Güz Dönemi
+MAT 4902,Matematik Müh. Tasarımı II,Sevgi Harman,----,/,FEB / ---,9,500,MAT,10602,2023 - 2024 Güz Dönemi
+MAT 4902E,Math. Engineering Design II,Sevgi Harman,----,/,FEB / ---,5,500,MAT,10603,2023 - 2024 Güz Dönemi
+MAT 492,Bitirme Çalışması,Sevgi Harman,----,/,FEB / ---,2,500,MAT,10604,2023 - 2024 Güz Dönemi
+MAT 492E,Graduation Project,Sevgi Harman,----,/,FEB / ---,1,500,"MAT, MATE",10605,2023 - 2024 Güz Dönemi
+MAT 497E,Tensor Analysis,--,Cuma,1400/1659,FEB / ---,0,0,"MAT, MATE, MATM",10641,2023 - 2024 Güz Dönemi

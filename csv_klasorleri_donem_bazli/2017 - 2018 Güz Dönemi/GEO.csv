@@ -1,0 +1,40 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEO 104,Yersel Ölçme Don. Ve Yaz.,Hakan Yavaşoğlu,Perşembe,0830/1029,INB,0,45,GEO,20300,2017 - 2018 Güz Dönemi
+GEO 104E,Terr. Surv. Equip. and Soft.,"Himmet Karaman, Turan Erden",Perşembe,1130/1329,INB,0,45,GEOE,20301,2017 - 2018 Güz Dönemi
+GEO 106E,Fundamentals of Programming,Hande Demirel,Çarşamba Çarşamba,1130/1329 1330/1529,INB INB,0,45,GEO GEOE JDF,20307,2017 - 2018 Güz Dönemi
+GEO 106E,Fundamentals of Programming,Ergin Tarı,Çarşamba Çarşamba,1130/1329 1330/1529,INB INB,0,45,GEO GEOE JDF,20306,2017 - 2018 Güz Dönemi
+GEO 182,Geomatik Projesi 1,Şinasi Kaya,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,20314,2017 - 2018 Güz Dönemi
+GEO 182,Geomatik Projesi 1,Nebiye Musaoğlu,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,20313,2017 - 2018 Güz Dönemi
+GEO 182,Geomatik Projesi 1,Mehmet Ufuk Özerman,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,20311,2017 - 2018 Güz Dönemi
+GEO 182,Geomatik Projesi 1,Mustafa Yanalak,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,20309,2017 - 2018 Güz Dönemi
+GEO 182E,Geomatics Project I,Ahmet Özgür Doğru,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEOE,20321,2017 - 2018 Güz Dönemi
+GEO 182E,Geomatics Project I,Filiz Bektaş Balçık,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEOE,20319,2017 - 2018 Güz Dönemi
+GEO 182E,Geomatics Project I,Himmet Karaman,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEOE,20317,2017 - 2018 Güz Dönemi
+GEO 182E,Geomatics Project I,Uğur Algancı,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO GEOE JDF,20315,2017 - 2018 Güz Dönemi
+GEO 202,Mühendislik Ölçmeleri,Mustafa Yanalak,Pazartesi,1330/1729,INB,0,50,GEO JDF,20333,2017 - 2018 Güz Dönemi
+GEO 202,Mühendislik Ölçmeleri,Hakan Yavaşoğlu,Pazartesi,0830/1229,INB,0,50,GEO JDF,20332,2017 - 2018 Güz Dönemi
+GEO 202E,Engineering Surveying,Ergin Tarı,Pazartesi,0830/1229,INB,0,50,GEO GEOE JDF,20335,2017 - 2018 Güz Dönemi
+GEO 204,Hata Teo ve Dengeleme,Orhan Akyılmaz,Perşembe,1330/1729,INB,0,50,GEO,21929,2017 - 2018 Güz Dönemi
+GEO 204,Hata Teo ve Dengeleme,"Hayri Hakan Denli, Serdar Erol",Çarşamba,0830/1229,INB,0,50,GEO,20336,2017 - 2018 Güz Dönemi
+GEO 204E,Th.of Err. And Ad. C.,Mustafa Tevfik Özlüdemir,Pazartesi,1330/1729,INB,0,50,GEOE,20339,2017 - 2018 Güz Dönemi
+GEO 206,Bilgisayar Dest. Harita Tas.,"Nesibe Necla Uluğtekin, Mehmet Ufuk Özerman",Perşembe,0830/1329,INB,0,30,GEO JDF,20343,2017 - 2018 Güz Dönemi
+GEO 206,Bilgisayar Dest. Harita Tas.,"Nesibe Necla Uluğtekin, Mehmet Ufuk Özerman",Salı Salı,0830/1129 1230/1429,INB INB,0,30,GEO JDF,20342,2017 - 2018 Güz Dönemi
+GEO 206E,Computer Aided Map Design,Ahmet Özgür Doğru,Perşembe,0830/1329,INB,0,40,GEO GEOE JDF,20357,2017 - 2018 Güz Dönemi
+GEO 208,Uzaktan Algılama I,Çiğdem Göksel,Pazartesi,0830/1029,INB,0,40,GEO JDF,20360,2017 - 2018 Güz Dönemi
+GEO 208,Uzaktan Algılama I,"Nebiye Musaoğlu, Şinasi Kaya",Pazartesi,0830/1029,INB,0,40,GEO JDF,20359,2017 - 2018 Güz Dönemi
+GEO 208E,Remote Sensing I,Ayşe Filiz Sunar,Perşembe,1530/1729,INB,0,50,GEO GEOE JDF,20362,2017 - 2018 Güz Dönemi
+GEO 210,Yükseklik Ölçmeleri,Yunus Kalkan,Salı,1530/1729,INB,0,50,GEO,20363,2017 - 2018 Güz Dönemi
+GEO 210E,Fundamentals of Levelling,Himmet Karaman,Perşembe,1330/1529,INB,0,50,GEOE,20365,2017 - 2018 Güz Dönemi
+GEO 282,Geomatik Projesi II,Çiğdem Göksel,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,22234,2017 - 2018 Güz Dönemi
+GEO 282,Geomatik Projesi II,Hayri Hakan Denli,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,20461,2017 - 2018 Güz Dönemi
+GEO 282,Geomatik Projesi II,Turan Erden,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,20460,2017 - 2018 Güz Dönemi
+GEO 282,Geomatik Projesi II,Yunus Kalkan,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,20459,2017 - 2018 Güz Dönemi
+GEO 282,Geomatik Projesi II,Hakan Yavaşoğlu,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEO JDF,20458,2017 - 2018 Güz Dönemi
+GEO 282E,Geomatics Project II,Nesibe Necla Uluğtekin,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEOE,20465,2017 - 2018 Güz Dönemi
+GEO 282E,Geomatics Project II,Cengizhan İpbüker,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEOE,20464,2017 - 2018 Güz Dönemi
+GEO 282E,Geomatics Project II,Serdar Erol,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEOE,20463,2017 - 2018 Güz Dönemi
+GEO 282E,Geomatics Project II,Ergin Tarı,Cuma Cuma,0930/1229 1430/1729,INB INB,0,10,GEOE,20462,2017 - 2018 Güz Dönemi
+GEO 305E,Databases in Engineering,Filiz Bektaş Balçık,Çarşamba,1230/1529,INB,0,50,GEO GEOE JDF,20466,2017 - 2018 Güz Dönemi
+GEO 305E,Databases in Engineering,Elif Sertel,Pazartesi,1330/1629,INB,0,50,GEO GEOE JDF,20467,2017 - 2018 Güz Dönemi
+GEO 317,Arazi Modelleme,"Cengizhan İpbüker, Ahmet Özgür Doğru",Çarşamba,0830/1129,INB,0,50,GEO JDF,20469,2017 - 2018 Güz Dönemi
+GEO 317E,Terrain Modelling,"Ergin Tarı, Uğur Algancı",Salı,0830/1129,INB,0,50,GEO GEOE JDF,20477,2017 - 2018 Güz Dönemi

@@ -1,0 +1,60 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+UCK 106,Uçak Müh. Giriş ve Tasarım,Hayri Acar,Perşembe,0830/1229,UUB,103,130,UCK,25321,2021 - 2022 Bahar Dönemi
+UCK 205E,Thermodynamics I,Ahmet Ziyaettin Şahin,----,/,UUB,1,1,UZBE,26417,2021 - 2022 Bahar Dönemi
+UCK 206,Termodinamik II,Baha Zafer,Salı,1130/1329,UUB,44,60,UCK UZB,22465,2021 - 2022 Bahar Dönemi
+UCK 206E,Thermodynamics II,Ahmet Ziyaettin Şahin,Çarşamba,1130/1329,UUB,65,65,UCK UZB UZBE,22468,2021 - 2022 Bahar Dönemi
+UCK 206E,Thermodynamics II,Ali Kodal,Çarşamba,1130/1329,UUB,66,100,UCK UZB UZBE,22467,2021 - 2022 Bahar Dönemi
+UCK 212,Termodinamik,Ahmet Ziyaettin Şahin,----,/,UUB,1,1,UCK UCKM UZB UZBM,26418,2021 - 2022 Bahar Dönemi
+UCK 215E,Aerospace Materials,Hülya Cebeci,----,/,UUB,1,1,UCK UCKE UZBE UZBM,26419,2021 - 2022 Bahar Dönemi
+UCK 226,Yapısal ve Mekanik Titreşimler,Özge Özdemir,----,/,UUB,1,1,UCK UCKM UZB,26420,2021 - 2022 Bahar Dönemi
+UCK 226E,Struc. & Mechanical Vibrations,Özge Özdemir,Perşembe,0830/1129,UUB,50,50,UCK UCKE UZB UZBE,22470,2021 - 2022 Bahar Dönemi
+UCK 236E,Composite Materials,Hülya Cebeci,----,/,UUB,2,2,UCK UCKE UCKM UZB UZBE UZBM,26421,2021 - 2022 Bahar Dönemi
+UCK 236E,Composite Materials,Hülya Cebeci,Perşembe,0830/1129,UUB,28,45,UCK UCKE UZB UZBE,22471,2021 - 2022 Bahar Dönemi
+UCK 322E,Flight Mechanics,Barış Başpınar,----,/,UUB,2,2,UCK UCKE UCKM,26422,2021 - 2022 Bahar Dönemi
+UCK 337E,Introduction to Optimization,Nazım Kemal Üre,Salı,1130/1429,UUB,54,55,UCK UZBE,22527,2021 - 2022 Bahar Dönemi
+UCK 348E,Computer Applic.in Engineering,Bülent Tutkun,Çarşamba,1230/1529,UUB,52,50,UCK UCKE UZB UZBE,22472,2021 - 2022 Bahar Dönemi
+UCK 350E,Analytical Dynamics,İbrahim Özkol,Pazartesi,0830/1129,UUB,45,45,UCK UCKE UZB UZBE,22530,2021 - 2022 Bahar Dönemi
+UCK 351,Aerodinamik,Baha Zafer,----,/,UUB,3,3,UCK UCKM UZB UZBM,26423,2021 - 2022 Bahar Dönemi
+UCK 351E,Aerodynamics,Baha Zafer,----,/,UUB,1,1,UCK UCKE UZB UZBE,26424,2021 - 2022 Bahar Dönemi
+UCK 354E,Intro to Digital Design,Ramazan Yeniçeri,----,/,UUB,2,2,UCK UCKM UZBE UZBM,26425,2021 - 2022 Bahar Dönemi
+UCK 360E,Automatic Control I,İsmail Bayezit,----,/,UUB,2,2,UCK UCKM UZBE UZBM,26426,2021 - 2022 Bahar Dönemi
+UCK 360E,Automatic Control I,Emre Koyuncu,Cuma,0930/1229,UUB,80,70,UCK UZB UZBE,22475,2021 - 2022 Bahar Dönemi
+UCK 360E,Automatic Control I,İsmail Bayezit,Perşembe,1130/1429,UUB,80,70,UCK UZB UZBE,22474,2021 - 2022 Bahar Dönemi
+UCK 360E,Automatic Control I,Elbrus Caferov,Pazartesi,1430/1729,UUB,37,70,UCK UZB UZBE,22473,2021 - 2022 Bahar Dönemi
+UCK 360E,Automatic Control I,--,Çarşamba,1130/1429,UUB,0,0,UCK UZB UZBE,25817,2021 - 2022 Bahar Dönemi
+UCK 361E,Design of Machine Elements,Halit Süleyman Türkmen,----,/,UUB,4,4,UCK UCKE UCKM UZB UZBE UZBM,26427,2021 - 2022 Bahar Dönemi
+UCK 362E,Automatic Control,Emre Koyuncu,----,/,UUB,0,0,MAKM MKN UCK UCKE UCKM UZB UZBE UZBM,26934,2021 - 2022 Bahar Dönemi
+UCK 362E,Automatic Control,İsmail Bayezit,----,/,UUB,2,2,MAKM MKN UCK UCKE UCKM UZB UZBE UZBM,26428,2021 - 2022 Bahar Dönemi
+UCK 372,Deneysel Mühendislik,Duygu Erdem,----,/,UUB,2,2,UCK UZB,26429,2021 - 2022 Bahar Dönemi
+UCK 372,Deneysel Mühendislik,Duygu Erdem,Cuma,0930/1229,UUB,26,36,UCK UZB,22476,2021 - 2022 Bahar Dönemi
+UCK 372,Deneysel Mühendislik,Demet Balkan,Salı,0830/1129,UUB,42,36,UCK UZB,22477,2021 - 2022 Bahar Dönemi
+UCK 372E,Experimental Engineering,Duygu Erdem,----,/,UUB,2,2,UCK UCKE UZB UZBE,26430,2021 - 2022 Bahar Dönemi
+UCK 372E,Experimental Engineering,İsmail Bayezit,Cuma,1430/1729,UUB,21,36,UCK UCKE UZB UZBE,22480,2021 - 2022 Bahar Dönemi
+UCK 372E,Experimental Engineering,İsmail Bayezit,Perşembe,0830/1129,UUB,32,36,UCK UCKE UZB UZBE,22481,2021 - 2022 Bahar Dönemi
+UCK 372E,Experimental Engineering,Duygu Erdem,Salı,1430/1729,UUB,36,36,UCK UCKE UZB UZBE,22479,2021 - 2022 Bahar Dönemi
+UCK 372E,Experimental Engineering,Halit Süleyman Türkmen,Pazartesi,0830/1129,UUB,36,36,UCK UCKE UZB UZBE,22478,2021 - 2022 Bahar Dönemi
+UCK 416E,Aircraft Structures,Metin Orhan Kaya,----,/,UUB,0,0,UCK UCKE UZB UZBE UZBM,26938,2021 - 2022 Bahar Dönemi
+UCK 416E,Aircraft Structures,Metin Orhan Kaya,Çarşamba,1230/1529,UUB,22,30,UCK UZBE,22535,2021 - 2022 Bahar Dönemi
+UCK 421,Tepki ile Tahrik,Ali Kodal,----,/,UUB,2,2,UCK UCKM,26431,2021 - 2022 Bahar Dönemi
+UCK 423E,Princip. of Aircraft Design I,Hayri Acar,----,/,UUB,2,2,UCK UCKM,26432,2021 - 2022 Bahar Dönemi
+UCK 424E,Princip. of Aircraft Design II,Hayri Acar,----,/,UUB,2,2,UCK UCKM,26433,2021 - 2022 Bahar Dönemi
+UCK 424E,Princip. of Aircraft Design II,Hayri Acar,Pazartesi,1330/1729,UUB,22,50,UCK UCKE UCKM,22482,2021 - 2022 Bahar Dönemi
+UCK 424E,Princip. of Aircraft Design II,Hayri Acar,Salı,1330/1729,UUB,51,50,UCK UCKE UCKM,22483,2021 - 2022 Bahar Dönemi
+UCK 432,Uçak Tasarımı,Hayri Acar,----,/,UUB,0,0,UCK UCKM,26936,2021 - 2022 Bahar Dönemi
+UCK 439E,Intr. to Optimal Control,Barış Başpınar,Pazartesi,1430/1729,UUB,26,40,UCK UZBE,22534,2021 - 2022 Bahar Dönemi
+UCK 441E,Flight Stability and Control,Emre Koyuncu,Cuma,1430/1729,UUB,46,50,UCK UCKE,22516,2021 - 2022 Bahar Dönemi
+UCK 441E,Flight Stability and Control,Emre Koyuncu,----,/,UUB,2,2,UCK UCKE UCKM,26434,2021 - 2022 Bahar Dönemi
+UCK 441E,Flight Stability and Control,Elbrus Caferov,Perşembe,1130/1429,UUB,33,50,UCK UCKE,22514,2021 - 2022 Bahar Dönemi
+UCK 448,Aviyonik Sistemler,Sait Nurdoğan Yurt,Pazartesi,1430/1729,,45,45,KOM UCK UZB,22529,2021 - 2022 Bahar Dönemi
+UCK 451E,Principles of Aircraft Design,Hayri Acar,----,/,UUB,0,0,UCK UCKE UCKM,26935,2021 - 2022 Bahar Dönemi
+UCK 459E,Helicopter Theory,Özge Özdemir,Perşembe,1430/1729,UUB,50,50,UCK UCKE UZB UZBE,22532,2021 - 2022 Bahar Dönemi
+UCK 471E,Aviation Maintenance Manag.,Şükrü Can,Perşembe,1130/1429,UUB,40,40,UCK UCKE UZB UZBE,22484,2021 - 2022 Bahar Dönemi
+UCK 472,Aeroelastisite,Seher Eken,----,/,UUB,5,5,UCK UCKM UZB,26435,2021 - 2022 Bahar Dönemi
+UCK 472E,Aeroelasticity,Seher Eken,----,/,UUB,2,2,UCK UCKE UZB UZBE UZBM,26436,2021 - 2022 Bahar Dönemi
+UCK 472E,Aeroelasticity,Seher Eken,Perşembe,1130/1429,UUB,15,26,UCK UCKE UZB UZBE,22513,2021 - 2022 Bahar Dönemi
+UCK 488,Uçak Sistemleri,Senem Sevinç,Cuma,1430/1729,UUB,38,40,UCK UZB,22485,2021 - 2022 Bahar Dönemi
+UCK 4901,Uçak Müh. Tasarımı I,Cengiz Hacızade,----,/,UUB,8,500,UCK,22543,2021 - 2022 Bahar Dönemi
+UCK 4902,Uçak Müh. Tasarımı II,Cengiz Hacızade,----,/,UUB,56,500,UCK,22544,2021 - 2022 Bahar Dönemi
+UCK 492,Bitirme Çalışması,Cengiz Hacızade,----,/,UUB,2,2,UCK,25695,2021 - 2022 Bahar Dönemi
+UCK 492,Bitirme Çalışması,Cengiz Hacızade,----,/,UUB,11,500,UCK,22541,2021 - 2022 Bahar Dönemi
+UCK 492E,Graduation Project,Cengiz Hacızade,----,/,UUB,2,500,UCK UCKE,22542,2021 - 2022 Bahar Dönemi

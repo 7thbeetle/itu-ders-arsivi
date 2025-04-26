@@ -1,0 +1,52 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KMM 210E,Engineering Mathematics,Elif Öztürk Er,Monday / Friday,14:30/16:29 / 14:00/15:59,KMB / KMB / D103 / D103,30,50,KMM_LS,23185,2024 - 2025 Bahar Dönemi
+KMM 220,Akışkanlar Mekaniği,Fatma Seniha Güner,Monday,09:30/12:29,KMB / D202,50,50,KMM_LS,23047,2024 - 2025 Bahar Dönemi
+KMM 220,Akışkanlar Mekaniği,Ayşe Banu Kocaağa,Monday,09:30/12:29,KMB / D103,41,50,KMM_LS,23048,2024 - 2025 Bahar Dönemi
+KMM 222E,Computati. Meth. in Chem. Eng.,Ayşe Özge Kürkçüoğlu Levitas,Thursday / Friday / Friday,13:30/15:29 / 11:00/11:59 / 12:00/12:59,KMB / KMB / KMB / D304 / D204 / BIL.LAB.1,58,57,KMM_LS,23049,2024 - 2025 Bahar Dönemi
+KMM 222E,Computati. Meth. in Chem. Eng.,"Ahmet Sirkecioğlu , / Hüseyin Enis Karahan",Thursday / Friday,13:30/15:29 / 11:00/12:59,KMB / KMB / D303 / D303,57,57,KMM_LS,23050,2024 - 2025 Bahar Dönemi
+KMM 224,Kimya Müh.Termodinamiği,Reha Yavuz,Tuesday / Wednesday,09:00/10:59 / 09:00/11:59,KMB / KMB / D304 / D103,49,55,"KMM_LS, KMM_YD",23051,2024 - 2025 Bahar Dönemi
+KMM 224,Kimya Müh.Termodinamiği,"Ayşegül Meriçboyu , / Melek Mümine Erol Taygun",Tuesday / Wednesday,09:00/10:59 / 09:00/11:59,KMB / KMB / D204 / D201,51,55,"KMM_LS, KMM_YD",23052,2024 - 2025 Bahar Dönemi
+KMM 305E,Heat and Mass Transfer,"Fatma Elif Genceli Güner , / Melek Mümine Erol Taygun",Monday / Tuesday,13:30/16:29 / 13:30/14:29,KMB / KMB / D302 / D202,44,30,"KMM_LS, KMM_YD",23053,2024 - 2025 Bahar Dönemi
+KMM 308E,Chem Reac Eng,Ahmet Sirkecioğlu,Thursday / Friday,09:30/12:29 / 09:00/10:59,KMB / KMB / D302 / D204,57,55,"KMM_LS, KMM_YD",23059,2024 - 2025 Bahar Dönemi
+KMM 308E,Chem Reac Eng,"Hüseyin Enis Karahan , / Alper Sarıoğlan",Thursday / Friday,09:30/12:29 / 09:00/10:59,KMB / KMB / D204 / D203,62,55,"KMM_LS, KMM_YD",23062,2024 - 2025 Bahar Dönemi
+KMM 312E,Chemical Reaction Eng I,-,Thursday,09:30/12:29,KMB / --,0,0,"KMM_LS, KMM_YD",23064,2024 - 2025 Bahar Dönemi
+KMM 332,Ayırma İşlemleri,Gülhayat Saygılı,Monday / Wednesday,10:30/12:29 / 10:30/12:29,KMB / KMB / D301 / D301,50,50,"KMM_LS, KMM_YD",23055,2024 - 2025 Bahar Dönemi
+KMM 332,Ayırma İşlemleri,Ömer Şahin,Monday / Wednesday,10:30/12:29 / 10:30/12:29,KMB / KMB / D303 / D302,30,50,"KMM_LS, KMM_YD",23057,2024 - 2025 Bahar Dönemi
+KMM 342E,Math Modelling in Chemical Eng,Ayşe Özge Kürkçüoğlu Levitas,Wednesday / Friday,13:30/15:29 / 15:00/15:59,KMB / KMB / D204 / D204,54,55,"KMM_LS, KMM_YD",23065,2024 - 2025 Bahar Dönemi
+KMM 342E,Math Modelling in Chemical Eng,Ramazan Kızıl,Wednesday / Friday,13:30/15:29 / 15:00/15:59,KMB / KMB / D203 / D202,49,55,"KMM_LS, KMM_YD",23069,2024 - 2025 Bahar Dönemi
+KMM 411E,Process Control,Devrim Barış Kaymak,-,-/-,- / -,0,0,-,25328,2024 - 2025 Bahar Dönemi
+KMM 413,Biyokatalizörler ve Karakter,Fatoş Yüksel Güvenilir,-,-/-,- / -,0,0,-,25329,2024 - 2025 Bahar Dönemi
+KMM 418E,Paper Technology,Ayşe Banu Kocaağa,Thursday,14:00/16:59,KMB / GZ102,10,15,KMM_LS,23160,2024 - 2025 Bahar Dönemi
+KMM 422E,Chemical Engineering Desing II,-,Monday / Wednesday,08:30/10:29 / 09:30/12:29,KMB / KMB / -- / --,0,0,KMM_LS,23072,2024 - 2025 Bahar Dönemi
+KMM 424,Biyoteknolojik Uygulamalar,Fatoş Yüksel Güvenilir,Thursday,12:30/15:29,KMB / D204,16,15,"BIO_LS, KMM_LS",23164,2024 - 2025 Bahar Dönemi
+KMM 424E,Biotechnological Applications,Ramazan Kızıl,Monday,10:30/13:29,KMB / D101,6,15,KMM_LS,23155,2024 - 2025 Bahar Dönemi
+KMM 428,Özel Ayırma Yöntemleri,Nalan Erdöl Aydın,Monday,09:30/12:29,KMB / GZ103,14,15,KMM_LS,23161,2024 - 2025 Bahar Dönemi
+KMM 434,"Kalite,Çevre ve Güvenlik",Ahmet Alper Aydın,Monday,13:30/16:29,KMB / D301,18,60,"KMM_LS, KMM_YD",23078,2024 - 2025 Bahar Dönemi
+KMM 434,"Kalite,Çevre ve Güvenlik","Alper Sarıoğlan , / Nalan Erdöl Aydın",Monday,13:30/16:29,KMB / D204,61,60,"KMM_LS, KMM_YD",23080,2024 - 2025 Bahar Dönemi
+KMM 446,Atık Yönetimi,Ömer Şahin,Tuesday,09:30/12:29,KMB / D106,14,15,KMM_LS,23186,2024 - 2025 Bahar Dönemi
+KMM 451,Kimya Mühendisliği Lab. I,Nalan Erdöl Aydın,-,-/-,- / -,0,0,-,25327,2024 - 2025 Bahar Dönemi
+KMM 453,Kimya Müh.Bilg.Dest.Tasarım,İlayda Nur Oksal,Tuesday,13:30/16:29,KMB / BIL.LAB.1,27,40,KMM_LS,23173,2024 - 2025 Bahar Dönemi
+KMM 461E,Introduction to Electrochemical Engineering,-,Tuesday,13:30/16:29,KMB / --,0,0,KMM_LS,23184,2024 - 2025 Bahar Dönemi
+KMM 462,Kimya Mühendisliği Lab II,"Nalan Erdöl Aydın , / Elif Öztürk Er , / Ayşe Arifoğlu , / Cemile Yerlikaya , / Nil Özbek",Tuesday,08:30/12:29,KMB / K407,42,40,KMM_LS,23102,2024 - 2025 Bahar Dönemi
+KMM 462,Kimya Mühendisliği Lab II,"Nalan Erdöl Aydın , / Elif Öztürk Er , / Ayşe Arifoğlu , / Cemile Yerlikaya , / Nil Özbek",Tuesday,13:00/16:59,KMB / K407,41,40,KMM_LS,23112,2024 - 2025 Bahar Dönemi
+KMM 462,Kimya Mühendisliği Lab II,"Nalan Erdöl Aydın , / Elif Öztürk Er , / Ayşe Arifoğlu , / Cemile Yerlikaya , / Nil Özbek",Friday,08:30/12:29,KMB / K407,23,20,KMM_LS,23120,2024 - 2025 Bahar Dönemi
+KMM 466,Bor Teknolojisi,-,Tuesday,13:30/16:29,KMB / --,0,0,KMM_LS,23165,2024 - 2025 Bahar Dönemi
+KMM 467,Kristalizasyon,Ayşen Aktürk Sertbaş,Thursday,12:30/15:29,KMB / D205,15,15,KMM_LS,23163,2024 - 2025 Bahar Dönemi
+KMM 468,Endüstride Enerji Tasarrufu,Serdar Yaman,Tuesday,13:30/16:29,KMB / D302,19,15,KMM_LS,23167,2024 - 2025 Bahar Dönemi
+KMM 468E,Energy Conservation in Indstry,Serdar Yaman,Tuesday,09:30/12:29,KMB / D302,16,15,KMM_LS,23157,2024 - 2025 Bahar Dönemi
+KMM 474,Yağ Teknolojisi,Melek Tüter,Tuesday,09:30/12:29,KMB / D205,14,15,KMM_LS,23169,2024 - 2025 Bahar Dönemi
+KMM 477,Endüstriyel Su Hazırlama Yöntm,Hanzade Açma,Tuesday,09:30/12:29,KMB / D305,23,15,KMM_LS,23172,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Gülhayat Saygılı,Friday,09:30/12:29,KMB / --,2,2,KMM_LS,23124,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Fatma Seniha Güner,Friday,14:00/16:59,KMB / --,2,2,KMM_LS,23127,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Melek Tüter,Monday,10:30/13:29,KMB / --,2,2,KMM_LS,23130,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Alper Sarıoğlan,Monday,10:30/13:29,KMB / --,2,2,KMM_LS,23133,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Devrim Barış Kaymak,Friday,14:00/16:59,KMB / --,2,2,KMM_LS,23136,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Şerife Birgül Ersolmaz,Friday,14:00/16:59,KMB / --,2,2,KMM_LS,23138,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Alıreza Khataee,Friday,14:00/16:59,KMB / --,2,2,KMM_LS,23141,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Nil Özbek,Thursday,09:30/12:29,KMB / --,2,2,KMM_LS,23142,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Fatma Elif Genceli Güner,Friday,14:00/16:59,KMB / --,3,3,KMM_LS,23145,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Ayşe Özge Kürkçüoğlu Levitas,Thursday,09:30/12:29,KMB / --,2,2,KMM_LS,23147,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Elif Öztürk Er,Thursday,13:30/16:29,KMB / --,2,2,KMM_LS,23150,2024 - 2025 Bahar Dönemi
+KMM 484,Araştırma Projesi II,Hanzade Açma,Tuesday,13:30/16:29,KMB / --,2,2,KMM_LS,23152,2024 - 2025 Bahar Dönemi
+KMM 4902E,Chem. Eng. Design II,"Hale Gürbüz , / Devrim Barış Kaymak",Monday / Wednesday,08:30/10:29 / 09:30/12:29,KMB / KMB / D301 / D303,103,105,"KMM_LS, KMM_YD",23076,2024 - 2025 Bahar Dönemi
+KMM 492,Bitirme Çalışması,-,-,-/-,- / -,0,0,KMM_LS,23153,2024 - 2025 Bahar Dönemi

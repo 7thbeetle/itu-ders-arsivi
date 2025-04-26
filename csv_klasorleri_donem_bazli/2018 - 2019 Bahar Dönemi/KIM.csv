@@ -1,0 +1,80 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KIM 104,Organik Kimya,Hacer Ayşen Önen,Çarşamba,1230/1529,KMB,40,40,GID KIMM KMM,20888,2018 - 2019 Bahar Dönemi
+KIM 104,Organik Kimya,Nilgün Kızılcan,Çarşamba,1230/1529,KMB,38,40,GID KIMM KMM,20887,2018 - 2019 Bahar Dönemi
+KIM 104,Organik Kimya,Okan Sirkecioğlu,Çarşamba,1230/1529,KMB,40,40,GID KIMM KMM,20885,2018 - 2019 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,"Hacer Ayşen Önen, Okan Sirkecioğlu",Salı,1330/1529,FEB,57,60,GID KMM,20890,2018 - 2019 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,Nilgün Kızılcan,Pazartesi,1330/1529,FEB,52,60,GID KMM,20889,2018 - 2019 Bahar Dönemi
+KIM 111,Genel Kimya I,Makbule Koçak,Çarşamba Perşembe,1030/1229 0830/1029,FEB FEB,23,30,KIM KIMM,20891,2018 - 2019 Bahar Dönemi
+KIM 111L,Genel Kimya I Lab,Makbule Koçak,Pazartesi,1130/1329,FEB,19,30,KIM,20892,2018 - 2019 Bahar Dönemi
+KIM 114,Genel Kimya II,İsmail Yılmaz,Çarşamba Perşembe,1030/1229 0830/1029,FEB FEB,19,30,KIM,20894,2018 - 2019 Bahar Dönemi
+KIM 114,Genel Kimya II,Esin Hamuryudan,Çarşamba Perşembe,1030/1229 0830/1029,FEB FEB,30,30,KIM,20893,2018 - 2019 Bahar Dönemi
+KIM 114L,Genel Kimya II Lab.,İsmail Yılmaz,Cuma,0930/1229,FEB,19,30,KIM,20896,2018 - 2019 Bahar Dönemi
+KIM 114L,Genel Kimya II Lab.,Esin Hamuryudan,Cuma,0930/1229,FEB,28,30,KIM,20895,2018 - 2019 Bahar Dönemi
+KIM 202,Fiziksel Kimya,Argun Talat Gökçeören,Çarşamba,1230/1529,INB,35,35,BIO CEV CHZ DEN DUI ELE ELH ELK GEM GID GMI INS JEO KIMM KMM KMMM KYD MAD MET PET TEL,20898,2018 - 2019 Bahar Dönemi
+KIM 202,Fiziksel Kimya,Bünyamin Karagöz,Çarşamba,1230/1529,INB,28,35,BIO CEV CHZ DEN DUI ELE ELH ELK GEM GID GMI INS JEO KIMM KMM KMMM KYD MAD MET PET TEL,20897,2018 - 2019 Bahar Dönemi
+KIM 202E,Physical Chemistry,Caner Ünlü,Çarşamba,1230/1529,INB,40,40,BIOE CEV CEVE CHZE DENE ELKE GEME GEMK GIDE INS INSE JEOE KMM KMME MADE METE PETE,20900,2018 - 2019 Bahar Dönemi
+KIM 202E,Physical Chemistry,Erdem Yavuz,Çarşamba,1230/1529,INB,39,40,BIOE CEV CEVE CHZE DENE ELKE GEME GEMK GIDE INS INSE JEOE KMM KMME MADE METE PETE,20899,2018 - 2019 Bahar Dönemi
+KIM 203,Analitik Kimya,Gülçin Yılmaz,Pazartesi,1430/1729,INB,23,35,BIO MET,20902,2018 - 2019 Bahar Dönemi
+KIM 203,Analitik Kimya,Gülcemal Yıldız,Pazartesi,1430/1729,INB,31,35,BIO MET,20901,2018 - 2019 Bahar Dönemi
+KIM 203E,Analytical Chemistry,Fatma Bedia Berker,Pazartesi,1430/1729,FEB,45,46,BIOE METE,20718,2018 - 2019 Bahar Dönemi
+KIM 203E,Analytical Chemistry,Ferah Çalışır,Pazartesi,1430/1729,FEB,46,46,BIOE METE,20716,2018 - 2019 Bahar Dönemi
+KIM 203E,Analytical Chemistry,"Seden Beyhan, Sevgi Güney",Pazartesi,1430/1729,FEB,44,46,BIOE METE,20713,2018 - 2019 Bahar Dönemi
+KIM 204,Genel Kimya II,Şennur Özçelik,Çarşamba,0830/1129,INB,13,30,CHZ DEN ELE ELH ELK GEM JEO MAD MET PET TEL,20903,2018 - 2019 Bahar Dönemi
+KIM 204E,General Chemistry II,Behice Şebnem Sesalan,Çarşamba,0830/1129,FEB,8,30,CHZ CHZE DEN DENE ELE ELH ELK GEM GEME GEMK GMI GMIE JEO JEOE MAD MADE MET METE PET PETE TEL,20564,2018 - 2019 Bahar Dönemi
+KIM 205,Organik Kimya,İbrahim Volkan Kumbaracı,Salı,1330/1629,FEB,30,30,BIO BIOM CEV CHZ DEN ELE ELH ELK GEM INS JEO KIMM KYD MAD MET PET TEL,20905,2018 - 2019 Bahar Dönemi
+KIM 205,Organik Kimya,Gönül Yapar,Salı,1330/1629,FEB,29,30,BIO BIOM CEV CHZ DEN ELE ELH ELK GEM INS JEO KIMM KYD MAD MET PET TEL,20904,2018 - 2019 Bahar Dönemi
+KIM 205E,Organic Chemistry,Abdullah Aydoğan,Salı,1330/1629,FEB,35,40,BIOM CEV CEVE CHZE DENE ELKE GEME GEMK INS INSE JEOE KIM KIMM MADE MET METE PETE TEKE,20711,2018 - 2019 Bahar Dönemi
+KIM 205E,Organic Chemistry,Ayşe Özdemir,Salı,1330/1629,FEB,40,40,BIOM CEV CEVE CHZE DENE ELKE GEME GEMK INS INSE JEOE KIM KIMM MADE MET METE PETE TEKE,20707,2018 - 2019 Bahar Dönemi
+KIM 205E,Organic Chemistry,Nesrin Köken,Salı,1330/1629,MED,35,40,BIOM CEV CEVE CHZE DENE ELKE GEME GEMK INS INSE JEOE KIM KIMM MADE MET METE PETE TEKE,20704,2018 - 2019 Bahar Dönemi
+KIM 205E,Organic Chemistry,Hakan Durmaz,Salı,1330/1629,KMB,39,40,BIOM CEV CEVE CHZE DENE ELKE GEME GEMK INS INSE JEOE KIM KIMM MADE MET METE PETE TEKE,20541,2018 - 2019 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Gülcemal Yıldız,Cuma,1430/1729,FEB,43,43,GID KIMM KMM KYD,20597,2018 - 2019 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Nevin Öztekin,Cuma,1430/1729,KMB,43,43,GID KIMM KMM KYD,20594,2018 - 2019 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Ferah Çalışır,Cuma,0830/1129,KMB,40,40,GID KIMM KMM KYD,20587,2018 - 2019 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Ayşegül Gölcü,Cuma,0830/1129,KMB,30,40,GID KIMM KMM KYD,20544,2018 - 2019 Bahar Dönemi
+KIM 206E,Analytical Chem.& Inst.Analy.,--,Cuma,0830/1129,KMB,0,0,GIDE KMME,20599,2018 - 2019 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Ferah Çalışır,Cuma,1430/1629,FEB,45,45,GID KIMM KMM KYD,20612,2018 - 2019 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Ayşegül Gölcü,Cuma,1430/1629,FEB,26,45,GID KIMM KMM KYD,20610,2018 - 2019 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Gülcemal Yıldız,Cuma,1030/1229,FEB,45,45,GID KIMM KMM KYD,20604,2018 - 2019 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Nevin Öztekin,Cuma,1030/1229,FEB,45,45,GID KIMM KMM KYD,20602,2018 - 2019 Bahar Dönemi
+KIM 207,İnorganik Kimya,Ayfer Kalkan Burat,Salı,0830/1129,FEB,35,35,CHZ DEN ELE ELH ELK FIZ GEM JEO KIMM KMM KYD MAD PET TEL,20650,2018 - 2019 Bahar Dönemi
+KIM 210E,Intro to Polymer Chemistry,İbrahim Ersin Serhatlı,Pazartesi,1430/1729,MED,20,20,BIO BIOE KIM KIME KIMM TEK TEKE,20654,2018 - 2019 Bahar Dönemi
+KIM 210E,Intro to Polymer Chemistry,Barış Kışkan,Pazartesi,1430/1729,MED,20,20,BIO BIOE KIM KIME KIMM TEK TEKE,20652,2018 - 2019 Bahar Dönemi
+KIM 211E,Analytical Chemistry,İpek Becerik,Pazartesi Perşembe,1430/1629 1430/1629,FEB FEB,14,25,KIM KIME KIMM,20583,2018 - 2019 Bahar Dönemi
+KIM 212,Enstrumental Analitik Yönteml,"Birsen Öztürk, Ayşegül Gölcü, Gülçin Yılmaz",Pazartesi Cuma,1130/1329 1130/1329,FEB FEB,17,25,KIM,22231,2018 - 2019 Bahar Dönemi
+KIM 214E,Strct & Properties of Polymers,--,Perşembe,1430/1729,FEB,0,0,FIZ FIZE KIM KIME KIMM KYD PETE,21209,2018 - 2019 Bahar Dönemi
+KIM 223EL,Inorganic Chemistry Lab,Zehra Bayır,Cuma,1430/1729,FEB,49,55,KIM KIME,20662,2018 - 2019 Bahar Dönemi
+KIM 223EL,Inorganic Chemistry Lab,Ahmet Gül,Çarşamba,1230/1529,FEB,55,55,KIM KIME,20661,2018 - 2019 Bahar Dönemi
+KIM 224E,Inorganic Chemistry II,Ahmet Gül,Salı,0830/1129,FEB,44,50,KIM KIME,21391,2018 - 2019 Bahar Dönemi
+KIM 224E,Inorganic Chemistry II,Altuğ Mert Sevim,Salı,0830/1129,MED,50,50,KIM KIME,20658,2018 - 2019 Bahar Dönemi
+KIM 231,Organik Kimya I,Turan Öztürk,Çarşamba Cuma,1030/1229 1030/1229,FEB FEB,29,30,KIM KIMM,20681,2018 - 2019 Bahar Dönemi
+KIM 231,Organik Kimya I,Ümit Tunca,Çarşamba Cuma,1030/1229 1030/1229,FEB FEB,30,30,KIM KIMM,20664,2018 - 2019 Bahar Dönemi
+KIM 231EL,Organic Chemistry Lab. I,"İbrahim Volkan Kumbaracı, Hakan Durmaz",Perşembe,1230/1729,FEB,36,40,KIM KIME,25063,2018 - 2019 Bahar Dönemi
+KIM 232,Organik Kimya II,Gürkan Hızal,Salı Çarşamba,1130/1329 0830/1029,FEB FEB,33,40,KIM,20803,2018 - 2019 Bahar Dönemi
+KIM 252,Kimyasal Termodinamik,Oğuz Okay,Salı,1430/1729,FEB,30,30,KIM KIMM,20807,2018 - 2019 Bahar Dönemi
+KIM 252E,Chemical Thermodynamics,Nermin Orakdöğen,Salı,1430/1729,FEB,26,30,KIM KIME,20809,2018 - 2019 Bahar Dönemi
+KIM 262E,Int. Quantum Chemistry,"Mine Yurtsever, Nurcan Tüzün",Pazartesi,0830/1129,FEB,47,60,KIM KIME,20813,2018 - 2019 Bahar Dönemi
+KIM 262E,Int. Quantum Chemistry,--,Pazartesi,0830/1129,FEB,0,0,KIM KIME,20591,2018 - 2019 Bahar Dönemi
+KIM 304E,Organic Chemistry II,"Okan Sirkecioğlu, Hacer Ayşen Önen",Pazartesi,1230/1429,FEB,103,110,BIO BIOE,20546,2018 - 2019 Bahar Dönemi
+KIM 311,Fiziksel Kimya I,Candan Erbil,Cuma,0830/1129,FEB,29,30,KIM,20555,2018 - 2019 Bahar Dönemi
+KIM 312,Fiziksel Kimya II,Hatice Hüceste Giz,Pazartesi,1430/1729,FEB,30,30,KIM,20815,2018 - 2019 Bahar Dönemi
+KIM 312E,Physical Chemistry II,Orhan Güney,Pazartesi,1430/1729,FEB,19,30,KIM KIME,20817,2018 - 2019 Bahar Dönemi
+KIM 314,Tekstil Boyar Maddeleri,--,Perşembe,1430/1729,FEB,0,0,KIM KIMM,20819,2018 - 2019 Bahar Dönemi
+KIM 316,Yakıt Kimyası,Behice Şebnem Sesalan,Salı,1430/1729,FEB,20,20,KIM,20561,2018 - 2019 Bahar Dönemi
+KIM 318,Kolloid Kimyası,--,Salı,1430/1729,MED,0,0,KIM KIMM KMM,20824,2018 - 2019 Bahar Dönemi
+KIM 320E,Intro to Organometallic Chem,Ozan Sanlı Şentürk,Perşembe,1430/1729,FEB,10,20,KIM KIME KIMM,20852,2018 - 2019 Bahar Dönemi
+KIM 322E,Physical Chemisty II Lab,Orhan Güney,Cuma,0830/1129,FEB,28,30,KIM KIME,20856,2018 - 2019 Bahar Dönemi
+KIM 322E,Physical Chemisty II Lab,Orhan Güney,Çarşamba,0830/1129,FEB,27,30,KIM KIME,20854,2018 - 2019 Bahar Dönemi
+KIM 324,Adli Kimya,Mustafa Özcan,Cuma,1430/1729,FEB,20,20,KIM KIMM,20801,2018 - 2019 Bahar Dönemi
+KIM 328,Biyokimya II,Onur Alptürk,Salı,1430/1729,MED,9,20,KIM,24082,2018 - 2019 Bahar Dönemi
+KIM 414E,Food Chemistry,--,Perşembe,1430/1729,FEB,0,0,KIM KIME,21694,2018 - 2019 Bahar Dönemi
+KIM 416,Organik Petrokimya,Nilgün Kızılcan,Perşembe,0830/1129,FEB,6,20,KIM KIMM,20804,2018 - 2019 Bahar Dönemi
+KIM 422E,Industrial Chemistry,Bünyamin Karagöz,Salı,1430/1729,FEB,9,30,KIM KIME,20806,2018 - 2019 Bahar Dönemi
+KIM 436,Çevre Kimyası II,Birsen Öztürk,Perşembe,1430/1729,FEB,14,20,KIM KIMM,24083,2018 - 2019 Bahar Dönemi
+KIM 437E,NMR Spectroscopy; An Intr.,Turan Öztürk,Cuma,1430/1729,FEB,12,20,KIM KIME KIMM,20808,2018 - 2019 Bahar Dönemi
+KIM 471,Organik Kimya III,Özkan Sezer,Perşembe,1430/1729,MED,29,40,KIM,20811,2018 - 2019 Bahar Dönemi
+KIM 472E,Electrochemistry,"Esma Sezer, Belkız Ustamehmetoğlu",Perşembe Perşembe,0830/1029 1030/1229,FEB FEB,63,70,KIM KIME,20548,2018 - 2019 Bahar Dönemi
+KIM 473E,Organic Structure Analysis,Özkan Sezer,Çarşamba,0830/1129,FEB,23,40,KIM KIME,20691,2018 - 2019 Bahar Dönemi
+KIM 482E,Organic Reactions,Gürkan Hızal,Çarşamba,1230/1529,FEB,21,40,KIM KIME,20702,2018 - 2019 Bahar Dönemi
+KIM 484,Anorganik Kimya III,"Esin Hamuryudan, Zehra Bayır",Salı,0830/1129,FEB,9,50,KIM,20683,2018 - 2019 Bahar Dönemi
+KIM 492,Bitirme Çalışması,Gürkan Hızal,----,/,FEB,21,500,KIM,20816,2018 - 2019 Bahar Dönemi
+KIM 492E,Graduation Project,Gürkan Hızal,----,/,FEB,8,500,KIM KIME,20818,2018 - 2019 Bahar Dönemi

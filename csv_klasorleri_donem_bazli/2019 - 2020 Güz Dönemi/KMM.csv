@@ -1,0 +1,33 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KMM 102E,Intr. to Comp.Prog.in Python,Reha Yavuz,Pazartesi,1330/1629,KMB,59,52,KMM,11009,2019 - 2020 Güz Dönemi
+KMM 111,Kimya Müh. Giriş ve Etik,Mehmet Ferhat Yardım,Çarşamba,1430/1529,KMB,95,70,KMM,10971,2019 - 2020 Güz Dönemi
+KMM 211,Kütle ve Enerji Denklikleri,Fatma Elif Genceli Güner,Salı,1330/1629,KMB,42,45,KMM KMMM,10975,2019 - 2020 Güz Dönemi
+KMM 211,Kütle ve Enerji Denklikleri,Fatoş Yüksel Güvenilir,Salı,1330/1629,KMB,45,45,KMM KMMM,10973,2019 - 2020 Güz Dönemi
+KMM 211E,Mass and Energy Balances,Melek Mümine Erol Taygun,Salı,1330/1629,KMB,1,20,KMME,10976,2019 - 2020 Güz Dönemi
+KMM 224,Kimya Müh.Termodinamiği,"Sadriye Oskay, Ayşegül Meriçboyu, Reha Yavuz",Çarşamba Perşembe,1230/1529 0930/1129,KMB KMB,28,45,KMM KMMM,11010,2019 - 2020 Güz Dönemi
+KMM 305E,Heat and Mass Transfer,"Şerife Birgül Ersolmaz, Hüsnü Atakül",Pazartesi Salı,1330/1529 1030/1229,KMB KMB,28,30,KMM KMMM,11012,2019 - 2020 Güz Dönemi
+KMM 311E,Thermodynamics II,Gamze Gümüşlü Gür,Perşembe,0930/1229,KMB,34,40,KMM KMME KMMM,10977,2019 - 2020 Güz Dönemi
+KMM 315E,Physical Che.for Chemical Eng.,Fethiye Aylin Sungur,Salı Perşembe,1330/1529 1530/1629,KMB KMB,39,45,KMM KMMM,11011,2019 - 2020 Güz Dönemi
+KMM 321E,Heat Transfer,Fatma Elif Genceli Güner,Pazartesi,1330/1629,KMB,36,30,KMM KMME KMMM,10979,2019 - 2020 Güz Dönemi
+KMM 331,Kütle Aktarımı,Gülhayat Saygılı,Pazartesi,0930/1229,KMB,38,40,KMM KMMM,10980,2019 - 2020 Güz Dönemi
+KMM 331E,Mass Transfer,Moiz Elnekave,Pazartesi,0930/1229,KMB,6,30,KMME,10981,2019 - 2020 Güz Dönemi
+KMM 332,Ayırma İşlemleri,Gülhayat Saygılı,Salı Perşembe,1330/1529 1330/1529,KMB KMB,36,33,KMM KMMM,10982,2019 - 2020 Güz Dönemi
+KMM 411,Proses Kontrol,Serdar Yaman,Pazartesi,1330/1629,KMB,42,41,KMM,10983,2019 - 2020 Güz Dönemi
+KMM 411E,Process Control,Devrim Barış Kaymak,Pazartesi,1330/1629,KMB,40,41,KMM KMME KMMM,10984,2019 - 2020 Güz Dönemi
+KMM 412,Kimyasal Teknolojiler,Melek Tüter,Cuma,1330/1629,KMB,41,40,KMM KMMM,10985,2019 - 2020 Güz Dönemi
+KMM 412E,Chemical Technologies,Hale Gürbüz,Cuma,1330/1629,KMB,41,40,KMM KMME,10986,2019 - 2020 Güz Dönemi
+KMM 413,Biyokatalizörler ve Karakter,Fatoş Yüksel Güvenilir,Çarşamba,0930/1229,KMB,20,20,KMM,10987,2019 - 2020 Güz Dönemi
+KMM 413E,Biocatatlysts &Their..,--,Çarşamba,0930/1229,KMB,0,0,KMM KMME,10988,2019 - 2020 Güz Dönemi
+KMM 421E,Chemical Reaction Eng II,"Ahmet Sirkecioğlu, Ayşe Erdem, Gamze Gümüşlü Gür",Perşembe,1330/1629,KMB,80,80,KMM KMME KMMM,10989,2019 - 2020 Güz Dönemi
+KMM 429,Kimya End Korozyon & Malz Seçi,Hanzade Açma,Salı,0930/1229,KMB,20,20,KMM,10990,2019 - 2020 Güz Dönemi
+KMM 431,Kimya Mühendisliği Tasarımı I,"Ayşe Özge Kürkçüoğlu Levitas, Devrim Barış Kaymak",Çarşamba Perşembe,1230/1529 1030/1229,KMB KMB,68,70,KMM KMMM,10991,2019 - 2020 Güz Dönemi
+KMM 431E,Chemical Engineering Design I,Hale Gürbüz,Çarşamba Perşembe,1230/1529 1030/1229,KMB KMB,12,20,KMM KMME,10993,2019 - 2020 Güz Dönemi
+KMM 434,"Kalite,Çevre ve Güvenlik",--,Pazartesi,0930/1229,KMB,0,0,KMM KMMM,15560,2019 - 2020 Güz Dönemi
+KMM 451,Kimya Mühendisliği Lab. I,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın, Osman Eksik",Salı,1330/1729,KMB,36,35,KMM,10994,2019 - 2020 Güz Dönemi
+KMM 451,Kimya Mühendisliği Lab. I,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın, Osman Eksik",Salı,0830/1229,KMB,36,35,KMM,10992,2019 - 2020 Güz Dönemi
+KMM 451E,Chemical Engineering Lab. I,"Çiğdem Oral, Ayşe Arifoğlu, Cemile Yerlikaya, Nalan Erdöl Aydın, Osman Eksik",Pazartesi,0830/1229,KMB,16,35,KMM KMME,10995,2019 - 2020 Güz Dönemi
+KMM 465,Çevre Kimyası ve Teknolojisi,Ahmet Alper Aydın,Çarşamba,0930/1229,KMB,11,15,KMM,10996,2019 - 2020 Güz Dönemi
+KMM 465E,Environmental Chemis..,Moiz Elnekave,Çarşamba,0930/1229,KMB,10,15,KMM KMME,10998,2019 - 2020 Güz Dönemi
+KMM 485,Polimer Kimyası ve Teknolojisi,Ahmet Tuncer Erciyes,Çarşamba,0930/1229,KMB,19,20,KMM,10999,2019 - 2020 Güz Dönemi
+KMM 492,Bitirme Çalışması,Gülhayat Saygılı,----,/,KMB,14,100,KMM,11000,2019 - 2020 Güz Dönemi
+KMM 492E,Graduation Project,Gülhayat Saygılı,----,/,KMB,5,100,KMM KMME,11001,2019 - 2020 Güz Dönemi

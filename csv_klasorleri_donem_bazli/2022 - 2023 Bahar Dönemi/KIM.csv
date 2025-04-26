@@ -1,0 +1,126 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KIM 104,Organik Kimya,Okan Sirkecioğlu,Çarşamba,1230/1529,KMB / D103,39,40,"GID, KIMM, KMM",21636,2022 - 2023 Bahar Dönemi
+KIM 104,Organik Kimya,Hacer Ayşen Önen,Çarşamba,1230/1529,KMB / D104,33,40,"GID, KIMM, KMM",21637,2022 - 2023 Bahar Dönemi
+KIM 104,Organik Kimya,Nilgün Kızılcan,Çarşamba,1230/1529,KMB / D102,40,40,"GID, KIMM, KMM",21638,2022 - 2023 Bahar Dönemi
+KIM 104,Organik Kimya,Yeşim Gürsel,Çarşamba,1230/1529,KMB / D105,40,40,"GID, KIMM, KMM",21639,2022 - 2023 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,"Yeşim Gürsel, Nilgün Kızılcan",Pazartesi,1330/1529,FEB / LAB-D,54,60,"GID, KMM",21640,2022 - 2023 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,Hacer Ayşen Önen,Pazartesi,1530/1729,FEB / LAB-D,52,60,"GID, KMM",21641,2022 - 2023 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,Okan Sirkecioğlu,Salı,1330/1529,FEB / LAB-D,20,60,"GID, KMM",23251,2022 - 2023 Bahar Dönemi
+KIM 111,Genel Kimya I,Zehra Bayır,"Çarşamba
+Perşembe","1030/1229
+1030/1229","FEB
+FEB / D101
+D103",37,40,"KIM, KIMM",21642,2022 - 2023 Bahar Dönemi
+KIM 111L,Genel Kimya I Lab,Zehra Bayır,Pazartesi,1130/1329,FEB / LAB-E,35,40,KIM,21643,2022 - 2023 Bahar Dönemi
+KIM 114,Genel Kimya II,Esin Hamuryudan,"Çarşamba
+Perşembe","1030/1229
+0830/1029","FEB
+FEB / D205
+D205",24,45,"KIM, KIMM",21645,2022 - 2023 Bahar Dönemi
+KIM 114,Genel Kimya II,İsmail Yılmaz,"Çarşamba
+Perşembe","1030/1229
+0830/1029","FEB
+FEB / D104
+D201",46,45,"KIM, KIMM",21646,2022 - 2023 Bahar Dönemi
+KIM 114L,Genel Kimya II Lab.,Esin Hamuryudan,Cuma,0930/1229,FEB / LAB-E,13,40,KIM,21647,2022 - 2023 Bahar Dönemi
+KIM 114L,Genel Kimya II Lab.,İsmail Yılmaz,Cuma,0930/1229,FEB / LAB-F,41,40,KIM,21648,2022 - 2023 Bahar Dönemi
+KIM 202,Fiziksel Kimya,Esma Sezer,Çarşamba,1230/1529,MED / B34,49,55,"BIO, CEV, CHZ, DEN, EHB, ELE, ELH, ELK, GEM, GID, INS, JEF, JEO, KIMM, KMM, KMMM, KYD, MAD, MET, PET, TEL",21649,2022 - 2023 Bahar Dönemi
+KIM 202,Fiziksel Kimya,--,Çarşamba,1230/1529,FEB / ---,0,0,"BIO, CEV, CHZ, DEN, EHB, ELE, ELH, ELK, GEM, GID, INS, JEF, JEO, KIMM, KMM, KMMM, KYD, MAD, MET, PET, TEL",21650,2022 - 2023 Bahar Dönemi
+KIM 202E,Physical Chemistry,Fuat Topuz,Pazartesi,1430/1729,FEB / L400,39,47,"BIO, BIOE, CEV, CEVE, CHZE, DENE, EHB, EHBE, ELK, ELKE, GEM, GEME, GEMK, GIDE, INS, INSE, JEOE, KMM, KMME, KOM, KOME, MADE, MEN, MET, METE, PETE",21652,2022 - 2023 Bahar Dönemi
+KIM 202E,Physical Chemistry,Erdem Yavuz,Çarşamba,1230/1529,FEB / D106,40,47,"BIO, BIOE, CEV, CEVE, CHZE, DENE, EHB, EHBE, ELK, ELKE, GEM, GEME, GEMK, GIDE, INS, INSE, JEOE, KMM, KMME, KOM, KOME, MADE, MEN, MET, METE, PETE",21651,2022 - 2023 Bahar Dönemi
+KIM 202EL,Physical Chemistry Lab,Erdem Yavuz,Cuma,0830/1029,FEB / ---,3,10,"KMM, KMME, PET",24957,2022 - 2023 Bahar Dönemi
+KIM 203,Analitik Kimya,Aslı Baysal,Pazartesi,1430/1729,FEB / D104,36,40,"BIO, MET",21653,2022 - 2023 Bahar Dönemi
+KIM 203,Analitik Kimya,--,Pazartesi,1430/1729,FEB / ---,0,0,"BIO, MET",21654,2022 - 2023 Bahar Dönemi
+KIM 203E,Analytical Chemistry,Sevgi Güney,Pazartesi,1430/1729,FEB / D304,36,50,"BIO, BIOE, MET, METE",21655,2022 - 2023 Bahar Dönemi
+KIM 203E,Analytical Chemistry,Fatma Bedia Berker,Pazartesi,1430/1729,FEB / D202,20,50,"BIO, BIOE, MET, METE",21656,2022 - 2023 Bahar Dönemi
+KIM 203E,Analytical Chemistry,Nejla Çini,Çarşamba,1230/1529,FEB / D105,24,50,"BIO, BIOE, MET, METE",21657,2022 - 2023 Bahar Dönemi
+KIM 204,Genel Kimya II,--,Perşembe,0830/1129,EEB / ---,0,0,"CHZ, DEN, ELE, ELH, ELK, GEM, JEF, JEO, MAD, MET, PET, TEL",21658,2022 - 2023 Bahar Dönemi
+KIM 205,Organik Kimya,Gönül Yapar,Salı,0830/1129,FEB / D304,41,65,"BIO, BIOM, CEV, CHZ, DEN, ELE, ELH, ELK, GEM, INS, JEO, KIMM, KYD, MAD, MET, PET, TEL",21659,2022 - 2023 Bahar Dönemi
+KIM 205E,Organic Chemistry,Hakan Durmaz,Salı,0830/1129,EEB / 2102,38,60,"BIOM, CEV, CEVE, CHZE, DENE, ELKE, GEME, GEMK, INS, INSE, JEOE, KIM, KIMM, MADE, MET, METE, PETE, TEK, TEKE",21661,2022 - 2023 Bahar Dönemi
+KIM 205E,Organic Chemistry,Nesrin Köken,Salı,0830/1129,FEB / L400,40,60,"BIOM, CEV, CEVE, CHZE, DENE, ELKE, GEME, GEMK, INS, INSE, JEOE, KIM, KIMM, MADE, MET, METE, PETE, TEK, TEKE",21662,2022 - 2023 Bahar Dönemi
+KIM 205E,Organic Chemistry,Barış Yücel,Salı,0830/1129,EEB / 2104,42,60,"BIOM, CEV, CEVE, CHZE, DENE, ELKE, GEME, GEMK, INS, INSE, JEOE, KIM, KIMM, MADE, MET, METE, PETE, TEK, TEKE",21663,2022 - 2023 Bahar Dönemi
+KIM 205E,Organic Chemistry,--,Salı,0830/1129,EEB / ---,0,0,"BIOM, CEV, CEVE, CHZE, DENE, ELKE, GEME, GEMK, INS, INSE, JEOE, KIM, KIMM, MADE, MET, METE, PETE, TEK, TEKE",21664,2022 - 2023 Bahar Dönemi
+KIM 205E,Organic Chemistry,--,Salı,0830/1129,EEB / ---,0,0,"BIOM, CEV, CEVE, CHZE, DENE, ELKE, GEME, GEMK, INS, INSE, JEOE, KIM, KIMM, MADE, MET, METE, PETE, TEK, TEKE",21665,2022 - 2023 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Nevin Öztekin,Cuma,0830/1129,KMB / D104,34,42,"GID, KIMM, KMM, KYD",21666,2022 - 2023 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Gülcemal Yıldız,Cuma,0830/1129,FEB / D204,39,42,"GID, KIMM, KMM, KYD",21667,2022 - 2023 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Sevgi Güney,Cuma,1400/1659,FEB / D106,29,50,"GID, KIMM, KMM, KYD",21668,2022 - 2023 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Ferah Çalışır,Cuma,1400/1659,FEB / D203,35,50,"GID, KIMM, KMM, KYD",21669,2022 - 2023 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Sevgi Güney,Cuma,0930/1129,FEB / LAB-B,18,50,"GID, KIMM, KMM, KYD",21670,2022 - 2023 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Ferah Çalışır,Cuma,0930/1129,FEB / LAB-A,40,50,"GID, KIMM, KMM, KYD",21671,2022 - 2023 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Nevin Öztekin,Cuma,1400/1559,FEB / LAB-B,56,60,"GID, KIMM, KMM, KYD",21672,2022 - 2023 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Gülcemal Yıldız,Cuma,1400/1559,FEB / LAB-A,32,60,"GID, KIMM, KMM, KYD",21673,2022 - 2023 Bahar Dönemi
+KIM 207,İnorganik Kimya,Ayfer Kalkan Burat,Salı,0830/1129,EEB / 5203,30,50,"CHZ, DEN, ELE, ELH, ELK, FIZ, GEM, JEF, JEO, KIMM, KMM, KYD, MAD, PET, TEL",21674,2022 - 2023 Bahar Dönemi
+KIM 210E,Intro to Polymer Chemistry,--,Pazartesi,1430/1729,MED / ---,0,0,"BIO, BIOE, KIM, KIME, KIMM, TEK, TEKE",21675,2022 - 2023 Bahar Dönemi
+KIM 210E,Intro to Polymer Chemistry,İbrahim Ersin Serhatlı,Pazartesi,1430/1729,FEB / D103,32,50,"BIO, BIOE, KIM, KIME, KIMM, TEK, TEKE",21676,2022 - 2023 Bahar Dönemi
+KIM 211E,Analytical Chemistry,Ferah Çalışır,"Pazartesi
+Salı","1130/1329
+1130/1329","FEB
+FEB / D304
+D102",43,50,"KIM, KIME, KIMM",21677,2022 - 2023 Bahar Dönemi
+KIM 212,Enstrumental Analitik Yönteml,"Gülcemal Yıldız, Gülçin Yılmaz","Pazartesi
+Salı","1130/1329
+1130/1329","FEB
+FEB / D105
+D205",36,43,"KIM, KIMM",21678,2022 - 2023 Bahar Dönemi
+KIM 212,Enstrumental Analitik Yönteml,Mustafa Özcan,"Pazartesi
+Salı","1130/1329
+1130/1329","FEB
+FEB / D201
+D105",42,43,"KIM, KIMM",21679,2022 - 2023 Bahar Dönemi
+KIM 212L,Enstrumental Analitik Yön.Lab.,Gülçin Yılmaz,Perşembe,1230/1729,FEB / LAB-A,48,50,KIM,21680,2022 - 2023 Bahar Dönemi
+KIM 212L,Enstrumental Analitik Yön.Lab.,Gülcemal Yıldız,Perşembe,1230/1729,FEB / LAB-B,41,50,KIM,21681,2022 - 2023 Bahar Dönemi
+KIM 223EL,Inorganic Chemistry Lab,"Ozan Sanlı Şentürk, Zehra Bayır",Çarşamba,1230/1529,FEB / LAB-E,70,80,KIM,21683,2022 - 2023 Bahar Dönemi
+KIM 224E,Inorganic Chemistry II,Altuğ Mert Sevim,Salı,0830/1129,FEB / D101,40,40,KIM,21685,2022 - 2023 Bahar Dönemi
+KIM 224E,Inorganic Chemistry II,Ozan Sanlı Şentürk,Salı,0830/1129,FEB / D105,33,40,KIM,21688,2022 - 2023 Bahar Dönemi
+KIM 231,Organik Kimya I,Ümit Tunca,"Çarşamba
+Perşembe","1030/1229
+1030/1229","FEB
+FEB / D201
+D205",47,45,"KIM, KIMM",21690,2022 - 2023 Bahar Dönemi
+KIM 231,Organik Kimya I,Metin Hayri Acar,"Çarşamba
+Perşembe","1030/1229
+1030/1229","FEB
+FEB / D204
+D203",44,45,"KIM, KIMM",21693,2022 - 2023 Bahar Dönemi
+KIM 231L,Organik Kimya Lab. I,Ufuk Saim Günay,Çarşamba,1030/1529,FEB / LAB-D,15,50,KIM,21695,2022 - 2023 Bahar Dönemi
+KIM 232,Organik Kimya II,İbrahim Volkan Kumbaracı,Perşembe,0830/1229,FEB / D206,35,35,KIM,21698,2022 - 2023 Bahar Dönemi
+KIM 232,Organik Kimya II,Okan Sirkecioğlu,Perşembe,0830/1229,FEB / D306,24,35,KIM,21703,2022 - 2023 Bahar Dönemi
+KIM 232L,Organik Kimya Lab. II,Ayşe Özdemir,"Cuma
+Cuma","1130/1259
+1400/1729","FEB
+FEB / LAB-D
+LAB-D",38,70,KIM,21706,2022 - 2023 Bahar Dönemi
+KIM 252,Kimyasal Termodinamik,Erdem Yavuz,Salı,1430/1729,FEB / D201,50,50,"KIM, KIMM",21709,2022 - 2023 Bahar Dönemi
+KIM 252E,Chemical Thermodynamics,Nermin Orakdöğen,Salı,1430/1729,FEB / D101,36,45,"KIM, KIME",21710,2022 - 2023 Bahar Dönemi
+KIM 262E,Int. Quantum Chemistry,Mine Yurtsever,Pazartesi,0830/1129,FEB / D101,25,50,"KIM, KIME",21711,2022 - 2023 Bahar Dönemi
+KIM 262E,Int. Quantum Chemistry,Nurcan Tüzün,Pazartesi,0830/1129,FEB / D201,49,50,"KIM, KIME",21712,2022 - 2023 Bahar Dönemi
+KIM 271,Kimyacılar için Matematik,Berkay Sütay,Salı,0830/1129,FEB / D201,24,50,KIM,21713,2022 - 2023 Bahar Dönemi
+KIM 311,Fiziksel Kimya I,"Candan Erbil, Argun Talat Gökçeören",Cuma,0830/1129,FEB / D205,55,55,KIM,21714,2022 - 2023 Bahar Dönemi
+KIM 311L,Fiziksel Kimya Lab. I,Candan Erbil,Salı,1330/1729,FEB / LAB-C,46,55,KIM,21715,2022 - 2023 Bahar Dönemi
+KIM 312,Fiziksel Kimya II,Bahire Filiz Şenkal,Pazartesi,1430/1729,FEB / D106,36,36,KIM,21716,2022 - 2023 Bahar Dönemi
+KIM 312,Fiziksel Kimya II,Orhan Güney,Pazartesi,1430/1729,FEB / D205,36,36,KIM,21717,2022 - 2023 Bahar Dönemi
+KIM 312L,Fiziksel Kimya Lab. II,Orhan Güney,Cuma,0830/1229,FEB / LAB-C,20,50,KIM,21719,2022 - 2023 Bahar Dönemi
+KIM 314,Tekstil Boyar Maddeleri,--,Perşembe,0830/1129,MED / ---,0,0,"KIM, KIMM",21722,2022 - 2023 Bahar Dönemi
+KIM 316,Yakıt Kimyası,--,Salı,0830/1129,FEB / ---,0,0,"KIM, KIMM",21725,2022 - 2023 Bahar Dönemi
+KIM 319E,Cosmetic Chemistry,Ayşe Özdemir,Cuma,0830/1129,FEB / L200,20,22,"KIM, KIME, KIMM",21727,2022 - 2023 Bahar Dönemi
+KIM 324,Adli Kimya,Mustafa Özcan,Cuma,0930/1229,FEB / L300,22,22,"KIM, KIMM",21729,2022 - 2023 Bahar Dönemi
+KIM 325E,Intr. to Bioinorganic Chem.,Behice Şebnem Sesalan,Çarşamba,0830/1129,FEB / L200,14,20,"KIM, KIME, KIMM",21731,2022 - 2023 Bahar Dönemi
+KIM 328,Biyokimya II,Onur Alptürk,Çarşamba,0830/1129,FEB / L300,21,22,KIM,21733,2022 - 2023 Bahar Dönemi
+KIM 415,Yüzey Aktif Maddeler,Cüneyt Hüseyin Ünlü,Salı,0830/1129,FEB / B3_Z01-Z03,25,22,"KIM, KIMM",21734,2022 - 2023 Bahar Dönemi
+KIM 416,Organik Petrokimya,--,Perşembe,0830/1129,MED / ---,0,0,"KIM, KIMM",21735,2022 - 2023 Bahar Dönemi
+KIM 422,Endüstriyel Kimya,Bünyamin Karagöz,Salı,0830/1129,FEB / D205,43,50,"KIM, KIMM",21737,2022 - 2023 Bahar Dönemi
+KIM 436,Çevre Kimyası II,Gülçin Yılmaz,Salı,1430/1729,FEB / L200,14,20,"KIM, KIMM",21738,2022 - 2023 Bahar Dönemi
+KIM 437E,NMR Spectroscopy; An Intr.,--,Pazartesi,1430/1729,FEB / ---,0,0,"KIM, KIME",23237,2022 - 2023 Bahar Dönemi
+KIM 471,Organik Kimya III,Ayşe Özdemir,Pazartesi,1130/1429,MED / B31,20,30,"KIM, KIMM",21739,2022 - 2023 Bahar Dönemi
+KIM 472,Elektrokimya,Belkız Ustamehmetoğlu,Perşembe,0830/1129,MED / B33,10,40,KIM,21740,2022 - 2023 Bahar Dönemi
+KIM 473E,Organic Structure Analysis,Turan Öztürk,Salı,1430/1729,FEB / D105,4,35,KIM,21741,2022 - 2023 Bahar Dönemi
+KIM 481E,Industrial Polymers,Demet Çolak,Pazartesi,1430/1729,MED / B35,29,30,KIM,21744,2022 - 2023 Bahar Dönemi
+KIM 482E,Organic Reactions,Gürkan Hızal,Çarşamba,1230/1529,FEB / D205,19,40,KIM,21747,2022 - 2023 Bahar Dönemi
+KIM 483,Yüzey ve Termal Analiz Yönt.,Nevin Öztekin,Pazartesi,0830/1129,MED / B34,33,32,KIM,21749,2022 - 2023 Bahar Dönemi
+KIM 484,Anorganik Kimya III,İbrahim Özçeşmeci,Salı,1430/1729,FEB / B3_Z01-Z03,17,30,KIM,21752,2022 - 2023 Bahar Dönemi
+KIM 4901,Araştırma Projesi I,Bahire Filiz Şenkal,----,/,FEB / ---,12,500,KIM,21760,2022 - 2023 Bahar Dönemi
+KIM 4901E,Research Project I,Bahire Filiz Şenkal,----,/,FEB / ---,6,500,KIM,21763,2022 - 2023 Bahar Dönemi
+KIM 4902,Araştırma Projesi II,Bahire Filiz Şenkal,----,/,FEB / ---,30,500,KIM,21766,2022 - 2023 Bahar Dönemi
+KIM 4902E,Research Project II,Bahire Filiz Şenkal,----,/,FEB / ---,11,500,KIM,21769,2022 - 2023 Bahar Dönemi
+KIM 492,Bitirme Çalışması,Bahire Filiz Şenkal,----,/,FEB / ---,0,500,KIM,21771,2022 - 2023 Bahar Dönemi
+KIM 492E,Graduation Project,Bahire Filiz Şenkal,----,/,FEB / ---,1,500,"KIM, KIME",21773,2022 - 2023 Bahar Dönemi

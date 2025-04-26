@@ -1,0 +1,27 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GID 111E,Int.to Food Eng.and Ethics,Aslı Can Karaça,Çarşamba,1230/1529,KMB,73,80,GID,12030,2018 - 2019 Güz Dönemi
+GID 211E,Mass and Energy Balances,Meral Kılıç Akyılmaz,Salı,0930/1229,KMB,76,80,GID GIDE,12031,2018 - 2019 Güz Dönemi
+GID 221E,Food Chemistry,"Esra Çapanoğlu Güven, Aslı Can Karaça, Neşe Şahin Yeşilçubuk",Pazartesi,0830/1129,KMB,70,80,GID GIDE GIDM,12032,2018 - 2019 Güz Dönemi
+GID 311,Gıda Mikrobiyolojisi,Pervin Başaran Akocak,Perşembe,0930/1229,KMB,48,80,GID GIDM,12033,2018 - 2019 Güz Dönemi
+GID 311E,Food Microbiology,Hatice Funda Karbancıoğlu Güler,Perşembe,0930/1229,KMB,4,5,GIDE,12034,2018 - 2019 Güz Dönemi
+GID 321,Gıda Mikrobiyolojisi Lab,Hatice Funda Karbancıoğlu Güler,Salı,1330/1629,KMB,25,35,GID,12036,2018 - 2019 Güz Dönemi
+GID 321,Gıda Mikrobiyolojisi Lab,Hatice Funda Karbancıoğlu Güler,Salı,0930/1229,KMB,25,35,GID,12035,2018 - 2019 Güz Dönemi
+GID 321E,Food Microbiology I Lab.,Esra Çapanoğlu Güven,Salı,0930/1229,KMB,1,5,GIDE,12037,2018 - 2019 Güz Dönemi
+GID 331E,Food Eng Unit Operations I,Fatma Ebru Fıratlıgil,Cuma,1330/1629,KMB,61,80,GID GIDE,12038,2018 - 2019 Güz Dönemi
+GID 341,Isı Aktarımı,Fatma Ebru Fıratlıgil,Perşembe,1330/1629,KMB,54,80,GID,12039,2018 - 2019 Güz Dönemi
+GID 341E,Heat Transfer,Esra Çapanoğlu Güven,Perşembe,1330/1629,KMB,3,5,GIDE,12040,2018 - 2019 Güz Dönemi
+GID 351,Kütle Aktarımı,Hasan Can Okutan,Pazartesi,1430/1729,KMB,55,80,GID,12041,2018 - 2019 Güz Dönemi
+GID 351E,Mass Transfer,Filiz Altay,Pazartesi,1430/1729,KMB,6,10,GIDE,12042,2018 - 2019 Güz Dönemi
+GID 411E,Food Engineering Design I,Gürbüz Güneş,Çarşamba,0930/1229,KMB,57,80,GID GIDE,12043,2018 - 2019 Güz Dönemi
+GID 413E,Biotechnology,Neşe Şahin Yeşilçubuk,Perşembe,1330/1629,KMB,16,30,GID GIDE GIDM,12044,2018 - 2019 Güz Dönemi
+GID 415E,Cold Storage Technology,Filiz Altay,Salı,0930/1229,KMB,33,35,GID GIDE,12045,2018 - 2019 Güz Dönemi
+GID 417E,Cereal Technology,--,Cuma,1330/1629,KMB,0,0,GIDE,12046,2018 - 2019 Güz Dönemi
+GID 421E,Food Technology,"Meral Kılıç Akyılmaz, Beraat Özçelik, Esra Çapanoğlu Güven, Gürbüz Güneş, Neşe Şahin Yeşilçubuk",Cuma,0930/1229,KMB,60,80,GID GIDE GIDM,12047,2018 - 2019 Güz Dönemi
+GID 424,Gıda Kalite Kontrol,"Beraat Özçelik, Esra Çapanoğlu Güven",Salı,1330/1629,KMB,57,80,GID GIDM,12048,2018 - 2019 Güz Dönemi
+GID 424E,Food Quality Control,Neşe Şahin Yeşilçubuk,Salı,1330/1629,KMB,4,10,GIDE,12049,2018 - 2019 Güz Dönemi
+GID 432E,Food Quality Control Lab.,"Neşe Şahin Yeşilçubuk, Esra Çapanoğlu Güven",Pazartesi,1430/1729,KMB,18,35,GID GIDE,12051,2018 - 2019 Güz Dönemi
+GID 432E,Food Quality Control Lab.,"Neşe Şahin Yeşilçubuk, Esra Çapanoğlu Güven",Pazartesi,1130/1429,KMB,35,35,GID GIDE,12050,2018 - 2019 Güz Dönemi
+GID 441,Proses Kontrol,Filiz Altay,Pazartesi,0830/1129,KMB,53,80,FIZ GID,12053,2018 - 2019 Güz Dönemi
+GID 441E,Process Control,Fatma Ebru Fıratlıgil,Pazartesi,0830/1129,KMB,5,10,FIZE GIDE,12052,2018 - 2019 Güz Dönemi
+GID 492,Bitirme Çalışması,Beraat Özçelik,----,/,---,6,500,GID,12054,2018 - 2019 Güz Dönemi
+GID 492E,Graduation Project,Beraat Özçelik,----,/,---,3,500,GID GIDE,12055,2018 - 2019 Güz Dönemi

@@ -1,0 +1,37 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BIO 102E,Engineering Biology,Celaletdin Ergun,Pazartesi,0930/1229,MKB,15,60,IML IMLE MAK MAKE,11203,2021 - 2022 Güz Dönemi
+BIO 103E,Int.to Mol.Biol.&Genet.&Ethics,"Ayça Sayı Yazgan, Börte Köse",Salı,1030/1229,FEB,85,100,BIO BIOE,14406,2021 - 2022 Güz Dönemi
+BIO 105E,General Biology I,Bülent Balta,Çarşamba Cuma,1130/1229 0830/1029,FEB FEB,53,55,BIO BIOE BIOM,14408,2021 - 2022 Güz Dönemi
+BIO 105E,General Biology I,Hakan Bermek,Çarşamba Cuma,1130/1229 0830/1029,FEB FEB,55,55,BIO BIOE BIOM,14407,2021 - 2022 Güz Dönemi
+BIO 207E,Cell Biology,Aslı Kumbasar,Perşembe Cuma,1230/1429 1130/1229,FEB FEB,64,85,BIO BIOE BIOM,14409,2021 - 2022 Güz Dönemi
+BIO 207EL,Cell Biology Lab.,Aslı Kumbasar,Pazartesi,1130/1429,FEB,32,40,BIO BIOE BIOM,14411,2021 - 2022 Güz Dönemi
+BIO 207EL,Cell Biology Lab.,Aslı Kumbasar,Pazartesi,0830/1129,FEB,33,40,BIO BIOE BIOM,14410,2021 - 2022 Güz Dönemi
+BIO 214E,Microbiology,Pervin Başaran Akocak,Çarşamba,0930/1229,KMB,15,20,KMM KMME,11111,2021 - 2022 Güz Dönemi
+BIO 215,Biyokimya,Ramazan Kızıl,Pazartesi,0930/1229,KMB,28,31,FIZ GID KMM,11110,2021 - 2022 Güz Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Çarşamba,1230/1529,,65,55,BIOM CEV CEVE CHZ CHZE DEN EHB EHBE ELE ELH ELK ELKE FIZ FIZE GEM GID GIDE INS INSE ISL ISLE JEO JEOE KIM KIME KMM KMME KOM KOME MAD MADE MET METE PET PETE TEL,14414,2021 - 2022 Güz Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Çarşamba,0830/1129,,61,55,BIOM CEV CEVE CHZ CHZE DEN EHB EHBE ELE ELH ELK ELKE FIZ FIZE GEM GID GIDE INS INSE ISL ISLE JEO JEOE KIM KIME KMM KMME KOM KOME MAD MADE MET METE PET PETE TEL,14413,2021 - 2022 Güz Dönemi
+BIO 301E,Fundamentals of Biology,Ayşe Saygün,Pazartesi,0930/1229,,55,60,CEV CEVE GID GIDE KIM KIME KMM KMME MET METE,11194,2021 - 2022 Güz Dönemi
+BIO 303,Biyomalzemeler,Fatma Seniha Güner,Pazartesi,0930/1229,KMB,26,25,KMM,11109,2021 - 2022 Güz Dönemi
+BIO 315E,Biochemistry I,Nevin Gül-Karagüler,Salı,1430/1729,FEB,80,85,BIO BIOE BIOM,14417,2021 - 2022 Güz Dönemi
+BIO 315EL,Biochemistry I Lab.,Nevin Gül-Karagüler,Çarşamba,1230/1529,FEB,38,40,BIO BIOE,14420,2021 - 2022 Güz Dönemi
+BIO 315EL,Biochemistry I Lab.,Nevin Gül-Karagüler,Çarşamba,0930/1229,FEB,36,40,BIO BIOE,14419,2021 - 2022 Güz Dönemi
+BIO 317E,Molecular Genetics,"Arzu Karabay Korkmaz, Aslıhan Tolun",Pazartesi,1230/1529,FEB,73,80,BIO BIOE BIOM,14421,2021 - 2022 Güz Dönemi
+BIO 317EL,Molecular Genetics Lab.,Arzu Karabay Korkmaz,Cuma,1430/1729,FEB,33,40,BIO BIOE,14424,2021 - 2022 Güz Dönemi
+BIO 317EL,Molecular Genetics Lab.,Arzu Karabay Korkmaz,Cuma,0930/1229,FEB,36,40,BIO BIOE,14422,2021 - 2022 Güz Dönemi
+BIO 322E,Physiology,Ayça Sayı Yazgan,Perşembe,1430/1729,FEB,69,80,BIO BIOE,14425,2021 - 2022 Güz Dönemi
+BIO 325E,Ecology,Deniz Şahin,Salı,0930/1129,FEB,59,70,BIO BIOE,14444,2021 - 2022 Güz Dönemi
+BIO 332E,Modern Techniques in Biology,"Hakan Bermek, Deniz Şahin",Pazartesi,1130/1429,FEB,0,0,BIO BIOE,15403,2021 - 2022 Güz Dönemi
+BIO 341E,General Biotechnology,Abdulhalim Kılıç,Salı,1130/1429,FEB,72,80,BIO BIOE,14446,2021 - 2022 Güz Dönemi
+BIO 351E,Biophysics,Gizem Dinler Doğanay,Pazartesi,1430/1729,FEB,58,80,BIO BIOE FIZ FIZE,14447,2021 - 2022 Güz Dönemi
+BIO 412E,Recombinant DNA Technology,Ayten Karataş,Perşembe,1430/1729,,34,40,BIO BIOE BIOM,14448,2021 - 2022 Güz Dönemi
+BIO 415E,Molecular Biology,"Arzu Karabay Korkmaz, Aslı Kumbasar, Ceren Çıracı",Salı,1030/1429,FEB,0,0,BIO BIOE BIOM,15402,2021 - 2022 Güz Dönemi
+BIO 432E,Microbial Physiology,Zeynep Petek Çakar,Salı,0930/1229,,36,50,BIO BIOE BIOM,14459,2021 - 2022 Güz Dönemi
+BIO 441E,Modelling in Biological System,Bülent Balta,Perşembe,1130/1429,,3,30,BIO BIOE,14461,2021 - 2022 Güz Dönemi
+BIO 451E,Industrial Microbiology,Börte Köse,Cuma,0830/1129,,35,50,BIO BIOE,14460,2021 - 2022 Güz Dönemi
+BIO 452E,Virology,Ceren Çıracı,Çarşamba,0830/1129,,55,55,BIO BIOE BIOM,14449,2021 - 2022 Güz Dönemi
+BIO 468E,Current Topics in Ecology,Emrah Çoraman,Perşembe,0930/1229,,32,30,BIO BIOE BIOM,14458,2021 - 2022 Güz Dönemi
+BIO 4901E,Mol Bio & Genetics Design I,Bülent Balta,----,/,FEB,41,100,BIOE,14451,2021 - 2022 Güz Dönemi
+BIO 4902E,Mol Bio & Genetics Design II,Bülent Balta,----,/,FEB,7,100,BIOE,14452,2021 - 2022 Güz Dönemi
+BIO 491E,Molecular Biotechnology,Fatma Neşe Kök,Çarşamba,1230/1529,FEB,65,70,BIO BIOE,14775,2021 - 2022 Güz Dönemi
+BIO 492,Bitirme Çalışması,--,----,/,FEB,0,0,BIO,14455,2021 - 2022 Güz Dönemi
+BIO 492E,Graduation Project,Bülent Balta,----,/,FEB,7,100,BIO BIOE,14456,2021 - 2022 Güz Dönemi

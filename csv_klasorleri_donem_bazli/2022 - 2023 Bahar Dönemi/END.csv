@@ -1,0 +1,71 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+END 112E,Intr. to Manufacturing Systems,Vehbi Tufan Koç,Perşembe,1130/1429,MED / A16,145,145,"END, ENDE, IND",21021,2022 - 2023 Bahar Dönemi
+END 112E,Intr. to Manufacturing Systems,Vehbi Tufan Koç,Perşembe,1430/1729,MED / A33,131,145,"END, ENDE, IND",21022,2022 - 2023 Bahar Dönemi
+END 201E,Industrial Eng.Appl. in Python,Mehmet Yasin Ulukuş,Salı,0830/1129,---- / ----,129,140,"END, ENDE, IND",21023,2022 - 2023 Bahar Dönemi
+END 201E,Industrial Eng.Appl. in Python,Mehmet Ali Ergün,Salı,1430/1729,---- / ----,137,140,"END, ENDE, IND",21024,2022 - 2023 Bahar Dönemi
+END 210E,Linear Algebra for Indust.Eng.,Erkan Işıklı,Çarşamba,1230/1529,MED / A35,73,65,"END, ENDE",24825,2022 - 2023 Bahar Dönemi
+END 232,İşbilim,Ayşe Elvan Bayraktaroğlu,Pazartesi,1130/1429,INB / A101,62,70,"END, IML",21025,2022 - 2023 Bahar Dönemi
+END 232,İşbilim,Ayşe Elvan Bayraktaroğlu,Salı,1130/1429,INB / A301,69,70,"END, IML",21026,2022 - 2023 Bahar Dönemi
+END 232E,Ergonomics,Fethi Çalışır,Çarşamba,0930/1229,MDB / B205,99,100,"END, ENDE, IND",21027,2022 - 2023 Bahar Dönemi
+END 252E,Theory of Probability,Kutay Tinç,Cuma,0930/1229,EEB / 4104,64,65,"END, ENDE",24835,2022 - 2023 Bahar Dönemi
+END 308,Kalite Mühendisliği,Hüsnü Bülent Cerit,Çarşamba,0930/1129,INB / A105,31,70,END,21029,2022 - 2023 Bahar Dönemi
+END 308,Kalite Mühendisliği,Hüsnü Bülent Cerit,Çarşamba,1330/1529,MED / A36,57,70,END,21032,2022 - 2023 Bahar Dönemi
+END 308E,Quality Engineering,Seda Yanık,Perşembe,0930/1129,MED / A36,68,70,"END, ENDE",21034,2022 - 2023 Bahar Dönemi
+END 311,İstatistik,Cengiz Kahraman,Pazartesi,1430/1729,MED / A33,77,75,END,21039,2022 - 2023 Bahar Dönemi
+END 311,İstatistik,Cengiz Kahraman,Cuma,1400/1659,MED / A33,62,70,END,21042,2022 - 2023 Bahar Dönemi
+END 311E,Statistics,Seda Yanık,Salı,0830/1129,MED / A35,82,90,"END, ENDE, IND",21043,2022 - 2023 Bahar Dönemi
+END 312,Mühendislik Ekonomisi,Cengiz Kahraman,Pazartesi,1130/1429,INB / A102,50,70,END,21048,2022 - 2023 Bahar Dönemi
+END 312,Mühendislik Ekonomisi,İrem Uçal Sarı,Pazartesi,1130/1429,MDB / B204,76,70,END,21049,2022 - 2023 Bahar Dönemi
+END 312E,Engineering Economics,İrem Uçal Sarı,Çarşamba,1230/1529,MDB / B204,97,100,"END, ENDE",21050,2022 - 2023 Bahar Dönemi
+END 314,Hizmet Sistemleri,Cemil Ceylan,Perşembe,1130/1429,EEB / 5105,30,50,END,21051,2022 - 2023 Bahar Dönemi
+END 318,Sistem Dinamiği,Cafer Erhan Bozdağ,Salı,1430/1729,EEB / 1303,41,50,END,21052,2022 - 2023 Bahar Dönemi
+END 322,Sistem Simülasyonu,Cafer Erhan Bozdağ,"Salı
+Cuma","0930/1129
+1130/1229","MED
+MED / A16
+A16",53,70,END,21053,2022 - 2023 Bahar Dönemi
+END 322,Sistem Simülasyonu,Cafer Erhan Bozdağ,"Salı
+Cuma","1230/1429
+0930/1029","INB
+INB / B308
+B203",47,70,END,21054,2022 - 2023 Bahar Dönemi
+END 322E,System Simulation,Mehmet Ali Ergün,Salı,1130/1429,KMB / D203,93,82,"END, ENDE",21055,2022 - 2023 Bahar Dönemi
+END 331,Yöneylem Araştırması I,Özgür Kabak,Pazartesi,0830/1129,EEB / 5302,81,120,END,21056,2022 - 2023 Bahar Dönemi
+END 331E,Operations Research I,Kutay Tinç,Pazartesi,1130/1429,MED / A11,112,120,"END, ENDE, IND, KOME, PETE",21057,2022 - 2023 Bahar Dönemi
+END 339,Proje Yönetimi,Ayberk Soyer,Perşembe,0830/1129,MED / B35,50,50,END,21059,2022 - 2023 Bahar Dönemi
+END 344,Davranış Bilimleri,Cahit Ali Bayraktar,Pazartesi,1430/1729,KMB / D103,31,45,"END, IML",21061,2022 - 2023 Bahar Dönemi
+END 365E,People Analytics,Hasan Karabakkal,Salı,0830/1129,MED / B33,36,36,"END, ENDE",21060,2022 - 2023 Bahar Dönemi
+END 374,Rekabet Yönetimi,Cahit Ali Bayraktar,Pazartesi,1130/1429,KMB / D103,10,40,END,21062,2022 - 2023 Bahar Dönemi
+END 382,Üretim Yöntemleri,Hüsnü Bülent Cerit,Cuma,0830/1129,INB / A203,35,60,END,21063,2022 - 2023 Bahar Dönemi
+END 382E,Production Methods,Esra Baş,Cuma,0930/1229,INB / A304,59,60,"END, ENDE",21064,2022 - 2023 Bahar Dönemi
+END 412,İnsn Kynkları Yntmnin Temeller,Cemil Ceylan,Salı,1430/1729,MED / A11,68,80,END,21066,2022 - 2023 Bahar Dönemi
+END 412,İnsn Kynkları Yntmnin Temeller,Seçkin Polat,Çarşamba,1230/1529,MED / A11,48,70,END,21065,2022 - 2023 Bahar Dönemi
+END 412E,Human Resource Management,Gaye Karaçay Aydın,Perşembe,1430/1729,MED / A35,80,80,"END, ENDE",21092,2022 - 2023 Bahar Dönemi
+END 426,Kurumsl Kaynaklrn Planlnmasi,"Emre Çevikcan, Murat Durucu",Pazartesi,0830/1129,MED / B33,14,20,"END, ISL",21093,2022 - 2023 Bahar Dönemi
+END 432E,Facility Layout,Ufuk Cebeci,Salı,1430/1729,KMB / D203,20,50,"END, ENDE, IML, IMLE",21094,2022 - 2023 Bahar Dönemi
+END 434,Stratejik Yönetimin Temelleri,Cahit Ali Bayraktar,Çarşamba,0930/1229,INB / B303,10,40,END,21095,2022 - 2023 Bahar Dönemi
+END 434E,Intro.to Strategic Management,Gaye Karaçay Aydın,Cuma,1430/1729,MED / A16,31,50,"END, ENDE",21096,2022 - 2023 Bahar Dönemi
+END 439E,Neural Network Mod.in Ind.Sys.,"Ömer Faruk Beyca, Kutay Tinç",Cuma,1400/1659,MED / A32,66,75,"END, ENDE",21097,2022 - 2023 Bahar Dönemi
+END 441,Endüstri Mühendisliği Projesi,"Şeyda Serdar Asan, Gülşah Hançerlioğulları","Pazartesi
+Çarşamba","1730/1829
+1730/1829","MED
+MED / ---
+---",2,500,END,21098,2022 - 2023 Bahar Dönemi
+END 441E,Industrial Engineering Project,--,"Çarşamba
+Perşembe","1730/1829
+1730/1829","MED
+MED / ---
+---",0,0,"END, ENDE",21099,2022 - 2023 Bahar Dönemi
+END 449,End. Müh. Uyg. Seminer Dersi,Ayberk Soyer,Çarşamba,0930/1229,---- / ----,4,0,"END, ENDE",25053,2022 - 2023 Bahar Dönemi
+END 454E,Energy Markets & Optimization,Kutay Tinç,Pazartesi,1430/1729,MED / A34,121,120,"END, ENDE, ISL, ISLE",21100,2022 - 2023 Bahar Dönemi
+END 458E,Nonlinear Optimization,Gülşah Hançerlioğulları,Cuma,0930/1229,INB / D202,49,51,"END, ENDE, ISL, ISLE",22249,2022 - 2023 Bahar Dönemi
+END 472E,Advanced Spreadsheet Modeling,Murat Durucu,Perşembe,1130/1429,UUB / BIL1,61,60,"END, ENDE",21102,2022 - 2023 Bahar Dönemi
+END 478E,Applied Optimization Models,Burhaneddin Sandıkçı,Çarşamba,0930/1229,MED / B37,29,50,"END, ENDE",21103,2022 - 2023 Bahar Dönemi
+END 482E,Supply Chain Management,Şeyda Serdar Asan,Pazartesi,0830/1129,KMB / D105,34,45,"END, ENDE",21104,2022 - 2023 Bahar Dönemi
+END 488,ERP Süreçleri ve Kurulumu,Cemil Ceylan,Salı,1130/1429,KMB / D103,49,50,END,21105,2022 - 2023 Bahar Dönemi
+END 4901,Endüstri Müh. Tasarımı I,Alp Üstündağ,----,/,MED / ---,23,500,END,21108,2022 - 2023 Bahar Dönemi
+END 4901E,Industrial Engin. Design I,Alp Üstündağ,----,/,MED / ---,19,500,"END, ENDE",21109,2022 - 2023 Bahar Dönemi
+END 4902,Endüstri Müh. Tasarımı II,Alp Üstündağ,----,/,MED / ---,43,500,END,21110,2022 - 2023 Bahar Dönemi
+END 4902E,Industrial Engin. Design II,Alp Üstündağ,----,/,MED / ---,89,500,"END, ENDE",21112,2022 - 2023 Bahar Dönemi
+END 492,Bitirme Çalışması,Alp Üstündağ,----,/,MED / ---,12,500,END,21106,2022 - 2023 Bahar Dönemi
+END 492E,Graduation Thesis,Alp Üstündağ,----,/,MED / ---,0,500,"END, ENDE",21107,2022 - 2023 Bahar Dönemi

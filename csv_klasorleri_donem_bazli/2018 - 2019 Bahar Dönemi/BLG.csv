@@ -1,0 +1,54 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BLG 102E,Intr to Sci&Eng; Comp (C),Hayri Turgut Uyar,Salı Perşembe,1330/1629 1530/1729,EEB UUB,100,100,BLG BLGE,21394,2018 - 2019 Bahar Dönemi
+BLG 102E,Intr to Sci&Eng; Comp (C),Ayşe Tosun,Salı Perşembe,1330/1629 1530/1729,EEB EEB,70,102,BLG BLGE,21392,2018 - 2019 Bahar Dönemi
+BLG 102E,Intr to Sci&Eng; Comp (C),Ahmet Cüneyd Tantuğ,Salı Perşembe,0930/1229 1330/1529,EEB EEB,46,100,BLG BLGE,21393,2018 - 2019 Bahar Dönemi
+BLG 112E,Discrete Mathematics,Şule Öğüdücü,Çarşamba Cuma,1330/1529 0830/0929,EEB EEB,113,120,BLG BLGE,21396,2018 - 2019 Bahar Dönemi
+BLG 112E,Discrete Mathematics,Hayri Turgut Uyar,Çarşamba Cuma,1330/1529 0830/0929,EEB EEB,120,120,BLG BLGE,21395,2018 - 2019 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Yusuf Yaslan,Salı,0930/1229,EEB,105,105,BLG BLGE,21398,2018 - 2019 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Şerif Bahtiyar,Salı,0930/1229,EEB,105,105,BLG BLGE,21397,2018 - 2019 Bahar Dönemi
+BLG 212,Mikroişlemci Sistemleri,Tamer Ölmez,Salı,1330/1629,EEB,43,55,EHB ELE ELK KOM TEL,21060,2018 - 2019 Bahar Dönemi
+BLG 212E,Microprocessor Systems,İbrahim Akduman,Salı,1330/1629,EEB,55,55,EHB EHBE ELE ELH ELK ELKE KOM KOME TEL,21062,2018 - 2019 Bahar Dönemi
+BLG 212E,Microprocessor Systems,Yaşar Erenler,Pazartesi,0930/1229,EEB,70,70,BLG BLGE EHB EHBE ELE ELH ELK ELKE KOM KOME UCKE UZBE,21399,2018 - 2019 Bahar Dönemi
+BLG 222E,Computer Organization,Mustafa Ersel Kamaşak,Perşembe,0930/1229,EEB,103,102,BLG BLGE,21401,2018 - 2019 Bahar Dönemi
+BLG 222E,Computer Organization,Gökhan İnce,Perşembe,0930/1229,EEB,102,102,BLG BLGE,21400,2018 - 2019 Bahar Dönemi
+BLG 231,Sayısal Devreler,Tahir Çetin Akıncı,Perşembe,0930/1229,EEB,52,53,ELK MKN,21066,2018 - 2019 Bahar Dönemi
+BLG 231,Sayısal Devreler,Ali Sinan Çabuk,Perşembe,0930/1229,EEB,50,50,ELK MKN,21064,2018 - 2019 Bahar Dönemi
+BLG 231E,Digital Circuits,Ali Sinan Çabuk,Cuma,0930/1229,EEB,20,50,ELK ELKE,21069,2018 - 2019 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Gökhan İnce,Cuma,1400/1559,EEB,55,55,BLG BLGE,21406,2018 - 2019 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Mehmet Tahir Sandıkkaya,Cuma,1030/1229,EEB,55,55,BLG BLGE,21421,2018 - 2019 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Yusuf Yaslan,Cuma,0830/1029,EEB,55,55,BLG BLGE,21402,2018 - 2019 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Sanem Kabadayı,Çarşamba,1330/1529,EEB,11,55,BLG BLGE,21412,2018 - 2019 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Serkan Türkeli,Salı,0930/1229,EEB,50,50,EHB EHBE ELE KOM KOME TEL,21072,2018 - 2019 Bahar Dönemi
+BLG 252E,Object Oriented Programming,İbrahim Akduman,Pazartesi,0930/1229,EEB,55,55,EHB EHBE ELE TEL,25237,2018 - 2019 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Hatice Köse,Pazartesi,0930/1229,EEB,113,113,BLG BLGE,21427,2018 - 2019 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Sanem Kabadayı,Pazartesi,0930/1229,EEB,0,0,BLG BLGE,21425,2018 - 2019 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Gülşen Eryiğit,Pazartesi,0930/1229,EEB,113,113,BLG BLGE,21423,2018 - 2019 Bahar Dönemi
+BLG 311E,Formal Languages and Automata,Tolga Ovatman,Çarşamba,1230/1529,MED,192,192,BLG BLGE,21434,2018 - 2019 Bahar Dönemi
+BLG 312,Bilgisayar İşletim Sistemleri,Takuhi Nadia Erdoğan,Çarşamba,0930/1229,EEB,67,80,BLG,21436,2018 - 2019 Bahar Dönemi
+BLG 312E,Computer Operating Systems,Ayşe Şima Uyar,Çarşamba,0930/1229,EEB,124,123,BLG BLGE,21439,2018 - 2019 Bahar Dönemi
+BLG 322,Bilgisayar Mimarisi,Feza Buzluca,Perşembe,0930/1229,EEB,82,100,BLG,21450,2018 - 2019 Bahar Dönemi
+BLG 322E,Computer Architecture,Ayşe Yılmazer,Perşembe,0930/1229,EEB,101,110,BLG BLGE,21480,2018 - 2019 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,Hazım Kemal Ekenel,Salı,0930/1229,MDB,40,100,BLG BLGE,21453,2018 - 2019 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,Sanem Sarıel,Salı,0930/1229,EEB,100,100,BLG BLGE,21452,2018 - 2019 Bahar Dönemi
+BLG 354E,Signal&Systems; for Comp.Eng.,Burak Berk Üstündağ,Pazartesi,1430/1729,EEB,130,130,BLG BLGE,21455,2018 - 2019 Bahar Dönemi
+BLG 354E,Signal&Systems; for Comp.Eng.,Gözde Ünal,Pazartesi,0930/1229,MED,110,110,BLG BLGE,21454,2018 - 2019 Bahar Dönemi
+BLG 368E,Operations Research,Serkan Türkeli,Salı,1330/1629,EEB,50,50,EHB EHBE ELE KOM KOME TEL,21073,2018 - 2019 Bahar Dönemi
+BLG 374E,Tech. Communic.for Comp.Eng.,Yaşar Erenler,Cuma,1400/1559,EEB,105,105,BLG BLGE,21458,2018 - 2019 Bahar Dönemi
+BLG 374E,Tech. Communic.for Comp.Eng.,Damien Jade Duff,Cuma,1400/1559,EEB,98,105,BLG BLGE,21457,2018 - 2019 Bahar Dönemi
+BLG 412,Bilişim Etiği,Yaşar Erenler,Perşembe,1230/1329,EEB,90,90,BLG,21459,2018 - 2019 Bahar Dönemi
+BLG 412E,Computer Ethics,Mehmet Tahir Sandıkkaya,Perşembe,1230/1329,EEB,109,111,BLG BLGE,21460,2018 - 2019 Bahar Dönemi
+BLG 433E,Computer Communications,Berk Canberk,Çarşamba,0930/1129,EEB,55,55,BLG BLGE,21461,2018 - 2019 Bahar Dönemi
+BLG 442E,Tech.&Innov.; Mng.fo..,Gökhan İnce,Cuma,0930/1229,EEB,53,70,BLG BLGE,21462,2018 - 2019 Bahar Dönemi
+BLG 443E,Discrete Event Simulation,Damien Jade Duff,Perşembe,1430/1629,EEB,65,65,BLG BLGE,21754,2018 - 2019 Bahar Dönemi
+BLG 448E,Project Management in Eng.,Selin Metin,Cuma,0930/1229,EEB,70,70,BLG BLGE,21464,2018 - 2019 Bahar Dönemi
+BLG 448E,Project Management in Eng.,Serkan Türkeli,Pazartesi,1330/1629,EEB,12,50,KOM KOME,21074,2018 - 2019 Bahar Dönemi
+BLG 449E,Prog.in Parallel&Dis..,Deniz Turgay Altılar,Pazartesi,1130/1329,EEB,10,55,BLG BLGE,21465,2018 - 2019 Bahar Dönemi
+BLG 454E,Learning From Data,Yusuf Yaslan,Çarşamba,1230/1529,EEB,95,100,BLG BLGE ECNE,21467,2018 - 2019 Bahar Dönemi
+BLG 454E,Learning From Data,Islem Rekik,Çarşamba,1230/1529,EEB,92,100,BLG BLGE,21466,2018 - 2019 Bahar Dönemi
+BLG 458E,Functional Programming,Hayri Turgut Uyar,Cuma,1400/1559,EEB,55,55,BLG BLGE,21468,2018 - 2019 Bahar Dönemi
+BLG 460E,Secure Programming,Mehmet Tahir Sandıkkaya,Salı,0930/1129,EEB,37,65,BLG BLGE,25122,2018 - 2019 Bahar Dönemi
+BLG 468E,Object Oriented Model.&Design;,Feza Buzluca,Pazartesi,0930/1129,KMB,60,60,BLG BLGE,21469,2018 - 2019 Bahar Dönemi
+BLG 475E,Software Quality and Testing,Ayşe Tosun,Perşembe,0930/1129,EEB,59,60,BLG BLGE,21470,2018 - 2019 Bahar Dönemi
+BLG 477E,Multimedia Computing,Uluğ Bayazıt,Salı,1330/1529,EEB,29,55,BLG BLGE,21471,2018 - 2019 Bahar Dönemi
+BLG 492,Bitirme Çalışması,Uluğ Bayazıt,----,/,---,44,500,BLG,21486,2018 - 2019 Bahar Dönemi
+BLG 492E,Graduation Project,Uluğ Bayazıt,----,/,---,80,500,BLG BLGE,21488,2018 - 2019 Bahar Dönemi

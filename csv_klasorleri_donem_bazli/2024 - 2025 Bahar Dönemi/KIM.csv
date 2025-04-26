@@ -1,0 +1,88 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KIM 104,Organik Kimya,Okan Sirkecioğlu,Wednesday,12:30/15:29,KMB / D102,50,50,"GID_LS, KMM_LS",21887,2024 - 2025 Bahar Dönemi
+KIM 104,Organik Kimya,Hacer Ayşen Önen,Wednesday,12:30/15:29,KMB / D103,50,50,"GID_LS, KMM_LS",21888,2024 - 2025 Bahar Dönemi
+KIM 104,Organik Kimya,Nilgün Kızılcan,Wednesday,12:30/15:29,KMB / D104,45,50,"GID_LS, KMM_LS",21889,2024 - 2025 Bahar Dönemi
+KIM 104,Organik Kimya,Yeşim Gürsel,Wednesday,12:30/15:29,KMB / D105,50,50,"GID_LS, KMM_LS",21890,2024 - 2025 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,Yeşim Gürsel,Monday,13:30/15:29,FEB / LAB-D,38,40,"GID_LS, KMM_LS",21891,2024 - 2025 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,Nilgün Kızılcan,Monday,13:30/15:29,FEB / LAB-G,36,40,"GID_LS, KMM_LS",21892,2024 - 2025 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,Hacer Ayşen Önen,Monday,15:30/17:29,FEB / LAB-D,18,40,"GID_LS, KMM_LS",21893,2024 - 2025 Bahar Dönemi
+KIM 104L,Organik Kimya Lab.,Okan Sirkecioğlu,Tuesday,13:30/15:29,FEB / LAB-D,38,40,"GID_LS, KMM_LS",21894,2024 - 2025 Bahar Dönemi
+KIM 111,Genel Kimya I,Zehra Bayır,Wednesday / Thursday,12:30/14:29 / 10:30/12:29,FEB / FEB / D105 / D202,26,40,KIM_LS,21895,2024 - 2025 Bahar Dönemi
+KIM 111L,Genel Kimya I Lab,Zehra Bayır,Monday,11:30/13:29,FEB / LAB-F,14,40,KIM_LS,21896,2024 - 2025 Bahar Dönemi
+KIM 113,Kimyaya Giriş ve Etik,Mustafa Özcan,Tuesday,13:30/15:29,FEB / L400,40,50,KIM_LS,21897,2024 - 2025 Bahar Dönemi
+KIM 114,Genel Kimya II,Esin Hamuryudan,Wednesday / Thursday,10:30/12:29 / 08:30/10:29,FEB / FEB / D104 / D101,26,40,"KIM_LS, KIM_YD",21898,2024 - 2025 Bahar Dönemi
+KIM 114,Genel Kimya II,İsmail Yılmaz,Wednesday / Thursday,10:30/12:29 / 08:30/10:29,FEB / FEB / D202 / D203,21,40,"KIM_LS, KIM_YD",21899,2024 - 2025 Bahar Dönemi
+KIM 114L,Genel Kimya II Lab.,Esin Hamuryudan,Friday,09:30/12:29,FEB / LAB-E,24,35,KIM_LS,21900,2024 - 2025 Bahar Dönemi
+KIM 114L,Genel Kimya II Lab.,İsmail Yılmaz,Friday,09:30/12:29,FEB / LAB-F,18,35,KIM_LS,21901,2024 - 2025 Bahar Dönemi
+KIM 202,Fiziksel Kimya,Esma Sezer,Wednesday,12:30/15:29,EEB / 5301,16,30,"BIO_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELH_LS, ELK_LS, GEM_LS, GEMK_LS, GID_LS, GMI_LS, INS_LS, JEF_LS, JEO_LS, KIM_YD, KMM_LS, KOM_LS, MAD_LS, MEN_LS, MET_LS, PET_LS, ROS_LS, TEL_LS",21902,2024 - 2025 Bahar Dönemi
+KIM 202,Fiziksel Kimya,Erdem Yavuz,Monday,14:30/17:29,EEB / 5301,36,35,"BIO_LS, CEV_LS, CHZ_LS, DEN_LS, DUI_LS, EHB_LS, ELH_LS, ELK_LS, GEM_LS, GEMK_LS, GID_LS, GMI_LS, INS_LS, JEF_LS, JEO_LS, KIM_YD, KMM_LS, KOM_LS, MAD_LS, MEN_LS, MET_LS, PET_LS, ROS_LS, TEL_LS",21903,2024 - 2025 Bahar Dönemi
+KIM 202E,Physical Chemistry,Berna Doğan,Wednesday,12:30/15:29,EEB / 5303,20,30,"BIO_LS, BIOE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, GEM_LS, GEME_LS, GEMK_LS, GID_LS, GMI_LS, INS_LS, INSE_LS, JEF_LS, JEO_LS, JEOE_LS, KIM_YD, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MEN_LS, MET_LS, METE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, TEL_LS",21904,2024 - 2025 Bahar Dönemi
+KIM 202E,Physical Chemistry,Argun Talat Gökçeören,Monday,14:30/17:29,EEB / 5303,9,30,"BIO_LS, BIOE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, DUI_LS, EHB_LS, EHBE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, GEM_LS, GEME_LS, GEMK_LS, GID_LS, GMI_LS, INS_LS, INSE_LS, JEF_LS, JEO_LS, JEOE_LS, KIM_YD, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MEN_LS, MET_LS, METE_LS, PET_LS, PETE_LS, ROS_LS, ROSE_LS, TEL_LS",21905,2024 - 2025 Bahar Dönemi
+KIM 203,Analitik Kimya,Gülçin Yılmaz,Monday,14:30/17:29,INB / B104,29,75,"BIO_LS, CEV_LS, CHZ_LS, DEN_LS, ELH_LS, ELK_LS, GEM_LS, GEMK_LS, JEO_LS, MAD_LS, MET_LS, PET_LS, TEL_LS",21906,2024 - 2025 Bahar Dönemi
+KIM 203E,Analytical Chemistry,Ferah Çalışır,Monday,14:30/17:29,FEB / D204,77,80,"BIO_LS, BIOE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, GEM_LS, GEME_LS, GEMK_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",21908,2024 - 2025 Bahar Dönemi
+KIM 203E,Analytical Chemistry,Sevgi Güney,Wednesday,12:30/15:29,FEB / D203,76,80,"BIO_LS, BIOE_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, GEM_LS, GEME_LS, GEMK_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",21909,2024 - 2025 Bahar Dönemi
+KIM 205,Organik Kimya,Gönül Yapar,Tuesday,08:30/11:29,EEB / 2102,15,50,"BIO_LS, CEV_LS, CHZ_LS, DEN_LS, ELH_LS, ELK_LS, GEM_LS, GEMK_LS, INS_LS, JEO_LS, KIM_YD, MAD_LS, MET_LS, PET_LS, TEL_LS",21910,2024 - 2025 Bahar Dönemi
+KIM 205E,Organic Chemistry,Hakan Durmaz,Tuesday,08:30/11:29,EEB / 5301,76,75,"BIO_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, GEM_LS, GEME_LS, GEMK_LS, INS_LS, INSE_LS, JEO_LS, JEOE_LS, KIM_YD, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEKE_LS, TEL_LS",21911,2024 - 2025 Bahar Dönemi
+KIM 205E,Organic Chemistry,Muhammet Übeydullah Kahveci,Friday,08:30/11:29,MED / A36,54,70,"BIO_LS, CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, GEM_LS, GEME_LS, GEMK_LS, INS_LS, INSE_LS, JEO_LS, JEOE_LS, KIM_YD, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEKE_LS, TEL_LS",21912,2024 - 2025 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Nevin Öztekin,Friday,08:30/11:29,FEB / D106,29,60,"GID_LS, KIM_YD, KMM_LS",21914,2024 - 2025 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Gülcemal Yıldız,Friday,08:30/11:29,FEB / D203,60,60,"GID_LS, KIM_YD, KMM_LS",21915,2024 - 2025 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,"Mustafa Özcan , / Sevgi Güney",Friday,14:00/16:59,FEB / D204,9,60,"GID_LS, KIM_YD, KMM_LS",21916,2024 - 2025 Bahar Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Ferah Çalışır,Friday,14:00/16:59,FEB / D304,59,60,"GID_LS, KIM_YD, KMM_LS",21917,2024 - 2025 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Sevgi Güney,Friday,09:30/11:29,FEB / LAB-A,9,45,"GID_LS, KIM_YD, KMM_LS",21918,2024 - 2025 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Ferah Çalışır,Friday,09:30/11:29,FEB / LAB-B,43,45,"GID_LS, KIM_YD, KMM_LS",21919,2024 - 2025 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Nevin Öztekin,Friday,14:00/15:59,FEB / LAB-A,46,47,"GID_LS, KIM_YD, KMM_LS",21920,2024 - 2025 Bahar Dönemi
+KIM 206L,Ana. Kimya & Enst Anz. Lab.,Gülcemal Yıldız,Friday,14:00/15:59,FEB / LAB-B,47,47,"GID_LS, KIM_YD, KMM_LS",21921,2024 - 2025 Bahar Dönemi
+KIM 207,İnorganik Kimya,Ayfer Kalkan Burat,Tuesday,08:30/11:29,MDB / A103,19,40,"CHZ_LS, DEN_LS, ELH_LS, ELK_LS, FIZ_LS, GEM_LS, GEMK_LS, JEF_LS, JEO_LS, KIM_YD, KMM_LS, MAD_LS, PET_LS, TEL_LS",21922,2024 - 2025 Bahar Dönemi
+KIM 210E,Intro to Polymer Chemistry,İbrahim Ersin Serhatlı,Monday,14:30/17:29,FEB / B3_Z01-Z03,6,25,"BIO_LS, BIOE_LS, KIM_LS, KIM_YD, KIME_LS, TEK_LS, TEKE_LS",21923,2024 - 2025 Bahar Dönemi
+KIM 210E,Intro to Polymer Chemistry,Barış Kışkan,Monday,14:30/17:29,FEB / D205,12,25,"BIO_LS, BIOE_LS, KIM_LS, KIM_YD, KIME_LS, TEK_LS, TEKE_LS",24646,2024 - 2025 Bahar Dönemi
+KIM 211E,Analytical Chemistry,İpek Becerik,Monday / Tuesday,11:30/13:29 / 11:30/13:29,FEB / FEB / D101 / D101,24,50,"KIM_LS, KIME_LS",21924,2024 - 2025 Bahar Dönemi
+KIM 212,Enstrumental Analitik Yönteml,Aslı Baysal,Monday / Tuesday,11:30/13:29 / 11:30/13:29,FEB / FEB / D105 / D105,45,45,KIM_LS,21925,2024 - 2025 Bahar Dönemi
+KIM 212,Enstrumental Analitik Yönteml,Ayşegül Gölcü,Monday / Tuesday,11:30/13:29 / 11:30/13:29,FEB / FEB / D106 / D106,18,45,KIM_LS,21926,2024 - 2025 Bahar Dönemi
+KIM 212L,Enstrumental Analitik Yön.Lab.,Aslı Baysal,Thursday,12:30/17:29,FEB / LAB-A,42,45,KIM_LS,21927,2024 - 2025 Bahar Dönemi
+KIM 212L,Enstrumental Analitik Yön.Lab.,Ayşegül Gölcü,Thursday,12:30/17:29,FEB / LAB-B,23,45,KIM_LS,21928,2024 - 2025 Bahar Dönemi
+KIM 223EL,Inorganic Chemistry Lab,Ozan Sanlı Şentürk,Wednesday,12:30/15:29,FEB / LAB-E,50,50,KIM_LS,21929,2024 - 2025 Bahar Dönemi
+KIM 223EL,Inorganic Chemistry Lab,Zehra Bayır,Friday,14:00/16:59,FEB / LAB-F,36,45,KIM_LS,21930,2024 - 2025 Bahar Dönemi
+KIM 224,İnorganik Kimya II,-,Tuesday,08:30/11:29,FEB / --,0,0,KIM_LS,21931,2024 - 2025 Bahar Dönemi
+KIM 224E,Inorganic Chemistry II,Ozan Sanlı Şentürk,Tuesday,08:30/11:29,FEB / D205,44,45,"KIM_LS, KIME_LS",21932,2024 - 2025 Bahar Dönemi
+KIM 224E,Inorganic Chemistry II,Altuğ Mert Sevim,Tuesday,08:30/11:29,FEB / D201,43,45,"KIM_LS, KIME_LS",25233,2024 - 2025 Bahar Dönemi
+KIM 231,Organik Kimya I,Barış Yücel,Wednesday / Thursday,10:30/12:29 / 10:30/12:29,FEB / FEB / D203 / D203,37,50,KIM_LS,21933,2024 - 2025 Bahar Dönemi
+KIM 231,Organik Kimya I,Abdullah Aydoğan,Wednesday / Thursday,10:30/12:29 / 10:30/12:29,FEB / FEB / D206 / D206,47,50,KIM_LS,21934,2024 - 2025 Bahar Dönemi
+KIM 231L,Organik Kimya Lab. I,Ufuk Saim Günay,Wednesday / Wednesday,09:30/12:29 / 13:30/15:29,FEB / FEB / LAB-D / LAB-D,6,55,KIM_LS,21935,2024 - 2025 Bahar Dönemi
+KIM 232,Organik Kimya II,İbrahim Volkan Kumbaracı,Wednesday,08:30/12:29,FEB / D101,39,37,KIM_LS,21936,2024 - 2025 Bahar Dönemi
+KIM 232,Organik Kimya II,-,Wednesday,08:30/12:29,FEB / --,0,0,KIM_LS,21937,2024 - 2025 Bahar Dönemi
+KIM 232L,Organik Kimya Lab. II,Nesrin Köken,Friday / Friday,11:30/12:59 / 14:00/17:29,FEB / FEB / LAB-D / LAB-D,33,35,KIM_LS,21938,2024 - 2025 Bahar Dönemi
+KIM 232L,Organik Kimya Lab. II,Tuba Çakır Çanak,Friday / Friday,11:30/12:59 / 14:00/17:29,FEB / FEB / LAB-G / LAB-G,14,35,KIM_LS,24645,2024 - 2025 Bahar Dönemi
+KIM 252,Kimyasal Termodinamik,Erdem Yavuz,Tuesday,14:30/17:29,FEB / D205,19,35,KIM_LS,21939,2024 - 2025 Bahar Dönemi
+KIM 252E,Chemical Thermodynamics,Nermin Orakdöğen,Tuesday,14:30/17:29,FEB / D206,49,50,"KIM_LS, KIME_LS",21940,2024 - 2025 Bahar Dönemi
+KIM 262E,Int. Quantum Chemistry,Mine Yurtsever,Monday,08:30/11:29,FEB / D105,34,45,"KIM_LS, KIME_LS",21941,2024 - 2025 Bahar Dönemi
+KIM 262E,Int. Quantum Chemistry,Nurcan Tüzün,Monday,08:30/11:29,FEB / D106,45,45,"KIM_LS, KIME_LS",21942,2024 - 2025 Bahar Dönemi
+KIM 271,Kimyacılar için Matematik,Berkay Sütay,Tuesday,08:30/11:29,FEB / D105,23,50,KIM_LS,21943,2024 - 2025 Bahar Dönemi
+KIM 311,Fiziksel Kimya I,Candan Erbil,Friday,08:30/11:29,FEB / D105,28,32,KIM_LS,21944,2024 - 2025 Bahar Dönemi
+KIM 311,Fiziksel Kimya I,Caner Ünlü,Wednesday,08:30/11:29,FEB / B3_Z01-Z03,18,30,KIM_LS,21945,2024 - 2025 Bahar Dönemi
+KIM 311L,Fiziksel Kimya Lab. I,Argun Talat Gökçeören,Tuesday,13:30/17:29,FEB / LAB-C,46,57,KIM_LS,21946,2024 - 2025 Bahar Dönemi
+KIM 312,Fiziksel Kimya II,Bahire Filiz Şenkal,Monday,14:30/17:29,FEB / D103,41,40,KIM_LS,21947,2024 - 2025 Bahar Dönemi
+KIM 312,Fiziksel Kimya II,Orhan Güney,Monday,14:30/17:29,FEB / D203,29,40,KIM_LS,21948,2024 - 2025 Bahar Dönemi
+KIM 312L,Fiziksel Kimya Lab. II,Bahire Filiz Şenkal,Friday,08:30/12:29,FEB / LAB-C,27,50,KIM_LS,21949,2024 - 2025 Bahar Dönemi
+KIM 314,Tekstil Boyar Maddeleri,Füsun Şeyma Kışkan,Thursday,12:30/15:29,FEB / L200,16,20,"KIM_LS, KIM_YD",21950,2024 - 2025 Bahar Dönemi
+KIM 316,Yakıt Kimyası,Behice Şebnem Sesalan,Tuesday,08:30/11:29,FEB / L300,14,20,"KIM_LS, KIM_YD",21951,2024 - 2025 Bahar Dönemi
+KIM 319E,Cosmetic Chemistry,Ayşe Özdemir,Friday,08:30/11:29,FEB / D201,21,22,"KIM_LS, KIM_YD, KIME_LS",21952,2024 - 2025 Bahar Dönemi
+KIM 323E,Natural Products Chemistry,-,Friday,08:30/11:29,FEB / --,0,0,"KIM_LS, KIM_YD, KIME_LS",21953,2024 - 2025 Bahar Dönemi
+KIM 324,Adli Kimya,Mustafa Özcan,Friday,09:30/12:29,FEB / B3_Z01-Z03,22,22,"KIM_LS, KIM_YD",21954,2024 - 2025 Bahar Dönemi
+KIM 325E,Intr. to Bioinorganic Chem.,Behice Şebnem Sesalan,Wednesday,08:30/11:29,FEB / L200,16,20,"KIM_LS, KIM_YD, KIME_LS",21955,2024 - 2025 Bahar Dönemi
+KIM 328,Biyokimya II,-,Wednesday,08:30/11:29,FEB / --,0,0,KIM_LS,21956,2024 - 2025 Bahar Dönemi
+KIM 413,İlaç Kimyası,İbrahim Volkan Kumbaracı,Monday,08:30/11:29,FEB / L400,21,21,"KIM_LS, KIM_YD",21957,2024 - 2025 Bahar Dönemi
+KIM 415,Yüzey Aktif Maddeler,Cüneyt Hüseyin Ünlü,Tuesday,08:30/11:29,FEB / B3_Z01-Z03,16,20,"KIM_LS, KIM_YD",21958,2024 - 2025 Bahar Dönemi
+KIM 422,Endüstriyel Kimya,Bünyamin Karagöz,Tuesday,08:30/11:29,FEB / D101,28,50,"KIM_LS, KIM_YD",21959,2024 - 2025 Bahar Dönemi
+KIM 436,Çevre Kimyası II,-,Tuesday,14:30/17:29,FEB / --,0,0,"KIM_LS, KIM_YD",21960,2024 - 2025 Bahar Dönemi
+KIM 471,Organik Kimya III,Ayşe Özdemir,Monday,11:30/14:29,FEB / D206,16,25,"KIM_LS, KIM_YD",21961,2024 - 2025 Bahar Dönemi
+KIM 472E,Electrochemistry,Belkıs Ustamehmetoğlu,Thursday,08:30/11:29,FEB / B3_Z01-Z03,14,25,KIM_LS,21962,2024 - 2025 Bahar Dönemi
+KIM 473E,Organic Structure Analysis,Turan Öztürk,Tuesday,14:30/17:29,FEB / L300,12,25,KIM_LS,21963,2024 - 2025 Bahar Dönemi
+KIM 481E,Industrial Polymers,Demet Çolak,Monday,14:30/17:29,FEB / D306,37,40,KIM_LS,21964,2024 - 2025 Bahar Dönemi
+KIM 482,Organik Reaksiyonlar,Ufuk Saim Günay,Thursday,08:30/11:29,FEB / D105,32,40,KIM_LS,21965,2024 - 2025 Bahar Dönemi
+KIM 483,Yüzey ve Termal Analiz Yönt.,Nevin Öztekin,Monday,08:30/11:29,FEB / D101,15,25,KIM_LS,21966,2024 - 2025 Bahar Dönemi
+KIM 484,Anorganik Kimya III,İbrahim Özçeşmeci,Tuesday,14:30/17:29,FEB / --,30,35,KIM_LS,21967,2024 - 2025 Bahar Dönemi
+KIM 4901,Araştırma Projesi I,Okan Sirkecioğlu,-,-/-,- / -,11,500,KIM_LS,21969,2024 - 2025 Bahar Dönemi
+KIM 4901E,Research Project I,Okan Sirkecioğlu,-,-/-,- / -,10,500,KIM_LS,21970,2024 - 2025 Bahar Dönemi
+KIM 4902,Araştırma Projesi II,Okan Sirkecioğlu,-,-/-,- / -,28,500,KIM_LS,21971,2024 - 2025 Bahar Dönemi
+KIM 4902E,Research Project II,Okan Sirkecioğlu,-,-/-,- / -,25,500,KIM_LS,21972,2024 - 2025 Bahar Dönemi
+KIM 492E,Graduation Project,Okan Sirkecioğlu,-,-/-,- / -,1,500,"KIM_LS, KIME_LS",21973,2024 - 2025 Bahar Dönemi

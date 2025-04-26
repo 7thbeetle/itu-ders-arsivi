@@ -1,0 +1,23 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTH 101,Calculus I,--,Pazartesi Salı,1530/1729 0830/1129,FEB FEB,0,0,SBL,14765,2019 - 2020 Güz Dönemi
+MTH 101,Calculus I,Samet Yücel Kadıoğlu,Pazartesi Salı,1530/1729 0830/1129,EEB MED,20,25,SBL,14282,2019 - 2020 Güz Dönemi
+MTH 102,Calculus II,--,Pazartesi Salı,1530/1729 0830/1129,FEB FEB,0,0,SBL,14767,2019 - 2020 Güz Dönemi
+MTH 103,Calculus I,Ahmet Duran,Pazartesi Salı,1530/1729 0830/1129,MED MED,11,25,MBI MCB SEN,15171,2019 - 2020 Güz Dönemi
+MTH 104,Calculus II,--,Pazartesi Salı,1530/1729 0830/1129,FEB FEB,0,0,MBI MCB SEN,15187,2019 - 2020 Güz Dönemi
+MTH 105,Calculus I,Sevgi Harman,Salı,0830/1129,FEB,24,25,SEK SIS,14766,2019 - 2020 Güz Dönemi
+MTH 106,Calculus II,--,Salı,0830/1129,FEB,0,0,SEK SIS,14768,2019 - 2020 Güz Dönemi
+MTH 107,Calculus I,Cihangir Özemir,Pazartesi Salı,1430/1729 0830/1129,EEB KMB,26,35,SCE SIN,14769,2019 - 2020 Güz Dönemi
+MTH 108,Calculus II,--,Pazartesi Salı,1430/1729 0830/1129,FEB FEB,0,0,SCE SIN,14770,2019 - 2020 Güz Dönemi
+MTH 111,Linear Algebra,--,Perşembe,1430/1729,FEB,0,0,SBL SEK SEN,14772,2019 - 2020 Güz Dönemi
+MTH 111,Linear Algebra,--,Perşembe,1430/1729,FEB,0,0,SBL SEK SEN,14771,2019 - 2020 Güz Dönemi
+MTH 111,Linear Algebra,Gökhan İnce,Perşembe,1430/1729,EEB,27,30,SBL SEK SEN,10957,2019 - 2020 Güz Dönemi
+MTH 113,Probability,Kutay Tinç,Perşembe,1430/1729,ISB,26,30,SEN,12059,2019 - 2020 Güz Dönemi
+MTH 117,Mathematics I,Cem Güzel,Cuma Cuma,0830/1229 1330/1429,DZB DZB,66,66,DUIK GEMK GMIK MEN MTM NAE,13607,2019 - 2020 Güz Dönemi
+MTH 117,Mathematics I,Kamil Oruçoğlu,Perşembe,1030/1529,GDB,35,45,DUIK GEMK GMIK MEN MTM NAE,13555,2019 - 2020 Güz Dönemi
+MTH 121,Calculus I,Sabire Cömert,Çarşamba,0830/1229,DZB,7,15,SDU SGM,13349,2019 - 2020 Güz Dönemi
+MTH 123,Calculus,Bahri Güldoğan,Salı,0830/1129,MKB,10,25,STP,13498,2019 - 2020 Güz Dönemi
+MTH 131,Mathematics I,Füsun Zengin,Pazartesi Salı,1530/1729 0830/1129,MED EEB,8,30,EHN,11179,2019 - 2020 Güz Dönemi
+MTH 203,Differential Equations,Mehmet Ali Karaca,Salı,1130/1529,FEB,26,50,DUIK GEMK GMIK MEN MTM NAE,13523,2019 - 2020 Güz Dönemi
+MTH 203,Differential Equations,Sabire Cömert,Pazartesi,1330/1729,DZB,28,45,DUIK GEMK GMIK MEN MTM NAE,13618,2019 - 2020 Güz Dönemi
+MTH 281,Linear Algebra and Applicat.,Ali Yapar,Cuma,0830/1129,EEB,5,30,EHN,11180,2019 - 2020 Güz Dönemi
+MTH 301,Numerical Methods,Yusuf Yaslan,Perşembe,0930/1229,EEB,18,45,SBL,10964,2019 - 2020 Güz Dönemi

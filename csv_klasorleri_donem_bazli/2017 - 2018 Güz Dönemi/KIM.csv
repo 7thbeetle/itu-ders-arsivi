@@ -1,0 +1,86 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KIM 104,Organik Kimya,İbrahim Ersin Serhatlı,Çarşamba,1230/1529,KMB,35,35,GID KIMM KMM,10863,2017 - 2018 Güz Dönemi
+KIM 104E,Organic Chemistry,Hacer Ayşen Önen,Çarşamba,1230/1529,KMB,25,35,GID GIDE KIM KIMM KMM KMME,10864,2017 - 2018 Güz Dönemi
+KIM 104EL,Organic Chemistry Lab.,"Hacer Ayşen Önen, İbrahim Ersin Serhatlı",Perşembe,1330/1529,FEB,37,40,GID GIDE KMM KMME,10861,2017 - 2018 Güz Dönemi
+KIM 111,Genel Kimya I,Makbule Koçak,Pazartesi Çarşamba,1030/1229 1330/1529,FEB FEB,29,30,KIM KIMM,10877,2017 - 2018 Güz Dönemi
+KIM 111,Genel Kimya I,İsmail Yılmaz,Pazartesi Çarşamba,1030/1229 1330/1529,MED MED,29,30,KIM KIMM,10867,2017 - 2018 Güz Dönemi
+KIM 111E,General Chemistry I,Ozan Sanlı Şentürk,Pazartesi Çarşamba,1030/1229 1330/1529,MED MED,0,0,KIM KIME KIMM,10885,2017 - 2018 Güz Dönemi
+KIM 111EL,General Chemistry I Laboratory,Ozan Sanlı Şentürk,Perşembe,1530/1729,FEB,19,20,KIM KIME,10891,2017 - 2018 Güz Dönemi
+KIM 111EL,General Chemistry I Laboratory,Makbule Koçak,Perşembe,1530/1729,FEB,20,20,KIM KIME,10889,2017 - 2018 Güz Dönemi
+KIM 111EL,General Chemistry I Laboratory,İsmail Yılmaz,Perşembe,1530/1729,FEB,19,20,KIM KIME,10887,2017 - 2018 Güz Dönemi
+KIM 112E,General Chemistry II,Zehra Bayır,Pazartesi Salı,1130/1329 1530/1729,MED MED,23,30,KIM KIME KIMM,10894,2017 - 2018 Güz Dönemi
+KIM 112EL,General Chemistry II Lab,Zehra Bayır,Cuma,1330/1529,FEB,21,30,KIM KIME,10901,2017 - 2018 Güz Dönemi
+KIM 113,Kimyaya Giriş ve Etik,Barış Yücel,Cuma,1030/1229,FEB,46,50,KIM,13394,2017 - 2018 Güz Dönemi
+KIM 202,Fiziksel Kimya,Esma Sezer,Pazartesi,1330/1629,MED,45,45,BIO CEV CHZ DEN ELE ELH ELK GEM GID JEO KIMM KMM KYD MAD MET PET TEL,10907,2017 - 2018 Güz Dönemi
+KIM 202,Fiziksel Kimya,Orhan Güney,Pazartesi,1330/1629,MED,37,45,BIO CEV CHZ DEN ELE ELH ELK GEM GID JEO KIMM KMM KYD MAD MET PET TEL,10903,2017 - 2018 Güz Dönemi
+KIM 202E,Physical Chemistry,Belkız Ustamehmetoğlu,Pazartesi,1330/1629,FEB,52,52,BIOE CEVE CHZE DENE GEME GEMK GIDE JEOE KMM KMME MADE METE PETE,10914,2017 - 2018 Güz Dönemi
+KIM 202EL,Physical Chemistry Lab,Belkız Ustamehmetoğlu,Cuma,1130/1329,FEB,50,50,KMM KMME PET PETE,10917,2017 - 2018 Güz Dönemi
+KIM 202EL,Physical Chemistry Lab,"Orhan Güney, Esma Sezer",Cuma,0930/1129,FEB,35,50,KMM KMME PET PETE,10918,2017 - 2018 Güz Dönemi
+KIM 203,Analitik Kimya,Ayşegül Gölcü,Pazartesi,1330/1629,MED,31,40,BIO CHZ DEN ELE ELH ELK GEM JEO MAD MET PET TEL,10920,2017 - 2018 Güz Dönemi
+KIM 203E,Analytical Chemistry,Ferah Çalışır,Pazartesi,1330/1629,KMB,50,50,BIO BIOE CHZ CHZE DEN DENE ELE ELH ELK GEM GEME GEMK JEO JEOE MAD MADE MET METE PET PETE TEL,10923,2017 - 2018 Güz Dönemi
+KIM 204,Genel Kimya II,Şennur Özçelik,Çarşamba,0830/1129,MED,22,25,CHZ DEN ELE ELH ELK GEM JEO MAD MET PET TEL,10926,2017 - 2018 Güz Dönemi
+KIM 204E,General Chemistry II,Behice Şebnem Sesalan,Çarşamba,0830/1129,MED,18,30,CHZE DENE GEME GEMK GMI GMIE JEOE MADE METE PETE,10773,2017 - 2018 Güz Dönemi
+KIM 205,Organik Kimya,Gönül Yapar,Çarşamba,0930/1229,FEB,28,30,BIO CEV CHZ DEN ELE ELH ELK GEM JEO KIMM KYD MAD MET PET TEL,10936,2017 - 2018 Güz Dönemi
+KIM 205,Organik Kimya,İbrahim Volkan Kumbaracı,Çarşamba,0930/1229,MED,23,30,BIO CEV CHZ DEN ELE ELH ELK GEM JEO KIMM KYD MAD MET PET TEL,10932,2017 - 2018 Güz Dönemi
+KIM 205E,Organic Chemistry,Abdullah Aydoğan,Çarşamba,0930/1229,MEDB,12,30,CEVE CHZE DENE GEME GEMK JEOE KIM KIMM MADE MET METE PETE TEKE,10946,2017 - 2018 Güz Dönemi
+KIM 205E,Organic Chemistry,Hakan Durmaz,Çarşamba,0930/1229,EEB,30,30,CEVE CHZE DENE GEME GEMK JEOE KIM KIMM MADE MET METE PETE TEKE,10940,2017 - 2018 Güz Dönemi
+KIM 205E,Organic Chemistry,Nesrin Köken,Çarşamba,0930/1229,FEB,30,30,CEVE CHZE DENE GEME GEMK JEOE KIM KIMM MADE MET METE PETE TEKE,10939,2017 - 2018 Güz Dönemi
+KIM 206,Analitik Kimya & Enst Analizi,Nevin Öztekin,Salı,1330/1629,KMB,25,25,GID KIMM KMM KYD,10949,2017 - 2018 Güz Dönemi
+KIM 206E,Analytical Chem.& Inst.Analy.,Ferah Çalışır,Salı,1330/1629,FEB,2,25,GID GIDE KMM KMME,10951,2017 - 2018 Güz Dönemi
+KIM 207,İnorganik Kimya,Ayfer Kalkan Burat,Perşembe,1330/1629,FEB,26,30,CHZ DEN ELE ELH ELK FIZ GEM JEO KIMM KMM KYD MAD PET TEL,10952,2017 - 2018 Güz Dönemi
+KIM 208,İleri Organik Kimya,Nilgün Kızılcan,Salı,0930/1229,FEB,8,25,CHZ DEN ELE ELH ELK GEM JEO KIMM KMM KYD MAD PET TEL,10953,2017 - 2018 Güz Dönemi
+KIM 210E,Intro to Polymer Chemistry,Yusuf Yağcı,Pazartesi,1330/1629,FEB,32,35,BIO BIOE KIM KIME KIMM TEK TEKE,12576,2017 - 2018 Güz Dönemi
+KIM 211,Analitik Kimya,Fatma Bedia Berker,Pazartesi Perşembe,1430/1629 1130/1329,FEB FEB,24,25,KIM KIMM,10958,2017 - 2018 Güz Dönemi
+KIM 211,Analitik Kimya,"Süleyman Akman, Birsen Öztürk",Pazartesi Perşembe,1430/1629 1130/1329,FEB FEB,25,25,KIM KIMM,10956,2017 - 2018 Güz Dönemi
+KIM 211E,Analytical Chemistry,--,Pazartesi Perşembe,1430/1629 1130/1329,MED FEB,0,0,KIM KIME KIMM,10774,2017 - 2018 Güz Dönemi
+KIM 212,Enstrumental Analitik Yönteml,"Fatma Bedia Berker, Gülcemal Yıldız, Nevin Öztekin",Pazartesi Salı,1130/1329 1130/1329,FEB FEB,30,30,KIM KIMM,10961,2017 - 2018 Güz Dönemi
+KIM 212,Enstrumental Analitik Yönteml,"Süleyman Akman, Birsen Öztürk, Figen Kadırgan",Pazartesi Salı,1130/1329 1130/1329,MED MED,30,30,KIM KIMM,10959,2017 - 2018 Güz Dönemi
+KIM 212E,Instrumental Analytic. Methods,"İpek Becerik, Ferah Çalışır, Mustafa Özcan",Pazartesi Salı,1130/1329 1130/1329,MED MED,11,25,KIM KIME,10775,2017 - 2018 Güz Dönemi
+KIM 222E,Inst. Analytical Methods Lab,"Süleyman Akman, Birsen Öztürk, Fatma Bedia Berker, Figen Kadırgan, İpek Becerik",Cuma,1130/1729,FEB,33,40,KIM KIME,10965,2017 - 2018 Güz Dönemi
+KIM 222E,Inst. Analytical Methods Lab,"Mustafa Özcan, Ferah Çalışır, Gülcemal Yıldız, Nevin Öztekin",Perşembe,1130/1729,FEB,40,40,KIM KIME,10969,2017 - 2018 Güz Dönemi
+KIM 231,Organik Kimya I,Ümit Tunca,Salı Cuma,1030/1229 1030/1229,FEB FEB,24,25,KIM KIMM,10972,2017 - 2018 Güz Dönemi
+KIM 231,Organik Kimya I,Oya Atıcı,Salı Cuma,1030/1229 1030/1229,FEB FEB,21,25,KIM KIMM,10776,2017 - 2018 Güz Dönemi
+KIM 231E,Organic Chemistry I,Turan Öztürk,Salı Cuma,1030/1229 1030/1229,FEB FEB,8,20,KIM KIME KIMM,10977,2017 - 2018 Güz Dönemi
+KIM 232,Organik Kimya II,Gürkan Hızal,Pazartesi Salı,1130/1329 1330/1529,MED FEB,29,30,KIM,10980,2017 - 2018 Güz Dönemi
+KIM 232E,Organic Chemistry II,Okan Sirkecioğlu,Çarşamba Cuma,1330/1529 0830/1029,FEB FEB,3,20,KIME,15650,2017 - 2018 Güz Dönemi
+KIM 232E,Organic Chemistry II,--,Pazartesi Salı,1130/1329 1330/1529,--- ---,0,0,KIME,10984,2017 - 2018 Güz Dönemi
+KIM 252,Kimyasal Termodinamik,Oğuz Okay,Pazartesi,0830/1129,FEB,29,35,KIM KIMM,10987,2017 - 2018 Güz Dönemi
+KIM 252E,Chemical Thermodynamics,Nermin Orakdöğen,Pazartesi,0830/1129,FEB,12,25,KIM KIME,10988,2017 - 2018 Güz Dönemi
+KIM 262E,Int. Atomic & Molec. Str.,Mine Yurtsever,Çarşamba,1230/1529,FEB,13,25,KIM KIME,10989,2017 - 2018 Güz Dönemi
+KIM 262E,Int. Atomic & Molec. Str.,Nurcan Tüzün,Çarşamba,1230/1529,MED,25,25,KIM KIME,10777,2017 - 2018 Güz Dönemi
+KIM 303E,Organic Chemistry I,Okan Sirkecioğlu,Çarşamba,0930/1129,FEB,35,35,BIO BIOE KIMM,10993,2017 - 2018 Güz Dönemi
+KIM 303E,Organic Chemistry I,Hacer Ayşen Önen,Çarşamba,0930/1129,FEB,33,35,BIO BIOE KIMM,10991,2017 - 2018 Güz Dönemi
+KIM 311,Fiziksel Kimya I,"Bahire Filiz Şenkal, Candan Erbil",Pazartesi,0830/1129,MED,17,30,KIM,10930,2017 - 2018 Güz Dönemi
+KIM 311E,Physical Chemistry I,"Esma Sezer, Belkız Ustamehmetoğlu",Pazartesi,0830/1129,INB,21,25,KIM KIME,10933,2017 - 2018 Güz Dönemi
+KIM 312,Fiziksel Kimya II,Hatice Hüceste Giz,Salı,1330/1629,FEB,12,20,KIM,10935,2017 - 2018 Güz Dönemi
+KIM 312E,Physical Chemistry II,Orhan Güney,Salı,1330/1629,FEB,9,20,KIM KIME,10938,2017 - 2018 Güz Dönemi
+KIM 313E,Structural Organic Chemistry,Turan Öztürk,Cuma,1330/1629,FEB,11,30,BIO BIOE KIM KIME KMM KMME,10941,2017 - 2018 Güz Dönemi
+KIM 315E,The Chemistry of Elements,Özgül Sağlam,Salı,1030/1329,FEB,12,30,KIM KIME KIMM,10942,2017 - 2018 Güz Dönemi
+KIM 317E,Industrial Polymers,Hacer Ayşen Önen,Pazartesi,1330/1629,FEB,9,30,KIM KIME KIMM,10944,2017 - 2018 Güz Dönemi
+KIM 319E,Cosmetic Chemistry,Ayşe Özdemir,Çarşamba,0830/1129,MED,32,32,KIM KIME KIMM,10945,2017 - 2018 Güz Dönemi
+KIM 321E,Physical Chemistry I Lab,"Esma Sezer, Belkız Ustamehmetoğlu",Perşembe,1430/1729,FEB,30,30,KIM KIME,10948,2017 - 2018 Güz Dönemi
+KIM 321E,Physical Chemistry I Lab,"Bahire Filiz Şenkal, Candan Erbil",Salı,1330/1629,FEB,16,30,KIM KIME,10963,2017 - 2018 Güz Dönemi
+KIM 323E,Natural Products Chemistry,--,Perşembe,1330/1629,FEB,0,0,KIM KIME,10966,2017 - 2018 Güz Dönemi
+KIM 325E,Intr. to Bioinorganic Chem.,Behice Şebnem Sesalan,Çarşamba,1230/1529,FEB,32,32,KIM KIME KIMM,10778,2017 - 2018 Güz Dönemi
+KIM 331,Organik Kimya III,Olcay Anaç,Salı Cuma,0930/1129 0930/1129,FEB FEB,13,25,KIM,10968,2017 - 2018 Güz Dönemi
+KIM 331E,Organic Chemistry III,Özkan Sezer,Salı Cuma,0930/1129 0930/1129,FEB FEB,20,20,KIM KIME,10971,2017 - 2018 Güz Dönemi
+KIM 341E,Organic Chemistry II Lab,"Yeşim Gürsel, Ayşe Özdemir, İbrahim Volkan Kumbaracı",Cuma,1130/1729,FEB,34,45,KIM KIME,10973,2017 - 2018 Güz Dönemi
+KIM 351,Anorganik Kimya I,Esin Hamuryudan,Perşembe,0930/1229,FEB,18,20,KIM KIMM,10979,2017 - 2018 Güz Dönemi
+KIM 351,Anorganik Kimya I,Zehra Bayır,Perşembe,0930/1229,FEB,18,20,KIM KIMM,10976,2017 - 2018 Güz Dönemi
+KIM 351E,Inorganic Chemistry I,Ozan Sanlı Şentürk,Perşembe,0930/1229,FEB,3,20,KIM KIME KIMM,10981,2017 - 2018 Güz Dönemi
+KIM 352E,Inorganic Chemistry II,Ahmet Gül,Salı,0930/1129,FEB,19,30,KIM KIME,10982,2017 - 2018 Güz Dönemi
+KIM 413,İlaç Kimyası,Emine Naciye Talınlı,Salı,1330/1629,FEB,23,30,KIM KIMM,10986,2017 - 2018 Güz Dönemi
+KIM 415,Yüzey Aktif Maddeler,--,Salı,1330/1629,FEB,0,0,KIM KIMM,10779,2017 - 2018 Güz Dönemi
+KIM 421,Endüstriyel Kimya,Hanzade Açma,Çarşamba Perşembe,0830/1129 0830/1129,KMB FEB,40,40,KIM,10990,2017 - 2018 Güz Dönemi
+KIM 421E,Industrial Chemistry,Fatma Elif Genceli Güner,Pazartesi Perşembe,0830/1129 0830/1129,KMB FEB,25,30,KIM KIME,10992,2017 - 2018 Güz Dönemi
+KIM 425,Su Kimyası,Behice Şebnem Sesalan,Salı,0830/1129,FEB,22,30,KIM KIMM,10780,2017 - 2018 Güz Dönemi
+KIM 427,Seramik Kimyası,Gülcemal Yıldız,Çarşamba,0930/1229,FEB,9,30,KIM KIMM KMM,10998,2017 - 2018 Güz Dönemi
+KIM 431,Organik Reaksiyonlar,--,Çarşamba,1330/1529,FEB,0,0,KIM,10999,2017 - 2018 Güz Dönemi
+KIM 431E,Organic Reactions,Metin Hayri Acar,Çarşamba,1330/1529,FEB,23,25,KIM KIME,11002,2017 - 2018 Güz Dönemi
+KIM 431E,Organic Reactions,Gürkan Hızal,Salı,0930/1129,---,25,25,KIM KIME,15382,2017 - 2018 Güz Dönemi
+KIM 432E,Organic Structure Analysis,Özkan Sezer,Pazartesi Perşembe,1530/1729 1230/1429,FEB FEB,26,30,KIM KIME,11003,2017 - 2018 Güz Dönemi
+KIM 437E,NMR Spectroscopy; An Intr.,Mehmet Emin Çınar,Salı,1430/1729,FEB,5,30,KIM KIME,11004,2017 - 2018 Güz Dönemi
+KIM 452,Koordinasyon Kimyası,Makbule Koçak,Salı,1330/1529,FEB,1,20,KIM,11005,2017 - 2018 Güz Dönemi
+KIM 452E,Coordination Chemistry,Özgül Sağlam,Salı,1330/1529,FEB,17,20,KIM KIME,11006,2017 - 2018 Güz Dönemi
+KIM 492,Bitirme Çalışması,Gürkan Hızal,----,/,FEB,15,500,KIM,11007,2017 - 2018 Güz Dönemi
+KIM 492E,Graduation Project,Gürkan Hızal,----,/,FEB,14,500,KIM KIME,11008,2017 - 2018 Güz Dönemi

@@ -1,0 +1,60 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+FIZ 113,Mekanik,Ömer Faruk Dayı,Pazartesi Çarşamba Cuma,0830/1029 0830/1029 0830/0929,,56,60,FIZ FIZM,20957,2020 - 2021 Bahar Dönemi
+FIZ 114,Sürekli Ortamlar Fiziği,Sevim İşçi Turutoğlu,Pazartesi Çarşamba,0830/1029 0830/1029,,49,75,FIZ FIZM,20958,2020 - 2021 Bahar Dönemi
+FIZ 114EL,Continous Media Laboratory,Sevim İşçi Turutoğlu,Çarşamba,1330/1529,,27,35,FIZ FIZE,20960,2020 - 2021 Bahar Dönemi
+FIZ 114EL,Continous Media Laboratory,Sevim İşçi Turutoğlu,Çarşamba,1030/1229,,39,40,FIZ FIZE,20959,2020 - 2021 Bahar Dönemi
+FIZ 201,Modern Fizik,Mehmet Murat Sunar,Cuma,1400/1659,,169,170,CHZ DEN EHB ELE ELH ELK FIZM GEM JEF JEO KOM MAD MET MTO PET TEL UCK UCKM UZB,20961,2020 - 2021 Bahar Dönemi
+FIZ 201E,Modern Physics,Mehmet Murat Sunar,Perşembe,1430/1729,,72,85,MET METE,25091,2020 - 2021 Bahar Dönemi
+FIZ 201E,Modern Physics,Mehmet Murat Sunar,Pazartesi,1330/1629,,110,155,CHZ CHZE DEN DENE EHB EHBE ELE ELH ELK ELKE FIZM GEM GEME GEMK GMI GMIE JEF JEO JEOE KOM KOME MAD MADE METE MTO MTOE PET PETE TEL UCK UCKE UZB UZBE UZBM,20962,2020 - 2021 Bahar Dönemi
+FIZ 213E,Electricity and Magnetism,Sevtap Yıldız Özbek,Pazartesi Çarşamba Cuma,0830/1029 0830/1029 0830/0929,,13,55,FIZ FIZE,20963,2020 - 2021 Bahar Dönemi
+FIZ 213EL,Electricity & Magnetism Lab.,Sevtap Yıldız Özbek,Çarşamba,1330/1529,,11,30,FIZ FIZE,20965,2020 - 2021 Bahar Dönemi
+FIZ 213EL,Electricity & Magnetism Lab.,Sevtap Yıldız Özbek,Çarşamba,1130/1329,,33,34,FIZ FIZE,20964,2020 - 2021 Bahar Dönemi
+FIZ 214,Dalgalar Fiziği,Seda Aksoy Esinoğlu,Pazartesi Çarşamba Cuma,0830/1029 0830/1029 0830/0929,,68,75,FIZ FIZM,20966,2020 - 2021 Bahar Dönemi
+FIZ 272E,Computatnl Methods in Physics,Mehmet Kerim Ramazanoğlu,Salı Perşembe,0830/1029 0830/1029,,43,45,FIZ FIZE FIZM,20968,2020 - 2021 Bahar Dönemi
+FIZ 272E,Computatnl Methods in Physics,Mehmet Nazmi Postacıoğlu,Pazartesi Çarşamba,1330/1529 1330/1529,,43,45,FIZ FIZE FIZM,20967,2020 - 2021 Bahar Dönemi
+FIZ 284E,Classical Mechanics I,Mehmet Cem Güçlü,Pazartesi Cuma,1030/1229 1030/1229,,77,99,FIZ FIZE FIZM,20969,2020 - 2021 Bahar Dönemi
+FIZ 310E,Statistical Phy. & Thermodyn.,Oğuzhan Gürlü,Salı Çarşamba Perşembe,1030/1229 1130/1229 1030/1229,,44,50,FIZ FIZE,20970,2020 - 2021 Bahar Dönemi
+FIZ 313E,Modern Physics,Hakan Özgür Özer,Pazartesi Çarşamba Cuma,0830/1029 0830/1029 0830/0929,,83,87,FIZ FIZE FIZM,20972,2020 - 2021 Bahar Dönemi
+FIZ 313EL,Modern Physics Laboratory,Hakan Özgür Özer,Salı,1530/1729,,20,20,FIZ FIZE,20976,2020 - 2021 Bahar Dönemi
+FIZ 313EL,Modern Physics Laboratory,Hakan Özgür Özer,Perşembe,1230/1429,,3,20,FIZ FIZE,20980,2020 - 2021 Bahar Dönemi
+FIZ 313EL,Modern Physics Laboratory,Hakan Özgür Özer,Salı,1330/1529,,4,20,FIZ FIZE,20974,2020 - 2021 Bahar Dönemi
+FIZ 314E,Quantum Mechanics I,Haluk Özbek,Pazartesi Çarşamba Cuma,0830/1029 0830/1029 0830/0929,,25,75,FIZ FIZE,20983,2020 - 2021 Bahar Dönemi
+FIZ 321E,Mathematical Mthds in Physc I,Hakkı Tunçay Özer,Salı Perşembe Cuma,0830/1029 0830/1029 0930/1029,,34,75,FIZ FIZE,20990,2020 - 2021 Bahar Dönemi
+FIZ 362E,Mathematical Mthds in Physc II,Meltem Güngörmez,Perşembe Cuma,1530/1729 1500/1759,,34,55,FIZ FIZE,20992,2020 - 2021 Bahar Dönemi
+FIZ 374E,Methods of Experim.Physics I,Ali Gelir,Salı Perşembe,1330/1529 1330/1529,,85,85,FIZ FIZE,20994,2020 - 2021 Bahar Dönemi
+FIZ 374EL,Methods of Exp. Physics Lab.,Sevtap Yıldız Özbek,Cuma,1600/1759,,21,30,FIZ FIZE,21001,2020 - 2021 Bahar Dönemi
+FIZ 374EL,Methods of Exp. Physics Lab.,Ali Gelir,Salı,1530/1729,,29,31,FIZ FIZE,20997,2020 - 2021 Bahar Dönemi
+FIZ 374EL,Methods of Exp. Physics Lab.,Ali Gelir,Perşembe,1530/1729,,30,30,FIZ FIZE,20999,2020 - 2021 Bahar Dönemi
+FIZ 411E,Electromagnetik Theory I,Abdurrahman Savaş Arapoğlu,Salı Perşembe Cuma,0830/1029 0830/1029 1030/1129,,50,75,FIZ FIZE,21003,2020 - 2021 Bahar Dönemi
+FIZ 413,Katı Hal Elektroniği,Esra Alveroğlu Durucu,Cuma,1500/1759,,14,50,FIZ FIZM,21006,2020 - 2021 Bahar Dönemi
+FIZ 415E,Quantum Mechanics II,Cem Özgür Servantie,Pazartesi Çarşamba Cuma,0830/1029 0830/1029 0830/0929,,48,75,FIZ FIZE,21008,2020 - 2021 Bahar Dönemi
+FIZ 421,İleri Fizik Proje Laboratuarı,Mehmet Kerim Ramazanoğlu,Cuma,1400/1800,,1,1,FIZ,25225,2020 - 2021 Bahar Dönemi
+FIZ 421,İleri Fizik Proje Laboratuarı,Mehmet Kerim Ramazanoğlu,Cuma,0930/1329,,1,1,FIZ,21011,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,--,Çarşamba,0830/1229,,0,0,FIZ FIZE,25237,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Mehmet Cem Güçlü,Cuma,1230/1629,,1,1,FIZ FIZE,25235,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Demet Aktaş,Salı Salı,1000/1159 1400/1559,,1,1,FIZ FIZE,25234,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Demet Aktaş,Pazartesi Pazartesi,1100/1159 1300/1559,,1,1,FIZ FIZE,25233,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Günay Başar,Pazartesi,1030/1429,,1,1,FIZ FIZE,25232,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Hakkı Tunçay Özer,Çarşamba,1330/1729,,1,1,FIZ FIZE,25230,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Gönül Eryürek,Pazartesi,1330/1729,,1,1,FIZ FIZE,25231,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Seda Aksoy Esinoğlu,Pazartesi,1200/1559,,1,1,FIZ FIZE,25229,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Ali Gelir,Salı Perşembe,0830/1029 0830/1029,,1,1,FIZ FIZE,25228,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Zuhal Er,Pazartesi Salı,1330/1529 1330/1529,,1,1,FIZ FIZE,25226,2020 - 2021 Bahar Dönemi
+FIZ 421E,Advanced Physics Project Lab.,Meltem Güngörmez,Pazartesi Salı,1030/1229 1030/1229,,1,1,FIZ FIZE,21009,2020 - 2021 Bahar Dönemi
+FIZ 425E,Comput. Anlys.of Phys.Sys.,Tolga Birkandan,Salı Perşembe,1330/1529 1230/1429,,17,30,FIZ FIZE MAT MATE,21012,2020 - 2021 Bahar Dönemi
+FIZ 426E,Opto Electronics,Ali Gelir,Çarşamba,1230/1529,,36,50,FIZ FIZE FIZM,21014,2020 - 2021 Bahar Dönemi
+FIZ 434E,Microprocessors,İbrahim Türhan,Pazartesi,1330/1729,,18,25,FIZ FIZE MAT MATE,21015,2020 - 2021 Bahar Dönemi
+FIZ 436E,Solid State Physics II,Ferid Salehli,Perşembe,1430/1729,,11,30,FIZ FIZE,21017,2020 - 2021 Bahar Dönemi
+FIZ 443E,Solar Energy Physics &Tech. I,Zuhal Er,Perşembe,1430/1729,,13,75,FIZ FIZE,21018,2020 - 2021 Bahar Dönemi
+FIZ 446E,Particle Physics,Muammer Altan Çakır,Çarşamba,1230/1529,,16,75,FIZ FIZE FIZM,21024,2020 - 2021 Bahar Dönemi
+FIZ 458E,Optics II,Gönül Eryürek,Cuma,1500/1759,,10,50,FIZ FIZE,21025,2020 - 2021 Bahar Dönemi
+FIZ 466E,Astrophysics II,Kazım Yavuz Ekşi,Pazartesi,1330/1629,,4,50,FIZ FIZE FIZM,21026,2020 - 2021 Bahar Dönemi
+FIZ 476E,Solar Energy Physics &Tech. II,Hakan Karaağaç,Pazartesi Salı,1230/1429 1630/1729,,5,60,FIZ FIZE,21027,2020 - 2021 Bahar Dönemi
+FIZ 4901,Fizik Mühendisliği Tasarımı I,Günay Başar,----,/,,5,500,FIZ,21030,2020 - 2021 Bahar Dönemi
+FIZ 4901E,Physics Engeering Design I,Günay Başar,----,/,,9,500,FIZ,21031,2020 - 2021 Bahar Dönemi
+FIZ 4902,Fizik Mühendisliği Tasarımı II,Günay Başar,----,/,,1,500,FIZ,21032,2020 - 2021 Bahar Dönemi
+FIZ 4902E,Physics Engeering Design II,Günay Başar,----,/,,6,500,FIZ,21033,2020 - 2021 Bahar Dönemi
+FIZ 492,Bitirme Çalışması,Günay Başar,----,/,,14,500,FIZ,21028,2020 - 2021 Bahar Dönemi
+FIZ 492E,Graduation Project,Günay Başar,----,/,,25,500,FIZ FIZE,21029,2020 - 2021 Bahar Dönemi
+FIZ 494E,General Relativity,Neşe Özdemir,Pazartesi,1430/1729,,20,40,FIZ FIZE,21034,2020 - 2021 Bahar Dönemi
+FIZ 496E,Nuclear Physics II,Cenap Şahabettin Özben,Pazartesi,1230/1529,,13,50,FIZ FIZE,21035,2020 - 2021 Bahar Dönemi

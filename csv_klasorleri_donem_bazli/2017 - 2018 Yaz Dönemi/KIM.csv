@@ -1,0 +1,16 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KIM 111,Genel Kimya I,"Ozan Sanlı Şentürk, Zehra Bayır",Pazartesi Çarşamba,0930/1329 0930/1329,FEB FEB,36,40,KIM KIMM,30313,2017 - 2018 Yaz Dönemi
+KIM 114,Genel Kimya II,"Ozan Sanlı Şentürk, Zehra Bayır",Pazartesi Çarşamba,1330/1729 1330/1729,FEB FEB,12,30,KIM KIME KIMM,30314,2017 - 2018 Yaz Dönemi
+KIM 202,Fiziksel Kimya,Erdem Yavuz,Çarşamba Perşembe,0930/1229 0930/1229,FEB FEB,25,25,BIO CEV CHZ DEN ELE ELH ELK GEM GID GMI JEO KIMM KMM KMMM KYD MAD MET PET TEL,30574,2017 - 2018 Yaz Dönemi
+KIM 203,Analitik Kimya,Gülçin Yılmaz,Cuma Cuma,1030/1329 1430/1729,FEB FEB,27,28,BIO CHZ DEN ELE ELH ELK GEM JEO MAD MET PET TEL,30692,2017 - 2018 Yaz Dönemi
+KIM 204E,General Chemistry II,Yasin Arslanoğlu,Cuma Cuma,0830/1129 1330/1629,DZB DZB,15,30,CHZE DENE GEME GEMK GMI GMIE JEOE MADE METE PETE,30487,2017 - 2018 Yaz Dönemi
+KIM 205E,Organic Chemistry,Ayşe Özdemir,Salı Çarşamba,0930/1229 0930/1229,FEB FEB,23,27,CEVE CHZE DENE GEME GEMK JEOE KIM KIMM MADE MET METE PETE TEKE,30571,2017 - 2018 Yaz Dönemi
+KIM 211,Analitik Kimya,İpek Becerik,Salı Perşembe,1330/1729 1330/1729,MED FEB,27,30,KIM KIMM,30318,2017 - 2018 Yaz Dönemi
+KIM 231,Organik Kimya I,Turan Öztürk,Salı Salı Cuma Cuma,1030/1229 1430/1629 1030/1229 1430/1629,FEB FEB FEB FEB,22,25,KIM KIMM,30320,2017 - 2018 Yaz Dönemi
+KIM 232,Organik Kimya II,Emine Naciye Talınlı,Çarşamba Perşembe,0930/1329 0930/1329,FEB FEB,29,30,KIM,30324,2017 - 2018 Yaz Dönemi
+KIM 303E,Organic Chemistry I,Demet Çolak,Pazartesi Pazartesi,0930/1129 1330/1529,MED MED,19,20,BIO BIOE KIMM,30731,2017 - 2018 Yaz Dönemi
+KIM 304E,Organic Chemistry II,Olcay Anaç,Pazartesi Salı,0830/1029 0830/1029,FEB FEB,14,30,BIOE,30327,2017 - 2018 Yaz Dönemi
+KIM 331,Organik Kimya III,Olcay Anaç,Pazartesi Salı,1130/1529 1130/1529,KMB FEB,7,25,KIM,30330,2017 - 2018 Yaz Dönemi
+KIM 352E,Inorganic Chemistry II,Altuğ Mert Sevim,Pazartesi Salı,1030/1229 1030/1229,MED INB,9,25,KIM KIME,30331,2017 - 2018 Yaz Dönemi
+KIM 431,Organik Reaksiyonlar,Olcay Anaç,Çarşamba,0830/1229,FEB,19,25,KIM,30332,2017 - 2018 Yaz Dönemi
+KIM 432E,Organic Structure Analysis,Turan Öztürk,Pazartesi Salı Cuma,1330/1729 0830/1029 0830/1029,FEB FEB FEB,21,25,KIM KIME,30693,2017 - 2018 Yaz Dönemi

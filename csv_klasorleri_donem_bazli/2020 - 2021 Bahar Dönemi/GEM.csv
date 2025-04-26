@@ -1,0 +1,31 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEM 112,Bilgisayar Destek.Teknik Resim,Murat Emre Demir,Çarşamba Perşembe,0930/1229 0930/1129,,39,40,GEM,21363,2020 - 2021 Bahar Dönemi
+GEM 112,Bilgisayar Destek.Teknik Resim,Fuzuli Ağrı Akçay,Çarşamba Perşembe,0930/1229 1330/1529,,39,40,GEM,21362,2020 - 2021 Bahar Dönemi
+GEM 204,Termodinamik,Halil Saraçoğlu,Çarşamba,0830/1229,,28,40,GEM GEMM,21389,2020 - 2021 Bahar Dönemi
+GEM 204,Termodinamik,Selma Ergin,Salı,1330/1729,,52,50,GEM GEMM,21383,2020 - 2021 Bahar Dönemi
+GEM 212,Imal Usulleri,Gökhan Tansel Tayyar,Perşembe,0830/1029,,88,100,GEM,21390,2020 - 2021 Bahar Dönemi
+GEM 214E,Engineering Measurements,Emin Korkut,Pazartesi,1430/1729,,27,25,GEM GEME GEMK,21375,2020 - 2021 Bahar Dönemi
+GEM 216E,Heat Transfer In Engineering,Selma Ergin,Pazartesi,1330/1629,,28,25,GEM GEME GEMK,21378,2020 - 2021 Bahar Dönemi
+GEM 218E,Structural Dynamics,Bahadır Uğurlu,Pazartesi,1330/1629,,7,25,GEM GEME,21380,2020 - 2021 Bahar Dönemi
+GEM 312,Gemi Yardımcı Makinaları,Osman Azmi Özsoysal,Perşembe,1330/1629,,63,70,GEM GEMM,21428,2020 - 2021 Bahar Dönemi
+GEM 322,Gemi Mukavemeti,Ertekin Bayraktarkatal,Pazartesi Çarşamba,1030/1229 1330/1529,,49,50,GEM GEMM,21422,2020 - 2021 Bahar Dönemi
+GEM 322E,Strength of Ships,--,Pazartesi Çarşamba,1030/1229 1330/1529,,0,0,GEME GEMK,21423,2020 - 2021 Bahar Dönemi
+GEM 326E,Ship Design,Devrim Bülent Danışman,Cuma,1230/1629,,51,70,GEM,21425,2020 - 2021 Bahar Dönemi
+GEM 328E,Ship Hydrodynamics(Propulsion),Emin Korkut,Salı,0830/1129,,58,70,GEM,21427,2020 - 2021 Bahar Dönemi
+GEM 332,Gemi Elektrik Sistemleri,Yalçın Ünsan,Perşembe,1030/1229,,55,70,GEM,21426,2020 - 2021 Bahar Dönemi
+GEM 332E,Electrical Systems in Ships,--,Perşembe,1030/1229,,0,0,DENE GEME GEMK,21535,2020 - 2021 Bahar Dönemi
+GEM 353,Gem.İnş.&Gem.San.İş Gv.&İşç.Sğ,Barış Barlas,Pazartesi,1330/1629,,37,50,GEM,21429,2020 - 2021 Bahar Dönemi
+GEM 407E,Methods of Ship Production,--,Salı,1330/1629,,0,0,DEN DENE GEM GEME GEMK,21424,2020 - 2021 Bahar Dönemi
+GEM 412E,Shipyard Organization,Hakan Akyıldız,Pazartesi,1330/1529,,56,60,DEN DENE,21213,2020 - 2021 Bahar Dönemi
+GEM 412E,Shipyard Organization,Erdem Üçer,Pazartesi,0830/1029,,72,70,GEM GEME,21433,2020 - 2021 Bahar Dönemi
+GEM 416,Savaş Gemileri Dizaynı,Mehmet Ali Baykal,Cuma,1030/1229,,34,30,GEM,21439,2020 - 2021 Bahar Dönemi
+GEM 418E,Corrsn & Fouling In Marine Env,Metin Taylan,Pazartesi,1530/1729,,15,25,GEM GEME GEMK GEMM,21435,2020 - 2021 Bahar Dönemi
+GEM 422E,Ship Design Project II,Barış Barlas,Çarşamba,1030/1229,,30,40,GEM GEME GEMK,21430,2020 - 2021 Bahar Dönemi
+GEM 424E,Reliability Of Ship Structures,--,Pazartesi,1530/1729,,0,0,GEM GEME GEMK GEMM,21434,2020 - 2021 Bahar Dönemi
+GEM 426,Gemilerin Hidrodinamik Dizaynı,Ömer Gören,Cuma,1030/1229,,28,30,GEM,21438,2020 - 2021 Bahar Dönemi
+GEM 426E,Hydrodynamic Design of Ships,Devrim Bülent Danışman,Çarşamba,0830/1029,,7,25,GEM GEME GEMK,21437,2020 - 2021 Bahar Dönemi
+GEM 438E,Stability of Ships,Metin Taylan,Çarşamba,0830/1029,,31,30,GEM GEME GEMK,21436,2020 - 2021 Bahar Dönemi
+GEM 482,Bireysel Bitirme Projesi,Barış Barlas,----,/,,23,100,GEM,21431,2020 - 2021 Bahar Dönemi
+GEM 4902,Gemi İnş.&Gem.Mak. Müh.Tas.II,"Ömer Gören, Ahmet Ergin, Devrim Bülent Danışman, Emin Korkut, Ertekin Bayraktarkatal, Osman Azmi Özsoysal, Selma Ergin, Uğur Oral Ünal, Yalçın Ünsan, İsmail Yalçın",----,/,,53,500,GEM,21441,2020 - 2021 Bahar Dönemi
+GEM 492,Bitirme Tasarım Projesi,Barış Barlas,----,/,,59,500,GEM,25010,2020 - 2021 Bahar Dönemi
+GEM 492E,Graduation Design Project,Barış Barlas,----,/,,7,500,GEM GEME GEMK,21432,2020 - 2021 Bahar Dönemi

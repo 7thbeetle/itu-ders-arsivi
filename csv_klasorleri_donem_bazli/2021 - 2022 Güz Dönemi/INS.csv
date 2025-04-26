@@ -1,0 +1,120 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+INS 101,Teknik Resim,Sabahat Topuz Kiremitçi,Cuma,0930/1229,INB,31,55,INS,12943,2021 - 2022 Güz Dönemi
+INS 101,Teknik Resim,Medine İspir Arslan,Çarşamba,1130/1429,INB,56,60,INS,12944,2021 - 2022 Güz Dönemi
+INS 101,Teknik Resim,Sibel Gürel,Salı,0930/1229,INB,58,55,INS,12945,2021 - 2022 Güz Dönemi
+INS 101,Teknik Resim,Sibel Gürel,Çarşamba,0830/1129,INB,70,55,INS,12951,2021 - 2022 Güz Dönemi
+INS 101E,Technical Drawing,Çağlar Akkaya,Salı,1330/1629,INB,34,60,INS INSE,12953,2021 - 2022 Güz Dönemi
+INS 101E,Technical Drawing,Çağlar Akkaya,Pazartesi,1130/1429,INB,62,60,INS INSE,12960,2021 - 2022 Güz Dönemi
+INS 106,İnşaat Müh. İçin Yerbilimi,Yılmaz Mahmutoğlu,Salı,0830/1029,INB,40,60,INS,12980,2021 - 2022 Güz Dönemi
+INS 106E,Earth Science for Civil Engin.,Kayhan Develi,Salı,0830/1029,INB,21,60,INS INSE,12995,2021 - 2022 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Gökhan Çevikbilen,Perşembe,1330/1629,,55,61,INS INSE,12975,2021 - 2022 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Tolga Yılmaz Özüdoğru,Perşembe,1330/1629,,52,61,INS INSE,12976,2021 - 2022 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Erol Lale,Perşembe,0830/1129,,59,61,INS INSE,12971,2021 - 2022 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Cem Demir,Pazartesi,1430/1729,,67,50,INS INSE,12968,2021 - 2022 Güz Dönemi
+INS 107E,Int. to Prog. Lang. (Python),Nilay Çelik Muhtaroğlu,Pazartesi,1430/1729,,68,50,INS INSE,12974,2021 - 2022 Güz Dönemi
+INS 111,İnşaat Müh. Giriş ve Etik,Mehmet Emre Bayraktar,Çarşamba,1430/1529,MED,216,230,INS,15149,2021 - 2022 Güz Dönemi
+INS 111E,Int. to Civil Eng. & Ethics,Mehmet Emre Bayraktar,Cuma,0830/0929,INB,98,200,INS INSE,12966,2021 - 2022 Güz Dönemi
+INS 201,Malzeme Bilimi,Hasan Yıldırım,Çarşamba,1230/1529,INB,59,61,INS,12998,2021 - 2022 Güz Dönemi
+INS 201,Malzeme Bilimi,Yılmaz Akkaya,Çarşamba,1230/1529,INB,45,53,INS,12996,2021 - 2022 Güz Dönemi
+INS 201,Malzeme Bilimi,Ünal Anıl Doğan,Salı,1230/1529,INB,25,50,INS,13000,2021 - 2022 Güz Dönemi
+INS 201,Malzeme Bilimi,Özkan Şengül,Salı,1230/1529,INB,40,50,INS,12999,2021 - 2022 Güz Dönemi
+INS 201E,Materials Science,Özgür Ekincioğlu,Çarşamba,1230/1529,INB,59,53,INS INSE,13003,2021 - 2022 Güz Dönemi
+INS 228,Yapı Malzemesi,Hasan Yıldırım,Salı Perşembe,1330/1529 1530/1729,INB INB,58,63,INS,13088,2021 - 2022 Güz Dönemi
+INS 228E,Building Materials,Bekir Yılmaz Pekmezci,Salı Perşembe,1330/1529 1530/1729,INB INB,41,55,INS INSE,13090,2021 - 2022 Güz Dönemi
+INS 252E,Surveying,Serdar Bilgi,Pazartesi,1330/1729,INB,59,63,INS INSE,12032,2021 - 2022 Güz Dönemi
+INS 301,Mühendislik Ekonomisi,Murat Kuruoğlu,Çarşamba,1030/1229,INB,49,50,INS,13311,2021 - 2022 Güz Dönemi
+INS 301,Mühendislik Ekonomisi,Gül Polat Tatar,Salı,1330/1529,INB,50,50,INS,13288,2021 - 2022 Güz Dönemi
+INS 301,Mühendislik Ekonomisi,Feyzi Haznedaroğlu,Salı,1330/1529,INB,12,50,INS,13315,2021 - 2022 Güz Dönemi
+INS 301,Mühendislik Ekonomisi,Atilla Damcı,Salı,1330/1529,INB,50,50,INS,13287,2021 - 2022 Güz Dönemi
+INS 301E,Engineering Economics,Esin Ergen Pehlevan,Salı,1330/1529,INB,39,50,INS INSE,13316,2021 - 2022 Güz Dönemi
+INS 313E,Advanced Strength of Materials,Hale Ergün,Çarşamba,1230/1529,INB,29,55,AIN INS INSE,13323,2021 - 2022 Güz Dönemi
+INS 314E,Dynamics of Structures,Yasin Fahjan,Çarşamba,1230/1529,INB,11,50,INS INSE,13428,2021 - 2022 Güz Dönemi
+INS 315E,Mechanics of Inelastic Materia,Bahar Ayhan,Cuma,1430/1729,INB,35,55,AIN INS INSE,13325,2021 - 2022 Güz Dönemi
+INS 316,Şantiye Tekniği,Feyzi Haznedaroğlu,Perşembe,1430/1729,INB,50,50,INS,14807,2021 - 2022 Güz Dönemi
+INS 317E,Fracture Mechanics of Concrete,Oğuz Güneş,Çarşamba,1230/1529,INB,59,55,AIN INS INSE,13326,2021 - 2022 Güz Dönemi
+INS 318,Yapıların Yalıtımı & Korunması,--,----,/,INB,1,0,INS,15421,2021 - 2022 Güz Dönemi
+INS 319E,Durability of Concrete,Ünal Anıl Doğan,Cuma,1430/1729,INB,55,55,AIN INS INSE,13327,2021 - 2022 Güz Dönemi
+INS 320,Ahşap Yapılar,"Güliz Bayramoğlu, Sibel Gürel",Pazartesi,0930/1229,INB,40,40,INS,13435,2021 - 2022 Güz Dönemi
+INS 323,Yapı Statiği I,Mehmet Günhan Aksoylu,Salı Çarşamba,1130/1329 0830/1029,INB INB,42,40,INS,13125,2021 - 2022 Güz Dönemi
+INS 323,Yapı Statiği I,Konuralp Girgin,Perşembe Cuma,1530/1729 1030/1229,INB INB,40,40,INS,13137,2021 - 2022 Güz Dönemi
+INS 323,Yapı Statiği I,Yavuz Durgun,Salı Çarşamba,1130/1329 0830/1029,INB INB,41,40,INS,13131,2021 - 2022 Güz Dönemi
+INS 323E,Theory of Structures I,Burcu Güneş,Perşembe Cuma,1530/1729 1030/1229,INB INB,28,45,AIN INS INSE,13145,2021 - 2022 Güz Dönemi
+INS 323E,Theory of Structures I,Ülkü Hülya Çalık Karaköse,Salı Çarşamba,1130/1329 0830/1029,INB INB,44,45,AIN INS INSE,13142,2021 - 2022 Güz Dönemi
+INS 325,Demiryolu Müh.,Hilmi Berk Çelikoğlu,Cuma,1430/1629,INB,49,50,INS,15297,2021 - 2022 Güz Dönemi
+INS 325,Demiryolu Müh.,Zübeyde Öztürk,Pazartesi,1230/1429,INB,55,50,INS,13163,2021 - 2022 Güz Dönemi
+INS 325,Demiryolu Müh.,Hüseyin Onur Tezcan,Perşembe,0830/1029,INB,57,50,INS,13170,2021 - 2022 Güz Dönemi
+INS 325E,Railway Engineering,Kemal Selçuk Öğüt,Perşembe,0830/1029,INB,56,53,AIN INS INSE,13184,2021 - 2022 Güz Dönemi
+INS 328E,Architectural Structure Desgn,--,----,/,INB,1,0,AIN INSE,15422,2021 - 2022 Güz Dönemi
+INS 331,Zemin Mekaniği I,Mustafa Hatipoğlu,Salı Perşembe,0830/1129 1030/1229,INB INB,50,47,INS,13220,2021 - 2022 Güz Dönemi
+INS 331,Zemin Mekaniği I,Recep İyisan,Salı Cuma,0830/1129 0830/1029,INB INB,46,45,INS,13196,2021 - 2022 Güz Dönemi
+INS 331,Zemin Mekaniği I,Musaffa Ayşen Lav,Salı Cuma,0830/1129 0830/1029,INB INB,32,45,INS,13191,2021 - 2022 Güz Dönemi
+INS 331E,Soil Mechanics I,Aslı Yalçın Dayıoğlu,Salı Perşembe,0830/1129 1030/1229,INB INB,47,47,AIN INS INSE,13276,2021 - 2022 Güz Dönemi
+INS 331E,Soil Mechanics I,Müge Balkaya,Salı Cuma,0830/1129 0830/1029,INB INB,16,45,AIN INS INSE,13230,2021 - 2022 Güz Dönemi
+INS 332E,Foundation Engineering I,Gökhan Çevikbilen,Salı,0830/1129,INB,37,40,AIN INS INSE,15307,2021 - 2022 Güz Dönemi
+INS 332E,Foundation Engineering I,Berrak Teymür,Salı,0830/1129,INB,42,65,AIN INS INSE,13280,2021 - 2022 Güz Dönemi
+INS 336,Yapı Statiği II,Mecit Çelik,Salı Çarşamba,1130/1329 0830/1029,INB INB,53,50,INS,13150,2021 - 2022 Güz Dönemi
+INS 336E,Theory of Structures II,Nilay Çelik Muhtaroğlu,Salı Çarşamba,1130/1329 0830/1029,INB INB,50,50,AIN INS INSE,13156,2021 - 2022 Güz Dönemi
+INS 338,Betonarme I,"Erol Lale, Cem Demir",Salı Perşembe,1530/1729 1230/1429,INB INB,48,45,INS,13329,2021 - 2022 Güz Dönemi
+INS 338E,Reinforced Concrete I,Yasin Fahjan,Salı Perşembe,1530/1729 1230/1429,INB INB,27,45,AIN INS INSE,13333,2021 - 2022 Güz Dönemi
+INS 341E,Construction Management,Mehmet Emre Bayraktar,Pazartesi,1430/1729,INB,60,60,AIN INS INSE,13321,2021 - 2022 Güz Dönemi
+INS 342E,Highway Engineering,"Abdullah Hilmi Lav, Hilmi Berk Çelikoğlu",Pazartesi,1130/1429,INB,53,50,AIN INS INSE,13186,2021 - 2022 Güz Dönemi
+INS 344,Çelik Yapılar I,Kadir Özakgül,Çarşamba Perşembe,1330/1529 0830/1029,INB INB,55,50,INS,13364,2021 - 2022 Güz Dönemi
+INS 344E,Steel Structures I,Cüneyt Vatansever,Çarşamba Perşembe,1330/1529 0830/1029,INB INB,37,50,AIN INS INSE,13366,2021 - 2022 Güz Dönemi
+INS 344E,Steel Structures I,Ömer Tuğrul Turan,Çarşamba Perşembe,1330/1529 0830/1029,INB INB,21,50,AIN INS INSE,13365,2021 - 2022 Güz Dönemi
+INS 351E,Earthwork and Railway Eng,Sabahat Topuz Kiremitçi,Pazartesi Çarşamba,1230/1429 1030/1229,INB INB,12,45,INS INSE,13352,2021 - 2022 Güz Dönemi
+INS 354,Hidroloji,Mehmet Cüneyd Demirel,Cuma,0930/1229,INB,35,50,INS,13357,2021 - 2022 Güz Dönemi
+INS 354,Hidroloji,Oral Yağcı,Pazartesi,0930/1229,INB,50,50,INS,13358,2021 - 2022 Güz Dönemi
+INS 354E,Hydrology,Tarkan Erdik,Pazartesi,0930/1229,INB,48,50,AIN INS INSE,13359,2021 - 2022 Güz Dönemi
+INS 360,Hidrolik,Bihrat Önöz,Salı Perşembe,1530/1729 1230/1429,INB INB,51,50,CEV INS,13101,2021 - 2022 Güz Dönemi
+INS 360,Hidrolik,Necati Erdem Ünal,Çarşamba Perşembe,1330/1529 0830/1029,INB INB,41,50,CEV INS,13414,2021 - 2022 Güz Dönemi
+INS 360,Hidrolik,Hafzüllah Aksoy,Pazartesi Çarşamba,1430/1629 1030/1229,INB INB,55,55,CEV INS,13111,2021 - 2022 Güz Dönemi
+INS 360,Hidrolik,Necati Erdem Ünal,Pazartesi Çarşamba,1430/1629 1030/1229,INB INB,57,55,CEV INS,13104,2021 - 2022 Güz Dönemi
+INS 360E,Hydraulics,İsmail Dabanlı,Çarşamba Perşembe,1130/1329 1030/1229,INB INB,60,60,CEV CEVE INS INSE,13418,2021 - 2022 Güz Dönemi
+INS 360E,Hydraulics,İsmail Duranyıldız,Salı Perşembe,1530/1729 1230/1429,INB INB,51,50,AIN CEV CEVE INS INSE,13120,2021 - 2022 Güz Dönemi
+INS 403,Toprak İşleri,Şükrüye İyinam,Perşembe,0830/1029,INB,30,50,INS,13349,2021 - 2022 Güz Dönemi
+INS 403,Toprak İşleri,Hüseyin Onur Tezcan,Pazartesi,1230/1429,INB,50,50,INS,13350,2021 - 2022 Güz Dönemi
+INS 403E,Earthworks,Kemal Selçuk Öğüt,Pazartesi,1230/1429,INB,45,50,AIN INS INSE,13351,2021 - 2022 Güz Dönemi
+INS 407,Su Getirme&Kanaliz. Sist.Tas.,"Yavuz Selim Güçlü, Ali Fuat Aydın",Perşembe,0830/1129,INB,57,55,INS,13361,2021 - 2022 Güz Dönemi
+INS 407,Su Getirme&Kanaliz. Sist.Tas.,"Yavuz Selim Güçlü, Ali Fuat Aydın",Salı,0830/1129,INB,56,55,INS,13362,2021 - 2022 Güz Dönemi
+INS 407E,Dsgn.of Water Supp.&Sewer Sys.,"Cihan Bayındır, Mehmet Emin Paşaoğlu",Salı,0830/1129,INB,41,55,AIN INS INSE,13363,2021 - 2022 Güz Dönemi
+INS 407E,Dsgn.of Water Supp.&Sewer Sys.,"Oral Yağcı, Mahmut Ekrem Karpuzcu",Pazartesi,1430/1729,INB,39,55,AIN INS INSE,13360,2021 - 2022 Güz Dönemi
+INS 409,İnş.İşçi Sağlığı ve İş Güven.,Gürkan Emre Gürcanlı,Çarşamba,1030/1229,INB,43,50,INS,13353,2021 - 2022 Güz Dönemi
+INS 409,İnş.İşçi Sağlığı ve İş Güven.,Murat Kuruoğlu,Salı,1330/1529,INB,50,50,INS,13355,2021 - 2022 Güz Dönemi
+INS 409,İnş.İşçi Sağlığı ve İş Güven.,Feyzi Haznedaroğlu,Çarşamba,1030/1229,INB,15,50,INS,13354,2021 - 2022 Güz Dönemi
+INS 409E,Health&Safety in Construction,Deniz Artan,Salı,1330/1529,INB,36,60,INS INSE,13356,2021 - 2022 Güz Dönemi
+INS 413E,Hydrologic Analysis and Design,İsmail Duranyıldız,Çarşamba,1230/1529,INB,0,0,INS INSE,13439,2021 - 2022 Güz Dönemi
+INS 419E,Soil Mechanics II,Aslı Yalçın Dayıoğlu,Çarşamba,1230/1529,INB,36,40,INS INSE,13444,2021 - 2022 Güz Dönemi
+INS 425E,Finite Element Methods,Murat Yılmaz,Cuma,1430/1729,INB,44,50,INS INSE,13446,2021 - 2022 Güz Dönemi
+INS 427,Yapı Statiği III,Ercan Yüksel,Pazartesi,1430/1729,INB,3,40,INS,13448,2021 - 2022 Güz Dönemi
+INS 429,Betonarme Yüksek Binalar,Kutlu Darılmaz,Pazartesi,1430/1729,INB,64,66,INS,13449,2021 - 2022 Güz Dönemi
+INS 433,Betonarme II,Turgut Öztürk,Salı Perşembe,1530/1729 1230/1429,INB INB,20,20,INS,13342,2021 - 2022 Güz Dönemi
+INS 433,Betonarme II,Kutlu Darılmaz,Salı Perşembe,1530/1729 1230/1429,INB INB,21,20,INS,13340,2021 - 2022 Güz Dönemi
+INS 433,Betonarme II,Alper İlki,Salı Perşembe,1530/1729 1230/1429,INB INB,20,20,INS,13339,2021 - 2022 Güz Dönemi
+INS 433,Betonarme II,Mustafa Gençoğlu,Salı Çarşamba,1130/1329 0830/1029,INB INB,0,0,INS,13336,2021 - 2022 Güz Dönemi
+INS 433,Betonarme II,Yıldır Akkaya,Salı Çarşamba,1130/1329 0830/1029,INB INB,23,20,INS,13337,2021 - 2022 Güz Dönemi
+INS 433,Betonarme II,--,Salı Çarşamba,1130/1329 0830/1029,INB INB,0,0,INS,13338,2021 - 2022 Güz Dönemi
+INS 433,Betonarme II,Tülay Aksu Özkul,Salı Çarşamba,1130/1329 0830/1029,INB INB,20,20,INS,13335,2021 - 2022 Güz Dönemi
+INS 433,Betonarme II,Beyza Taşkın,Salı Çarşamba,1130/1329 0830/1029,INB INB,22,20,INS,13334,2021 - 2022 Güz Dönemi
+INS 433E,Reinforced Concrete II,Fatih Sütcü,Salı Perşembe,1530/1729 1230/1429,INB INB,16,25,AIN INS INSE,13343,2021 - 2022 Güz Dönemi
+INS 433E,Reinforced Concrete II,Ali Sarı,Salı Perşembe,1530/1729 1230/1429,INB INB,25,25,AIN INS INSE,13344,2021 - 2022 Güz Dönemi
+INS 433E,Reinforced Concrete II,Ahmet Abdullah Dönmez,Salı Çarşamba,1130/1329 0830/1029,INB INB,13,25,AIN INS INSE,13341,2021 - 2022 Güz Dönemi
+INS 437E,Traffic Engineering,--,,,,0,0,AIN INS INSE,14976,2021 - 2022 Güz Dönemi
+INS 441,Su Kaynakları,Tarkan Erdik,Cuma,0930/1229,INB,54,50,INS,13345,2021 - 2022 Güz Dönemi
+INS 441,Su Kaynakları,Şevket Çokgör,Pazartesi,0930/1229,INB,25,50,INS,13346,2021 - 2022 Güz Dönemi
+INS 441E,Water Resources,Mehmet Özger,Cuma,0930/1229,INB,39,50,AIN INS INSE,13347,2021 - 2022 Güz Dönemi
+INS 441E,Water Resources,Abdüsselam Altunkaynak,Pazartesi,0930/1229,INB,49,50,AIN INS INSE,13348,2021 - 2022 Güz Dönemi
+INS 444,Çelik Yapılar II,"Cüneyt Vatansever, Cavidan Yorgun",Perşembe,1430/1729,INB,12,50,INS,13454,2021 - 2022 Güz Dönemi
+INS 457,Temiz Enerji Tür. ve Mod. Tekn,--,----,/,INB,1,0,INS,15423,2021 - 2022 Güz Dönemi
+INS 457E,Renew. Enrgy Types& Mod. Tech.,Cihan Bayındır,Perşembe,1430/1729,INB,40,50,INS INSE,13450,2021 - 2022 Güz Dönemi
+INS 459,Çubuk Sonlu Elemanlar,Nihal Eratlı,Çarşamba,1230/1529,INB,18,40,INS,13451,2021 - 2022 Güz Dönemi
+INS 462E,Engineering Ethics,Hüseyin Onur Tezcan,Pazartesi,0830/0929,INB,98,100,AIN INS INSE,13426,2021 - 2022 Güz Dönemi
+INS 464E,Substr.in Transportation Eng.,--,,,,0,0,AIN INS INSE,14977,2021 - 2022 Güz Dönemi
+INS 478E,Fatigue of Metal Strc.Elements,"Barlas Özden Çağlayan, Ömer Tuğrul Turan",Perşembe,1430/1729,INB,19,40,INS INSE,13455,2021 - 2022 Güz Dönemi
+INS 4901,İnşaat Müh. Tasarımı I,Mehmet Emre Bayraktar,----,/,INB,111,500,INS,13369,2021 - 2022 Güz Dönemi
+INS 4901E,Civil Eng. Design I,Mehmet Emre Bayraktar,----,/,INB,42,500,AIN INS INSE,13370,2021 - 2022 Güz Dönemi
+INS 4902,İnşaat Müh. Tasarımı II,Mehmet Emre Bayraktar,----,/,INB,39,100,INS,14672,2021 - 2022 Güz Dönemi
+INS 4902E,Civil Eng. Design II,Mehmet Emre Bayraktar,----,/,INB,8,100,AIN INS INSE,14673,2021 - 2022 Güz Dönemi
+INS 490E,Coastal and Harbor Structures,Veysel Şadan Özgür Kırca,Pazartesi,1430/1729,INB,23,40,AIN INS INSE,13457,2021 - 2022 Güz Dönemi
+INS 492,Mühendislik Tasarım Projesi,Mehmet Emre Bayraktar,----,/,INB,26,500,INS,13367,2021 - 2022 Güz Dönemi
+INS 492E,Engineering Design Project,Mehmet Emre Bayraktar,----,/,INB,9,500,INS INSE,13368,2021 - 2022 Güz Dönemi
+INS 499E,Hydrologic Modeling,Mehmet Cüneyd Demirel,Perşembe,1430/1729,INB,5,50,INS INSE,13452,2021 - 2022 Güz Dönemi

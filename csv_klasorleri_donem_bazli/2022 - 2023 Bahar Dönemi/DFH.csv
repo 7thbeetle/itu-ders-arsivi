@@ -1,0 +1,38 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+DFH 112,Denizde Güvenlik II,Sinan Çakır,Çarşamba,1230/1529,DZB / ---,98,120,"DUI, GMI",21167,2022 - 2023 Bahar Dönemi
+DFH 112,Denizde Güvenlik II,Sinan Çakır,Cuma,0830/1129,DZB / ---,32,100,"DUI, GMI",23081,2022 - 2023 Bahar Dönemi
+DFH 112,Denizde Güvenlik II,Yusuf Nejat Koçar,Cuma,1430/1729,DZB / ---,20,120,"DUI, GMI",21166,2022 - 2023 Bahar Dönemi
+DFH 112E,Maritime Safety II,Levent Beden,Perşembe,1030/1329,DZB / ---,24,60,MEN,23878,2022 - 2023 Bahar Dönemi
+DFH 112E,Maritime Safety II,Levent Beden,Perşembe,1430/1729,DZB / ---,34,60,MTM,23888,2022 - 2023 Bahar Dönemi
+DFH 113,Denizde Güvenlik I,Yusuf Nejat Koçar,Salı,1330/1729,DZB / ---,0,30,"DUI, GMI",25210,2022 - 2023 Bahar Dönemi
+DFH 172E,Maritime English I,Seda Çınar Alabay,Çarşamba,1330/1529,DZB / ---,21,40,DUI,21172,2022 - 2023 Bahar Dönemi
+DFH 172E,Maritime English I,Seda Çınar Alabay,Perşembe,1030/1229,DZB / ---,48,60,"MMD, MTM",23691,2022 - 2023 Bahar Dönemi
+DFH 172E,Maritime English I,Seda Çınar Alabay,Cuma,0830/1029,DZB / ---,29,40,DUI,21168,2022 - 2023 Bahar Dönemi
+DFH 172E,Maritime English I,Seda Çınar Alabay,Cuma,1030/1229,DZB / ---,31,40,DUI,21169,2022 - 2023 Bahar Dönemi
+DFH 172E,Maritime English I,Seda Çınar Alabay,Cuma,1430/1629,DZB / ---,7,40,DUI,21171,2022 - 2023 Bahar Dönemi
+DFH 182,Sualtı Dalış Teknikleri,--,Cuma,1430/1729,DZB / ---,0,0,DUI,21173,2022 - 2023 Bahar Dönemi
+DFH 184,Denizcilik Gelenekleri,Özcan Arslan,Perşembe,1430/1729,DZB / ---,28,50,DUI,21174,2022 - 2023 Bahar Dönemi
+DFH 186,Gemicilik Uygulamaları,Orhan Gönel,Cuma,1430/1729,DZB / ---,24,45,DUI,21175,2022 - 2023 Bahar Dönemi
+DFH 186E,Shipping Applications,Orhan Gönel,Pazartesi,1030/1329,DZB / ---,13,60,MTM,24027,2022 - 2023 Bahar Dönemi
+DFH 202,Gemilerde Acil Durum. Müdahale,Sinan Çakır,Pazartesi,0830/1029,DZB / ---,12,50,GMI,23082,2022 - 2023 Bahar Dönemi
+DFH 202,Gemilerde Acil Durum. Müdahale,Orhan Gönel,Salı,1030/1229,DZB / ---,58,70,"DUI, GMI",21176,2022 - 2023 Bahar Dönemi
+DFH 202,Gemilerde Acil Durum. Müdahale,Orhan Gönel,Salı,1330/1529,DZB / ---,31,70,"DUI, GMI",21177,2022 - 2023 Bahar Dönemi
+DFH 203,Temel Yüzme Becerisi,Yusuf Nejat Koçar,Cuma,0830/1029,DZB / ---,18,16,"DUI, GMI",21178,2022 - 2023 Bahar Dönemi
+DFH 225,Türk Denizcilik Tarihi&Kültürü,Muhsin Kadıoğlu,Perşembe,1530/1729,DZB / ---,5,30,DUI,21179,2022 - 2023 Bahar Dönemi
+DFH 254E,Maritime Conventions,Emre Akyüz,Salı,1330/1529,DZB / ---,46,70,"DUI, DUIE",21180,2022 - 2023 Bahar Dönemi
+DFH 254E,Maritime Conventions,Emre Akyüz,Salı,1530/1729,DZB / ---,71,70,"DUI, DUIE",21181,2022 - 2023 Bahar Dönemi
+DFH 278E,Maritime Economics,Levent Kırval,Çarşamba,0930/1129,DZB / ---,65,70,DUI,21182,2022 - 2023 Bahar Dönemi
+DFH 278E,Maritime Economics,Levent Kırval,Çarşamba,1130/1329,DZB / ---,38,70,DUI,21183,2022 - 2023 Bahar Dönemi
+DFH 281,Denizel Çevre Kimyası,Emrah Şık,Pazartesi,1130/1429,DZB / ---,14,40,DUI,25052,2022 - 2023 Bahar Dönemi
+DFH 282,Akışkanlar Mekaniği,Melek Ertogan,Pazartesi,1330/1529,DZB / ---,55,55,DUI,21184,2022 - 2023 Bahar Dönemi
+DFH 282,Akışkanlar Mekaniği,Melek Ertogan,Pazartesi,1530/1729,DZB / ---,30,50,DUI,23700,2022 - 2023 Bahar Dönemi
+DFH 414E,Port Management,Tanzer Satır,Salı,1230/1429,DZB / ---,11,60,"DUI, DUIE",21185,2022 - 2023 Bahar Dönemi
+DFH 472E,Commercial Ship Management,Pelin Bolat,Perşembe,0830/1129,DZB / ---,44,50,DUI,21186,2022 - 2023 Bahar Dönemi
+DFH 474,Denizcilikte Yön.Dav.&Perf.,Leyla Tavacıoğlu,Çarşamba,0830/1129,DZB / ---,40,50,DUI,21187,2022 - 2023 Bahar Dönemi
+DFH 482E,Cargo Handling Simulator,Yunus Emre Şenol,Çarşamba,1130/1329,DZB / ---,37,35,DUI,21246,2022 - 2023 Bahar Dönemi
+DFH 482E,Cargo Handling Simulator,Yunus Emre Şenol,Çarşamba,1330/1529,DZB / ---,40,35,DUI,21247,2022 - 2023 Bahar Dönemi
+DFH 486E,Chartering,Emre Akyüz,Perşembe,1330/1529,DZB / ---,33,50,DUI,21188,2022 - 2023 Bahar Dönemi
+DFH 490E,E-Navigation Systems,Serdar Kum,Çarşamba,0930/1129,DZB / ---,35,60,DUI,21194,2022 - 2023 Bahar Dönemi
+DFH 490E,E-Navigation Systems,Serdar Kum,Çarşamba,1130/1329,DZB / ---,58,60,DUI,21195,2022 - 2023 Bahar Dönemi
+DFH 497E,Org.Mngt &Behavior in Maritime,Dilek Mürüvvet Görgüç,Pazartesi,1430/1729,DZB / ---,5,50,"DUI, MMD",24870,2022 - 2023 Bahar Dönemi
+DFH 499,Liderlik ve Kriz Yönetimi,Serdar Kum,Salı,0930/1229,DZB / ---,27,50,DUI,24869,2022 - 2023 Bahar Dönemi

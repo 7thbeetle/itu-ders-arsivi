@@ -1,0 +1,33 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KON 214,Sistem Modelleme ve Simülasyon,Hakan Temeltaş,Pazartesi,1330/1629,EEB,81,80,KOM,21546,2017 - 2018 Bahar Dönemi
+KON 214E,System Modelling&Simulation;,Hakan Temeltaş,Cuma,0930/1229,EEB,6,30,KOM KOME,21547,2017 - 2018 Bahar Dönemi
+KON 218,Ölçme Tekniği ve Algılayıcılar,Serhat İkizoğlu,Cuma,0830/1229,EEB,56,60,KOM MKN,21554,2017 - 2018 Bahar Dönemi
+KON 218,Ölçme Tekniği ve Algılayıcılar,Yücel Aydın,Cuma,0830/1229,EEB,56,60,KOM MKN,21550,2017 - 2018 Bahar Dönemi
+KON 218E,Measurement and Sensors,Serhat İkizoğlu,Perşembe,0830/1229,EEB,12,40,KOM KOME MKN,21555,2017 - 2018 Bahar Dönemi
+KON 224,Ölçme ve Enstrümantasyon,Yücel Aydın,Salı,0930/1229,INB,35,60,BLG EHB ELE ELH ELK TEL,21556,2017 - 2018 Bahar Dönemi
+KON 224E,Measurement&Instrumentation;,Serhat İkizoğlu,Salı,0930/1229,EEB,14,60,BLG BLGE EHB EHBE ELK ELKE,21557,2017 - 2018 Bahar Dönemi
+KON 313E,Feedback Control Systems,Tufan Kumbasar,Pazartesi,1330/1629,EEB,23,40,KOM KOME,25403,2017 - 2018 Bahar Dönemi
+KON 314,Kontrol Sistem Tasarımı,Mehmet Turan Söylemez,Pazartesi Perşembe,1330/1529 1530/1729,EEB EEB,63,80,KOM,21559,2017 - 2018 Bahar Dönemi
+KON 317,Otomatik Kontrol Sistemleri,Mustafa Doğan,Cuma,0930/1229,MDB,67,80,BLG EHB ELE ELH ELK TEL,21562,2017 - 2018 Bahar Dönemi
+KON 317,Otomatik Kontrol Sistemleri,Sıddık Murat Yeşiloğlu,Cuma,0930/1229,EEB,80,80,BLG EHB ELE ELH ELK TEL,21560,2017 - 2018 Bahar Dönemi
+KON 317E,Control Systems,Tufan Kumbasar,Cuma,0930/1229,EEB,80,80,BLG BLGE EHB EHBE ELK ELKE SEH,21563,2017 - 2018 Bahar Dönemi
+KON 322,Endüstriyel Kumanda Sistemleri,Salman Kurtulan,Salı,1330/1629,EEB,79,80,KOM,21564,2017 - 2018 Bahar Dönemi
+KON 322E,Industrial Automated Systems,Yaprak Yalçın,Pazartesi,1330/1629,EEB,8,40,KOME,21565,2017 - 2018 Bahar Dönemi
+KON 324E,Sensors &Transducers; in Cntrl,Ali Fuat Ergenç,Perşembe,1230/1529,EEB,28,80,KOM KOME,21566,2017 - 2018 Bahar Dönemi
+KON 326,Bilgisayar Kontrollü Sistemler,Afife Leyla Gören,Çarşamba,1330/1529,EEB,83,80,KOM,21567,2017 - 2018 Bahar Dönemi
+KON 326E,Computer Controlled Systems,Yaprak Yalçın,Çarşamba,1330/1529,MED,7,40,KOM KOME,21568,2017 - 2018 Bahar Dönemi
+KON 407E,State Space Meth.in Contr.Syst,Fikret Çalışkan,Salı,0930/1229,INB,30,30,KOM KOME,25308,2017 - 2018 Bahar Dönemi
+KON 409,Bitirme Tasarım Prj. Giriş,Hakan Temeltaş,Cuma,1400/1559,MED,8,50,KOM,21224,2017 - 2018 Bahar Dönemi
+KON 409E,Int. to Senior Design Project,--,----,/,EEB,0,0,KOM KOME,21600,2017 - 2018 Bahar Dönemi
+KON 409E,Int. to Senior Design Project,--,Perşembe,1330/1529,EEB,0,0,KOM KOME,21230,2017 - 2018 Bahar Dönemi
+KON 417,Servo Motorlar,Metin Gökaşan,Çarşamba,0930/1229,EEB,75,80,KOM MKN,21569,2017 - 2018 Bahar Dönemi
+KON 417E,Servo Motors,Volkan Sezer,Perşembe,0930/1229,MED,9,40,KOM KOME,21570,2017 - 2018 Bahar Dönemi
+KON 421,Robot Kontrolü,Sıddık Murat Yeşiloğlu,Perşembe,0930/1229,INB,15,50,KOM,21571,2017 - 2018 Bahar Dönemi
+KON 421E,Robot Control,Ovsanna Seta Estrada,Perşembe,0930/1229,EEB,5,30,KOM KOME,21573,2017 - 2018 Bahar Dönemi
+KON 424E,Mod.&Cntrl; of Biological Sys.,Ali Fuat Ergenç,Çarşamba,0830/1129,EEB,18,50,EHB EHBE KOM KOME,21576,2017 - 2018 Bahar Dönemi
+KON 426E,Intelligent Control Systems,Gülay Öke Günel,Pazartesi,1330/1629,FEB,50,50,KOM KOME,21580,2017 - 2018 Bahar Dönemi
+KON 428,Optimal Kontrole Giriş,Müjde Güzelkaya,Pazartesi,0930/1229,EEB,50,50,KOM,21596,2017 - 2018 Bahar Dönemi
+KON 428E,Intr. to Optimal Control,İbrahim Eksin,Pazartesi,0930/1229,KMB,28,30,KOM KOME,21597,2017 - 2018 Bahar Dönemi
+KON 436E,Int.to Nonlinear Control Syst.,Sıddık Murat Yeşiloğlu,Perşembe,1330/1629,EEB,23,50,KOM KOME,21598,2017 - 2018 Bahar Dönemi
+KON 492,Bitirme Tasarım Projesi,Hakan Temeltaş,----,/,---,37,500,KOM,21601,2017 - 2018 Bahar Dönemi
+KON 492E,Senior Design Project,Hakan Temeltaş,----,/,EEB,27,500,KOM KOME,21602,2017 - 2018 Bahar Dönemi

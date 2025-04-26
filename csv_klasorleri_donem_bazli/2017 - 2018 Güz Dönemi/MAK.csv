@@ -1,0 +1,97 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MAK 101,Makine Müh. Giriş ve Etik,İsmail Yalçın Uralcan,Çarşamba,1030/1229,MKB,149,250,MAK,14583,2017 - 2018 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,Yusuf Ziya Kocabal,Çarşamba Cuma,0830/1029 0830/1129,MKB MKB,50,50,IML MAK,13421,2017 - 2018 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,Serpil Kurt Habiboğlu,Çarşamba Cuma,0830/1029 0830/1129,MKB MKB,16,50,IML MAK,13418,2017 - 2018 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,İsmail Gerdemeli,Çarşamba Cuma,0830/1029 0830/1129,MKB MKB,25,50,IML MAK,13414,2017 - 2018 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,Yusuf Ziya Kocabal,Salı Perşembe,0830/1029 0830/1129,MKB MKB,63,50,IML MAK,13424,2017 - 2018 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,İsmail Gerdemeli,Salı Perşembe,0830/1029 0830/1129,MKB MKB,67,50,IML MAK,13417,2017 - 2018 Güz Dönemi
+MAK 105,Makine Tasarımına Giriş,Cevat Erdem İmrak,Salı Perşembe,0830/1029 0830/1129,MKB MKB,66,50,IML MAK,13412,2017 - 2018 Güz Dönemi
+MAK 111,Makina Mühendisliğine Giriş,İsmail Yalçın Uralcan,Çarşamba,1130/1229,MKB,62,250,MAK MAKM,13115,2017 - 2018 Güz Dönemi
+MAK 111,Makina Mühendisliğine Giriş,İsmail Yalçın Uralcan,Çarşamba,1030/1129,MKB,28,250,MAK MAKM,14582,2017 - 2018 Güz Dönemi
+MAK 200,Atölye,Okay Otlu,----,/,MKB,2,20,IML MAK,15520,2017 - 2018 Güz Dönemi
+MAK 200,Atölye,Yusuf Ziya Kocabal,----,/,MKB,20,20,IML MAK,15519,2017 - 2018 Güz Dönemi
+MAK 200,Atölye,--,----,/,MKB,0,0,IML MAK,15518,2017 - 2018 Güz Dönemi
+MAK 200,Atölye,İsmail Yalçın Uralcan,----,/,MKB,16,20,IML MAK,15517,2017 - 2018 Güz Dönemi
+MAK 200,Atölye,Yusuf Ziya Kocabal,----,/,MKB,18,20,IML MAK,13119,2017 - 2018 Güz Dönemi
+MAK 200,Atölye,Okay Otlu,----,/,MKB,23,23,IML MAK,13118,2017 - 2018 Güz Dönemi
+MAK 200,Atölye,İsmail Yalçın Uralcan,----,/,MKB,19,20,IML MAK,13117,2017 - 2018 Güz Dönemi
+MAK 200,Atölye,Hacı Abdullah Taşdemir,----,/,MKB,22,23,IML MAK,13116,2017 - 2018 Güz Dönemi
+MAK 210E,Engineering Mathematics,Osman Taha Şen,Çarşamba Perşembe,1330/1529 1330/1529,MKB MKB,28,130,IML IMLE MAK,13642,2017 - 2018 Güz Dönemi
+MAK 210E,Engineering Mathematics,Merve Acer,Çarşamba Perşembe,1330/1529 1330/1529,MKB MKB,129,130,IML IMLE MAK,13638,2017 - 2018 Güz Dönemi
+MAK 214E,Engineering Materials,Ali Gökşenli,Cuma Cuma,1030/1229 1630/1729,MKB MKB,45,40,IML IMLE MAK MAKE MAKM,13120,2017 - 2018 Güz Dönemi
+MAK 214E,Engineering Materials,Canan Gamze Güleryüz Parasız,Salı Çarşamba,1230/1329 1030/1229,MKB MKB,40,40,IML IMLE MAK MAKE MAKM,13121,2017 - 2018 Güz Dönemi
+MAK 214E,Engineering Materials,Ersan Üstündağ,Salı Çarşamba,1130/1229 1330/1529,MKB MKB,31,40,IML IMLE MAK MAKE MAKM,13123,2017 - 2018 Güz Dönemi
+MAK 311E,Heat Transfer,Ersin Sayar,Çarşamba,0830/1129,MKB,42,80,FIZ FIZE MAKE MAKM PETE,12761,2017 - 2018 Güz Dönemi
+MAK 312,Ölçme Değerlendirme,Mustafa Resa Becan,Salı Cuma,1530/1729 1430/1629,MKB MKB,86,80,IML MAK MAKM MKN,13126,2017 - 2018 Güz Dönemi
+MAK 312,Ölçme Değerlendirme,Bülent Bölat,Salı Cuma,1530/1729 1430/1629,MKB MKB,77,75,IML MAK MAKM MKN,13125,2017 - 2018 Güz Dönemi
+MAK 312E,Measurement Systems,İsmail Yalçın Uralcan,Salı Cuma,1530/1729 1430/1629,MKB MKB,2,90,IML IMLE MAKE,13129,2017 - 2018 Güz Dönemi
+MAK 313,Isı Geçişi,Mustafa Özdemir,Pazartesi Çarşamba,0830/1029 1030/1229,MKB MKB,90,90,MAK MAKM,13137,2017 - 2018 Güz Dönemi
+MAK 313,Isı Geçişi,Nurdil Eskin,Pazartesi Çarşamba,0830/1029 1030/1229,MKB MKB,90,90,MAK MAKM,13136,2017 - 2018 Güz Dönemi
+MAK 313,Isı Geçişi,İsmail Cem Parmaksızoğlu,Pazartesi Çarşamba,0830/1029 1030/1229,MKB MKB,62,90,MAK MAKM,13132,2017 - 2018 Güz Dönemi
+MAK 313E,Heat Transfer,Mustafa Özdemir,Pazartesi Çarşamba,1030/1229 1530/1729,MKB MKB,7,5,MAKE,14794,2017 - 2018 Güz Dönemi
+MAK 315,Mekanik Titreşimler,Erdinç Altuğ,Pazartesi Çarşamba,1330/1529 0830/0929,MKB MKB,43,80,IML MAK MAKM,13142,2017 - 2018 Güz Dönemi
+MAK 315,Mekanik Titreşimler,Vahit Mermertaş,Pazartesi Çarşamba,1330/1529 0830/0929,MKB MKB,70,70,IML MAK MAKM,13141,2017 - 2018 Güz Dönemi
+MAK 315,Mekanik Titreşimler,Özgür Turhan,Pazartesi Çarşamba,1330/1529 0830/0929,MKB MKB,70,70,IML MAK MAKM,13140,2017 - 2018 Güz Dönemi
+MAK 315,Mekanik Titreşimler,Haluk Erol,Pazartesi Çarşamba,1330/1529 0830/0929,MKB MKB,71,70,IML MAK MAKM,13139,2017 - 2018 Güz Dönemi
+MAK 315E,Mechanical Vibrations,Kenan Yüce Şanlıtürk,Pazartesi Çarşamba,1330/1529 0830/0929,MKB MKB,33,70,MAK MAKE,13144,2017 - 2018 Güz Dönemi
+MAK 322,Makina Teorisi,Özgür Turhan,Salı Perşembe,1230/1529 1230/1429,MKB MKB,11,40,MAK MAKM MKN,13145,2017 - 2018 Güz Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Kenan Refah Kutlu,Çarşamba Cuma,1330/1529 0830/1029,MKB MKB,60,60,IML MAK,13151,2017 - 2018 Güz Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Mustafa Resa Becan,Çarşamba Cuma,1330/1529 0830/1029,MKB MKB,60,60,IML MAK,13150,2017 - 2018 Güz Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Bülent Bölat,Çarşamba Cuma,1330/1529 0830/1029,MKB MKB,35,60,IML MAK,13147,2017 - 2018 Güz Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Ayhan Kural,Salı Çarşamba,1330/1529 1530/1729,MKB MKB,57,60,IML MAK,13146,2017 - 2018 Güz Dönemi
+MAK 333E,System Dynamics and Control,Erdinç Altuğ,Çarşamba Cuma,1330/1529 0830/1029,MKB MKB,62,60,IML IMLE MAK MAKE MAKM TEKE,13149,2017 - 2018 Güz Dönemi
+MAK 333E,System Dynamics and Control,Zeki Yağız Bayraktaroğlu,Çarşamba Cuma,1330/1529 0830/1029,MKB MKB,19,60,IML IMLE MAK MAKE MAKM TEKE,13148,2017 - 2018 Güz Dönemi
+MAK 341,Makina Elemanları I,Zeynep Parlar,Salı Perşembe,0830/1129 1030/1229,MKB MKB,40,75,MAK MAKM MKN PET,13154,2017 - 2018 Güz Dönemi
+MAK 341,Makina Elemanları I,Vedat Temiz,Salı Perşembe,0830/1129 1030/1229,MKB MKB,77,75,MAK MAKM MKN PET,13153,2017 - 2018 Güz Dönemi
+MAK 341,Makina Elemanları I,İbrahim Mehmet Palabıyık,Salı Perşembe,0830/1129 1030/1229,MKB MKB,60,75,MAK MAKM MKN PET,13152,2017 - 2018 Güz Dönemi
+MAK 341E,Machine Design I,Atakan Altınkaynak,Salı Perşembe,0830/1129 1030/1229,MKB MKB,17,75,MAK MAKE MAKM,13155,2017 - 2018 Güz Dönemi
+MAK 342,Makina Elemanları II,Hikmet Kocabaş,Salı Perşembe,0830/1029 1030/1229,MKB MKB,67,77,MAK MAKM MKN,13157,2017 - 2018 Güz Dönemi
+MAK 342,Makina Elemanları II,Cemal Baykara,Salı Perşembe,0830/1029 1030/1229,MKB MKB,82,82,MAK MAKM MKN,13156,2017 - 2018 Güz Dönemi
+MAK 342E,Machine Design II,Ali İmre Aydeniz,Salı Perşembe,0830/1029 1030/1229,MKB MKB,61,60,MAK MAKE MAKM,13158,2017 - 2018 Güz Dönemi
+MAK 353,İmal Usulleri,Şafak Yılmaz,Perşembe Cuma,0830/1029 1030/1229,MKB MKB,39,75,MAK MAKM,13161,2017 - 2018 Güz Dönemi
+MAK 353,İmal Usulleri,Murat Vural,Perşembe Cuma,0830/1029 1030/1229,MKB MKB,85,85,MAK MAKM,13160,2017 - 2018 Güz Dönemi
+MAK 353,İmal Usulleri,Adnan Dikicioğlu,Perşembe Cuma,0830/1029 1030/1229,MKB MKB,85,85,MAK MAKM,13159,2017 - 2018 Güz Dönemi
+MAK 353E,Manufacturing Processes,Celaletdin Ergun,Perşembe Cuma,0830/1029 1030/1229,MKB MKB,5,65,MAK MAKE MAKM,13162,2017 - 2018 Güz Dönemi
+MAK 360,Uygulamalı Termodinamik,Nurdil Eskin,Pazartesi Çarşamba,1030/1229 0930/1029,MKB MKB,29,30,MAK,13183,2017 - 2018 Güz Dönemi
+MAK 360E,Applied Thermodynamics,Mesut Gür,Pazartesi Çarşamba,1030/1229 0930/1029,MKB MKB,32,30,MAK MAKE,13193,2017 - 2018 Güz Dönemi
+MAK 370,Uygulamalı Isı Geçişi,İsmail Cem Parmaksızoğlu,Pazartesi Çarşamba,1030/1229 0930/1029,MKB MKB,22,30,MAK,13195,2017 - 2018 Güz Dönemi
+MAK 370,Uygulamalı Isı Geçişi,Ersin Sayar,Pazartesi Çarşamba,1030/1229 1230/1329,MKB MKB,23,45,MAK,13194,2017 - 2018 Güz Dönemi
+MAK 4006E,Alternative Fuels for IC Eng.,"Osman Akın Kutlar, Alper Tolga Çalık",Salı Perşembe,1530/1729 1430/1529,MOB MOB,40,40,MAK MAKE,13267,2017 - 2018 Güz Dönemi
+MAK 4009E,Elect.& Hybrid Elect. Vehicles,Orhan Atabay,Salı Perşembe,1530/1729 1430/1529,MOB MOB,47,40,MAK MAKE MAKM,13268,2017 - 2018 Güz Dönemi
+MAK 4015E,Materials Sel.in Dsgn and Mnfc,Cengiz Tahir Bodur,Perşembe,1430/1729,MKB,5,40,IML IMLE MAK MAKE MAKM,13196,2017 - 2018 Güz Dönemi
+MAK 4017,Endüstriyel Akustik ve Gürültü,Haluk Erol,Salı Çarşamba,1030/1229 1130/1229,MKB MKB,32,40,IML MAK MAKM MKN,13197,2017 - 2018 Güz Dönemi
+MAK 4019,Plastik Mlz Konstr. ve İmalat,İbrahim Mehmet Palabıyık,Salı Perşembe,1130/1229 1530/1729,MKB MKB,30,40,IML MAK,13198,2017 - 2018 Güz Dönemi
+MAK 401E,Mechanical Engineering Lab. I,İsmail Yalçın Uralcan,Salı,1730/1929,MKB,16,100,MAK MAKE,15849,2017 - 2018 Güz Dönemi
+MAK 401E,Mechanical Engineering Lab. I,İsmail Yalçın Uralcan,Pazartesi Çarşamba,1230/1329 1230/1329,MKB MKB,233,250,MAK MAKE,13199,2017 - 2018 Güz Dönemi
+MAK 4021,Talaşlı İmalat,"Mustafa Bakkal, Şükrü Doruk Merdol",Pazartesi Perşembe,1530/1729 1530/1629,MKB MKB,46,40,IML MAK MAKM,13200,2017 - 2018 Güz Dönemi
+MAK 4022,Mühendislikte Mikroişl.ve Uygu,--,Pazartesi Perşembe,1330/1529 1530/1629,MKB MKB,0,0,MAK,13201,2017 - 2018 Güz Dönemi
+MAK 4025E,Engineering Design and CAD,--,Salı Perşembe,1330/1529 1330/1429,MKB MKB,0,0,MAK MAKE,13202,2017 - 2018 Güz Dönemi
+MAK 4027E,Turbomachinery,Murat Çakan,Salı Perşembe,1330/1529 1330/1429,MKB MKB,56,50,MAK MAKE,13203,2017 - 2018 Güz Dönemi
+MAK 4029,İleri Akışkanlar Mekaniği,Levent Ali Kavurmacıoğlu,Pazartesi Perşembe,1330/1529 1630/1729,MKB MKB,16,40,MAK,13204,2017 - 2018 Güz Dönemi
+MAK 403,Uygulamalı Makina Projesi,Zeynep Parlar,Pazartesi Perşembe,1730/1929 1230/1329,MKB MKB,65,60,MAK,13208,2017 - 2018 Güz Dönemi
+MAK 403,Uygulamalı Makina Projesi,Vedat Temiz,Pazartesi Perşembe,1730/1929 1230/1329,MKB MKB,65,60,MAK,13206,2017 - 2018 Güz Dönemi
+MAK 403,Uygulamalı Makina Projesi,İlker Murat Koç,Pazartesi Perşembe,1730/1929 1230/1329,MKB MKB,67,60,MAK,13205,2017 - 2018 Güz Dönemi
+MAK 4031E,Mass Transfer,İsmail Yalçın Uralcan,Perşembe,0930/1229,MKB,4,4,MAK MAKE,15894,2017 - 2018 Güz Dönemi
+MAK 4032,Metallerin Plastik Şekillendrl,Şafak Yılmaz,Salı Perşembe,1530/1629 1530/1729,MKB MKB,5,40,IML MAK,13211,2017 - 2018 Güz Dönemi
+MAK 4033E,Gas Dynamics,İlyas Bedii Özdemir,Pazartesi Çarşamba,1530/1729 1430/1529,MOB MOB,18,40,MAK MAKE,13269,2017 - 2018 Güz Dönemi
+MAK 4034E,Welding Dsgn&Manufac.;,Murat Vural,Pazartesi Salı,0830/0929 1330/1529,MKB MKB,86,50,IMLE MAK MAKE,13214,2017 - 2018 Güz Dönemi
+MAK 4035,Hidrolik ve Pnömatik Devreler,H.Cengiz Celep,Cuma,1430/1729,MKB,55,40,IML MAK MAKM MKN,13215,2017 - 2018 Güz Dönemi
+MAK 4037E,Computer Controlled Sys. Desig,Şeniz Ertuğrul,Pazartesi Perşembe,1530/1729 1530/1629,MKB MKB,36,40,IML IMLE MAK MAKE,13216,2017 - 2018 Güz Dönemi
+MAK 4039E,HVAC Fundamentals,İsmail Yalçın Uralcan,Salı Perşembe,1330/1529 1330/1429,MKB MKB,20,50,MAK MAKE MAKM,13217,2017 - 2018 Güz Dönemi
+MAK 403E,Applied Machine Design,Hacı Abdullah Taşdemir,Pazartesi Perşembe,1730/1929 1230/1329,MKB MKB,72,60,MAK MAKE,13218,2017 - 2018 Güz Dönemi
+MAK 4043,Yangın Dinamiği ve Güvenliği,Abdurrahman Kılıç,Pazartesi Perşembe,1330/1529 1630/1729,MKB MKB,58,50,MAK,13219,2017 - 2018 Güz Dönemi
+MAK 4047E,Dynamic Systms Modelling & Sim,İlker Murat Koç,Salı Perşembe,1330/1529 1330/1429,MKB MKB,33,40,MAK MAKE,13220,2017 - 2018 Güz Dönemi
+MAK 4049,Kontrol Elemanları Uygulamala,Kenan Refah Kutlu,Salı Perşembe,1130/1229 1530/1729,MKB MKB,14,50,IML MAK MAKM,13221,2017 - 2018 Güz Dönemi
+MAK 4051,Taşıtlarda Titreşim ve Gürültü,İsmail Ahmet Güney,Pazartesi Çarşamba,1330/1529 1430/1529,MOB MOB,19,40,MAK MAKM,13271,2017 - 2018 Güz Dönemi
+MAK 4053E,Vehicle Technology,Özgen Akalın,Salı Perşembe,1330/1529 1330/1429,MOB MOB,47,40,MAK MAKE,13272,2017 - 2018 Güz Dönemi
+MAK 4055E,Fuel Economy in Road Vehicles,"Osman Akın Kutlar, Hikmet Arslan",Cuma,1430/1729,MOB,58,40,MAK MAKE,13274,2017 - 2018 Güz Dönemi
+MAK 4056,Kontrol Sistemleri Tasarımı,Pınar Boyraz,Perşembe,0930/1229,MKB,46,50,IML MAK MAKM MKN,13222,2017 - 2018 Güz Dönemi
+MAK 4058E,Power Transmission in Vehicles,Orhan Atabay,Pazartesi Çarşamba,1530/1729 1430/1529,MOB MOB,15,40,MAK MAKE,13275,2017 - 2018 Güz Dönemi
+MAK 4061,Egzos Gazları Emisyonu,Cem Soruşbay,Salı Perşembe,1130/1229 1530/1729,MOB MOB,40,40,MAK,13277,2017 - 2018 Güz Dönemi
+MAK 4067E,Renewable Energy Systems,Seyhan Onbaşıoğlu,Salı Perşembe,1530/1729 1430/1529,MKB MKB,39,50,MAK MAKE,13223,2017 - 2018 Güz Dönemi
+MAK 4071E,Introduction to Robotics,Zeki Yağız Bayraktaroğlu,Salı Perşembe,1530/1729 1430/1529,MKB MKB,25,40,IML IMLE MAK MAKE MKN,13224,2017 - 2018 Güz Dönemi
+MAK 4078,Makina Konstrüksiyonları Esas.,Zeynep Parlar,Pazartesi Salı,1330/1529 1630/1729,MKB MKB,7,40,MAK,13225,2017 - 2018 Güz Dönemi
+MAK 411E,Experimtl Mth.in Mechanicl Eng,İsmail Yalçın Uralcan,Çarşamba Perşembe,1730/1929 1730/1829,MKB MKB,6,20,MAK MAKE,15850,2017 - 2018 Güz Dönemi
+MAK 481,Proje Tasarım Esasları,Hacı Abdullah Taşdemir,Pazartesi,1230/1329,MKB,7,40,MAK,13226,2017 - 2018 Güz Dönemi
+MAK 492,Bitirme Tasarım Projesi,İsmail Yalçın Uralcan,----,/,MKB,91,500,MAK,13227,2017 - 2018 Güz Dönemi
+MAK 492E,Senior Design Project,Hacı Abdullah Taşdemir,----,/,MKB,7,500,MAK MAKE,13228,2017 - 2018 Güz Dönemi

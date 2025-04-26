@@ -1,0 +1,54 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTR 101,Makam Teorisi I,Şerife Güvençoğlu,Salı Perşembe Cuma,1530/1729 1330/1529 1330/1529,TMB TMB TMB,37,45,MTR MUT MUZ SES,11236,2019 - 2020 Güz Dönemi
+MTR 101,Makam Teorisi I,Eren Özek,Salı Çarşamba Cuma,1330/1529 1330/1529 0830/1029,TMB TMB TMB,28,45,MTR MUT MUZ SES,11689,2019 - 2020 Güz Dönemi
+MTR 101,Makam Teorisi I,Nurullah Kanık,Salı Perşembe Cuma,0830/1029 0830/1029 1030/1229,TMB TMB TMB,40,45,MTR MUT MUZ SES,11691,2019 - 2020 Güz Dönemi
+MTR 101,Makam Teorisi I,Eren Özek,Pazartesi Salı Cuma,1530/1729 1030/1229 1030/1229,TMB TMB TMB,21,40,MTR MUT MUZ SES,11235,2019 - 2020 Güz Dönemi
+MTR 103,Müzik Teorisi I,Ayşecan Olgun,Pazartesi Salı Cuma,1530/1729 1030/1229 0830/1029,TMB TMB TMB,33,45,MTR MUT MUZ SES,11687,2019 - 2020 Güz Dönemi
+MTR 103,Müzik Teorisi I,Recep Gül,Pazartesi Salı Perşembe,1330/1529 0830/1029 0830/1029,TMB TMB TMB,24,30,MTR MUT MUZ SES,11685,2019 - 2020 Güz Dönemi
+MTR 103,Müzik Teorisi I,Emel Şenocak,Pazartesi Çarşamba Perşembe,1330/1529 1330/1529 0830/1029,TMB TMB TMB,29,30,MTR MUT MUZ SES,11232,2019 - 2020 Güz Dönemi
+MTR 103,Müzik Teorisi I,Ufuk Biçak,Pazartesi Salı Perşembe,1330/1529 1030/1229 1030/1229,TMB TMB TMB,25,30,MTR MUT MUZ SES,11216,2019 - 2020 Güz Dönemi
+MTR 105,Ritim Uygulama I,Adil Feridun Öney,Salı,1530/1729,TMB,15,20,MTR,11698,2019 - 2020 Güz Dönemi
+MTR 105,Ritim Uygulama I,Adil Feridun Öney,Salı,1030/1229,TMB,12,15,MTR,11212,2019 - 2020 Güz Dönemi
+MTR 121,Makam Teorisi I,Nurullah Kanık,Pazartesi Perşembe,1030/1229 1030/1229,TMB TMB,20,25,THO,11240,2019 - 2020 Güz Dönemi
+MTR 123,Müzik Teorisi I,Emel Şenocak,Çarşamba Cuma,0830/1029 1030/1229,TMB TMB,20,25,THO,11239,2019 - 2020 Güz Dönemi
+MTR 131,Makam Teorisi I,Nurullah Kanık,Pazartesi Perşembe,1030/1229 1030/1229,TMB TMB,1,20,CGM6 MUT SES THO,11258,2019 - 2020 Güz Dönemi
+MTR 133,Müzik Teorisi I,Ayşecan Olgun,Salı Perşembe,1530/1729 1530/1729,TMB TMB,2,20,CGM6 MUT SES THO,11264,2019 - 2020 Güz Dönemi
+MTR 141,Makam Teorisi I,Ferda Cengiz Ünal,Salı Çarşamba,1330/1529 0830/1029,TMB TMB,19,25,CAB CGM7 KMP,11265,2019 - 2020 Güz Dönemi
+MTR 143,Müzik Teorisi I,Ufuk Biçak,Pazartesi Cuma,0830/1029 1030/1229,TMB TMB,15,25,CAB CGM7 KMP,11253,2019 - 2020 Güz Dönemi
+MTR 201,Makam Teorisi III,Nurullah Kanık,Salı Çarşamba Cuma,1030/1229 1330/1529 1330/1529,TMB TMB TMB,14,30,MTR MUT MUZ SES,11245,2019 - 2020 Güz Dönemi
+MTR 201,Makam Teorisi III,Adil Feridun Öney,Pazartesi Çarşamba Cuma,1530/1729 1030/1229 1030/1229,TMB TMB TMB,22,30,MTR MUT MUZ SES,11697,2019 - 2020 Güz Dönemi
+MTR 201,Makam Teorisi III,Nurullah Kanık,Pazartesi Perşembe Cuma,0830/1029 1330/1529 0830/1029,TMB TMB TMB,27,30,MTR MUT MUZ SES,11696,2019 - 2020 Güz Dönemi
+MTR 203,Müzik Teorisi III,Ayşecan Olgun,Salı Perşembe Cuma,0830/1029 0830/1029 1030/1229,TMB TMB TMB,32,40,MTR MUT MUZ SES,11695,2019 - 2020 Güz Dönemi
+MTR 203,Müzik Teorisi III,Emel Şenocak,Pazartesi Perşembe Cuma,1530/1729 1030/1229 1530/1729,TMB TMB TMB,30,30,MTR MUT MUZ SES,11241,2019 - 2020 Güz Dönemi
+MTR 203,Müzik Teorisi III,Ufuk Biçak,Pazartesi Salı Perşembe,1030/1229 1530/1729 0830/1029,TMB TMB TMB,15,25,MTR MUT MUZ SES,11693,2019 - 2020 Güz Dönemi
+MTR 204,Müzik Teorisi IV,Ufuk Biçak,Pazartesi Perşembe Cuma,1530/1729 1330/1529 1330/1529,TMB TMB TMB,13,30,MTR MUT MUZ SES,14631,2019 - 2020 Güz Dönemi
+MTR 205,Müzik Teorileri Tarihi I,Gülay Karamahmutoğlu,Cuma,1330/1529,TMB,8,30,MTR MTRM,14628,2019 - 2020 Güz Dönemi
+MTR 205,Müzik Teorileri Tarihi I,Gülay Karamahmutoğlu,Cuma,1030/1229,TMB,8,10,MTR MTRM,13910,2019 - 2020 Güz Dönemi
+MTR 205,Müzik Teorileri Tarihi I,Gülay Karamahmutoğlu,Salı,1330/1529,TMB,30,30,MTR MTRM,11699,2019 - 2020 Güz Dönemi
+MTR 207,Teori Uygulama I,Gülay Karamahmutoğlu,Çarşamba,1330/1529,TMB,27,30,MTR MTRM,11700,2019 - 2020 Güz Dönemi
+MTR 221,Makam Teorisi III,Göktan Ay,Salı Perşembe,1030/1229 0830/1029,TMB TMB,16,25,THO,11246,2019 - 2020 Güz Dönemi
+MTR 222,Makam Teorisi IV,Göktan Ay,Pazartesi Çarşamba,0830/1029 1330/1529,TMB TMB,1,5,THO,13911,2019 - 2020 Güz Dönemi
+MTR 223,Müzik Teorisi III,Emel Şenocak,Çarşamba Cuma,1030/1229 0830/1029,TMB TMB,9,25,THO,11243,2019 - 2020 Güz Dönemi
+MTR 231,Makam Teorisi III,Ferda Cengiz Ünal,Pazartesi Perşembe,1530/1729 1330/1529,TMB TMB,3,20,CGM6 MUT SES THO,11263,2019 - 2020 Güz Dönemi
+MTR 233,Müzik Teorisi III,--,Pazartesi Cuma,0830/1029 1330/1529,TMB TMB,0,0,MUT SES THO,11257,2019 - 2020 Güz Dönemi
+MTR 241,Makam Teorisi III,Ferda Cengiz Ünal,Salı Çarşamba,1530/1729 1030/1229,TMB TMB,12,25,CAB CGM7 KMP,11261,2019 - 2020 Güz Dönemi
+MTR 243,Müzik Teorisi III,Recep Gül,Pazartesi Cuma,1030/1229 0830/1029,TMB TMB,19,25,CAB KMP,11255,2019 - 2020 Güz Dönemi
+MTR 301,İleri Makam Teorisi I,Eren Özek,Salı Perşembe,1530/1729 1330/1529,TMB TMB,17,30,MTR,11701,2019 - 2020 Güz Dönemi
+MTR 302,İleri Makam Teorisi II,Şerife Güvençoğlu,Salı Perşembe,1030/1229 1030/1229,TMB TMB,7,30,MTR,14629,2019 - 2020 Güz Dönemi
+MTR 303,İleri Müzik Teorisi I,Ufuk Biçak,Salı Cuma,1330/1529 0830/1029,TMB TMB,30,30,MTR,11702,2019 - 2020 Güz Dönemi
+MTR 305,Müzik Teorileri Tarihi III,Gülay Karamahmutoğlu,Salı,1030/1229,TMB,14,30,MTR MTRM,11703,2019 - 2020 Güz Dönemi
+MTR 307,Teori Uygulama III,Gülay Karamahmutoğlu,Çarşamba,1030/1229,TMB,13,20,MTR MTRM,11704,2019 - 2020 Güz Dönemi
+MTR 309,Ses Sistemleri I,Mustafa Kemal Karaosmanoğlu,Pazartesi,1030/1229,TMB,30,30,MTR MTRM,11706,2019 - 2020 Güz Dönemi
+MTR 317,Müzik Metin Çözümlemeleri I,Kemal Hasan Karnal,Perşembe,1030/1229,TMB,30,30,MUT SES,11705,2019 - 2020 Güz Dönemi
+MTR 321,Müzikte Metin Çözümlemeleri I,Kemal Hasan Karnal,Perşembe,1030/1229,TMB,10,15,MTR,11214,2019 - 2020 Güz Dönemi
+MTR 333,Ses Sistemleri I,Mustafa Kemal Karaosmanoğlu,Pazartesi,1030/1229,TMB,1,15,KMP MUZ,11251,2019 - 2020 Güz Dönemi
+MTR 401,İleri Makam Teorisi III,Ferda Cengiz Ünal,Salı Perşembe,0830/1029 1030/1229,TMB TMB,16,30,MTR,11199,2019 - 2020 Güz Dönemi
+MTR 403,İleri Müzik Teorisi III,Recep Gül,Perşembe Cuma,1330/1529 1030/1229,TMB TMB,25,25,MTR,11202,2019 - 2020 Güz Dönemi
+MTR 405,Dikte ve Deşifre I,Göktan Ay,Çarşamba,1030/1229,TMB,20,25,MTR,11203,2019 - 2020 Güz Dönemi
+MTR 407,Eser Çözümleme I,Neşe Yeşim Altınel Çoban,Salı,1030/1229,TMB,20,25,MTR,11206,2019 - 2020 Güz Dönemi
+MTR 431,Dikte Deşifre I,Metin Eke,Perşembe,1030/1229,TMB,7,20,CAB SES THO,11248,2019 - 2020 Güz Dönemi
+MTR 431,Dikte Deşifre I,Göktan Ay,Salı,0830/1029,TMB,20,20,CAB SES THO,11247,2019 - 2020 Güz Dönemi
+MTR 433,Eser Çözümleme I,Neşe Yeşim Altınel Çoban,Salı,1030/1229,TMB,14,20,CAB SES,11249,2019 - 2020 Güz Dönemi
+MTR 441,Dikte Deşifre I,Göktan Ay,Salı Çarşamba,1330/1529 0830/1029,TMB TMB,18,20,SES,11210,2019 - 2020 Güz Dönemi
+MTR 443,Eser Çözümleme I,Neşe Yeşim Altınel Çoban,Salı Perşembe,0830/1029 1330/1529,TMB TMB,10,25,SES,11207,2019 - 2020 Güz Dönemi
+MTR 492,Bitirme Çalışması,Eren Özek,----,/,TMB,6,500,MTR,11684,2019 - 2020 Güz Dönemi

@@ -1,0 +1,43 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+KON 101,Kontrol ve Otomasyon Müh. Etik,Mustafa Doğan,Çarşamba,1330/1429,,77,75,KOM KON,11279,2020 - 2021 Güz Dönemi
+KON 101E,Cont.& Automation Eng. Ethics,Mustafa Doğan,Çarşamba,1430/1529,,63,60,KOM KOME,11280,2020 - 2021 Güz Dönemi
+KON 110E,Intr. to Prog. Language (C),Serkan Türkeli,Pazartesi Pazartesi,1230/1429 1430/1529,,82,80,KOM KOME,11281,2020 - 2021 Güz Dönemi
+KON 111,Kontrol Müh. Grş.,Volkan Sezer,Çarşamba,1430/1529,,81,80,KOM,11282,2020 - 2021 Güz Dönemi
+KON 111E,Intr. to Control Eng.,Volkan Sezer,Çarşamba,1330/1429,,60,60,KOM KOME,11283,2020 - 2021 Güz Dönemi
+KON 201E,Differential Equations,Gülay Öke Günel,Perşembe,1230/1629,,147,90,KOM KOME,11284,2020 - 2021 Güz Dönemi
+KON 224,Ölçme ve Enstrümantasyon,Yücel Aydın,Çarşamba,1230/1529,,45,60,EHB ELE ELH ELK TEL,11287,2020 - 2021 Güz Dönemi
+KON 305E,Programming Techniq.in Control,Emre Dincel,Salı,1230/1629,,64,80,KOM KOME,11288,2020 - 2021 Güz Dönemi
+KON 309E,Microcontroller Systems,Emre Dincel,Salı,0830/1229,,60,60,KOM KOME MKN,11290,2020 - 2021 Güz Dönemi
+KON 309E,Microcontroller Systems,Osman Kaan Erol,Salı,0830/1229,,71,80,KOM KOME MKN,11289,2020 - 2021 Güz Dönemi
+KON 313,Geribeslemeli Kontrol Sist.,Müjde Güzelkaya,Pazartesi,1230/1529,,73,80,KOM,11291,2020 - 2021 Güz Dönemi
+KON 313E,Feedback Control Systems,İbrahim Eksin,Pazartesi,1230/1529,,23,40,KOM KOME,11292,2020 - 2021 Güz Dönemi
+KON 314E,Control System Design,Emre Dincel,Pazartesi Cuma,0830/1029 1430/1629,,38,40,KOM KOME,11293,2020 - 2021 Güz Dönemi
+KON 315,Elektronik Enstrümantasyon,Yücel Aydın,Çarşamba,0830/1229,,41,60,KOM,11295,2020 - 2021 Güz Dönemi
+KON 315,Elektronik Enstrümantasyon,Serhat İkizoğlu,Çarşamba,0830/1229,,55,60,KOM,11294,2020 - 2021 Güz Dönemi
+KON 315E,Electronic Instrumentation,Serhat İkizoğlu,Perşembe,0830/1229,,27,50,KOM KOME,11296,2020 - 2021 Güz Dönemi
+KON 317,Otomatik Kontrol Sistemleri,Sıddık Murat Yeşiloğlu,Pazartesi,1230/1529,,90,90,BLG EHB ELE ELH ELK TEL,11298,2020 - 2021 Güz Dönemi
+KON 317,Otomatik Kontrol Sistemleri,İlker Üstoğlu,Pazartesi,1230/1529,,89,90,BLG EHB ELE ELH ELK TEL,11297,2020 - 2021 Güz Dönemi
+KON 317E,Control Systems,Gülay Öke Günel,Pazartesi,1230/1529,,71,90,BLG BLGE EHB EHBE ELK ELKE SEH,11299,2020 - 2021 Güz Dönemi
+KON 318E,Introduction to Robotics,Hakan Temeltaş,Salı,1230/1529,,90,90,KOM KOME,11300,2020 - 2021 Güz Dönemi
+KON 405E,State Space Meth.in Contr.Syst,Fikret Çalışkan,Pazartesi,0830/1129,,54,90,KOM KOME,11301,2020 - 2021 Güz Dönemi
+KON 409,Bitirme Tasarım Prj. Giriş,Hakan Temeltaş,Perşembe,1030/1229,,27,40,KOM,11302,2020 - 2021 Güz Dönemi
+KON 409E,Int. to Senior Design Project,Hakan Temeltaş,Perşembe,1230/1429,,7,40,KOM KOME,11303,2020 - 2021 Güz Dönemi
+KON 411,Kontrol Lab.,Yaprak Yalçın,Perşembe,0830/1029,,29,30,KOM,11306,2020 - 2021 Güz Dönemi
+KON 411,Kontrol Lab.,Yaprak Yalçın,Çarşamba,0830/1029,,15,24,KOM,11304,2020 - 2021 Güz Dönemi
+KON 411,Kontrol Lab.,Yaprak Yalçın,Pazartesi,0830/1029,,11,24,KOM,11305,2020 - 2021 Güz Dönemi
+KON 411E,Control Laboratory,Ali Fuat Ergenç,Cuma,0830/1029,,28,30,KOM KOME,11307,2020 - 2021 Güz Dönemi
+KON 411E,Control Laboratory,Ali Fuat Ergenç,Çarşamba,1230/1429,,11,24,KOM KOME,11308,2020 - 2021 Güz Dönemi
+KON 413,Endüstriyel Otomasyon,Salman Kurtulan,Perşembe,1230/1629,,15,32,KOM,11309,2020 - 2021 Güz Dönemi
+KON 413E,Industrial Automation,--,Perşembe,1230/1629,,0,32,KOM KOME,11310,2020 - 2021 Güz Dönemi
+KON 419E,Control Sys. Dsgn. Project,Ali Fuat Ergenç,Pazartesi Cuma,1130/1229 1030/1129,,42,90,KOM KOME,11313,2020 - 2021 Güz Dönemi
+KON 422,Elektrikli Ulaşım Sistemleri,Salman Kurtulan,Çarşamba,1230/1529,,34,50,KOM,11314,2020 - 2021 Güz Dönemi
+KON 422E,Electrical Transportation Sys.,İlker Üstoğlu,Cuma,1400/1659,,0,50,KOM KOME,11315,2020 - 2021 Güz Dönemi
+KON 425E,Process Control,Tufan Kumbasar,Çarşamba,0830/1129,,46,50,KOM KOME,11316,2020 - 2021 Güz Dönemi
+KON 435E,Industrial Data Communications,Ali Fuat Ergenç,Pazartesi,1230/1629,,62,70,END ENDE KOM KOME,11317,2020 - 2021 Güz Dönemi
+KON 437E,Motion Control Systems,Ali Fuat Ergenç,Salı Salı,0830/1029 1030/1229,,13,50,KOM KOME,11318,2020 - 2021 Güz Dönemi
+KON 4901,Kontrol&Otom. Müh.Tasarımı I,Hakan Temeltaş,----,/,,24,500,KOM,11319,2020 - 2021 Güz Dönemi
+KON 4901E,Contr.&Automation Eng.Design I,Hakan Temeltaş,----,/,,1,500,KOM KOME,11320,2020 - 2021 Güz Dönemi
+KON 4902,Kontrol&Otom. Müh.Tasarımı II,--,----,/,,0,500,KOM,11321,2020 - 2021 Güz Dönemi
+KON 4902E,Contr.&Automation Eng.DesignII,--,----,/,,0,500,KOM KOME,11322,2020 - 2021 Güz Dönemi
+KON 492,Bitirme Tasarım Projesi,Hakan Temeltaş,----,/,,20,500,KOM,11323,2020 - 2021 Güz Dönemi
+KON 492E,Senior Design Project,Hakan Temeltaş,----,/,,3,500,KOM KOME,11324,2020 - 2021 Güz Dönemi

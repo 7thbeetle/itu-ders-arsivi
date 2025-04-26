@@ -1,0 +1,28 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEM 101,Gemi İnş.&Gem.Mak.M;..,Şebnem Helvacıoğlu,Salı,1030/1229,GDB,64,50,GEM,15672,2018 - 2019 Güz Dönemi
+GEM 111,Gemi İnş.&Gemi; Mak.Müh.Giriş,--,Salı,1030/1229,GDB,0,0,GEM GEMM,11786,2018 - 2019 Güz Dönemi
+GEM 211,Gemi Geometrisi,Reyhan Özsoysal,Cuma,1330/1629,GDB,43,55,DEN GEM GEMM,11789,2018 - 2019 Güz Dönemi
+GEM 211,Gemi Geometrisi,Burak Karacık,Perşembe,0930/1229,GDB,58,60,DEN GEM GEMM,10873,2018 - 2019 Güz Dönemi
+GEM 313E,Marine Engines,"Oğuz Salim Söğüt, Halil Saraçoğlu",Perşembe,1330/1729,GDB,63,60,GEM GEME,11795,2018 - 2019 Güz Dönemi
+GEM 314E,Methods Of Ship Production,İsmail Hakkı Helvacıoğlu,Salı,1330/1629,GDB,44,45,DEN DENE GEM GEME GEMK,10971,2018 - 2019 Güz Dönemi
+GEM 320,Hesap. Akışkanlar Dinam.Gir.,Uğur Oral Ünal,Cuma,1330/1629,GDB,26,20,GEM,11805,2018 - 2019 Güz Dönemi
+GEM 321E,Ship Theory,Metin Taylan,Pazartesi Cuma,1330/1529 1330/1529,GDB GDB,61,60,GEM GEME GEMK,11796,2018 - 2019 Güz Dönemi
+GEM 322,Gemi Mukavemeti,Ertekin Bayraktarkatal,Salı Çarşamba,1030/1229 1330/1529,GDB GDB,44,40,GEM GEMM,11797,2018 - 2019 Güz Dönemi
+GEM 322E,Strength of Ships,Gökhan Tansel Tayyar,Cuma,0830/1229,GDB,3,30,GEME GEMK,11801,2018 - 2019 Güz Dönemi
+GEM 331,Gemi Işletmeciliği,Erdem Üçer,Cuma,0830/1029,GDB,65,65,GEM GEMM,11798,2018 - 2019 Güz Dönemi
+GEM 331E,Shipping Economics,Barış Barlas,Salı,1030/1229,GDB,6,40,GEME GEMK,11799,2018 - 2019 Güz Dönemi
+GEM 341E,Ship Hydrodynamics,Emin Korkut,Salı Perşembe,0830/1029 0930/1229,GDB GDB,63,65,GEM GEME GEMK GEMM,11800,2018 - 2019 Güz Dönemi
+GEM 411,Gemi Tasarımı Projesi I,"Ömer Gören, Devrim Bülent Danışman, Ertekin Bayraktarkatal, Metin Taylan, Osman Azmi Özsoysal, Selma Ergin, Uğur Oral Ünal, Yalçın Ünsan, İsmail Yalçın, Şebnem Helvacıoğlu",Çarşamba,1030/1229,GDB,47,60,GEM,11802,2018 - 2019 Güz Dönemi
+GEM 411E,Ship Design Project I,Emin Korkut,Çarşamba,1030/1229,GDB,13,40,GEME GEMK,11803,2018 - 2019 Güz Dönemi
+GEM 413,Gemilerin Yapısal Dizaynı,Gökhan Tansel Tayyar,Cuma,1330/1629,GDB,17,20,GEM,11804,2018 - 2019 Güz Dönemi
+GEM 415E,Computer Aided Ship ..,Devrim Bülent Danışman,Salı,1330/1629,GDB,13,20,GEM GEME GEMK,11806,2018 - 2019 Güz Dönemi
+GEM 417E,Sailing Yacht Design,Şebnem Helvacıoğlu,Pazartesi,1030/1229,GDB,17,20,GEM GEME GEMK GEMM,11787,2018 - 2019 Güz Dönemi
+GEM 421,Gemi Hareket ve Manevraları,Ömer Gören,Pazartesi Çarşamba,1030/1229 0830/1029,GDB GDB,34,60,GEM GEMM,11827,2018 - 2019 Güz Dönemi
+GEM 421E,Ship Motions and Maneuvering,Şakir Bal,Pazartesi Çarşamba,1030/1229 0830/1029,GDB GDB,2,40,GEME GEMK,11828,2018 - 2019 Güz Dönemi
+GEM 423E,Advanced Propulsion Systems,Ali Can Takinacı,Çarşamba,1330/1529,GDB,26,25,GEM GEME GEMK,11810,2018 - 2019 Güz Dönemi
+GEM 427,Makina Dairesi Dizayn Prensipl,Osman Azmi Özsoysal,Cuma,1030/1229,GDB,23,25,GEM,11829,2018 - 2019 Güz Dönemi
+GEM 445,Gemi Boru Donanımları,Osman Azmi Özsoysal,Salı,1330/1529,GDB,21,20,GEM,11808,2018 - 2019 Güz Dönemi
+GEM 447E,Vent & Air Cond Sys For Ships,Selma Ergin,Pazartesi,0830/1029,GDB,28,25,DEN DENE GEM GEME GEMK,11826,2018 - 2019 Güz Dönemi
+GEM 453E,Automatic Control of Ships,Ahmet Ergün Palaz,Salı,1330/1629,GDB,26,25,GEM GEME GEMK,11807,2018 - 2019 Güz Dönemi
+GEM 492,Bitirme Tasarım Projesi,Emin Korkut,----,/,---,11,500,GEM,11830,2018 - 2019 Güz Dönemi
+GEM 492E,Graduation Design Project,Emin Korkut,----,/,---,5,500,GEM GEME GEMK,11831,2018 - 2019 Güz Dönemi

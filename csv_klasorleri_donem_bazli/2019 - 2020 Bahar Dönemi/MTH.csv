@@ -1,0 +1,21 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTH 101,Calculus I,--,Pazartesi Salı,1530/1729 0830/1129,EEB EEB,0,0,MBI SBL,20187,2019 - 2020 Bahar Dönemi
+MTH 102,Calculus II,--,Pazartesi Salı,1530/1729 0830/1129,MED MED,0,0,MBI SBL,22168,2019 - 2020 Bahar Dönemi
+MTH 102,Calculus II,Samet Yücel Kadıoğlu,Pazartesi Salı,1530/1729 0830/1129,EEB EEB,21,25,MBI SBL,20189,2019 - 2020 Bahar Dönemi
+MTH 103,Calculus I,--,Pazartesi Salı,1530/1729 0830/1129,MED MED,0,0,MCB SEN,20191,2019 - 2020 Bahar Dönemi
+MTH 104,Calculus II,Şenay Pasinlioğlu,Pazartesi Salı,1530/1729 0830/1129,MED MED,8,25,MCB SEN,20192,2019 - 2020 Bahar Dönemi
+MTH 105,Calculus I,Cihangir Özemir,Salı,0830/1129,EEB,5,25,SEK SIS,20194,2019 - 2020 Bahar Dönemi
+MTH 106,Calculus II,--,Cuma,0830/1129,MED,0,0,SEK SIS,22351,2019 - 2020 Bahar Dönemi
+MTH 106,Calculus II,Sevgi Harman,Salı,0830/1129,MED,20,25,SEK SIS,20196,2019 - 2020 Bahar Dönemi
+MTH 107,Calculus I,Seher Melike Aydoğan,Pazartesi Salı,1430/1729 0830/1129,INB INB,2,25,SCE SIN,20198,2019 - 2020 Bahar Dönemi
+MTH 108,Calculus II,Ahmet Duran,Pazartesi Salı,1430/1729 0830/1129,INB INB,23,25,SCE SIN,20201,2019 - 2020 Bahar Dönemi
+MTH 111,Linear Algebra,Bahri Güldoğan,Perşembe,1430/1729,MED,5,25,SBL SEK SEN,20203,2019 - 2020 Bahar Dönemi
+MTH 112,Discrete Mathematics,Tolga Ovatman,Pazartesi,0830/1129,EEB,21,45,SBL,21110,2019 - 2020 Bahar Dönemi
+MTH 118,Mathematics II,Kamil Oruçoğlu,Perşembe,0830/1329,GDB,32,50,DUIK GEMK GMIK MEN MTM NAE,20204,2019 - 2020 Bahar Dönemi
+MTH 118,Mathematics II,Cem Güzel,Cuma,0830/1329,DZB,69,75,DUIK GEMK GMIK MEN MTM NAE,23597,2019 - 2020 Bahar Dönemi
+MTH 123,Calculus,--,Salı,0830/1129,INB,0,0,STP,20207,2019 - 2020 Bahar Dönemi
+MTH 131,Mathematics I,--,Pazartesi Salı,1530/1729 0830/1129,EEB EEB,0,0,EHN,20184,2019 - 2020 Bahar Dönemi
+MTH 132,Mathematics II,Füsun Zengin,Pazartesi Salı,1530/1729 0830/1129,EEB MED,7,25,EHN SEH,20185,2019 - 2020 Bahar Dönemi
+MTH 204,Linear Algebra,Mehmet Ali Karaca,Çarşamba,0830/1129,EEB,44,50,DUIK GEMK GMIK MEN MTM NAE,20188,2019 - 2020 Bahar Dönemi
+MTH 204,Linear Algebra,Sabire Cömert,Cuma,0830/1129,DZB,26,50,DUIK GEMK GMIK MEN MTM NAE,23579,2019 - 2020 Bahar Dönemi
+MTH 271,Probability and Statistics,Ender Mete Ekşioğlu,Çarşamba,0830/1129,MED,6,30,EHN SEH,21129,2019 - 2020 Bahar Dönemi

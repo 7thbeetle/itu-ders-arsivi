@@ -1,0 +1,64 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+ELK 221,Elektrik Mühen. Temelleri,Fatma Gül Bağrıyanık,Cuma,0830/1129,EEB,21,40,CHZ GID ISL KMM MET TEK UCK,21313,2019 - 2020 Bahar Dönemi
+ELK 221,Elektrik Mühen. Temelleri,Fatma Gül Bağrıyanık,Çarşamba,0830/1129,EEB,27,40,CHZ GID ISL KMM MET TEK UCK,21316,2019 - 2020 Bahar Dönemi
+ELK 221,Elektrik Mühen. Temelleri,Fatma Gül Bağrıyanık,Pazartesi,1230/1529,EEB,40,40,CHZ GID ISL KMM MET TEK UCK,21315,2019 - 2020 Bahar Dönemi
+ELK 221E,Fundamentals of Electric. Eng.,Lale Erdem Atılgan,Salı,0830/1129,GDB,47,60,CHZE GIDE ISLE KMME METE PET PETE TEKE UZBE,21069,2019 - 2020 Bahar Dönemi
+ELK 221E,Fundamentals of Electric. Eng.,Zehra Elif Batman,Pazartesi,1230/1529,MDB,61,60,CHZE GIDE ISLE KMME PET PETE TEKE UZBE,21065,2019 - 2020 Bahar Dönemi
+ELK 221E,Fundamentals of Electric. Eng.,Zehra Elif Batman,Perşembe,1230/1529,MDB,65,60,CHZE GIDE ISLE KMME PET PETE TEKE UZBE,21067,2019 - 2020 Bahar Dönemi
+ELK 226,Elektrik-Elektronik Müh. Tem.,Ali Sinan Çabuk,Salı,0830/1129,MKB,65,65,IML MAK,21074,2019 - 2020 Bahar Dönemi
+ELK 226,Elektrik-Elektronik Müh. Tem.,Ali Saffet Altay,Çarşamba,0830/1129,MKB,56,65,IML MAK,21072,2019 - 2020 Bahar Dönemi
+ELK 226,Elektrik-Elektronik Müh. Tem.,Murat İmeryüz,Cuma,0830/1129,MKB,65,65,IML MAK,21071,2019 - 2020 Bahar Dönemi
+ELK 226,Elektrik-Elektronik Müh. Tem.,Ali Saffet Altay,Cuma,0830/1129,MKB,59,65,IML MAK,21077,2019 - 2020 Bahar Dönemi
+ELK 226E,Fund.of Electri.& Electro.Eng.,Ali Sinan Çabuk,Çarşamba,0830/1129,MKB,50,50,IML IMLE MAK MAKE MAKM,21078,2019 - 2020 Bahar Dönemi
+ELK 234E,Thermodynamics &Hydrodynamics,Ahmet Cansız,Salı,1230/1529,EEB,42,40,EHB EHBE ELK ELKE,21317,2019 - 2020 Bahar Dönemi
+ELK 312,Yüksek Gerilim Tekniği,Şükran Emel Önal,Perşembe,0830/1129,EEB,38,37,ELK,21319,2019 - 2020 Bahar Dönemi
+ELK 312,Yüksek Gerilim Tekniği,Suat İlhan,Perşembe,0830/1129,EEB,38,37,ELK,21320,2019 - 2020 Bahar Dönemi
+ELK 312,Yüksek Gerilim Tekniği,Özcan Kalenderli,Perşembe,0830/1129,EEB,38,37,ELK,21323,2019 - 2020 Bahar Dönemi
+ELK 312E,High Voltage Technique,Aydoğan Özdemir,Perşembe,0830/1129,EEB,33,35,ELK ELKE,21325,2019 - 2020 Bahar Dönemi
+ELK 322,Enerji İletim Sistemleri,Canan Karatekin,Pazartesi,1230/1529,EEB,43,40,ELK,21326,2019 - 2020 Bahar Dönemi
+ELK 322,Enerji İletim Sistemleri,Emine Ayaz,Pazartesi,1230/1529,EEB,43,40,ELK,21327,2019 - 2020 Bahar Dönemi
+ELK 322E,Power Transmission Systems,Ömer Usta,Pazartesi,1230/1529,EEB,42,40,ELK ELKE,21328,2019 - 2020 Bahar Dönemi
+ELK 322E,Power Transmission Systems,Ramazan Çağlar,Pazartesi,1230/1529,EEB,41,40,ELK ELKE,21329,2019 - 2020 Bahar Dönemi
+ELK 324,Küçük Elektrik Mak & Uyg,Murat Yılmaz,Salı,1230/1529,EEB,41,40,ELK,21330,2019 - 2020 Bahar Dönemi
+ELK 342,Güç Elektroniği Laboratuvarı,Deniz Yıldırım,Pazartesi,0930/1129,EEB,41,40,ELK KOM,21332,2019 - 2020 Bahar Dönemi
+ELK 342,Güç Elektroniği Laboratuvarı,Azmi Demirel,Perşembe,0930/1129,EEB,41,40,ELK KOM,21333,2019 - 2020 Bahar Dönemi
+ELK 342,Güç Elektroniği Laboratuvarı,Ali Sinan Çabuk,Cuma,1430/1629,EEB,44,40,ELK KOM,21331,2019 - 2020 Bahar Dönemi
+ELK 342E,Power Electronics Laboratory,Murat Yılmaz,Salı,0930/1129,EEB,40,40,ELK ELKE KOM KOME,21334,2019 - 2020 Bahar Dönemi
+ELK 342E,Power Electronics Laboratory,Özgür Üstün,Cuma,0830/1029,EEB,21,40,ELK ELKE KOM KOME,21335,2019 - 2020 Bahar Dönemi
+ELK 343,Elektromekanik Enerji Dönüşümü,Murat İmeryüz,Perşembe,1230/1529,EEB,61,55,ELK,21346,2019 - 2020 Bahar Dönemi
+ELK 346E,Data Acquisition&Embedded Syst,Tahir Çetin Akıncı,Çarşamba,1230/1529,EEB,40,40,ELK ELKE,21347,2019 - 2020 Bahar Dönemi
+ELK 356,Elektrik Makinaları,Güven Kömürgöz Kırış,Çarşamba,0830/1129,EEB,33,35,ELK KOM,21345,2019 - 2020 Bahar Dönemi
+ELK 356,Elektrik Makinaları,Derya Ahmet Kocabaş,Çarşamba,0830/1129,EEB,31,35,ELK KOM,21348,2019 - 2020 Bahar Dönemi
+ELK 356E,Electrical Machines,Lale Ergene,Çarşamba,0830/1129,EEB,30,35,ELK ELKE KOME,21349,2019 - 2020 Bahar Dönemi
+ELK 364E,Fundmnt of Super Conductivity,Ahmet Cansız,Çarşamba,1230/1529,EEB,40,40,ELK ELKE,21350,2019 - 2020 Bahar Dönemi
+ELK 414,Elk Mak Aşırı Zorlanmalar,Güven Kömürgöz Kırış,Perşembe,0830/1129,EEB,5,5,ELK,21344,2019 - 2020 Bahar Dönemi
+ELK 418,Elektrik Enerjisi Dağıtımı,Ayşen Demirören,Salı,0830/1129,EEB,40,40,ELK,21343,2019 - 2020 Bahar Dönemi
+ELK 418,Elektrik Enerjisi Dağıtımı,Belgin Türkay,Salı,0830/1129,EEB,40,40,ELK,21351,2019 - 2020 Bahar Dönemi
+ELK 418,Elektrik Enerjisi Dağıtımı,Ömer Gül,Salı,0830/1129,EEB,36,40,ELK,21352,2019 - 2020 Bahar Dönemi
+ELK 418E,Distribution of Electr. Energy,Mustafa Bağrıyanık,Salı,0830/1129,EEB,37,35,ELK ELKE,21353,2019 - 2020 Bahar Dönemi
+ELK 420,Elektrik Dağıtım Otomas.Lab.,Fatma Gül Bağrıyanık,Salı,1230/1429,EEB,34,35,ELK,21355,2019 - 2020 Bahar Dönemi
+ELK 420,Elektrik Dağıtım Otomas.Lab.,Fatma Gül Bağrıyanık,Salı,1430/1629,EEB,28,35,ELK,21356,2019 - 2020 Bahar Dönemi
+ELK 420,Elektrik Dağıtım Otomas.Lab.,Zehra Elif Batman,Çarşamba,1230/1429,EEB,29,35,ELK,21354,2019 - 2020 Bahar Dönemi
+ELK 420E,Elect.Distribution Auto. Lab.,Zehra Elif Batman,Cuma,1400/1559,EEB,12,35,ELK ELKE,21357,2019 - 2020 Bahar Dönemi
+ELK 428,Elektrikli ve Karma Taşıtlar,Murat Yılmaz,Cuma,0830/1129,EEB,44,40,ELK,21338,2019 - 2020 Bahar Dönemi
+ELK 428E,Electric and Hybrid Vehicles,Özgür Üstün,Çarşamba,0830/1129,EEB,40,40,ELK ELKE,21336,2019 - 2020 Bahar Dönemi
+ELK 436,Yüksek Gerilim Ölçme Lab,Özcan Kalenderli,Perşembe,1230/1529,EEB,37,30,ELK,21339,2019 - 2020 Bahar Dönemi
+ELK 453,Güç Elektroniği End. Uyg I,--,Perşembe,1230/1529,EEB,0,0,ELK KOM,21340,2019 - 2020 Bahar Dönemi
+ELK 453E,Indst Appl of Power Elc. I,Salih Barış Öztürk,Perşembe,1230/1529,EEB,38,40,ELK ELKE KOM KOME,21337,2019 - 2020 Bahar Dönemi
+ELK 458,Elektrik Mühendisliği Projesi,Ömer Gül,Pazartesi,0830/1129,EEB,16,16,ELK,21358,2019 - 2020 Bahar Dönemi
+ELK 458,Elektrik Mühendisliği Projesi,Ayşen Demirören,Perşembe,1230/1529,EEB,15,16,ELK,21341,2019 - 2020 Bahar Dönemi
+ELK 458E,Electrical Engineering Project,Suat İlhan,Pazartesi,0830/1129,EEB,16,16,ELK ELKE,21359,2019 - 2020 Bahar Dönemi
+ELK 458E,Electrical Engineering Project,Derya Ahmet Kocabaş,Pazartesi,0830/1129,EEB,16,16,ELK ELKE,21360,2019 - 2020 Bahar Dönemi
+ELK 458E,Electrical Engineering Project,Lale Erdem Atılgan,Pazartesi,0830/1129,EEB,17,16,ELK ELKE,21361,2019 - 2020 Bahar Dönemi
+ELK 464,Elk Tesislerinde Koruma Tek,Hatice Lale Zeynelgil,Çarşamba,1230/1529,EEB,42,41,ELK,21362,2019 - 2020 Bahar Dönemi
+ELK 472E,Renewable Energy Systems,Deniz Yıldırım,Perşembe,1230/1529,EEB,9,40,ELK ELKE,21363,2019 - 2020 Bahar Dönemi
+ELK 474E,Power Syst Cntrl & Comm,Ömer Usta,Cuma,0830/1129,EEB,40,40,ELK ELKE,21364,2019 - 2020 Bahar Dönemi
+ELK 488,Elektrikli Sürücü Sistemleri,Murat İmeryüz,Perşembe,0830/1129,EEB,38,40,ELK KOM,21365,2019 - 2020 Bahar Dönemi
+ELK 488E,Electric Drive Systems,Derya Ahmet Kocabaş,Perşembe,0830/1129,EEB,9,40,ELK ELKE KOME,21366,2019 - 2020 Bahar Dönemi
+ELK 4901,Elektrik Müh. Tasarımı I,Emine Ayaz,----,/,EEB,1,500,ELK,23686,2019 - 2020 Bahar Dönemi
+ELK 4901E,Electrical Eng. Design I,Emine Ayaz,----,/,EEB,2,500,ELK ELKE,23687,2019 - 2020 Bahar Dönemi
+ELK 4902,Elektrik Müh. Tasarımı II,--,----,/,EEB,0,0,ELK,23684,2019 - 2020 Bahar Dönemi
+ELK 4902E,Electrical Eng. Design II,--,----,/,EEB,0,0,ELK ELKE,23685,2019 - 2020 Bahar Dönemi
+ELK 492,Bitirme Tasarım Projesi,Emine Ayaz,----,/,EEB,73,500,ELK,21367,2019 - 2020 Bahar Dönemi
+ELK 492E,Graduation Design Project,Emine Ayaz,----,/,EEB,17,500,ELK ELKE,21368,2019 - 2020 Bahar Dönemi
+ELK 496E,Power Sys.Dynamics & Stability,Veysel Murat İstemihan Genç,Çarşamba,1230/1529,EEB,30,40,ELK ELKE,21369,2019 - 2020 Bahar Dönemi

@@ -1,0 +1,87 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTO 102,Bilgisayarlı Teknik Resim,Hüsnü Barbaros Soyer,Perşembe,1330/1629,UUB / BIL1,95,97,MTO,22855,2023 - 2024 Bahar Dönemi
+MTO 112,Meteoroloji Alet & Gözlem Usul,"Levent Şaylan, Barış Çaldağ","Salı
+Perşembe","0930/1129
+0930/1129","UUB
+UUB / D110
+D110",99,110,MTO,22854,2023 - 2024 Bahar Dönemi
+MTO 214,Atmosfer Termodinamiği,Kasım Koçak,"Pazartesi
+Salı","1130/1329
+1230/1429","UUB
+UUB / D215
+D215",35,35,MTO,22858,2023 - 2024 Bahar Dönemi
+MTO 214E,Atmospheric Thermodynamics,Ahmet Duran Şahin,"Pazartesi
+Salı","1130/1329
+1230/1429","UUB
+UUB / D108
+D108",35,35,"MTO, MTOE",22859,2023 - 2024 Bahar Dönemi
+MTO 222,Hidroloji,Barış Çaldağ,"Perşembe
+Cuma","1430/1629
+0830/1029","UUB
+UUB / D111
+D111",68,70,MTO,22857,2023 - 2024 Bahar Dönemi
+MTO 223,Bilgisayar Grafiğine Giriş,Barış Önol,Cuma,1430/1729,UUB / BIL1,41,55,MTO,22880,2023 - 2024 Bahar Dönemi
+MTO 229E,Physics ofClouds&Precipitation,Sevinç Asilhan,Perşembe,1130/1429,UUB / D111,17,70,"MTO, MTOE",22870,2023 - 2024 Bahar Dönemi
+MTO 254,İklim Bilimi,Yurdanur Ünal,Salı,1430/1729,UUB / D209,38,45,"MTO, MTOM",22864,2023 - 2024 Bahar Dönemi
+MTO 254E,Climatology,Barış Önol,Salı,1430/1729,UUB / D111,42,45,"MTO, MTOE",22865,2023 - 2024 Bahar Dönemi
+MTO 302,Hava Analizi ve Öngörü I,Şükran Sibel Menteş,"Salı
+Perşembe","0930/1129
+0830/1029","UUB
+UUB / D215
+D210",40,60,MTO,22871,2023 - 2024 Bahar Dönemi
+MTO 304,Havacılık Meteorolojisi,Emrah Tuncay Özdemir,Pazartesi,1130/1329,GDB / D401,84,90,MTO,22868,2023 - 2024 Bahar Dönemi
+MTO 337E,Atmospheric Dynamics I,Elçin Tan,"Pazartesi
+Çarşamba","1530/1729
+1130/1329","UUB
+UUB / D110
+D110",45,55,"MTO, MTOE",22874,2023 - 2024 Bahar Dönemi
+MTO 340,Atmosfer Dinamiği II,"Emrah Tuncay Özdemir, Ali Deniz","Pazartesi
+Çarşamba","1530/1729
+1130/1329","UUB
+UUB / D109
+D113",36,35,MTO,22875,2023 - 2024 Bahar Dönemi
+MTO 340E,Atmospheric Dynamics II,Yurdanur Ünal,"Pazartesi
+Çarşamba","1530/1729
+1130/1329","UUB
+UUB / D210
+D213",19,35,"MTO, MTOE",24544,2023 - 2024 Bahar Dönemi
+MTO 351E,Hydrometeorology,--,Salı,1430/1729,UUB / ---,0,0,"MTO, MTOE",22882,2023 - 2024 Bahar Dönemi
+MTO 354,Tarım & Orman Meteorolojisi II,Levent Şaylan,Pazartesi,0830/1129,UUB / D108,10,13,MTO,22908,2023 - 2024 Bahar Dönemi
+MTO 361,Hava Kirliliği Modellemesi,Hüseyin Toros,Perşembe,0830/1129,UUB / D215,6,15,MTO,25073,2023 - 2024 Bahar Dönemi
+MTO 362,İnsans.Hava Sis.ile Meteo.Uyg.,"Emrah Tuncay Özdemir, Orkan Özcan",Salı,1130/1429,UUB / D110,16,10,MTO,22902,2023 - 2024 Bahar Dönemi
+MTO 388,Coğrafi Bilgi Bilimi,Filiz Türk Katırcıoğlu,Cuma,0930/1229,UUB / BIL1,23,70,MTO,22894,2023 - 2024 Bahar Dönemi
+MTO 426E,Micrometeorology,Ceyhan Kahya,Perşembe,1130/1429,UUB / D110,57,70,"MTO, MTOE",22907,2023 - 2024 Bahar Dönemi
+MTO 445E,Weather Anly&Prediction II,Mikdat Kadıoğlu,"Salı
+Çarşamba","0930/1129
+0830/1129","UUB
+UUB / D210
+D210",37,40,"MTO, MTOE",22895,2023 - 2024 Bahar Dönemi
+MTO 456,Hava Kirliliği Kontrolü,Ceyhan Kahya,Çarşamba,0830/1129,UUB / D109,15,15,MTO,22877,2023 - 2024 Bahar Dönemi
+MTO 459E,Intro.Gen.Circ.Earth's.Atm.,Deniz Demirhan,Salı,1130/1429,UUB / D109,21,15,"MTO, MTOE",22883,2023 - 2024 Bahar Dönemi
+MTO 460,Enerji Meteorolojisine Giriş,Şükran Sibel Menteş,Çarşamba,0830/1129,UUB / D113,16,15,MTO,22887,2023 - 2024 Bahar Dönemi
+MTO 460E,Intr. to Energy Meteorology,Ahmet Duran Şahin,Perşembe,1430/1729,UUB / D209,26,26,"MTO, MTOE",22888,2023 - 2024 Bahar Dönemi
+MTO 461E,Intr. to Planetary Atmospheres,Zerefşan Kaymaz,Perşembe,1430/1729,UUB / D213,27,16,"FIZ, FIZE, MTO, MTOE",22884,2023 - 2024 Bahar Dönemi
+MTO 462E,Severe and Hazardous Weather,Filiz Türk Katırcıoğlu,Salı,1430/1729,UUB / D213,21,18,"MTO, MTOE",22886,2023 - 2024 Bahar Dönemi
+MTO 463E,Numerical Weather Prediction,Sevinç Asilhan,Salı,1430/1729,UUB / D108,20,20,"MTO, MTOE",25093,2023 - 2024 Bahar Dönemi
+MTO 4902,Meteoroloji Müh. Tasarımı II,Mikdat Kadıoğlu,----,/,UUB / ---,47,500,MTO,22914,2023 - 2024 Bahar Dönemi
+MTO 492,Bitirme Çalışması,Mikdat Kadıoğlu,----,/,UUB / ---,2,500,MTO,22910,2023 - 2024 Bahar Dönemi
+MTO 492E,Graduation Project,--,----,/,UUB / ---,0,0,"MTO, MTOE",22911,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Mikdat Kadıoğlu,----,/,UUB / ---,3,4,MTO,22913,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Levent Şaylan,----,/,UUB / ---,0,4,MTO,23794,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Kasım Koçak,----,/,UUB / ---,4,4,MTO,23795,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Zerefşan Kaymaz,----,/,UUB / ---,3,4,MTO,23796,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Ahmet Duran Şahin,----,/,UUB / ---,5,4,MTO,23797,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Yurdanur Ünal,----,/,UUB / ---,3,4,MTO,23799,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Şükran Sibel Menteş,----,/,UUB / ---,2,4,MTO,23800,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Sevinç Asilhan,----,/,UUB / ---,0,4,MTO,23801,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Ali Deniz,----,/,UUB / ---,1,4,MTO,23803,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Hüseyin Toros,----,/,UUB / ---,4,4,MTO,23804,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Barış Önol,----,/,UUB / ---,3,4,MTO,23805,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Elçin Tan,----,/,UUB / ---,5,6,MTO,23806,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Ahmet Öztopal,----,/,UUB / ---,3,4,MTO,23807,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Barış Çaldağ,----,/,UUB / ---,0,4,MTO,23808,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Bahtiyar Efe,----,/,UUB / ---,1,4,MTO,23809,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Ceyhan Kahya,----,/,UUB / ---,3,4,MTO,23810,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Deniz Demirhan,----,/,UUB / ---,1,4,MTO,23811,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Filiz Türk Katırcıoğlu,----,/,UUB / ---,2,4,MTO,23812,2023 - 2024 Bahar Dönemi
+MTO 494,Araştırma Projesi,Emrah Tuncay Özdemir,----,/,UUB / ---,2,4,MTO,24466,2023 - 2024 Bahar Dönemi

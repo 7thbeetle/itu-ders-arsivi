@@ -1,0 +1,60 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BIL 100E,Intr.to Prog.Language(PYTHON),Ali Bahadır,Cuma Cuma,1400/1459 1500/1659,EEB EEB,15,40,EHB EHBE,25579,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Cüneyt Hüseyin Ünlü,Cuma,1330/1629,MED,36,35,KIM,25454,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Kadir Çiçek,Cuma,1130/1429,DZB,57,70,GMI GMIE,23554,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Berfin Kalay,Cuma Cuma,0930/1029 1030/1229,MED MED,32,40,ECNE END ENDE EUT EUTE ICM ISL ISLE MIM MIME PEM PEME SBP SBPE,20227,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Erke Arıbaş,Cuma Cuma,0930/1029 1030/1229,MED MED,37,40,EUT EUTE MTO MTOE,20220,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Kadir Çiçek,Cuma,0830/1129,DZB,67,70,DUI DUIE GMI GMIE,23553,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Berfin Kalay,Perşembe Perşembe,1330/1429 1430/1629,MED MED,36,40,ICM MIM MIME PET PETE,20226,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Erke Arıbaş,Perşembe Perşembe,1330/1429 1430/1629,MED MED,37,40,CHZ CHZE ECNE END ENDE ICM ISL ISLE JEF JEFE MAD MADE PEM PEME,20219,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Berfin Kalay,Perşembe Perşembe,0930/1029 1030/1229,MED MED,31,40,DEN DENE ECNE END ENDE GEM GEME GID GIDE ICM ISL ISLE MIM MIME PEM PEME SBP SBPE,20225,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Erke Arıbaş,Perşembe Perşembe,0930/1029 1030/1229,MED MED,27,40,EUT EUTE GID GIDE ICM MIM MIME SBP SBPE,20224,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Berfin Kalay,Çarşamba Çarşamba,1230/1329 1330/1529,MED MED,37,40,ICM MIM MIME PEM PEME,20223,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Erke Arıbaş,Çarşamba Çarşamba,1230/1329 1330/1529,MED MED,40,40,MIM MIME MTO MTOE PET PETE UCK UCKE UZB UZBE,20218,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Serkan Türkeli,Çarşamba Çarşamba,1030/1129 1130/1329,FEB FEB,5,40,KOM KOME,25580,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Evren Dağlarlı,Çarşamba Çarşamba,0930/1029 1030/1229,MED MED,39,40,GID GIDE,20222,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Ömer Özyıldırım,Çarşamba Çarşamba,0930/1029 1030/1229,MED MED,29,40,BIO BIOE EUT EUTE ICM IML IMLE MAK MAKE MET METE MIM MIME PEM PEME SBP SBPE TEK TEKE,20212,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Ziyadin Çakır,Salı,1330/1629,MDB,45,45,JEO JEOE,22187,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Evren Dağlarlı,Salı Salı,1330/1429 1430/1629,MED MED,34,40,EUTE FIZ FIZE ICM KIM KIME MAT MATE MIM MIME PEM PEME,20217,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Ömer Özyıldırım,Salı Salı,1330/1429 1430/1629,MED MED,36,40,ECNE END ENDE ICM ISL ISLE MIM MIME PEM PEME,20215,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Evren Dağlarlı,Salı Salı,0930/1029 1030/1229,MED MED,37,40,BIO BIOE GEO GEOE GID GIDE ICM INS INSE JDF MET METE PET PETE,20216,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Ömer Özyıldırım,Salı Salı,0930/1029 1030/1229,MED MED,38,40,CEV CEVE ECNE END ENDE EUT EUTE ICM ISL ISLE MIM MIME SBP SBPE,20211,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),İbrahim Çatalkaya,Pazartesi Pazartesi,1330/1429 1430/1629,INB INB,19,40,EHB EHBE,25578,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Evren Dağlarlı,Pazartesi Pazartesi,1330/1429 1430/1629,MED MED,36,40,FIZ FIZE ICM ISL ISLE KIM KIME KMM KMME MAT MATE MIM MIME,20214,2017 - 2018 Bahar Dönemi
+BIL 100E,Intr.to Prog.Language(PYTHON),Ömer Özyıldırım,Pazartesi Pazartesi,1330/1429 1430/1629,MED MED,36,40,BIO BIOE GID GIDE ICM MET METE MIM MIME SBP SBPE,20210,2017 - 2018 Bahar Dönemi
+BIL 110E,Intr. to Prog. Language (C),Kudret Tahsin Perek,Cuma Cuma,1430/1529 1530/1729,MDB MDB,34,40,CHZ CHZE,22729,2017 - 2018 Bahar Dönemi
+BIL 110E,Intr. to Prog. Language (C),Tahir Çetin Akıncı,Cuma Cuma,0930/1029 1030/1229,FEB FEB,44,40,ELK ELKE,25306,2017 - 2018 Bahar Dönemi
+BIL 110E,Intr. to Prog. Language (C),Ali Evren Göksungur,Perşembe Perşembe,0930/1029 1030/1229,EEB EEB,52,40,ELK ELKE,25307,2017 - 2018 Bahar Dönemi
+BIL 110E,Intr. to Prog. Language (C),Yaşar Erenler,Çarşamba,1230/1529,EEB,17,40,ELK ELKE KOM KOME,25766,2017 - 2018 Bahar Dönemi
+BIL 110E,Intr. to Prog. Language (C),Murat Şimşek,Çarşamba,1130/1429,UUB,16,20,UZB UZBE,25767,2017 - 2018 Bahar Dönemi
+BIL 110E,Intr. to Prog. Language (C),Sıddık Murat Yeşiloğlu,Çarşamba Çarşamba,0930/1029 1030/1229,EEB EEB,52,40,KOM KOME,25305,2017 - 2018 Bahar Dönemi
+BIL 112E,Intr.to Prog.Language(FORTRAN),Ömer Faruk Beyca,Perşembe,1330/1629,ISB,32,40,SEN,24821,2017 - 2018 Bahar Dönemi
+BIL 112E,Intr.to Prog.Language(FORTRAN),Doğa Doğan,Perşembe,0830/1129,MDB,56,50,JEF JEFE PET PETE,22713,2017 - 2018 Bahar Dönemi
+BIL 112E,Intr.to Prog.Language(FORTRAN),Ahmet Öztopal,Çarşamba,0830/1129,UUB,83,80,MTO MTOE,22792,2017 - 2018 Bahar Dönemi
+BIL 112E,Intr.to Prog.Language(FORTRAN),Yaşar Erenler,Salı,1330/1629,INB,37,35,FIZ JEF MTO SEN,25743,2017 - 2018 Bahar Dönemi
+BIL 112E,Intr.to Prog.Language(FORTRAN),Mehmet Kerim Ramazanoğlu,Salı,1330/1629,FEB,40,35,FIZ FIZE,20151,2017 - 2018 Bahar Dönemi
+BIL 112E,Intr.to Prog.Language(FORTRAN),Cemil Kurtcebe,Pazartesi,1330/1629,UUB,58,60,UCK UCKE,25333,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),--,Cuma,1330/1629,ISB,0,0,ISL ISLE,21978,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Bülent Güloğlu,Cuma,0930/1229,ISB,69,70,ECNE,25181,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Senem Kurşun Bahadır,Cuma,0930/1229,MKB,17,40,GIDE TEKE,25143,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Cüneyt Vatansever,Cuma,0930/1229,INB,29,39,INS INSE,21997,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Gökhan Çevikbilen,Cuma,0930/1229,INB,30,39,INS INSE,21988,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Kaya Tokmakçıoğlu,Cuma,0930/1229,ISB,60,60,ISL ISLE,21979,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Deniz Bayraktar,Cuma,0930/1229,GDB,42,28,DEN DENE,21662,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Ömür Acaroğlu Ergün,Cuma,0830/1129,MDB,31,50,MAD MADE,22419,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),İlkay Özsev Yüksek,Perşembe,1330/1629,MKB,40,40,TEKE,25142,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Cüneyt Hüseyin Ünlü,Perşembe,1330/1629,EEB,26,30,KIM KIME,25138,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Çiğdem Oral,Perşembe,1330/1629,KMB,55,55,KMM KMME MET METE,22231,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Aslı Yalçın Dayıoğlu,Perşembe,1330/1629,INB,38,39,INS INSE,21992,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Nilay Çelik Muhtaroğlu,Perşembe,1330/1629,INB,37,39,INS INSE,21984,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Halil Bayraktar,Perşembe,0930/1229,FEB,45,45,BIO BIOE,25205,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Ahmet Sirkecioğlu,Çarşamba Çarşamba,1230/1429 1430/1529,KMB KMB,56,55,MET METE,25320,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Osman Eksik,Çarşamba,0930/1229,KMB,55,55,KMM KMME MET METE,22229,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Mustafa Hatipoğlu,Çarşamba,0930/1229,INB,40,39,INS INSE,21993,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),"İpek Akın Karadayı, Mehmet Şeref Sönmez",Salı,1430/1729,KMB,56,55,MET METE,25319,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Ata Bilgili,Salı,1330/1629,DZB,27,45,DUI DUIE GMI GMIE,25140,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Erdem Üçer,Salı,1330/1629,GDB,33,32,GEM GEME,21720,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Ramazan Yeniçeri,Salı,1330/1629,UUB,50,50,UCK UZBE,21623,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Ata Bilgili,Salı,0930/1229,DZB,50,50,DUI DUIE GMI GMIE,25139,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),"Bilge Tutak, Sevil Deniz Yakan Dündar",Salı,0930/1229,GDB,31,28,DEN DENE,21660,2017 - 2018 Bahar Dönemi
+BIL 113E,Intr.to Sci& Eng.Comp.(MATLAB),Ramazan Yeniçeri,Pazartesi,0830/1129,UUB,56,50,UCK UZBE,21669,2017 - 2018 Bahar Dönemi

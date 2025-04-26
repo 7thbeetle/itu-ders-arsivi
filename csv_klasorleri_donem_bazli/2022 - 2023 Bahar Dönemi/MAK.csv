@@ -1,0 +1,247 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MAK 101,Makine Müh. Giriş ve Etik,İsmail Yalçın Uralcan,Çarşamba,1330/1529,MKB / D355,86,250,MAK,22156,2022 - 2023 Bahar Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Bülent Bölat,Pazartesi,0830/1129,MKB / 404,25,60,"IML, MAK",22157,2022 - 2023 Bahar Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Atakan Altınkaynak,Pazartesi,0830/1129,MKB / 406,60,60,"IML, MAK",22158,2022 - 2023 Bahar Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Hülya Yalçın,Pazartesi,0830/1129,MKB / 409,39,60,"IML, MAK",22159,2022 - 2023 Bahar Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Kubilay Yay,Perşembe,0830/1129,MKB / 406,71,70,"IML, MAK",22160,2022 - 2023 Bahar Dönemi
+MAK 104E,Intr to Comp in Mech. Eng (C),Bülent Bölat,Perşembe,1330/1629,MKB / 406,42,60,"IML, MAK",22161,2022 - 2023 Bahar Dönemi
+MAK 105,Makine Tasarımına Giriş,--,"Salı
+Perşembe","0830/1029
+0830/1129","MKB
+MKB / ---
+---",0,0,"IML, MAK",22162,2022 - 2023 Bahar Dönemi
+MAK 105,Makine Tasarımına Giriş,--,"Salı
+Perşembe","0830/1029
+0830/1129","MKB
+MKB / ---
+---",0,0,"IML, MAK",22163,2022 - 2023 Bahar Dönemi
+MAK 105,Makine Tasarımına Giriş,"Yusuf Ziya Kocabal, Cevat Erdem İmrak","Salı
+Perşembe","0830/1029
+0830/1129","MKB
+MKB / R362
+R362",42,60,"IML, MAK",22164,2022 - 2023 Bahar Dönemi
+MAK 105,Makine Tasarımına Giriş,Yusuf Ziya Kocabal,"Çarşamba
+Cuma","0830/1029
+0830/1129","MKB
+MKB / R358
+R358",61,60,"IML, MAK",22165,2022 - 2023 Bahar Dönemi
+MAK 110E,Comput.Aided Technical Drawing,Ali İmre Aydeniz,Çarşamba,0830/1229,MKB / 409,25,80,"IML, MAK, MKN",22174,2022 - 2023 Bahar Dönemi
+MAK 110E,Comput.Aided Technical Drawing,Ali İmre Aydeniz,Perşembe,0830/1229,MKB / 409,49,80,"IML, MAK, MKN",22178,2022 - 2023 Bahar Dönemi
+MAK 110E,Comput.Aided Technical Drawing,Erkan Günpınar,Cuma,0830/1229,MKB / 409,80,80,"IML, MAK, MKN",22179,2022 - 2023 Bahar Dönemi
+MAK 114,Lineer Cebir ve Uygulamaları,Merve Acer,Salı,0830/1129,MKB / A363,80,80,"IML, MAK",22180,2022 - 2023 Bahar Dönemi
+MAK 114,Lineer Cebir ve Uygulamaları,Zeki Yağız Bayraktaroğlu,Salı,0830/1129,MKB / A501,80,80,"IML, MAK",24135,2022 - 2023 Bahar Dönemi
+MAK 114,Lineer Cebir ve Uygulamaları,Bülent Bölat,Salı,0830/1129,MKB / D331,67,80,"IML, MAK",24138,2022 - 2023 Bahar Dönemi
+MAK 118,Statik,Emrecan Söylemez,Salı,1330/1629,MKB / R362,77,80,"MAK, MKN",22182,2022 - 2023 Bahar Dönemi
+MAK 118,Statik,Mehmet Salih Dokuz,Salı,1330/1629,MKB / A201,80,80,"MAK, MKN",22183,2022 - 2023 Bahar Dönemi
+MAK 118,Statik,Sevinç Ayşe Zaloğlu,Salı,1330/1629,MKB / A501,80,80,"MAK, MKN",22184,2022 - 2023 Bahar Dönemi
+MAK 200,Atölye,Serpil Kurt Habiboğlu,----,/,MKB / ---,71,80,"IML, MAK",22186,2022 - 2023 Bahar Dönemi
+MAK 200,Atölye,Yusuf Ziya Kocabal,----,/,MKB / ---,80,80,"IML, MAK",22188,2022 - 2023 Bahar Dönemi
+MAK 202E,Numerical Meth.for Mech. Eng.,Alper Tolga Çalık,Pazartesi,0830/1129,MKB / D351,76,80,"IML, MAK",22191,2022 - 2023 Bahar Dönemi
+MAK 202E,Numerical Meth.for Mech. Eng.,Hikmet Arslan,Pazartesi,0830/1129,MKB / D353,24,80,"IML, MAK",22193,2022 - 2023 Bahar Dönemi
+MAK 202E,Numerical Meth.for Mech. Eng.,Alper Tolga Çalık,Pazartesi,1430/1729,MKB / D355,56,80,"IML, MAK",22194,2022 - 2023 Bahar Dönemi
+MAK 210E,Engineering Mathematics,Barış Doğru,"Çarşamba
+Perşembe","1330/1529
+1330/1529","MKB
+MKB / R354
+R354",48,80,"IML, IMLE, MAK, MAKE",22196,2022 - 2023 Bahar Dönemi
+MAK 210E,Engineering Mathematics,Merve Acer,"Çarşamba
+Perşembe","1330/1529
+1330/1529","MKB
+MKB / A363
+A363",80,80,"IML, IMLE, MAK, MAKE",22198,2022 - 2023 Bahar Dönemi
+MAK 210E,Engineering Mathematics,--,"Çarşamba
+Perşembe","1330/1529
+1330/1529","MKB
+MKB / ---
+---",0,0,"IML, IMLE, MAK, MAKE",24382,2022 - 2023 Bahar Dönemi
+MAK 211E,Probability and Statistics,Hakan Öksüzoğlu,Salı,0830/1129,MKB / D359,28,80,"IML, MAK",22202,2022 - 2023 Bahar Dönemi
+MAK 213,Malzeme Bilimi,Celaletdin Ergun,"Pazartesi
+Cuma","1530/1729
+1600/1759","MKB
+MKB / A201
+A201",79,80,"IML, MAK",22208,2022 - 2023 Bahar Dönemi
+MAK 215,Termodinamik I,Yakup Erhan Böke,"Salı
+Cuma","1530/1729
+1500/1559","MKB
+MKB / A363
+A201",70,70,MAK,22222,2022 - 2023 Bahar Dönemi
+MAK 215,Termodinamik I,Bayram Şahin,"Salı
+Cuma","1530/1729
+1500/1559","MKB
+MKB / A101
+A501",62,70,MAK,22224,2022 - 2023 Bahar Dönemi
+MAK 215,Termodinamik I,Mustafa Özdemir,"Salı
+Cuma","1530/1729
+1500/1559","MKB
+MKB / D355
+D355",70,70,MAK,23486,2022 - 2023 Bahar Dönemi
+MAK 217,Dinamik,Sevinç Ayşe Zaloğlu,"Pazartesi
+Cuma","1330/1529
+1030/1229","MKB
+MKB / A201
+A201",99,100,"MAK, MAKM, MKN",22292,2022 - 2023 Bahar Dönemi
+MAK 217,Dinamik,Mehmet Salih Dokuz,"Pazartesi
+Cuma","1530/1729
+1500/1659","MKB
+MKB / A363
+A363",23,100,"MAK, MAKM, MKN",22296,2022 - 2023 Bahar Dönemi
+MAK 219,Mukavemet I,Uğurcan Eroğlu,"Salı
+Perşembe","1330/1529
+1530/1729","MKB
+MKB / D318
+D318",144,180,"MAK, MKN",22300,2022 - 2023 Bahar Dönemi
+MAK 220,Mukavemet II,Süreyya Ergün Bozdağ,"Salı
+Perşembe","1330/1529
+1530/1729","MKB
+MKB / A363
+A363",29,100,"MAK, MKN",22303,2022 - 2023 Bahar Dönemi
+MAK 220,Mukavemet II,Emin Sünbüloğlu,"Salı
+Perşembe","1330/1529
+1530/1729","MKB
+MKB / A101
+A101",70,100,"MAK, MKN",23107,2022 - 2023 Bahar Dönemi
+MAK 224E,Engineering Materials,Ersan Üstündağ,Pazartesi,1130/1329,MKB / A201,93,100,"IML, MAK",22335,2022 - 2023 Bahar Dönemi
+MAK 224E,Engineering Materials,Levent Trabzon,Salı,1130/1329,MKB / A363,76,100,"IML, MAK",22324,2022 - 2023 Bahar Dönemi
+MAK 226,Termodinamik II,Ayşegül Abuşoğlu,"Perşembe
+Cuma","1230/1329
+1030/1229","MKB
+MKB / A501
+A501",101,100,MAK,22362,2022 - 2023 Bahar Dönemi
+MAK 226,Termodinamik II,Seyhan Onbaşıoğlu,"Perşembe
+Cuma","1230/1329
+1030/1229","MKB
+MKB / A363
+A363",81,100,MAK,22369,2022 - 2023 Bahar Dönemi
+MAK 228,Akışkanlar Mekaniği I,Erkan Ayder,Pazartesi,1130/1429,MKB / A101,60,60,"MAK, MAKM",22412,2022 - 2023 Bahar Dönemi
+MAK 228,Akışkanlar Mekaniği I,Kadir Kırkköprü,Pazartesi,1130/1429,MKB / A363,57,60,"MAK, MAKM",22413,2022 - 2023 Bahar Dönemi
+MAK 228,Akışkanlar Mekaniği I,Levent Ali Kavurmacıoğlu,Pazartesi,1130/1429,MKB / D368A,35,60,"MAK, MAKM",23250,2022 - 2023 Bahar Dönemi
+MAK 229,Akışkanlar Mekaniği II,Sertaç Çadırcı,"Pazartesi
+Perşembe","1030/1129
+1330/1529","MKB
+MKB / D355
+D355",25,40,MAK,22421,2022 - 2023 Bahar Dönemi
+MAK 229,Akışkanlar Mekaniği II,Hasan Güneş,Pazartesi,1130/1429,MKB / D355,37,50,MAK,22420,2022 - 2023 Bahar Dönemi
+MAK 229,Akışkanlar Mekaniği II,Tahsin Engin,Pazartesi,1130/1429,MKB / A501,50,50,MAK,22422,2022 - 2023 Bahar Dönemi
+MAK 230E,Alg.Dev.& Comp.App.with Python,Mustafa Resa Becan,Salı,0830/1129,MKB / 404,22,80,"IML, MAK",22423,2022 - 2023 Bahar Dönemi
+MAK 230E,Alg.Dev.& Comp.App.with Python,Barış Doğru,Çarşamba,0830/1129,MKB / 404,26,80,"IML, MAK",22424,2022 - 2023 Bahar Dönemi
+MAK 311E,Heat Transfer,Ömer İnanç Türeyen,Pazartesi,0830/1129,MDB / B205,80,80,"PET, PETE",22252,2022 - 2023 Bahar Dönemi
+MAK 311E,Heat Transfer,Ömer İnanç Türeyen,Çarşamba,0830/1129,MDB / A102,26,60,"PET, PETE",23219,2022 - 2023 Bahar Dönemi
+MAK 312,Ölçme Değerlendirme,Senem Kurşun Bahadır,"Salı
+Çarşamba","1530/1729
+1030/1229","MKB
+MKB / ---
+A201",60,60,"IML, MAK, MAKM, MKN",22431,2022 - 2023 Bahar Dönemi
+MAK 312,Ölçme Değerlendirme,Ayhan Kural,"Salı
+Çarşamba","1530/1729
+1030/1229","MKB
+MKB / ---
+D318",40,60,"IML, MAK, MAKM, MKN",22432,2022 - 2023 Bahar Dönemi
+MAK 313,Isı Geçişi,Ersin Sayar,"Pazartesi
+Çarşamba","0830/1029
+0830/1029","MKB
+MKB / A363
+A363",65,70,"MAK, MAKM",22434,2022 - 2023 Bahar Dönemi
+MAK 313,Isı Geçişi,Ali İhsan Koca,"Pazartesi
+Çarşamba","0830/1029
+0830/1029","MKB
+MKB / D318
+D318",62,70,"MAK, MAKM",22437,2022 - 2023 Bahar Dönemi
+MAK 314,Biyomalzemeler ve Biyomekanik,Süreyya Ergün Bozdağ,Cuma,1500/1759,MKB / A101,144,150,MAK,22441,2022 - 2023 Bahar Dönemi
+MAK 315,Mekanik Titreşimler,Vahit Mermertaş,Pazartesi,1130/1429,MKB / D318,83,100,"IML, MAK, MAKM, MKN",22443,2022 - 2023 Bahar Dönemi
+MAK 324,Makina Teorisi,Haluk Erol,Pazartesi,1430/1729,MKB / D318,63,70,"MAK, MAKM, MKN",22450,2022 - 2023 Bahar Dönemi
+MAK 324,Makina Teorisi,Özgür Turhan,Pazartesi,1430/1729,MKB / A101,70,70,"MAK, MAKM, MKN",22451,2022 - 2023 Bahar Dönemi
+MAK 324,Makina Teorisi,Vahit Mermertaş,Pazartesi,1430/1729,MKB / D317,71,70,"MAK, MAKM, MKN",22453,2022 - 2023 Bahar Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Ayhan Kural,"Salı
+Cuma","1130/1329
+0830/1029","MKB
+MKB / D357
+D357",55,60,"IML, MAK",22477,2022 - 2023 Bahar Dönemi
+MAK 333,Sistem Dinamiği ve Kontrol,Senem Kurşun Bahadır,"Salı
+Cuma","1130/1329
+0830/1029","MKB
+MKB / A201
+A201",59,60,"IML, MAK",22483,2022 - 2023 Bahar Dönemi
+MAK 333E,System Dynamics and Control,Erdinç Altuğ,"Salı
+Cuma","1130/1329
+0830/1029","MKB
+MKB / D317
+D317",28,60,"IML, IMLE, MAK, MAKE, MAKM, MSS, TEK, TEKE",22490,2022 - 2023 Bahar Dönemi
+MAK 339,Makina Elemanları I,Cemal Baykara,"Salı
+Perşembe","0830/1129
+1030/1229","MKB
+MKB / D368A
+D368A",81,90,"MAK, MAKM, MKN",22498,2022 - 2023 Bahar Dönemi
+MAK 339,Makina Elemanları I,Atakan Altınkaynak,"Salı
+Perşembe","0830/1129
+1030/1229","MKB
+MKB / D318
+D318",90,90,"MAK, MAKM, MKN",22504,2022 - 2023 Bahar Dönemi
+MAK 342,Makina Elemanları II,Vedat Temiz,"Salı
+Perşembe","0830/1029
+1030/1229","MKB
+MKB / A101
+A101",61,60,"MAK, MAKM, MKN",22524,2022 - 2023 Bahar Dönemi
+MAK 342,Makina Elemanları II,İbrahim Mehmet Palabıyık,"Salı
+Perşembe","0830/1029
+1030/1229","MKB
+MKB / A201
+A201",45,60,"MAK, MAKM, MKN",22526,2022 - 2023 Bahar Dönemi
+MAK 342,Makina Elemanları II,Zeynep Parlar,"Salı
+Perşembe","0830/1029
+1030/1229","MKB
+MKB / D355
+D355",60,60,"MAK, MAKM, MKN",22530,2022 - 2023 Bahar Dönemi
+MAK 353,İmal Usulleri,"Murat Vural, Turgut Gülmez","Perşembe
+Cuma","0830/1029
+0830/1029","MKB
+MKB / D361B
+D361B",61,70,"MAK, MAKM",22739,2022 - 2023 Bahar Dönemi
+MAK 353,İmal Usulleri,"Şafak Yılmaz, Ali Gökşenli","Perşembe
+Cuma","0830/1029
+1030/1229","MKB
+MKB / D368B
+D368B",68,70,"MAK, MAKM",22740,2022 - 2023 Bahar Dönemi
+MAK 372E,Intr.to Finite Element Methods,Ata Muğan,Çarşamba,1230/1529,MKB / A201,80,80,"IML, MAK, MAKE, MAKM, MSS",22762,2022 - 2023 Bahar Dönemi
+MAK 372E,Intr.to Finite Element Methods,Mesut Kırca,Çarşamba,1230/1529,MKB / D318,80,80,"IML, MAK, MAKE, MAKM, MSS",22764,2022 - 2023 Bahar Dönemi
+MAK 372E,Intr.to Finite Element Methods,Emin Sünbüloğlu,Çarşamba,1230/1529,MKB / A101,66,80,"IML, MAK, MAKE, MAKM, MSS",22765,2022 - 2023 Bahar Dönemi
+MAK 376E,Computational Fluid Dynamics,Sertaç Çadırcı,Çarşamba,1230/1529,MKB / D317,37,60,"MAK, MAKE, MAKM, MSS",22766,2022 - 2023 Bahar Dönemi
+MAK 378E,Intr.to Nanotech.& Nanosyst.,Levent Trabzon,Cuma,1500/1759,MKB / D318,52,70,"IML, IMLE, MAK, MAKE, MSS",22767,2022 - 2023 Bahar Dönemi
+MAK 380,Isı ve Kütle Değiştiriciler,Ersin Sayar,Perşembe,1330/1629,MKB / D361A,60,60,MAK,22768,2022 - 2023 Bahar Dönemi
+MAK 390,Uygulamalı Isı Geçişi,Mustafa Özdemir,Perşembe,1330/1629,MKB / D361B,15,60,MAK,22769,2022 - 2023 Bahar Dönemi
+MAK 4004,Komp. Malz. Mekaniğine Giriş,Süreyya Ergün Bozdağ,Perşembe,1130/1429,MKB / D351,16,60,MAK,22841,2022 - 2023 Bahar Dönemi
+MAK 4005E,Mech.Model. in Nanoscale Sys.,Mesut Kırca,Cuma,0830/1129,MKB / D351,10,60,"MAK, MAKE, MSS",22861,2022 - 2023 Bahar Dönemi
+MAK 401,Makina Mühendisliği Lab. I,Adil Yücel,----,/,MKB / ---,3,40,MAK,22779,2022 - 2023 Bahar Dönemi
+MAK 4015E,Materials Sel.in Dsgn and Mnfc,Alaeddin Burak İrez,Çarşamba,0830/1129,MKB / D351,16,60,"IML, IMLE, MAK, MAKE, MAKM, MSS",22817,2022 - 2023 Bahar Dönemi
+MAK 4016,Hidrolik Makinalar,"Erkan Ayder, Levent Ali Kavurmacıoğlu",Salı,0830/1129,MKB / 406,13,60,MAK,22804,2022 - 2023 Bahar Dönemi
+MAK 4018E,Quality Control in Manufacturi,Ali Gökşenli,Pazartesi,0830/1129,MKB / D361A,45,60,"IML, IMLE, MAK, MAKE",22799,2022 - 2023 Bahar Dönemi
+MAK 4019,Plastik Mlz Konstr. ve İmalat,İbrahim Mehmet Palabıyık,Perşembe,1430/1729,MKB / D351,19,60,"IML, MAK",22858,2022 - 2023 Bahar Dönemi
+MAK 402,Makina Mühendisliği Lab. II,Adil Yücel,----,/,MKB / ---,2,40,MAK,22780,2022 - 2023 Bahar Dönemi
+MAK 4027E,Turbomachinery,Murat Çakan,Çarşamba,0830/1129,MKB / D353,59,60,"MAK, MAKE, MSS",22815,2022 - 2023 Bahar Dönemi
+MAK 4029E,Advanced Fluid Mechanics,İlyas Bedii Özdemir,Çarşamba,1130/1429,MOB / ---,2,60,"MAK, MAKE",22822,2022 - 2023 Bahar Dönemi
+MAK 403,Uygulamalı Makina Projesi,"Vedat Temiz, Zeynep Parlar",----,/,MKB / ---,7,20,MAK,22775,2022 - 2023 Bahar Dönemi
+MAK 403,Uygulamalı Makina Projesi,--,----,/,MKB / ---,0,0,MAK,24614,2022 - 2023 Bahar Dönemi
+MAK 4030,Konstrüksiyonda İleri Konular,Vedat Temiz,Pazartesi,0830/1129,MKB / D361B,14,60,MAK,22800,2022 - 2023 Bahar Dönemi
+MAK 4032,Metallerin Plastik Şekillendrl,Canan Gamze Güleryüz Parasız,Salı,1130/1429,MKB / D351,27,60,"IML, MAK",22808,2022 - 2023 Bahar Dönemi
+MAK 4032E,Metal Forming,Canan Gamze Güleryüz Parasız,Pazartesi,1130/1429,MKB / D351,3,60,"IML, IMLE, MAK, MAKE",22802,2022 - 2023 Bahar Dönemi
+MAK 4034,Kaynaklı Tasarım ve İmalat,Murat Vural,Çarşamba,1130/1429,MKB / D351,30,60,"IML, MAK",22834,2022 - 2023 Bahar Dönemi
+MAK 4038E,Power Plants,Ayşegül Abuşoğlu,Salı,1430/1729,MKB / D351,20,60,"MAK, MAKE, MSS",22813,2022 - 2023 Bahar Dönemi
+MAK 4040,Buhar Kazanları,Yakup Erhan Böke,Perşembe,1330/1629,MKB / A201,12,80,MAK,22856,2022 - 2023 Bahar Dönemi
+MAK 4042,Gaz Türbinleri,Erkan Ayder,Perşembe,1130/1429,MKB / 404,18,60,MAK,22855,2022 - 2023 Bahar Dönemi
+MAK 4043,Yangın Dinamiği ve Güvenliği,Ali İhsan Koca,Pazartesi,1130/1429,MKB / D357,52,60,MAK,22801,2022 - 2023 Bahar Dönemi
+MAK 404E,Mechanical Engineering Lab.,Adil Yücel,----,/,MKB / ---,68,200,"MAK, MSS",22781,2022 - 2023 Bahar Dönemi
+MAK 405,Mak. Müh. Yenilikçi Tas. Yönt.,"Vedat Temiz, Zeynep Parlar, İbrahim Mehmet Palabıyık",Pazartesi,1430/1729,MKB / A501,95,120,"IML, MAK",22777,2022 - 2023 Bahar Dönemi
+MAK 4054E,Digital Control System Design,Zeki Yağız Bayraktaroğlu,Perşembe,0830/1129,MKB / D351,3,60,"IML, MAK, MAKE, MSS",22838,2022 - 2023 Bahar Dönemi
+MAK 4056,Kontrol Sistemleri Tasarımı,Mustafa Resa Becan,Perşembe,0830/1129,MKB / ---,36,40,"IML, MAK, MAKM, MKN",25054,2022 - 2023 Bahar Dönemi
+MAK 4057E,Vehicle Systems Design,Özgen Akalın,Salı,1130/1429,MOB / ---,41,60,"MAK, MAKE, MSS",22805,2022 - 2023 Bahar Dönemi
+MAK 4058E,Power Transmission in Vehicles,Osman Taha Şen,Perşembe,0830/1129,MOB / ---,39,60,"MAK, MAKE",22811,2022 - 2023 Bahar Dönemi
+MAK 4061,Egzos Gazları Emisyonu,Barış Doğru,Salı,0830/1129,MOB / ---,4,60,MAK,22803,2022 - 2023 Bahar Dönemi
+MAK 4062E,Railway Vehicles,Osman Taha Şen,Cuma,0830/1129,MOB / ---,14,60,"MAK, MAKE",22860,2022 - 2023 Bahar Dönemi
+MAK 4066,Şasi ve Karoseri Tasarımı,Kubilay Yay,Cuma,1430/1729,MOB / ---,8,60,MAK,22862,2022 - 2023 Bahar Dönemi
+MAK 4068,Akışkan Gücü Kontrolü,Korhan Şahin,Perşembe,1430/1729,MKB / D353,41,80,"IML, MAK, MAKM",22857,2022 - 2023 Bahar Dönemi
+MAK 4070E,Internal Combustion Engines,Osman Akın Kutlar,Salı,1430/1729,MOB / ---,68,70,"MAK, MAKE, MAKM, MSS, UZBE",22839,2022 - 2023 Bahar Dönemi
+MAK 4901,Makina Müh. Tasarımı I,Adil Yücel,----,/,MKB / ---,49,200,MAK,22786,2022 - 2023 Bahar Dönemi
+MAK 4901E,Mechanical Eng. Design I,Adil Yücel,----,/,MKB / ---,4,200,"MAK, MSS",22787,2022 - 2023 Bahar Dönemi
+MAK 4902,Makina Müh. Tasarımı II,Adil Yücel,----,/,MKB / ---,59,200,MAK,22793,2022 - 2023 Bahar Dönemi
+MAK 4902E,Mechanical Eng. Design II,Adil Yücel,----,/,MKB / ---,16,200,"MAK, MSS",22795,2022 - 2023 Bahar Dönemi
+MAK 492,Bitirme Tasarım Projesi,Adil Yücel,----,/,MKB / ---,10,200,MAK,22782,2022 - 2023 Bahar Dönemi
+MAK 492E,Senior Design Project,Adil Yücel,----,/,MKB / ---,0,200,"MAK, MAKE",22783,2022 - 2023 Bahar Dönemi

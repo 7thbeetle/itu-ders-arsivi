@@ -1,0 +1,51 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BLG 102E,Intr to Sci&Eng Comp (C),Ali Çakmak,Monday / Thursday,13:30/16:29 / 15:30/17:29,BBB / INB / Z-16 / D100,109,95,"BLG_LS, BLGE_LS, SECE_LS",22575,2024 - 2025 Bahar Dönemi
+BLG 102E,Intr to Sci&Eng Comp (C),Yaşar Erenler,Monday / Thursday,13:30/16:29 / 15:30/17:29,BBB / INB / Z-19 / D101,80,75,"BLG_LS, BLGE_LS, SECE_LS",22576,2024 - 2025 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Yusuf Yaslan,Tuesday,09:30/12:29,BBB / Z-18,102,95,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22590,2024 - 2025 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Enver Özdemir,Tuesday,09:30/12:29,BBB / Z-19,92,95,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22592,2024 - 2025 Bahar Dönemi
+BLG 202E,Numerical Methods in CE,Abdulkerim Çapar,Tuesday,09:30/12:29,BBB / Z-17,82,95,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22594,2024 - 2025 Bahar Dönemi
+BLG 212,Mikroişlemci Sistemleri,Gökhan İnce,-,-/-,- / -,1,0,-,25481,2024 - 2025 Bahar Dönemi
+BLG 222E,Computer Organization,Gökhan İnce,Thursday,08:30/11:29,BBB / Z-18,92,95,"BLG_LS, BLGE_LS",22596,2024 - 2025 Bahar Dönemi
+BLG 222E,Computer Organization,-,Thursday,08:30/11:29,BBB / 101,0,0,"BLG_LS, BLGE_LS",22598,2024 - 2025 Bahar Dönemi
+BLG 222E,Computer Organization,Mustafa Ersel Kamaşak,Thursday,08:30/11:29,BBB / 104,80,80,"BLG_LS, BLGE_LS",22599,2024 - 2025 Bahar Dönemi
+BLG 233E,Data Structures and Laboratory,Mehmet Baysan,-,-/-,- / -,1,0,-,25483,2024 - 2025 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Mustafa Ersel Kamaşak,Thursday,15:30/17:29,BBB / --,78,72,"BLG_LS, BLGE_LS, CEN_LS",22600,2024 - 2025 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Nizamettin Aydın,Friday,14:00/15:59,BBB / --,71,72,"BLG_LS, BLGE_LS, CEN_LS",22601,2024 - 2025 Bahar Dönemi
+BLG 242E,Logic Circuits Laboratory,Nizamettin Aydın,Friday,16:00/17:59,BBB / --,65,72,"BLG_LS, BLGE_LS, CEN_LS",22602,2024 - 2025 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Cihan Topal,Monday,09:30/12:29,BBB / Z-17,73,80,"BLG_LS, BLGE_LS, EHB_LS, EHBE_LS, YZVE_LS",22603,2024 - 2025 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Feza Buzluca,Monday,09:30/12:29,BBB / Z-16,83,80,"BLG_LS, BLGE_LS, YZVE_LS",22604,2024 - 2025 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Sanem Kabadayı,Monday,09:30/12:29,BBB / Z-19,85,85,"BLG_LS, BLGE_LS, YZVE_LS",22605,2024 - 2025 Bahar Dönemi
+BLG 252E,Object Oriented Programming,Yaşar Erenler,Tuesday,09:30/12:29,BBB / 104,73,120,"CEN_LS, EHB_LS, EHBE_LS, KOM_LS, KOME_LS",25228,2024 - 2025 Bahar Dönemi
+BLG 311E,Formal Languages and Automata,Tolga Ovatman,Friday,09:30/12:29,BBB / Z-16,132,120,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22606,2024 - 2025 Bahar Dönemi
+BLG 311E,Formal Languages and Automata,Gökhan Seçinti,Friday,09:30/12:29,BBB / Z-18,108,105,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22607,2024 - 2025 Bahar Dönemi
+BLG 311E,Formal Languages and Automata,Mehmet Tahir Sandıkkaya,Friday,09:30/12:29,BBB / Z-19,98,105,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22608,2024 - 2025 Bahar Dönemi
+BLG 312E,Computer Operating Systems,Nizamettin Aydın,Wednesday,08:30/11:29,BBB / Z-16,132,120,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22609,2024 - 2025 Bahar Dönemi
+BLG 312E,Computer Operating Systems,Kemal Bıçakcı,Wednesday,08:30/11:29,BBB / Z-17,162,140,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22610,2024 - 2025 Bahar Dönemi
+BLG 317,Veri Tabanı Sistemleri,Ali Çakmak,-,-/-,- / -,0,0,-,25482,2024 - 2025 Bahar Dönemi
+BLG 322E,Computer Architecture,Ayşe Yılmazer Metin,Thursday,08:30/11:29,BBB / Z-16,143,120,"BLG_LS, BLGE_LS",22611,2024 - 2025 Bahar Dönemi
+BLG 322E,Computer Architecture,Sanem Kabadayı,Thursday,08:30/11:29,BBB / Z-20,85,90,"BLG_LS, BLGE_LS, CEN_LS",22612,2024 - 2025 Bahar Dönemi
+BLG 335E,Analysis of Algorithms I,Tuğçe Bilen,-,-/-,- / -,2,0,-,25484,2024 - 2025 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,İlkay Öksüz,Tuesday,08:30/11:29,BBB / Z-16,124,105,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22613,2024 - 2025 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,Mehmet Baysan,Tuesday,13:30/16:29,BBB / Z-18,76,90,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22614,2024 - 2025 Bahar Dönemi
+BLG 336E,Analysis of Algorithms II,Kadir Özlem,Tuesday,08:30/11:29,BBB / Z-20,72,70,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",25287,2024 - 2025 Bahar Dönemi
+BLG 354E,Signal&Systems for Comp.Eng.,Burak Berk Üstündağ,Monday,08:30/11:29,BBB / Z-18,91,105,"BLG_LS, BLGE_LS, YZVE_LS",22615,2024 - 2025 Bahar Dönemi
+BLG 354E,Signal&Systems for Comp.Eng.,Yusuf Hüseyin Şahin,Monday,08:30/11:29,BBB / 104,92,80,"BLG_LS, BLGE_LS, YZVE_LS",22616,2024 - 2025 Bahar Dönemi
+BLG 368E,Operations Research,"Özgür Kabak , / Hatice Tekiner Moğulkoç",Tuesday,14:30/17:29,BBB / Z-16,180,160,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22622,2024 - 2025 Bahar Dönemi
+BLG 374E,Tech. Communic.for Comp.Eng.,Sefer Baday,Wednesday,13:30/15:29,BBB / Z-16,192,170,"BLG_LS, BLGE_LS, CEN_LS",22617,2024 - 2025 Bahar Dönemi
+BLG 433E,Computer Communications,Abdül Halim Zaim,Wednesday,10:30/12:29,BBB / 123,34,35,"BLG_LS, BLGE_LS, CEN_LS",22632,2024 - 2025 Bahar Dönemi
+BLG 439E,Computer Project I,Abdül Halim Zaim,Monday,09:30/12:29,BBB / Z-23,7,30,"BLG_LS, BLGE_LS, CEN_LS",22666,2024 - 2025 Bahar Dönemi
+BLG 442E,Tech.&Innov. Mng.for Inf.Tech.,Gökhan İnce,Friday,08:30/11:29,BBB / Z-20,49,60,"BLG_LS, BLGE_LS, CEN_LS",22624,2024 - 2025 Bahar Dönemi
+BLG 448E,Project Management in Eng.,Selin Metin Doğu,Friday,08:30/11:29,BBB / Z-17,80,80,"BLG_LS, BLGE_LS, CEN_LS, YZVE_LS",22630,2024 - 2025 Bahar Dönemi
+BLG 449E,Prog.in Parallel&DistrubedSys.,Deniz Turgay Altılar,Monday,13:30/15:29,BBB / 123,27,35,"BLG_LS, BLGE_LS, CEN_LS",22634,2024 - 2025 Bahar Dönemi
+BLG 454E,Learning From Data,Mehmet Keskinöz,Wednesday,12:30/15:29,BBB / 104,45,80,"BLG_LS, BLGE_LS, CEN_LS, ECNE_LS",22626,2024 - 2025 Bahar Dönemi
+BLG 454E,Learning From Data,Behçet Uğur Töreyin,Thursday,09:30/12:29,EEB / 4102,79,85,"CEN_LS, YZVE_LS",22627,2024 - 2025 Bahar Dönemi
+BLG 458E,Functional Programming,Yusuf Hüseyin Şahin,Thursday,13:30/15:29,BBB / Z-16,138,50,"BLG_LS, BLGE_LS, CEN_LS",22636,2024 - 2025 Bahar Dönemi
+BLG 460E,Secure Programming,Mehmet Tahir Sandıkkaya,Tuesday,15:30/17:29,BBB / Z-20,40,35,"BLG_LS, BLGE_LS, CEN_LS",22661,2024 - 2025 Bahar Dönemi
+BLG 468E,Object Oriented Model.&Design,Feza Buzluca,Wednesday,08:30/10:29,BBB / 123,41,35,"BLG_LS, BLGE_LS, CEN_LS",22662,2024 - 2025 Bahar Dönemi
+BLG 475E,Software Quality and Testing,Ayşe Tosun Kühn,Thursday,10:30/12:29,BBB / 123,37,45,"BLG_LS, BLGE_LS, CEN_LS",22641,2024 - 2025 Bahar Dönemi
+BLG 477E,Multimedia Computing,Uluğ Bayazıt,Tuesday,13:30/15:29,BBB / 123,20,35,"BLG_LS, BLGE_LS, CEN_LS",22663,2024 - 2025 Bahar Dönemi
+BLG 478E,Network Security,Şerif Bahtiyar,Tuesday,08:30/10:29,BBB / 123,45,35,"BLG_LS, BLGE_LS, CEN_LS",22664,2024 - 2025 Bahar Dönemi
+BLG 4901E,Computer Engineering Design I,Yusuf Hüseyin Şahin,-,-/-,- / -,23,200,"BLG_LS, BLGE_LS",22668,2024 - 2025 Bahar Dönemi
+BLG 4902E,Computer Engineering Design II,Yusuf Hüseyin Şahin,-,-/-,- / -,135,200,"BLG_LS, BLGE_LS, CEN_LS",22670,2024 - 2025 Bahar Dönemi
+BLG 492,Bitirme Çalışması,Yusuf Hüseyin Şahin,-,-/-,- / -,1,200,BLG_LS,22671,2024 - 2025 Bahar Dönemi
+BLG 492E,Graduation Project,Yusuf Hüseyin Şahin,-,-/-,- / -,4,200,"BLG_LS, BLGE_LS",22672,2024 - 2025 Bahar Dönemi
