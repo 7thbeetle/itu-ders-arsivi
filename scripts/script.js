@@ -8,7 +8,15 @@ window.addEventListener('DOMContentLoaded', () => {
 
     let currentData = null;
     let activeColumns = [];
+    let selectedColumns = []; // Filtrelenen sütunlar
 
+    // Load saved filter settings
+    const stored = localStorage.getItem('itu_selectedColumns');
+    if (stored) {
+        selectedColumns = JSON.parse(stored);
+    }
+
+    // Dönemleri yükle
     fetch('data/terms.json')
         .then(response => response.json())
         .then(terms => {
@@ -20,6 +28,7 @@ window.addEventListener('DOMContentLoaded', () => {
             });
         });
 
+    // Ders kodlarını yükle
     fetch('data/course_codes.json')
         .then(response => response.json())
         .then(courses => {
@@ -59,7 +68,21 @@ window.addEventListener('DOMContentLoaded', () => {
             .then(text => {
                 const data = parseCSV(text.trim());
                 currentData = data;
-                activeColumns = [...data.headers];
+
+                if (selectedColumns.length === 0) {
+                    selectedColumns = [...data.headers];
+                    // Save filter settings
+                    localStorage.setItem('itu_selectedColumns', JSON.stringify(selectedColumns));
+                } else {
+                    // keep only columns existing in new headers
+                    selectedColumns = selectedColumns.filter(col => data.headers.includes(col));
+                    if (selectedColumns.length === 0) {
+                        selectedColumns = [...data.headers];
+                    }
+                    // Save filter settings
+                    localStorage.setItem('itu_selectedColumns', JSON.stringify(selectedColumns));
+                }
+
                 createFilterCheckboxes(data.headers);
                 renderTable(data);
             })
@@ -98,7 +121,7 @@ window.addEventListener('DOMContentLoaded', () => {
                     buffer.push(currentCell.trim());
                     currentCell = '';
                 } else if ((char === '\n' || char === '\r') && insideQuotes) {
-                    currentCell += ' ';  // Hücre içindeki satır atlamaları boşluk olsun
+                    currentCell += ' '; // Hücre içi \n ise boşluk ekle
                 } else {
                     currentCell += char;
                 }
@@ -134,10 +157,14 @@ window.addEventListener('DOMContentLoaded', () => {
             const checkbox = document.createElement('input');
             checkbox.type = 'checkbox';
             checkbox.value = header;
-            checkbox.checked = true;
+            checkbox.checked = selectedColumns.includes(header);
 
             label.appendChild(checkbox);
             checkboxContainer.appendChild(label);
+
+            if (!checkbox.checked) {
+                label.classList.add('inactive');
+            }
 
             checkbox.addEventListener('change', () => {
                 label.classList.toggle('inactive', !checkbox.checked);
@@ -152,12 +179,14 @@ window.addEventListener('DOMContentLoaded', () => {
                     return;
                 }
 
-                activeColumns = selected;
+                selectedColumns = selected;
+                // Save filter settings
+                localStorage.setItem('itu_selectedColumns', JSON.stringify(selectedColumns));
                 renderTable(currentData);
             });
         });
 
-        // Sadece 1 adet büyük "Tamam" butonu
+        // Büyük TAMAM butonu (filtre menüsünü kapatır)
         const tamamButton = document.createElement('button');
         tamamButton.textContent = 'Tamam';
         tamamButton.classList.add('filter-close-button');
@@ -179,7 +208,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
         let html = '<table><thead><tr>';
         headers.forEach(header => {
-            if (activeColumns.includes(header)) {
+            if (selectedColumns.includes(header)) {
                 html += `<th>${header}</th>`;
             }
         });
@@ -188,7 +217,7 @@ window.addEventListener('DOMContentLoaded', () => {
         rows.forEach(row => {
             html += '<tr>';
             headers.forEach((header, idx) => {
-                if (activeColumns.includes(header)) {
+                if (selectedColumns.includes(header)) {
                     html += `<td>${row[idx] || ''}</td>`;
                 }
             });

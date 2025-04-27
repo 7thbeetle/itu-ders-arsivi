@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     padding: 20px;
+    padding-bottom: 80px;
     background-color: #f8f9fa;
 }
 
@@ -108,4 +109,19 @@ th {
 
 .filter-close-button:hover {
     background-color: #45a049;
+}
+
+#announcementBar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffe58f;
+    color: #8c6d1f;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    border-top: 2px solid #d4b106;
+    z-index: 1000;
 }
