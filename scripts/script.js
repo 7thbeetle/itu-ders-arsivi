@@ -20,6 +20,15 @@ window.addEventListener('DOMContentLoaded', () => {
     fetch('data/terms.json')
         .then(response => response.json())
         .then(terms => {
+            const orderMap = { 'Yaz': 0, 'Bahar': 1, 'Güz': 2 };
+            terms.sort((a, b) => {
+                const yearA = parseInt(a.split(' - ')[0], 10);
+                const yearB = parseInt(b.split(' - ')[0], 10);
+                if (yearA !== yearB) return yearB - yearA;
+                const seasonA = a.split(' ')[3];
+                const seasonB = b.split(' ')[3];
+                return orderMap[seasonA] - orderMap[seasonB];
+            });
             terms.forEach(term => {
                 const option = document.createElement('option');
                 option.value = term;
