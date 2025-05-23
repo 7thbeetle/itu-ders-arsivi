@@ -10,7 +10,12 @@ from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.support import expected_conditions as EC
 
 # === Ayarlar ===
-donem_adi = "2024 - 2025 Bahar Dönemi"  # Buraya dönemi yaz
+donem_adi = "2024 - 2025 Yaz Dönemi"  # Buraya dönemi yaz
+
+"""
+DÖNEM ADINI DEĞİŞTİRMEYİ UNUTMA
+"""
+
 site_url = "https://obs.itu.edu.tr/public/DersProgram"
 output_dir = "OBS_DERS_PULL"
 os.makedirs(output_dir, exist_ok=True)

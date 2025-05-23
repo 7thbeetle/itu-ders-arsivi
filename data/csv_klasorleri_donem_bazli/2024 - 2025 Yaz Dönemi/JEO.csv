@@ -1,7 +1,7 @@
 ﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
-JEO 112,Genel Jeoloji,Kürşad Kadir Eriş,Wednesday / Wednesday,08:30/12:29 / 13:30/16:29,MDB / MDB / -- / --,0,40,"MAD_LS, MAD_YD",30125,2024 - 2025 Bahar Dönemi
-JEO 204E,Petrog. of Magmatic Rocks,"Şafak Altunkaynak , / Alp Ünal",Tuesday / Friday / Friday,15:00/16:59 / 09:00/11:59 / 14:30/16:29,MDB / MDB / MDB / -- / -- / --,0,20,"JEO_LS, JEO_YD, JEOE_LS",30127,2024 - 2025 Bahar Dönemi
-JEO 222,Jeomekanik,Yılmaz Mahmutoğlu,Wednesday / Wednesday / Thursday,08:30/12:29 / 13:30/16:29 / 08:30/10:59,MDB / MDB / MDB / -- / -- / --,0,12,"JEF_LS, JEO_LS",30306,2024 - 2025 Bahar Dönemi
-JEO 348,Sedimenter Kayaç Petrografisi,Kürşad Kadir Eriş,Thursday / Thursday,08:30/12:29 / 13:30/16:29,MDB / MDB / -- / --,0,25,"JEO_LS, JEO_YD",30126,2024 - 2025 Bahar Dönemi
-JEO 355E,Sedimentology,Emin Çiftçi,Tuesday / Tuesday,08:30/12:29 / 13:30/14:29,MDB / MDB / -- / --,0,30,"JEO_LS, JEO_YD, JEOE_LS",30124,2024 - 2025 Bahar Dönemi
-JEO 406E,Fossil Fuels Geology,"Sedat İnan , / Zeynep Döner",Monday / Monday / Wednesday / Wednesday,10:30/12:29 / 13:30/15:29 / 10:30/12:29 / 13:30/14:29,MDB / MDB / MDB / MDB / -- / -- / -- / --,0,20,JEO_LS,30327,2024 - 2025 Bahar Dönemi
+JEO 112,Genel Jeoloji,Kürşad Kadir Eriş,Wednesday / Wednesday,08:30/12:29 / 13:30/16:29,MDB / MDB / -- / --,0,40,"MAD_LS, MAD_YD",30125,2024 - 2025 Yaz Dönemi
+JEO 204E,Petrog. of Magmatic Rocks,"Şafak Altunkaynak , / Alp Ünal",Tuesday / Friday / Friday,15:00/16:59 / 09:00/11:59 / 14:30/16:29,MDB / MDB / MDB / -- / -- / --,0,20,"JEO_LS, JEO_YD, JEOE_LS",30127,2024 - 2025 Yaz Dönemi
+JEO 222,Jeomekanik,Yılmaz Mahmutoğlu,Wednesday / Wednesday / Thursday,08:30/12:29 / 13:30/16:29 / 08:30/10:59,MDB / MDB / MDB / -- / -- / --,0,12,"JEF_LS, JEO_LS",30306,2024 - 2025 Yaz Dönemi
+JEO 348,Sedimenter Kayaç Petrografisi,Kürşad Kadir Eriş,Thursday / Thursday,08:30/12:29 / 13:30/16:29,MDB / MDB / -- / --,0,25,"JEO_LS, JEO_YD",30126,2024 - 2025 Yaz Dönemi
+JEO 355E,Sedimentology,Emin Çiftçi,Tuesday / Tuesday,08:30/12:29 / 13:30/14:29,MDB / MDB / -- / --,0,30,"JEO_LS, JEO_YD, JEOE_LS",30124,2024 - 2025 Yaz Dönemi
+JEO 406E,Fossil Fuels Geology,"Sedat İnan , / Zeynep Döner",Monday / Monday / Wednesday / Wednesday,10:30/12:29 / 13:30/15:29 / 10:30/12:29 / 13:30/14:29,MDB / MDB / MDB / MDB / -- / -- / -- / --,0,20,JEO_LS,30327,2024 - 2025 Yaz Dönemi
