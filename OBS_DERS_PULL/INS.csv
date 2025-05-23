@@ -1,0 +1,5 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+INS 217,Mukavemet I,Teoman Özer,Monday / Monday / Wednesday,08:30/12:29 / 13:30/17:29 / 08:30/09:59,INB / INB / INB / B201 / B201 / B201,0,25,INS_LS,30311,2024 - 2025 Bahar Dönemi
+INS 354,Hidroloji,Yavuz Selim Güçlü,Monday / Tuesday,09:00/12:29 / 13:00/16:29,INB / INB / A201 / A201,0,25,INS_LS,30315,2024 - 2025 Bahar Dönemi
+INS 354,Hidroloji,Yavuz Selim Güçlü,Monday / Tuesday,13:00/16:29 / 09:00/12:29,INB / INB / A201 / A201,0,25,INS_LS,30316,2024 - 2025 Bahar Dönemi
+INS 360E,Hydraulics,Erdal Kesgin,Tuesday / Tuesday / Friday,08:30/12:29 / 13:30/16:29 / 09:30/11:59,INB / INB / INB / B202 / B202 / B202,0,25,"AIN_LS, INS_LS, INSE_LS",30313,2024 - 2025 Bahar Dönemi

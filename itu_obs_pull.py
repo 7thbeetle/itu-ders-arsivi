@@ -39,7 +39,7 @@ def clean_text(text):
 
 # === Veri depolama ===
 dersler_data = defaultdict(list)
-
+print("veri toplama başlıyor...")
 try:
     driver.get(site_url)
     time.sleep(2)
