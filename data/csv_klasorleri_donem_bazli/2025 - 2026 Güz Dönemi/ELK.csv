@@ -1,0 +1,56 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+ELK 101,Elk. Müh. Giriş ve Müh. Etiği,Fatma Gül Bağrıyanık,Wednesday,13:30/15:29,EEB / 6309,0,130,ELK_LS,14566,2024 - 2025 Yaz Dönemi
+ELK 101E,Intr.to Electr. Eng.&Eng.Eth.,Lale Erdem Atılgan,Wednesday,13:30/15:29,EEB / 4102,0,70,"ELK_LS, ELKE_LS",14567,2024 - 2025 Yaz Dönemi
+ELK 107E,Int to Sci.&Eng.Comp. (Python),Ali Sinan Çabuk,Wednesday,08:30/10:29,EEB / 6307,0,0,"ELK_LS, ELKE_LS",14568,2024 - 2025 Yaz Dönemi
+ELK 214E,Fund.of Electr. Energy Conver.,Duygu Bayram Kara,Thursday,13:30/16:29,EEB / 5307,0,50,"EHB_LS, EHBE_LS, EHS_LS, KOM_LS, KOME_LS, MKN_YD_EL",14569,2024 - 2025 Yaz Dönemi
+ELK 221,Elektrik Mühen. Temelleri,Fatma Gül Bağrıyanık,Monday,12:30/15:29,EEB / 5301,0,40,"CHZ_LS, GID_LS, IML_LS, ISL_LS, KMM_LS, MAK_LS, MET_LS, TEK_LS, UCK_LS, UCK_YD, UZB_LS",14570,2024 - 2025 Yaz Dönemi
+ELK 221,Elektrik Mühen. Temelleri,Ali Saffet Altay,Tuesday,08:30/11:29,EEB / 5105,0,40,"CHZ_LS, GID_LS, IML_LS, ISL_LS, KMM_LS, MAK_LS, MET_LS, TEK_LS, UCK_LS, UCK_YD, UZB_LS",14571,2024 - 2025 Yaz Dönemi
+ELK 221,Elektrik Mühen. Temelleri,Murat İmeryüz,Monday,08:30/11:29,EEB / 5107,0,40,"CHZ_LS, GID_LS, IML_LS, ISL_LS, KMM_LS, MAK_LS, MET_LS, TEK_LS, UCK_LS, UCK_YD, UZB_LS",14572,2024 - 2025 Yaz Dönemi
+ELK 221E,Fundamentals of Electric. Eng.,Zehra Elif Batman,Monday,12:30/15:29,EEB / 5303,0,50,"CHZE_LS, GIDE_LS, ISLE_LS, MAKE_LS, METE_LS, PETE_LS, TEKE_LS, UCK_YD, UZBE_LS",14573,2024 - 2025 Yaz Dönemi
+ELK 221E,Fundamentals of Electric. Eng.,Cavit Fatih Küçüktezcan,Wednesday,12:30/15:29,EEB / 5305,0,50,"CHZE_LS, GIDE_LS, ISLE_LS, MAKE_LS, METE_LS, PETE_LS, TEKE_LS, UCK_LS, UCK_YD, UZB_LS, UZBE_LS",14574,2024 - 2025 Yaz Dönemi
+ELK 221E,Fundamentals of Electric. Eng.,Aydın Tarık Zengin,Tuesday,12:30/15:29,EEB / 5207,0,50,"CHZE_LS, GIDE_LS, ISLE_LS, MAKE_LS, METE_LS, PETE_LS, TEKE_LS, UCK_LS, UCK_YD, UZB_LS, UZBE_LS",14575,2024 - 2025 Yaz Dönemi
+ELK 307,Aydınlatma Tekniği,Canan Karatekin,Tuesday,12:30/15:29,EEB / 2102,0,70,ELK_LS,14576,2024 - 2025 Yaz Dönemi
+ELK 307E,Illumination Techniques,Lale Erdem Atılgan,Tuesday,12:30/15:29,EEB / 2104,0,70,"ELK_LS, ELKE_LS",14577,2024 - 2025 Yaz Dönemi
+ELK 307E,Illumination Techniques,Cavit Fatih Küçüktezcan,Tuesday,12:30/15:29,EEB / 2106,0,70,"ELK_LS, ELKE_LS",14578,2024 - 2025 Yaz Dönemi
+ELK 313,Enerji İletim Hatları,Hatice Lale Zeynelgil,Thursday,12:30/15:29,EEB / 4102,0,50,"EHB_LS, ELK_LS",14579,2024 - 2025 Yaz Dönemi
+ELK 313E,Power Transmission Lines,Zehra Elif Batman,Thursday,12:30/15:29,EEB / 4104,0,50,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS",14580,2024 - 2025 Yaz Dönemi
+ELK 331,Güç Elektroniği Devreleri,Derya Ahmet Kocabaş,Monday,08:30/11:29,EEB / 2102,0,50,"EHB_LS, ELE_LS, ELK_LS, KOM_LS",14581,2024 - 2025 Yaz Dönemi
+ELK 331,Güç Elektroniği Devreleri,Murat Yılmaz,Wednesday,12:30/15:29,EEB / 2102,0,50,"EHB_LS, ELE_LS, ELK_LS, KOM_LS",14582,2024 - 2025 Yaz Dönemi
+ELK 331E,Power Electronic Circuits,Deniz Yıldırım,Wednesday,12:30/15:29,EEB / 5303,0,50,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",14583,2024 - 2025 Yaz Dönemi
+ELK 331E,Power Electronic Circuits,Salih Barış Öztürk,Monday,08:30/11:29,EEB / 2104,0,50,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",14584,2024 - 2025 Yaz Dönemi
+ELK 331E,Power Electronic Circuits,Mehmet Onur Gülbahçe,Monday,08:30/11:29,EEB / 2106,0,50,"EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",14585,2024 - 2025 Yaz Dönemi
+ELK 333E,Intr. to Nuclear Engineering,Ahmet Cansız,Monday,12:30/15:29,EEB / 5305,0,50,"ELK_LS, ELKE_LS",14586,2024 - 2025 Yaz Dönemi
+ELK 334E,Dsgn of Power Electr Circuits,Salih Barış Öztürk,Tuesday,12:30/15:29,EEB / 5305,0,50,"ELK_LS, ELKE_LS, KOM_LS, KOME_LS",14587,2024 - 2025 Yaz Dönemi
+ELK 336E,Quantum Computation,-,Thursday,08:30/11:29,EEB / --,0,0,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS, KOM_LS, KOME_LS",14588,2024 - 2025 Yaz Dönemi
+ELK 343,Elektromekanik Enerji Dönüşümü,Derya Ahmet Kocabaş,Wednesday,08:30/11:29,EEB / 2104,0,35,"EHB_LS, ELK_LS",14589,2024 - 2025 Yaz Dönemi
+ELK 343,Elektromekanik Enerji Dönüşümü,Güven Kömürgöz Kırış,Wednesday,08:30/11:29,EEB / 2106,0,35,"EHB_LS, ELK_LS",14590,2024 - 2025 Yaz Dönemi
+ELK 343E,Electromech. Energy Conversion,Lale Ergene,Wednesday,08:30/11:29,EEB / 4102,0,35,"EEE_LS, EHB_LS, EHBE_LS, ELK_LS, ELKE_LS",14591,2024 - 2025 Yaz Dönemi
+ELK 344,Elektrik Tesislerinde Güvenlik,Belgin Türkay,Monday,12:30/15:29,EEB / 5307,0,50,"ELK_LS, KOM_LS",14592,2024 - 2025 Yaz Dönemi
+ELK 363E,Engineering Drawing,Ali Sinan Çabuk,Thursday / Thursday,08:30/10:29 / 10:30/12:29,EEB / EEB / 6307 / 6307,0,40,"EEE_LS, ELK_LS, ELKE_LS",14593,2024 - 2025 Yaz Dönemi
+ELK 405,Yüksek Gerilim Laboratuvarı,Şükran Emel Önal,Tuesday,12:30/14:29,EEB / 5307,0,40,ELK_LS,14594,2024 - 2025 Yaz Dönemi
+ELK 405E,High Voltage Lab.,Suat İlhan,Thursday,12:30/14:29,EEB / 5303,0,40,"ELK_LS, ELKE_LS",14595,2024 - 2025 Yaz Dönemi
+ELK 405E,High Voltage Lab.,Suat İlhan,Wednesday,12:30/14:29,EEB / 5301,0,40,"ELK_LS, ELKE_LS",14596,2024 - 2025 Yaz Dönemi
+ELK 415E,Digital Protection&Signalling,Ömer Usta,Wednesday,08:30/11:29,EEB / 5305,0,50,"EEE_LS, ELK_LS, ELKE_LS",14597,2024 - 2025 Yaz Dönemi
+ELK 421,Elektrik Enerjisi Üretimi,Ayşen Demirören,Tuesday,08:30/11:29,EEB / 5301,0,35,ELK_LS,14598,2024 - 2025 Yaz Dönemi
+ELK 421,Elektrik Enerjisi Üretimi,Belgin Türkay,Tuesday,08:30/11:29,EEB / 5303,0,35,ELK_LS,14599,2024 - 2025 Yaz Dönemi
+ELK 421,Elektrik Enerjisi Üretimi,Hatice Lale Zeynelgil,Tuesday,08:30/11:29,EEB / 5305,0,35,ELK_LS,14600,2024 - 2025 Yaz Dönemi
+ELK 421E,Generat. of Electrical Energy,Ömer Usta,Tuesday,08:30/11:29,EEB / 5307,0,35,"ELK_LS, ELKE_LS",14601,2024 - 2025 Yaz Dönemi
+ELK 423,Özel Elektrik Makinaları,Murat İmeryüz,Friday,08:30/11:29,EEB / 5303,0,40,ELK_LS,14602,2024 - 2025 Yaz Dönemi
+ELK 423E,Special Electrical Machines,Lale Ergene,Friday,08:30/11:29,EEB / 5305,0,40,"ELK_LS, ELKE_LS",14603,2024 - 2025 Yaz Dönemi
+ELK 431,Elektrik Makinaları Lab.,Güven Kömürgöz Kırış,Thursday,12:30/14:29,EEB / --,0,30,ELK_LS,14449,2024 - 2025 Yaz Dönemi
+ELK 431,Elektrik Makinaları Lab.,Derya Ahmet Kocabaş,Friday,08:30/10:29,EEB / --,0,30,ELK_LS,14450,2024 - 2025 Yaz Dönemi
+ELK 431,Elektrik Makinaları Lab.,Murat İmeryüz,Tuesday,12:30/14:29,EEB / --,0,30,ELK_LS,14604,2024 - 2025 Yaz Dönemi
+ELK 431E,Electrical Machines Lab.,Lale Ergene,Monday,12:30/14:29,EEB / --,0,30,"ELK_LS, ELKE_LS",14451,2024 - 2025 Yaz Dönemi
+ELK 458,Elektrik Mühendisliği Projesi,Güven Kömürgöz Kırış,Monday,08:30/11:29,EEB / 5301,0,15,ELK_LS,14452,2024 - 2025 Yaz Dönemi
+ELK 458,Elektrik Mühendisliği Projesi,Mustafa Bağrıyanık,Monday,08:30/11:29,EEB / 5305,0,15,ELK_LS,14453,2024 - 2025 Yaz Dönemi
+ELK 458,Elektrik Mühendisliği Projesi,Canan Karatekin,Monday,08:30/11:29,EEB / 5307,0,15,ELK_LS,14454,2024 - 2025 Yaz Dönemi
+ELK 458E,Electrical Engineering Project,Yusuf Yaşa,Monday,08:30/11:29,EEB / 5303,0,15,"ELK_LS, ELKE_LS",14455,2024 - 2025 Yaz Dönemi
+ELK 472,Yenilenebilir Enerji Sist.,Ayşen Demirören,Thursday,12:30/15:29,EEB / 5305,0,40,ELK_LS,14456,2024 - 2025 Yaz Dönemi
+ELK 473E,Disch.Pheno.in High Volt.Tech.,Suat İlhan,Friday,14:00/16:59,EEB / 5302,0,50,"EEE_LS, ELK_LS, ELKE_LS",14458,2024 - 2025 Yaz Dönemi
+ELK 4901,Elektrik Müh. Tasarımı I,Mustafa Bağrıyanık,-,-/-,- / -,0,500,ELK_LS,14460,2024 - 2025 Yaz Dönemi
+ELK 4901E,Electrical Eng. Design I,Mustafa Bağrıyanık,-,-/-,- / -,0,500,"ELK_LS, ELKE_LS",14461,2024 - 2025 Yaz Dönemi
+ELK 4902,Elektrik Müh. Tasarımı II,Mustafa Bağrıyanık,-,-/-,- / -,0,500,ELK_LS,14463,2024 - 2025 Yaz Dönemi
+ELK 4902E,Electrical Eng. Design II,Mustafa Bağrıyanık,-,-/-,- / -,0,500,"ELK_LS, ELKE_LS",14464,2024 - 2025 Yaz Dönemi
+ELK 492,Bitirme Tasarım Projesi,Mustafa Bağrıyanık,-,-/-,- / -,0,500,ELK_LS,14466,2024 - 2025 Yaz Dönemi
+ELK 492E,Graduation Design Project,Mustafa Bağrıyanık,-,-/-,- / -,0,500,"ELK_LS, ELKE_LS",14468,2024 - 2025 Yaz Dönemi
+ELK 495,Elk. Enj. Kalit. ve Harmonik.,Ömer Gül,Monday,12:30/15:29,EEB / 5101,0,40,ELK_LS,14470,2024 - 2025 Yaz Dönemi

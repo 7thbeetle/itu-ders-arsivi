@@ -1,0 +1,49 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+FIZ 113,Genel Fizik I,Sevtap Yıldız Özbek,Monday / Wednesday,08:30/10:29 / 08:30/11:29,FEB / FEB / D102 / D102,0,50,"FIZ_LS, FIZ_YD",13187,2024 - 2025 Yaz Dönemi
+FIZ 113EL,General Physics I Laboratory,Sevtap Yıldız Özbek,Wednesday,11:30/13:29,FEB / --,0,30,FIZ_LS,13191,2024 - 2025 Yaz Dönemi
+FIZ 113EL,General Physics I Laboratory,Sevtap Yıldız Özbek,Wednesday,13:30/15:29,FEB / --,0,30,FIZ_LS,13193,2024 - 2025 Yaz Dönemi
+FIZ 115,Fizik Müh. Giriş & Etik,Murat Erdem,Wednesday,13:30/15:29,FEB / D304,0,50,FIZ_LS,13194,2024 - 2025 Yaz Dönemi
+FIZ 116,Genel Fizik II,Hakan Özgür Özer,Monday / Wednesday,08:30/10:29 / 08:30/11:29,FEB / FEB / D101 / D101,0,75,"FIZ_LS, FIZ_YD",13195,2024 - 2025 Yaz Dönemi
+FIZ 201,Modern Fizik,Mehmet Murat Sunar,Monday,14:30/17:29,FEB / --,0,60,"CHZ_LS, DEN_LS, FIZ_YD, GEM_LS, JEF_LS, JEO_LS, MAD_LS, MET_LS, MTO_LS, PET_LS, UCK_LS",13181,2024 - 2025 Yaz Dönemi
+FIZ 201E,Modern Physics,Mehmet Murat Sunar,Thursday,14:30/17:29,FEB / --,0,60,"CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, FIZ_YD, GEM_LS, GEME_LS, GEMK_LS, GMI_LS, GMIE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, MTO_LS, MTOE_LS, PET_LS, PETE_LS, UCK_LS, UZB_LS, UZB_YD, UZBE_LS",13183,2024 - 2025 Yaz Dönemi
+FIZ 201E,Modern Physics,Mehmet Murat Sunar,Friday,14:30/17:29,FEB / --,0,60,"CHZ_LS, CHZE_LS, DEN_LS, DENE_LS, FIZ_YD, GEM_LS, GEME_LS, GEMK_LS, GMI_LS, GMIE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, MTO_LS, MTOE_LS, PET_LS, PETE_LS, UCK_LS, UZB_LS, UZB_YD, UZBE_LS",13185,2024 - 2025 Yaz Dönemi
+FIZ 201E,Modern Physics,Onur Ergen,Wednesday,12:30/15:29,EEB / 2106,0,70,"EHB_LS, EHBE_LS, ELK_LS, ELKE_LS",14472,2024 - 2025 Yaz Dönemi
+FIZ 210,Fizikte Matematiksel Yöntemlere Giriş,Ali Yıldız,Monday / Tuesday,10:30/12:29 / 13:30/15:29,FEB / FEB / D102 / D103,0,75,FIZ_LS,13198,2024 - 2025 Yaz Dönemi
+FIZ 214,Dalgalar Fiziği,Ali Gelir,Monday / Wednesday,08:30/10:29 / 08:30/11:29,FEB / FEB / D104 / D104,0,90,"FIZ_LS, FIZ_YD",13200,2024 - 2025 Yaz Dönemi
+FIZ 214EL,Wave Physics Laboratory,Ali Gelir,Monday,15:30/17:29,FEB / --,0,25,"FIZ_LS, FIZE_LS",13202,2024 - 2025 Yaz Dönemi
+FIZ 214EL,Wave Physics Laboratory,Ali Gelir,Thursday,13:30/15:29,FEB / --,0,25,"FIZ_LS, FIZE_LS",13203,2024 - 2025 Yaz Dönemi
+FIZ 214EL,Wave Physics Laboratory,Ali Gelir,Thursday,15:30/17:29,FEB / --,0,25,"FIZ_LS, FIZE_LS",13206,2024 - 2025 Yaz Dönemi
+FIZ 214EL,Wave Physics Laboratory,Ali Gelir,Friday,14:30/16:29,FEB / --,0,25,"FIZ_LS, FIZE_LS",13207,2024 - 2025 Yaz Dönemi
+FIZ 215,Modern Fizik,Seda Aksoy Esinoğlu,Monday / Wednesday,08:30/10:29 / 08:30/11:29,FEB / FEB / D203 / D203,0,50,FIZ_LS,13211,2024 - 2025 Yaz Dönemi
+FIZ 215EL,Modern Physics Laboratory,Seda Aksoy Esinoğlu,Friday,10:30/12:29,FEB / --,0,20,"FIZ_LS, FIZE_LS",13212,2024 - 2025 Yaz Dönemi
+FIZ 233,Elektronik I,Esra Alveroğlu Durucu,Wednesday / Friday,11:30/13:29 / 08:30/09:29,FEB / FEB / D102 / D104,0,90,FIZ_LS,13213,2024 - 2025 Yaz Dönemi
+FIZ 233EL,Electronics I Lab.,Esra Alveroğlu Durucu,Wednesday,13:30/15:29,FEB / --,0,25,"FIZ_LS, FIZE_LS",13216,2024 - 2025 Yaz Dönemi
+FIZ 233EL,Electronics I Lab.,Esra Alveroğlu Durucu,Thursday,09:30/11:29,FEB / --,0,25,"FIZ_LS, FIZE_LS",13238,2024 - 2025 Yaz Dönemi
+FIZ 233EL,Electronics I Lab.,Esra Alveroğlu Durucu,Thursday,11:30/13:29,FEB / --,0,25,"FIZ_LS, FIZE_LS",13239,2024 - 2025 Yaz Dönemi
+FIZ 233EL,Electronics I Lab.,Esra Alveroğlu Durucu,Friday,10:30/12:29,FEB / --,0,25,"FIZ_LS, FIZE_LS",13240,2024 - 2025 Yaz Dönemi
+FIZ 241E,Symblc & Numrc Tchnqs in Physc,Tolga Birkandan,Tuesday,08:30/11:29,FEB / OBL3,0,40,"FIZ_LS, FIZ_YD, FIZE_LS",13241,2024 - 2025 Yaz Dönemi
+FIZ 241E,Symblc & Numrc Tchnqs in Physc,Mehmet Kerim Ramazanoğlu,Thursday,10:30/13:29,FEB / OBL3,0,40,"FIZ_LS, FIZ_YD, FIZE_LS",13242,2024 - 2025 Yaz Dönemi
+FIZ 284E,Classical Mechanics I,Vakıf Kemal Önemli,Monday / Tuesday,12:30/14:29 / 15:30/17:29,FEB / FEB / D103 / D103,0,100,"FIZ_LS, FIZ_YD",13243,2024 - 2025 Yaz Dönemi
+FIZ 310,İstatistik Fizik,Oğuzhan Gürlü,Tuesday / Thursday,10:30/13:29 / 11:30/13:29,FEB / FEB / D205 / D205,0,90,"FIZ_LS, FIZ_YD",13244,2024 - 2025 Yaz Dönemi
+FIZ 315,Kuantum Mekaniği I,Neşe Özdemir,Monday / Wednesday,08:30/10:29 / 08:30/11:29,FEB / FEB / D103 / D103,0,60,"FIZ_LS, FIZ_YD",13245,2024 - 2025 Yaz Dönemi
+FIZ 316,Kuantum Mekaniği II,Haluk Özbek,Monday / Wednesday,08:30/10:29 / 08:30/11:29,FEB / FEB / D205 / D205,0,60,"FIZ_LS, FIZ_YD",13247,2024 - 2025 Yaz Dönemi
+FIZ 323E,Mathematical Meth.in Physics I,Cem Özgür Servantie,Tuesday / Thursday,08:30/10:29 / 08:30/11:29,FEB / FEB / D102 / D102,0,50,"FIZ_LS, FIZ_YD",13249,2024 - 2025 Yaz Dönemi
+FIZ 374EL,Methods of Exp. Physics Lab.,Murat Erdem,Thursday,15:30/17:29,FEB / --,0,20,"FIZ_LS, FIZE_LS",13250,2024 - 2025 Yaz Dönemi
+FIZ 411,Elektromanyetik Teori I,Abdurrahman Savaş Arapoğlu,Tuesday / Thursday,08:30/10:29 / 08:30/11:29,FEB / FEB / D104 / D104,0,70,FIZ_LS,13251,2024 - 2025 Yaz Dönemi
+FIZ 412,Elektromanyetik Teori II,Ömer Faruk Dayı,Tuesday / Thursday,08:30/10:29 / 08:30/10:29,FEB / FEB / D205 / D103,0,60,FIZ_LS,13253,2024 - 2025 Yaz Dönemi
+FIZ 426E,Opto Electronics,Yağız Morova,Tuesday,14:30/17:29,FEB / D203,0,30,"FIZ_LS, FIZ_YD, FIZE_LS",13217,2024 - 2025 Yaz Dönemi
+FIZ 431E,Solid State Physics I,Mehmet Kerim Ramazanoğlu,Tuesday / Thursday,15:30/17:29 / 14:30/17:29,FEB / FEB / D205 / D206,0,30,"FIZ_LS, FIZ_YD, FIZE_LS",13219,2024 - 2025 Yaz Dönemi
+FIZ 433E,Nuclear Physics I,Cenap Şahabettin Özben,Monday / Wednesday,12:30/14:29 / 13:30/15:29,FEB / FEB / D106 / D101,0,30,"FIZ_LS, FIZ_YD",13226,2024 - 2025 Yaz Dönemi
+FIZ 443,Güneş Ener. Fizik ve Tek. I,Zuhal Er,Wednesday,12:30/15:29,FEB / L200,0,30,"FIZ_LS, FIZ_YD",13220,2024 - 2025 Yaz Dönemi
+FIZ 445,Maddenin Magnetik Özellikleri,Nurcan Doğan Bingölbali,Friday,09:30/12:29,FEB / D105,0,30,"FIZ_LS, FIZ_YD",13221,2024 - 2025 Yaz Dönemi
+FIZ 453E,Quantum Mechanics III,Mehmet Özkan,Wednesday,12:30/15:29,FEB / D105,0,30,"FIZ_LS, FIZ_YD, FIZE_LS",13222,2024 - 2025 Yaz Dönemi
+FIZ 457,Optik I,Murat Erdem,Monday / Tuesday,15:30/17:29 / 13:30/15:29,FEB / FEB / D205 / D205,0,30,"FIZ_LS, FIZ_YD",13223,2024 - 2025 Yaz Dönemi
+FIZ 463E,Astrophysics I,Kazım Yavuz Ekşi,Thursday,14:30/17:29,FEB / D106,0,30,"FIZ_LS, FIZ_YD, FIZE_LS",13224,2024 - 2025 Yaz Dönemi
+FIZ 476E,Solar Energy Physics &Tech. II,Hakan Karaağaç,Monday,14:30/17:29,FEB / D105,0,30,"FIZ_LS, FIZE_LS",13225,2024 - 2025 Yaz Dönemi
+FIZ 4901,Fizik Mühendisliği Tasarımı I,Ahmet Levent Subaşı,-,-/-,- / -,0,500,FIZ_LS,13227,2024 - 2025 Yaz Dönemi
+FIZ 4901E,Physics Engeering Design I,Ahmet Levent Subaşı,-,-/-,- / -,0,500,"FIZ_LS, FIZE_LS",13229,2024 - 2025 Yaz Dönemi
+FIZ 4902,Fizik Mühendisliği Tasarımı II,Ahmet Levent Subaşı,-,-/-,- / -,0,500,FIZ_LS,13230,2024 - 2025 Yaz Dönemi
+FIZ 4902E,Physics Engeering Design II,Ahmet Levent Subaşı,-,-/-,- / -,0,500,"FIZ_LS, FIZE_LS",13231,2024 - 2025 Yaz Dönemi
+FIZ 492,Bitirme Çalışması,Ahmet Levent Subaşı,-,-/-,- / -,0,500,FIZ_LS,13233,2024 - 2025 Yaz Dönemi
+FIZ 492E,Graduation Project,Ahmet Levent Subaşı,-,-/-,- / -,0,500,"FIZ_LS, FIZE_LS",13234,2024 - 2025 Yaz Dönemi
+FIZ 494E,General Relativity,Mehmet Özkan,Monday,14:30/17:29,FEB / D203,0,30,"FIZ_LS, FIZ_YD, FIZE_LS",13235,2024 - 2025 Yaz Dönemi

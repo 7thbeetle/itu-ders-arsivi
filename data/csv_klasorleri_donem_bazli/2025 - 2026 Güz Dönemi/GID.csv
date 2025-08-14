@@ -1,0 +1,30 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GID 113E,Int.to Food Eng. and Ethics,Aslı Can Karaça,Wednesday,12:30/14:29,KMB / D203,0,95,"GID_LS, GIDE_LS",11528,2024 - 2025 Yaz Dönemi
+GID 210E,Engineering Mathematics,Evren Demircan,Wednesday,08:30/12:29,KMB / D303,0,80,"GID_LS, GIDE_LS",11530,2024 - 2025 Yaz Dönemi
+GID 211E,Mass and Energy Balances,Celale Kırkın Gözükırmızı,Tuesday,09:30/12:29,KMB / D104,0,50,"GID_LS, GIDE_LS",11532,2024 - 2025 Yaz Dönemi
+GID 216E,Mass and Energy Balances,Meral Kılıç Akyılmaz,Tuesday,09:30/12:29,KMB / D204,0,95,"GID_LS, GIDE_LS",11533,2024 - 2025 Yaz Dönemi
+GID 221E,Food Chemistry,Aslı Can Karaça,Friday,09:30/12:29,KMB / D102,0,50,"GID_LS, GIDE_LS",11537,2024 - 2025 Yaz Dönemi
+GID 223E,Food Chemistry,Esra Çapanoğlu Güven,Friday,09:30/12:29,KMB / D202,0,95,"GID_LS, GIDE_LS",11539,2024 - 2025 Yaz Dönemi
+GID 306E,Food Plant Design & Economics,"Gürbüz Güneş , / Celale Kırkın Gözükırmızı",Thursday,09:30/12:29,KMB / D302,0,95,"GID_LS, GIDE_LS",11556,2024 - 2025 Yaz Dönemi
+GID 311,Gıda Mikrobiyolojisi I,Pervin Başaran Akocak,Thursday,09:30/12:29,KMB / D102,0,35,GID_LS,11543,2024 - 2025 Yaz Dönemi
+GID 311,Gıda Mikrobiyolojisi I,Fatih Ortakcı,Thursday,09:30/12:29,KMB / GZ101,0,35,GID_LS,11544,2024 - 2025 Yaz Dönemi
+GID 323,Gıda Mikrobiyolojisi Lab,"Hatice Funda Karbancıoğlu Güler , / Enes Dertli",Tuesday,08:30/12:29,KMB / G308,0,30,GID_LS,11545,2024 - 2025 Yaz Dönemi
+GID 323,Gıda Mikrobiyolojisi Lab,"Hatice Funda Karbancıoğlu Güler , / Enes Dertli",Tuesday,13:00/16:59,KMB / G308,0,30,GID_LS,11546,2024 - 2025 Yaz Dönemi
+GID 331E,Food Eng Unit Operations I,Fatma Ebru Fıratlıgil,Friday,14:00/16:59,KMB / D103,0,95,"GID_LS, GIDE_LS",11542,2024 - 2025 Yaz Dönemi
+GID 339E,Production of Food Ingredients,Aslı Can Karaça,Monday,08:30/10:29,KMB / D204,0,20,"GID_LS, GIDE_LS",11572,2024 - 2025 Yaz Dönemi
+GID 341,Isı Aktarımı,Fatma Ebru Fıratlıgil,Thursday,13:30/16:29,KMB / D201,0,95,GID_LS,11547,2024 - 2025 Yaz Dönemi
+GID 351,Kütle Aktarımı,Filiz Altay,Monday,14:00/16:59,KMB / D103,0,95,GID_LS,11548,2024 - 2025 Yaz Dönemi
+GID 409,Proses Kontrol,Zeynep Tacer Caba,Friday,09:30/11:29,KMB / D304,0,95,GID_LS,11565,2024 - 2025 Yaz Dönemi
+GID 413,Biyoteknoloji,Hatice Funda Karbancıoğlu Güler,Thursday,08:30/11:29,KMB / D203,0,5,GID_LS,11568,2024 - 2025 Yaz Dönemi
+GID 424,Gıda Kalite Kontrol,"Beraat Özçelik , / Merve Tomaş",Tuesday,13:30/16:29,KMB / D204,0,95,GID_LS,11566,2024 - 2025 Yaz Dönemi
+GID 433,Gıda Kalite Kontrol Lab,"Esra Çapanoğlu Güven , / Derya Kahveci Karıncaoğlu , / Gülay Özkan , / Evren Demircan",Monday,08:30/12:29,KMB / G109,0,35,GID_LS,11562,2024 - 2025 Yaz Dönemi
+GID 433,Gıda Kalite Kontrol Lab,"Esra Çapanoğlu Güven , / Derya Kahveci Karıncaoğlu , / Gülay Özkan , / Evren Demircan",Monday,13:00/16:59,KMB / G109,0,35,GID_LS,11563,2024 - 2025 Yaz Dönemi
+GID 441,Proses Kontrol,Gülay Özkan,Friday,09:30/12:29,KMB / D203,0,40,"FIZ_LS, GID_LS",11564,2024 - 2025 Yaz Dönemi
+GID 450,Gıda Müh. Özel Konular,"Esra Çapanoğlu Güven , / Beraat Özçelik , / Enes Dertli , / Filiz Altay , / Hatice Funda Karbancıoğlu Güler , / Gürbüz Güneş , / Meral Kılıç Akyılmaz , / Neşe Şahin Yeşilçubuk , / Pervin Başaran Akocak , / Derya Kahveci Karıncaoğlu , / Aslı Can Karaça , / Fatma Ebru Fıratlıgil , / Celale Kırkın Gözükırmızı , / Fatih Ortakcı , / Gülay Özkan , / Evren Demircan , / Merve Tomaş , / Zeynep Tacer Caba",-,-/-,- / -,0,50,GID_LS,11569,2024 - 2025 Yaz Dönemi
+GID 459,Biyoteknoloji,Enes Dertli,Thursday,09:30/11:29,KMB / D202,0,15,GID_LS,11567,2024 - 2025 Yaz Dönemi
+GID 464E,Enzymes in Food Production,Derya Kahveci Karıncaoğlu,Tuesday,09:30/11:29,KMB / D105,0,20,"GID_LS, GIDE_LS",12607,2024 - 2025 Yaz Dönemi
+GID 4901E,Food Engineering Design I,Zeynep Tacer Caba,Thursday,08:30/13:29,KMB / D303,0,90,GID_LS,11557,2024 - 2025 Yaz Dönemi
+GID 4901E,Food Engineering Design I,"Gürbüz Güneş , / Celale Kırkın Gözükırmızı",Wednesday,08:30/13:29,KMB / D201,0,90,GID_LS,11560,2024 - 2025 Yaz Dönemi
+GID 4902,Gıda Mühendisliği Tasarımı II,Meral Kılıç Akyılmaz,Wednesday / Thursday,08:30/13:29 / 12:30/13:29,KMB / KMB / -- / D201,0,20,"GID_LS, GIDE_LS",11574,2024 - 2025 Yaz Dönemi
+GID 492,Bitirme Çalışması,Esra Çapanoğlu Güven,-,-/-,- / -,0,50,GID_LS,11571,2024 - 2025 Yaz Dönemi
+GID 492E,Graduation Project,Esra Çapanoğlu Güven,-,-/-,- / -,0,50,"GID_LS, GIDE_LS",11570,2024 - 2025 Yaz Dönemi

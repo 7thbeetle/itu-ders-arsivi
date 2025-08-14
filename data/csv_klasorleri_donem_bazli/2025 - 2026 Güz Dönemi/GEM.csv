@@ -1,0 +1,54 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+GEM 101,Gemi İnş.&Gem.Mak.Müh.Gir.&Etk,Erdem Üçer,Wednesday,13:30/15:29,MEDC / ZA2,0,75,GEM_LS,12827,2024 - 2025 Yaz Dönemi
+GEM 201E,Dynamics,Mustafa Erden Yıldızdağ,Wednesday / Thursday,10:30/12:29 / 11:30/13:29,MEDC / MEDC / ZA1 / ZA1,0,45,GEM_LS,12829,2024 - 2025 Yaz Dönemi
+GEM 201E,Dynamics,Bahadır Uğurlu,Wednesday / Thursday,10:30/12:29 / 11:30/13:29,MEDC / MEDC / ZD1 / ZD1,0,45,GEM_LS,12831,2024 - 2025 Yaz Dönemi
+GEM 203,Mukavemet I,Bahadır Uğurlu,Monday / Tuesday,14:30/16:29 / 14:30/16:29,FEB / MEDC / D202 / ZA4,0,45,GEM_LS,12832,2024 - 2025 Yaz Dönemi
+GEM 203,Mukavemet I,Fuzuli Ağrı Akçay,Monday / Tuesday,14:30/16:29 / 14:30/16:29,MEDB / MEDC / Z01 / 1D10,0,45,GEM_LS,12836,2024 - 2025 Yaz Dönemi
+GEM 205,Malzeme ve Imal Usulleri,Necip Ünlü,Monday,10:30/13:29,MEDB / 101,0,45,GEM_LS,12840,2024 - 2025 Yaz Dönemi
+GEM 205,Malzeme ve Imal Usulleri,Fuzuli Ağrı Akçay,Monday,10:30/13:29,MEDC / ZA3,0,45,GEM_LS,12841,2024 - 2025 Yaz Dönemi
+GEM 210E,Engineering Mathematics,Devrim Bülent Danışman,Monday / Wednesday,08:30/10:29 / 08:30/10:29,MEDC / MEDC / ZD1 / ZD1,0,70,GEM_LS,12843,2024 - 2025 Yaz Dönemi
+GEM 211,Gemi Geometrisi,Ebru Sarıöz,Monday,14:30/17:29,MEDC / --,0,30,"DEN_LS, DENE_LS",12996,2024 - 2025 Yaz Dönemi
+GEM 313,Gemi Makinaları,"Murat Emre Demir , / Halil Saraçoğlu",Thursday / Friday,13:30/15:29 / 10:30/12:29,MEDC / MEDC / 2D12 / 2D12,0,40,"GEM_LS, GEM_YD",12882,2024 - 2025 Yaz Dönemi
+GEM 313,Gemi Makinaları,Oğuz Salim Söğüt,Thursday / Friday,13:30/15:29 / 10:30/12:29,MEDC / MEDC / 2D13 / 2D13,0,40,GEM_LS,12883,2024 - 2025 Yaz Dönemi
+GEM 321E,Ship Theory,Metin Taylan,Tuesday / Friday,08:30/10:29 / 08:30/10:29,MEDC / MEDC / 1D10 / ZA2,0,80,"GEM_LS, GEM_YD, GEME_LS",12884,2024 - 2025 Yaz Dönemi
+GEM 322,Gemi Mukavemeti,Ertekin Bayraktarkatal,Tuesday / Wednesday,10:30/12:29 / 13:30/15:29,KMB / MEDC / D303 / 2D18,0,50,GEM_LS,12887,2024 - 2025 Yaz Dönemi
+GEM 325,Gemi Yapı Elemanları,Gökhan Tansel Tayyar,Tuesday / Wednesday,10:30/12:29 / 13:30/15:29,MEDC / MEDC / ZD1 / ZA4,0,70,"GEM_LS, GEM_YD",12888,2024 - 2025 Yaz Dönemi
+GEM 327E,Ship Hydrodynamics(Resistance),Uğur Oral Ünal,Thursday,15:30/17:29,MEDC / 3D20,0,75,"GEM_LS, GEM_YD, GEME_LS",12889,2024 - 2025 Yaz Dönemi
+GEM 329,Deniz ve İş Hukuku,Hasan Murat Demirkıran,Friday,14:00/15:59,MEDC / 1D10,0,75,GEM_LS,12891,2024 - 2025 Yaz Dönemi
+GEM 331,Gemi Işletmeciliği,Erdem Üçer,Thursday,08:30/10:29,MEDC / 3D20,0,80,"GEM_LS, GEM_YD",12892,2024 - 2025 Yaz Dönemi
+GEM 407E,Methods of Ship Production,Gökhan Tansel Tayyar,Monday,14:30/17:29,MEDC / 2D18,0,75,"GEM_LS, GEME_LS",12894,2024 - 2025 Yaz Dönemi
+GEM 409,Gemi Titreşimleri,Ahmet Ergin,Monday,10:30/13:29,MEDC / ZD1,0,75,GEM_LS,12895,2024 - 2025 Yaz Dönemi
+GEM 411E,Ship Design Project I,Metin Taylan,Wednesday,10:30/12:29,MEDC / 1D5,0,50,GEM_LS,12931,2024 - 2025 Yaz Dönemi
+GEM 421,Gemi Hareket ve Manevraları,Şakir Bal,Monday / Wednesday,08:30/10:29 / 08:30/10:29,MEDC / MEDC / ZA3 / ZA2,0,90,"GEM_LS, GEM_YD",12900,2024 - 2025 Yaz Dönemi
+GEM 423E,Advanced Propulsion Systems,Ali Can Takinacı,Tuesday,13:30/15:29,MEDC / 2D12,0,30,"GEM_LS, GEME_LS",12935,2024 - 2025 Yaz Dönemi
+GEM 425E,Finite Elem.Anl.of MarineStrc.,Mustafa Erden Yıldızdağ,Tuesday,15:30/17:29,MEDC / 3BİL1,0,30,GEM_LS,12936,2024 - 2025 Yaz Dönemi
+GEM 427,Makina Dairesi Dizayn Prensipl,Osman Azmi Özsoysal,Tuesday,13:30/15:29,MEDC / 2D13,0,30,GEM_LS,12937,2024 - 2025 Yaz Dönemi
+GEM 445,Gemi Boru Donanımları,Osman Azmi Özsoysal,Tuesday,15:30/17:29,MEDC / 2D13,0,30,GEM_LS,12938,2024 - 2025 Yaz Dönemi
+GEM 453E,Automatic Control of Ships,"Cihad Delen , / Ahmet Ergün Palaz",Tuesday,12:30/15:29,MEDC / 2D15,0,30,"GEM_LS, GEME_LS",12939,2024 - 2025 Yaz Dönemi
+GEM 473,Denizaltı Tasarımının Temelleri,Münir Cansın Özden,Tuesday,15:30/17:29,MEDC / 2D17,0,30,GEM_LS,12940,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Ahmet Ergin,-,-/-,- / -,0,5,GEM_LS,12941,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Ahmet Ergün Palaz,-,-/-,- / -,0,5,GEM_LS,12942,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Ali Can Takinacı,-,-/-,- / -,0,5,GEM_LS,12943,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Bahadır Uğurlu,-,-/-,- / -,0,-5,GEM_LS,12945,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Cihad Delen,-,-/-,- / -,0,5,GEM_LS,12947,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Devrim Bülent Danışman,-,-/-,- / -,0,5,GEM_LS,12950,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Emin Korkut,-,-/-,- / -,0,5,GEM_LS,12951,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Erdem Üçer,-,-/-,- / -,0,5,GEM_LS,12970,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Ertekin Bayraktarkatal,-,-/-,- / -,0,5,GEM_LS,12972,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Fuzuli Ağrı Akçay,-,-/-,- / -,0,5,GEM_LS,12973,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Gökhan Tansel Tayyar,-,-/-,- / -,0,5,GEM_LS,12974,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Halil Saraçoğlu,-,-/-,- / -,0,5,GEM_LS,12975,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,İsmail Yalçın,-,-/-,- / -,0,5,GEM_LS,12976,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Metin Taylan,-,-/-,- / -,0,5,GEM_LS,12978,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Murat Emre Demir,-,-/-,- / -,0,5,GEM_LS,12979,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Mustafa Erden Yıldızdağ,-,-/-,- / -,0,5,GEM_LS,12980,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Münir Cansın Özden,-,-/-,- / -,0,5,GEM_LS,12981,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Oğuz Salim Söğüt,-,-/-,- / -,0,5,GEM_LS,12982,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Osman Azmi Özsoysal,-,-/-,- / -,0,5,GEM_LS,12983,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Şakir Bal,-,-/-,- / -,0,5,GEM_LS,12984,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Selma Ergin,-,-/-,- / -,0,5,GEM_LS,12985,2024 - 2025 Yaz Dönemi
+GEM 482,Bireysel Bitirme Projesi,Uğur Oral Ünal,-,-/-,- / -,0,5,GEM_LS,12986,2024 - 2025 Yaz Dönemi
+GEM 482E,Individual Graduation Project,Selma Ergin,-,-/-,- / -,0,100,"GEM_LS, GEME_LS",12987,2024 - 2025 Yaz Dönemi
+GEM 4901,Gemi İnş.&Gemi Mak. Müh.Tas.I,"Gökhan Tansel Tayyar , / Erdem Üçer , / Oğuz Salim Söğüt , / Emin Korkut , / İsmail Yalçın , / Devrim Bülent Danışman , / Ömer Gören",Wednesday / Thursday,10:30/13:29 / 10:30/13:29,MEDC / MEDC / ZA2 / ZA2,0,70,GEM_LS,12910,2024 - 2025 Yaz Dönemi
+GEM 4902,Gemi İnş.&Gem.Mak. Müh.Tas.II,"Selma Ergin , / Ahmet Ergin , / Osman Azmi Özsoysal , / Ertekin Bayraktarkatal",Wednesday / Thursday,10:30/13:29 / 10:30/13:29,MEDC / MEDC / ZD2 / ZD2,0,70,GEM_LS,12925,2024 - 2025 Yaz Dönemi
+GEM 492E,Graduation Design Project,Selma Ergin,-,-/-,- / -,0,100,"GEM_LS, GEME_LS",12988,2024 - 2025 Yaz Dönemi

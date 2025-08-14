@@ -1,0 +1,40 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+DEN 101,Gemi&Deniz Tek.Müh.Giriş&Etik,Ayhan Menteş,Wednesday,13:30/15:29,MEDC / 3D20,0,90,DEN_LS,12991,2024 - 2025 Yaz Dönemi
+DEN 210E,Engineering Mathematics,Ayhan Menteş,Monday / Friday,10:00/11:59 / 10:00/11:59,MEDC / MEDC / ZA2 / ZD1,0,60,"DEN_LS, DENE_LS",12992,2024 - 2025 Yaz Dönemi
+DEN 211,Mühendislik Tasarımına Giriş,"Kadir Sarıöz , / Ebru Sarıöz",Wednesday,13:30/15:29,MEDC / 3D19,0,30,"DEN_LS, DENE_LS",12993,2024 - 2025 Yaz Dönemi
+DEN 323E,Wave Mechanics,Şafak Nur Ertürk Bozkurtoğlu,Thursday,13:30/16:29,MEDC / ZA4,0,60,"DEN_LS, DENE_LS",13006,2024 - 2025 Yaz Dönemi
+DEN 325E,Adv. Manufacturing Process,Necip Ünlü,Tuesday,13:30/16:29,MEDB / Z01,0,60,"DEN_LS, DENE_LS",13007,2024 - 2025 Yaz Dönemi
+DEN 327E,Safety Mang.&Risk Analy.,Ayhan Menteş,Monday,13:30/15:29,MEDB / 101,0,60,"DEN_LS, DENE_LS",13008,2024 - 2025 Yaz Dönemi
+DEN 337E,Intr. to Marine Ecolo. Process,Burak Karacık,Tuesday,11:30/13:29,MEDC / 2D16,0,25,"DEN_LS, DENE_LS",13017,2024 - 2025 Yaz Dönemi
+DEN 339,Deniz Kirliliği,Oktay Eren Türeyen,Tuesday,11:30/13:29,MEDC / 2D12,0,25,"DEN_LS, DENE_LS",13018,2024 - 2025 Yaz Dönemi
+DEN 340E,Hydrostatics of Marine Vehic.,Hakan Akyıldız,Wednesday,11:30/13:29,MEDC / 2D18,0,60,"DEN_LS, DENE_LS",13011,2024 - 2025 Yaz Dönemi
+DEN 341E,Ship Theory,Hakan Akyıldız,Wednesday,08:30/11:29,MEDC / 3D19,0,60,"DEN_LS, DENE_LS",13014,2024 - 2025 Yaz Dönemi
+DEN 345E,Dynamics of Marine Ecosystems,Sevil Deniz Yakan Dündar,Tuesday,11:30/13:29,MEDC / 2D17,0,25,"DEN_LS, DENE_LS",13016,2024 - 2025 Yaz Dönemi
+DEN 351,Sörvey ve Sertifikasyon Süreçlerine Giriş,Erdal Gedikoğlu,Friday,09:30/12:29,MEDC / 2D17,0,30,DEN_LS,13019,2024 - 2025 Yaz Dönemi
+DEN 353,Gemi Yönetimi Sistem.Giriş,Cenk Oral Gezici,Monday,09:30/12:29,MEDC / 1D5,0,30,DEN_LS,13020,2024 - 2025 Yaz Dönemi
+DEN 405E,Coastal Engineering,Bilge Tutak,Tuesday,13:30/16:29,MEDC / ZD1,0,60,"DEN_LS, DENE_LS",13022,2024 - 2025 Yaz Dönemi
+DEN 411,Hidrodinamik,Deniz Bayraktar Bural,Thursday,08:30/11:29,MEDB / 101,0,60,DEN_LS,13023,2024 - 2025 Yaz Dönemi
+DEN 412E,Underwater Acoustics,Burcu Erbaş,Monday,10:30/12:29,MEDC / 3D20,0,60,"DEN_LS, DENE_LS",13025,2024 - 2025 Yaz Dönemi
+DEN 421E,Ship Propulsion,Ömer Kemal Kınacı,Wednesday,11:30/13:29,MEDC / 3D19,0,60,"DEN_LS, DENE_LS",13027,2024 - 2025 Yaz Dönemi
+DEN 431E,Stgth of Shps & Offshr Strctrs,Serdar Aytekin Köroğlu,Tuesday,08:30/11:29,MEDC / 3D20,0,50,"DEN_LS, DENE_LS",13015,2024 - 2025 Yaz Dönemi
+DEN 436E,Ecotoxicology in the Marine En,Oktay Eren Türeyen,Tuesday,09:30/11:29,MEDC / 2D12,0,20,"DEN_LS, DENE_LS",13032,2024 - 2025 Yaz Dönemi
+DEN 443,Dnz Ort. Korozyon&Korozyon Kntr.,Burcu Erbaş,Tuesday,09:30/11:29,MEDC / 2D13,0,10,"DEN_LS, DENE_LS",13033,2024 - 2025 Yaz Dönemi
+DEN 447E,Engineering Optimisation,Kadir Sarıöz,Tuesday,09:30/11:29,MEDC / 2D15,0,20,"DEN_LS, DENE_LS",13034,2024 - 2025 Yaz Dönemi
+DEN 449E,Inr. to the Analysis of Oce.Da,Bilge Tutak,Tuesday,09:30/11:29,MEDC / 2D16,0,20,"DEN_LS, DENE_LS",13035,2024 - 2025 Yaz Dönemi
+DEN 450E,Ballast Water Management,Ceren Bilgin Güney,Wednesday,09:30/11:29,MEDC / 1D10,0,25,"DEN_LS, DENE_LS",13031,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Ayhan Menteş,-,-/-,- / -,0,3,DEN_LS,13036,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Hakan Akyıldız,-,-/-,- / -,0,3,DEN_LS,13037,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Kadir Sarıöz,-,-/-,- / -,0,3,DEN_LS,13038,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Ömer Kemal Kınacı,-,-/-,- / -,0,3,DEN_LS,13039,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Bilge Tutak,-,-/-,- / -,0,3,DEN_LS,13040,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Ebru Sarıöz,-,-/-,- / -,0,3,DEN_LS,13041,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Burak Karacık,-,-/-,- / -,0,3,DEN_LS,13042,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Burcu Erbaş,-,-/-,- / -,0,3,DEN_LS,13043,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Ceren Bilgin Güney,-,-/-,- / -,0,3,DEN_LS,13044,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Deniz Bayraktar Bural,-,-/-,- / -,0,3,DEN_LS,13045,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Serdar Aytekin Köroğlu,-,-/-,- / -,0,3,DEN_LS,13046,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Sevil Deniz Yakan Dündar,-,-/-,- / -,0,3,DEN_LS,13047,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Şafak Nur Ertürk Bozkurtoğlu,-,-/-,- / -,0,3,DEN_LS,13048,2024 - 2025 Yaz Dönemi
+DEN 482,Bireysel Proje,Oktay Eren Türeyen,-,-/-,- / -,0,3,DEN_LS,13049,2024 - 2025 Yaz Dönemi
+DEN 4901E,Shipbuilding&Ocean Eng.Desig.I,"Kadir Sarıöz , / Ebru Sarıöz , / Serdar Aytekin Köroğlu , / Deniz Bayraktar Bural",Friday / Friday,09:30/12:29 / 14:00/16:59,MEDB / MEDB / 101 / 101,0,150,"DEN_LS, DENE_LS",13028,2024 - 2025 Yaz Dönemi
+DEN 4902E,Shipbuilding&Ocean Eng.Dsg.II,"Hakan Akyıldız , / Ömer Kemal Kınacı , / Ceren Bilgin Güney",Friday / Friday,09:30/12:29 / 14:00/16:59,MEDB / MEDB / Z01 / Z01,0,150,"DEN_LS, ENTE_LS",13029,2024 - 2025 Yaz Dönemi

@@ -1,0 +1,41 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTR 101,Makam Teorisi I,Eren Özek,Tuesday / Wednesday / Thursday,10:30/12:29 / 13:30/15:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,40,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11862,2024 - 2025 Yaz Dönemi
+MTR 101,Makam Teorisi I,Eren Özek,Tuesday / Wednesday / Thursday,13:30/15:29 / 10:30/12:29 / 08:30/10:29,TMB / TMB / TMB / -- / -- / --,0,40,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11863,2024 - 2025 Yaz Dönemi
+MTR 101,Makam Teorisi I,Elif Ahıs Yunusoğlu,Monday / Tuesday / Friday,10:30/12:29 / 10:30/12:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,40,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11864,2024 - 2025 Yaz Dönemi
+MTR 103,Müzik Teorisi I,Ayşecan Olgun,Monday / Tuesday / Friday,15:30/17:29 / 13:30/15:29 / 08:30/10:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11866,2024 - 2025 Yaz Dönemi
+MTR 103,Müzik Teorisi I,Ufuk Biçak,Monday / Thursday / Friday,15:30/17:29 / 10:30/12:29 / 14:00/15:59,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11868,2024 - 2025 Yaz Dönemi
+MTR 103,Müzik Teorisi I,Mehmet Özkan,Monday / Wednesday / Thursday,10:30/12:29 / 13:30/15:29 / 13:30/15:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11870,2024 - 2025 Yaz Dönemi
+MTR 105,Ritim Uygulama I,Erkan Kanat,Wednesday,08:30/10:29,TMB / --,0,25,MTR_LS,11911,2024 - 2025 Yaz Dönemi
+MTR 121,Makam Teorisi I,Ali İhsan Alemli,Tuesday / Thursday,13:30/15:29 / 13:30/15:29,TMB / TMB / -- / --,0,30,THO_LS,11913,2024 - 2025 Yaz Dönemi
+MTR 123,Müzik Teorisi I,-,Monday / Wednesday,13:30/15:29 / 13:30/15:29,TMB / TMB / -- / --,0,0,THO_LS,11918,2024 - 2025 Yaz Dönemi
+MTR 141,Makam Teorisi I,Şirin Karadeniz,Monday / Wednesday,13:30/15:29 / 13:30/15:29,TMB / TMB / -- / --,0,25,"BST_LS, CAB_LS, CEB_LS, KMP_LS",11896,2024 - 2025 Yaz Dönemi
+MTR 143,Müzik Teorisi I,Recep Gül,Tuesday / Thursday,08:30/10:29 / 10:30/12:29,TMB / TMB / -- / --,0,30,"BST_LS, CAB_LS, CEB_LS, KMP_LS",11898,2024 - 2025 Yaz Dönemi
+MTR 201,Makam Teorisi III,Nurullah Kanık,Tuesday / Wednesday / Thursday,15:30/17:29 / 13:30/15:29 / 14:00/15:59,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11879,2024 - 2025 Yaz Dönemi
+MTR 201,Makam Teorisi III,Elif Ahıs Yunusoğlu,Tuesday / Thursday / Friday,13:30/15:29 / 10:30/12:29 / 08:30/10:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11880,2024 - 2025 Yaz Dönemi
+MTR 201,Makam Teorisi III,Ali İhsan Alemli,Monday / Tuesday / Friday,13:30/15:29 / 10:30/12:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11883,2024 - 2025 Yaz Dönemi
+MTR 203,Müzik Teorisi III,Ayşecan Olgun,Monday / Tuesday / Friday,10:30/12:29 / 15:30/17:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MZT_LS, SES_LS",11886,2024 - 2025 Yaz Dönemi
+MTR 203,Müzik Teorisi III,Ufuk Biçak,Monday / Thursday / Friday,13:30/15:29 / 08:30/10:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",11915,2024 - 2025 Yaz Dönemi
+MTR 203,Müzik Teorisi III,Ayşecan Olgun,Monday / Tuesday / Friday,10:30/12:29 / 15:30/17:29 / 16:00/17:59,TMB / TMB / TMB / -- / -- / --,0,25,MTR_LS,11926,2024 - 2025 Yaz Dönemi
+MTR 205,Müzik Teorileri Tarihi I,Gülay Karamahmutoğlu,Tuesday,13:30/15:29,TMB / --,0,30,MTR_LS,11927,2024 - 2025 Yaz Dönemi
+MTR 207,Teori Uygulama I,Gülay Karamahmutoğlu,Tuesday,10:30/12:29,TMB / --,0,25,MTR_LS,11928,2024 - 2025 Yaz Dönemi
+MTR 221,Makam Teorisi III,Ahmet Serhat Turunç,Monday / Friday,10:30/12:29 / 10:30/12:29,TMB / TMB / -- / --,0,25,THO_LS,11920,2024 - 2025 Yaz Dönemi
+MTR 223,Müzik Teorisi III,Orkun Zafer Özgelen,Thursday / Friday,10:30/12:29 / 14:00/15:59,TMB / TMB / -- / --,0,25,THO_LS,11921,2024 - 2025 Yaz Dönemi
+MTR 241,Makam Teorisi III,Neşe Yeşim Altınel Çoban,Monday / Wednesday,15:30/17:29 / 13:30/15:29,TMB / TMB / -- / --,0,25,"BST_LS, CAB_LS, CEB_LS, KMP_LS",11901,2024 - 2025 Yaz Dönemi
+MTR 243,Müzik Teorisi III,Mehmet Özkan,Monday / Thursday,13:30/15:29 / 15:30/17:29,TMB / TMB / -- / --,0,25,"BST_LS, CAB_LS, CEB_LS, KMP_LS",11903,2024 - 2025 Yaz Dönemi
+MTR 301,İleri Makam Teorisi I,Elif Ahıs Yunusoğlu,Monday / Tuesday,13:30/15:29 / 08:30/10:29,TMB / TMB / -- / --,0,25,MTR_LS,11931,2024 - 2025 Yaz Dönemi
+MTR 301,İleri Makam Teorisi I,Nurullah Kanık,Wednesday / Friday,08:30/10:29 / 10:30/12:29,TMB / TMB / -- / --,0,25,MTR_LS,11932,2024 - 2025 Yaz Dönemi
+MTR 303,İleri Müzik Teorisi I,Ufuk Biçak,Monday / Friday,10:30/12:29 / 08:30/10:29,TMB / TMB / -- / --,0,25,MTR_LS,11925,2024 - 2025 Yaz Dönemi
+MTR 305,Müzik Teorileri Tarihi III,Gülay Karamahmutoğlu,Wednesday,13:30/15:29,TMB / --,0,25,MTR_LS,11930,2024 - 2025 Yaz Dönemi
+MTR 307,Teori Uygulama III,Gülay Karamahmutoğlu,Wednesday,10:30/12:29,TMB / --,0,25,MTR_LS,11929,2024 - 2025 Yaz Dönemi
+MTR 309,Ses Sistemleri I,Ufuk Biçak,Monday,08:30/10:29,TMB / --,0,40,MTR_LS,11933,2024 - 2025 Yaz Dönemi
+MTR 317,Müzik Metin Çözümlemeleri I,Kemal Hasan Karnal,Thursday,13:30/15:29,TMB / --,0,20,SES_LS,11861,2024 - 2025 Yaz Dönemi
+MTR 321,Müzikte Metin Çözümlemeleri I,Kemal Hasan Karnal,Tuesday,13:30/15:29,TMB / --,0,20,MTR_LS,11860,2024 - 2025 Yaz Dönemi
+MTR 401,İleri Makam Teorisi III,Ali İhsan Alemli,Monday / Tuesday,08:30/10:29 / 08:30/10:29,TMB / TMB / -- / --,0,25,MTR_LS,11935,2024 - 2025 Yaz Dönemi
+MTR 401,İleri Makam Teorisi III,Nurullah Kanık,Tuesday / Friday,13:30/15:29 / 16:00/17:59,TMB / TMB / -- / --,0,25,MTR_LS,11936,2024 - 2025 Yaz Dönemi
+MTR 405,Dikte ve Deşifre I,Metin Eke,Monday,10:30/12:29,TMB / --,0,25,MTR_LS,11934,2024 - 2025 Yaz Dönemi
+MTR 407,Eser Çözümleme I,Neşe Yeşim Altınel Çoban,Thursday,10:30/12:29,TMB / --,0,20,MTR_LS,11924,2024 - 2025 Yaz Dönemi
+MTR 431,Dikte Deşifre I,Cem Ekmen,Monday,08:30/10:29,TMB / --,0,20,"CAB_LS, CEB_LS, THO_LS",11907,2024 - 2025 Yaz Dönemi
+MTR 433,Eser Çözümleme I,Neşe Yeşim Altınel Çoban,Monday,13:30/15:29,TMB / --,0,20,"CAB_LS, CEB_LS",11909,2024 - 2025 Yaz Dönemi
+MTR 441,Dikte Deşifre I,Engin Şafak Gürler,Monday / Thursday,10:30/12:29 / 08:30/10:29,TMB / TMB / -- / --,0,20,SES_LS,11923,2024 - 2025 Yaz Dönemi
+MTR 443,Eser Çözümleme I,Neşe Yeşim Altınel Çoban,Monday / Thursday,10:30/12:29 / 08:30/10:29,TMB / TMB / -- / --,0,20,SES_LS,11922,2024 - 2025 Yaz Dönemi
+MTR 492,Bitirme Çalışması,Eren Özek,-,-/-,- / -,0,100,MTR_LS,11859,2024 - 2025 Yaz Dönemi
