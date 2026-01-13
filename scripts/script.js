@@ -60,12 +60,14 @@ window.addEventListener('DOMContentLoaded', () => {
         const term = termSelect.value;
         const course = courseSelect.value;
 
-        if (!term || !course) {
-            tableContainer.innerHTML = '<p style="color: gray;">Dönem ve ders kodu seçiniz.</p>';
+        if (!term) {
+            tableContainer.innerHTML = '<p style="color: gray;">Dönem seçiniz.</p>';
             return;
         }
 
-        const csvPath = `data/csv_klasorleri_donem_bazli/${term}/${course}.csv`;
+        // Birleştirilmiş CSV dosyası adını oluştur
+        const termFileName = term.replace(/ /g, '_').replace(/-/g, '_') + '.csv';
+        const csvPath = `data/csv_birlesik/${termFileName}`;
 
         fetch(csvPath)
             .then(response => {
@@ -75,7 +77,28 @@ window.addEventListener('DOMContentLoaded', () => {
                 return response.text();
             })
             .then(text => {
-                const data = parseCSV(text.trim());
+                let data = parseCSV(text.trim());
+                
+                // Eğer ders kodu seçildiyse, o ders koduna ait satırları filtrele
+                if (course) {
+                    const filteredRows = data.rows.filter(row => {
+                        const kodIndex = data.headers.indexOf('Kod');
+                        if (kodIndex === -1) return true;
+                        const kod = row[kodIndex] || '';
+                        // Ders kodunun başlangıcını kontrol et (örn: "BIO" için "BIO 103E" eşleşir)
+                        return kod.trim().toUpperCase().startsWith(course.trim().toUpperCase());
+                    });
+                    data = {
+                        headers: data.headers,
+                        rows: filteredRows
+                    };
+                    
+                    if (filteredRows.length === 0) {
+                        tableContainer.innerHTML = `<p style="color:red;">Bu dönemde "${course}" kodlu ders bulunamadı.</p>`;
+                        return;
+                    }
+                }
+                
                 currentData = data;
 
                 if (selectedColumns.length === 0) {
@@ -96,7 +119,11 @@ window.addEventListener('DOMContentLoaded', () => {
                 renderTable(data);
             })
             .catch(error => {
-                tableContainer.innerHTML = `<p style="color:red;">Bu dönemde bu ders kodundan ders bulunamadı.</p>`;
+                if (course) {
+                    tableContainer.innerHTML = `<p style="color:red;">Bu dönemde "${course}" kodlu ders bulunamadı.</p>`;
+                } else {
+                    tableContainer.innerHTML = `<p style="color:red;">Dönem verisi yüklenemedi.</p>`;
+                }
             });
     }
 

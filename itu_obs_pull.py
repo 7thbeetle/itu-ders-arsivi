@@ -1,7 +1,6 @@
 import os
 import time
 import csv
-from collections import defaultdict
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -24,8 +23,6 @@ python3 itu_obs_pull.py
 """
 
 site_url = "https://obs.itu.edu.tr/public/DersProgram"
-output_dir = "OBS_DERS_PULL"
-os.makedirs(output_dir, exist_ok=True)
 
 # Havuz derslerini eklenmiyor
 excluded_codes = [
@@ -50,7 +47,8 @@ def clean_text(text):
     return text.strip().replace("\n", " / ")
 
 # === Veri depolama ===
-dersler_data = defaultdict(list)
+# Tüm dersleri tek bir listede topla (dönem bazlı birleştirilmiş CSV için)
+all_entries = []
 print("veri toplama başlıyor...")
 try:
     driver.get(site_url)
@@ -84,7 +82,7 @@ try:
             goster_buton.click()
 
             # Tabloyu bekle
-            time.sleep(0.5)
+            time.sleep(0.2)
             try:
                 table = wait.until(EC.presence_of_element_located((By.TAG_NAME, "table")))
             except:
@@ -115,8 +113,8 @@ try:
                     if ders_full_kod in excluded_codes:
                         continue  # Excluded ise atla
 
-                    ana_kod = ders_full_kod.split()[0]  # İlk kelime (FIZ gibi)
-                    dersler_data[ana_kod].append(ders_entry)
+                    # Tüm dersleri tek bir listeye ekle
+                    all_entries.append(ders_entry)
 
             print(f"Çekildi: {ders_kodu}")
 
@@ -127,12 +125,23 @@ try:
 finally:
     driver.quit()
 
-# === Verileri CSV'lere yazıyor ===
-for ana_kod, entries in dersler_data.items():
-    csv_path = os.path.join(output_dir, f"{ana_kod}.csv")
+# === Verileri tek bir CSV dosyasına yazıyor ===
+if all_entries:
+    # Birleştirilmiş CSV'ler için klasör oluştur
+    merged_dir = os.path.join("data", "csv_birlesik")
+    os.makedirs(merged_dir, exist_ok=True)
+    
+    # Dosya adını oluştur (boşlukları ve tireleri alt çizgiye çevir)
+    dosya_adi = donem_adi.replace(" ", "_").replace("-", "_") + ".csv"
+    csv_path = os.path.join(merged_dir, dosya_adi)
+    
+    # CSV dosyasını yaz
     with open(csv_path, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.DictWriter(f, fieldnames=["Kod", "Ders", "Eğitmen", "Gün", "Saat", "Bina", "Kayıtlı", "Kontenjan", "Bölüm Sınırlaması", "CRN", "Dönem"])
         writer.writeheader()
-        writer.writerows(entries)
-
-print(f"İşlem tamamlandı! CSV dosyaları '{output_dir}' klasörüne kaydedildi.")
+        writer.writerows(all_entries)
+    
+    print(f"✅ İşlem tamamlandi! {len(all_entries)} ders kaydı '{csv_path}' dosyasına kaydedildi.")
+    print(f"📁 Dosya yolu: {csv_path}")
+else:
+    print("⚠️  Hiç veri bulunamadı!")
