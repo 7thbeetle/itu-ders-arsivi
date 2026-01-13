@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 donem_adi = "2025 - 2026 Bahar Dönemi"  # Buraya dönemi yaz
 
 """
-DÖNEM ADINI DEĞİŞTİRMEYİ UNUTMA
+DÖNEM ADINI DEĞİŞTİRMEYİ UNUTMA (terms.json dosyasına da dönemi ekle)
 """
 
 """
