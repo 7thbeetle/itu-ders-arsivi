@@ -37,3 +37,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+      
+      - name: Check deployment status
+        if: failure()
+        run: |
+          echo "⚠️ Deployment failed. Please check GitHub Pages settings and cancel any stuck deployments."
+          echo "Go to: https://github.com/7thbeetle/itu-ders-arsivi/settings/pages"
