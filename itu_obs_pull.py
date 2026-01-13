@@ -27,7 +27,7 @@ site_url = "https://obs.itu.edu.tr/public/DersProgram"
 output_dir = "OBS_DERS_PULL"
 os.makedirs(output_dir, exist_ok=True)
 
-# Havuz derslerini eklemiyor
+# Havuz derslerini eklenmiyor
 excluded_codes = [
     "KIM 101", "KIM 101E", "KIM 102", "KIM 102E",
     "FIZ 101", "FIZ 101E", "FIZ 102", "FIZ 102E",
