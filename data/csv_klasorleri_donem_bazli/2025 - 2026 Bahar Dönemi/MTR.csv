@@ -1,0 +1,41 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MTR 102,Makam Teorisi II,Eren Özek,Tuesday / Wednesday / Friday,13:30/15:29 / 13:30/15:29 / 08:30/10:29,TMB / TMB / TMB / -- / -- / --,0,40,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22074,2025 - 2026 Bahar Dönemi
+MTR 102,Makam Teorisi II,Elif Ahıs Yunusoğlu,Tuesday / Wednesday / Thursday,10:30/12:29 / 13:30/15:29 / 15:30/17:29,TMB / TMB / TMB / -- / -- / --,0,40,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22076,2025 - 2026 Bahar Dönemi
+MTR 104,Müzik Teorisi II,Ayşecan Olgun,Monday / Thursday / Friday,15:30/17:29 / 10:30/12:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22075,2025 - 2026 Bahar Dönemi
+MTR 104,Müzik Teorisi II,Ufuk Biçak,Tuesday / Thursday / Friday,13:30/15:29 / 13:30/15:29 / 14:00/15:59,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22077,2025 - 2026 Bahar Dönemi
+MTR 104,Müzik Teorisi II,Mehmet Özkan,Monday / Tuesday / Wednesday,08:30/10:29 / 15:30/17:29 / 08:30/10:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22097,2025 - 2026 Bahar Dönemi
+MTR 106,Ritim Uygulama II,Erkan Kanat,Wednesday,10:30/12:29,TMB / --,0,25,MTR_LS,22102,2025 - 2026 Bahar Dönemi
+MTR 122,Makam Teorisi II,Ali İhsan Alemli,Tuesday / Wednesday,10:30/12:29 / 13:30/15:29,TMB / TMB / -- / --,0,30,THO_LS,22157,2025 - 2026 Bahar Dönemi
+MTR 124,Müzik Teorisi II,Orkun Zafer Özgelen,Tuesday / Wednesday,15:30/17:29 / 08:30/10:29,TMB / TMB / -- / --,0,25,THO_LS,22161,2025 - 2026 Bahar Dönemi
+MTR 142,Makam Teorisi II,Şirin Karadeniz,Tuesday / Friday,13:30/15:29 / 10:30/12:29,TMB / TMB / -- / --,0,25,"BST_LS, CAB_LS, CEB_LS, KMP_LS",22141,2025 - 2026 Bahar Dönemi
+MTR 144,Müzik Teorisi II,Recep Gül,Tuesday / Wednesday,08:30/10:29 / 13:30/15:29,TMB / TMB / -- / --,0,25,"BST_LS, CAB_LS, CEB_LS, KMP_LS",22143,2025 - 2026 Bahar Dönemi
+MTR 202,Makam Teorisi IV,Eren Özek,Tuesday / Wednesday / Thursday,10:30/12:29 / 10:30/12:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,35,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22083,2025 - 2026 Bahar Dönemi
+MTR 202,Makam Teorisi IV,Elif Ahıs Yunusoğlu,Monday / Wednesday / Thursday,10:30/12:29 / 10:30/12:29 / 13:30/15:29,TMB / TMB / TMB / -- / -- / --,0,35,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22090,2025 - 2026 Bahar Dönemi
+MTR 202,Makam Teorisi IV,Nurullah Kanık,Monday / Thursday / Friday,13:30/15:29 / 13:30/15:29 / 14:00/15:59,TMB / TMB / TMB / -- / -- / --,0,40,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22095,2025 - 2026 Bahar Dönemi
+MTR 202,Makam Teorisi IV,Nurullah Kanık,Monday / Wednesday / Friday,15:30/17:29 / 08:30/10:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,40,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22098,2025 - 2026 Bahar Dönemi
+MTR 204,Müzik Teorisi IV,Ayşecan Olgun,Monday / Tuesday / Friday,10:30/12:29 / 13:30/15:29 / 08:30/10:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22087,2025 - 2026 Bahar Dönemi
+MTR 204,Müzik Teorisi IV,Ufuk Biçak,Tuesday / Thursday / Friday,15:30/17:29 / 15:30/17:29 / 10:30/12:29,TMB / TMB / TMB / -- / -- / --,0,30,"MTR_LS, MUT_LS, MUZ_LS, MZT_LS, SES_LS",22093,2025 - 2026 Bahar Dönemi
+MTR 206,Müzik Teorileri Tarihi II,Gülay Karamahmutoğlu,Wednesday,13:30/15:29,TMB / --,0,25,MTR_LS,22105,2025 - 2026 Bahar Dönemi
+MTR 208,Teori Uygulama II,Süleyman Şenel,Monday,08:30/10:29,TMB / --,0,30,MTR_LS,22116,2025 - 2026 Bahar Dönemi
+MTR 222,Makam Teorisi IV,Ahmet Serhat Turunç,Wednesday / Thursday,08:30/10:29 / 13:30/15:29,TMB / TMB / -- / --,0,25,THO_LS,22166,2025 - 2026 Bahar Dönemi
+MTR 224,Müzik Teorisi IV,Orkun Zafer Özgelen,Tuesday / Wednesday,10:30/12:29 / 10:30/12:29,TMB / TMB / -- / --,0,25,THO_LS,22163,2025 - 2026 Bahar Dönemi
+MTR 242,Makam Teorisi IV,Neşe Yeşim Altınel Çoban,Tuesday / Thursday,08:30/10:29 / 08:30/10:29,TMB / TMB / -- / --,0,25,"BST_LS, CAB_LS, CEB_LS, KMP_LS",22145,2025 - 2026 Bahar Dönemi
+MTR 244,Müzik Teorisi IV,Mehmet Özkan,Tuesday / Wednesday,10:30/12:29 / 13:30/15:29,TMB / TMB / -- / --,0,25,"BST_LS, CAB_LS, CEB_LS, KMP_LS",22146,2025 - 2026 Bahar Dönemi
+MTR 302,İleri Makam Teorisi II,Nurullah Kanık,Monday / Friday,10:30/12:29 / 16:00/17:59,TMB / TMB / -- / --,0,40,MTR_LS,22121,2025 - 2026 Bahar Dönemi
+MTR 302,İleri Makam Teorisi II,Ali İhsan Alemli,Monday / Tuesday,13:30/15:29 / 08:30/10:29,TMB / TMB / -- / --,0,40,MTR_LS,22125,2025 - 2026 Bahar Dönemi
+MTR 304,İleri Müzik Teorisi II,Ufuk Biçak,Wednesday / Friday,13:30/15:29 / 16:00/17:59,TMB / TMB / -- / --,0,25,MTR_LS,22127,2025 - 2026 Bahar Dönemi
+MTR 306,Müzik Teorileri Tarihi IV,Gülay Karamahmutoğlu,Wednesday,10:30/12:29,TMB / --,0,30,MTR_LS,22109,2025 - 2026 Bahar Dönemi
+MTR 308,Teori Uygulama IV,Gülay Karamahmutoğlu,Thursday,10:30/12:29,TMB / --,0,30,MTR_LS,22112,2025 - 2026 Bahar Dönemi
+MTR 310,Ses Sistemleri II,Nurullah Kanık,Monday,08:30/10:29,TMB / --,0,30,MTR_LS,22119,2025 - 2026 Bahar Dönemi
+MTR 318,Müzikte Metin Çözümlemeleri II,Kemal Hasan Karnal,Thursday,13:30/15:29,TMB / --,0,30,SES_LS,22071,2025 - 2026 Bahar Dönemi
+MTR 322,Müzikte Metin Çözümlemeleri II,Kemal Hasan Karnal,Tuesday,13:30/15:29,TMB / --,0,30,MTR_LS,22070,2025 - 2026 Bahar Dönemi
+MTR 402,İleri Makam Teorisi IV,Elif Ahıs Yunusoğlu,Monday / Tuesday,13:30/15:29 / 13:30/15:29,TMB / TMB / -- / --,0,30,MTR_LS,22129,2025 - 2026 Bahar Dönemi
+MTR 402,İleri Makam Teorisi IV,Ali İhsan Alemli,Monday / Wednesday,10:30/12:29 / 10:30/12:29,TMB / TMB / -- / --,0,30,MTR_LS,22131,2025 - 2026 Bahar Dönemi
+MTR 404,İleri Müzik Teorisi IV,Ayşecan Olgun,Tuesday / Thursday,15:30/17:29 / 13:30/15:29,TMB / TMB / -- / --,0,25,MTR_LS,22134,2025 - 2026 Bahar Dönemi
+MTR 406,Dikte ve Deşifre II,Metin Eke,Thursday,15:30/17:29,TMB / --,0,30,MTR_LS,22154,2025 - 2026 Bahar Dönemi
+MTR 408,Eser Çözümleme II,Neşe Yeşim Altınel Çoban,Monday,08:30/10:29,TMB / --,0,25,MTR_LS,22137,2025 - 2026 Bahar Dönemi
+MTR 432,Dikte Deşifre II,Cem Ekmen,Monday,13:30/15:29,TMB / --,0,30,"CAB_LS, CEB_LS, THO_LS",22068,2025 - 2026 Bahar Dönemi
+MTR 434,Eser Çözümleme II,Neşe Yeşim Altınel Çoban,Tuesday,13:30/15:29,TMB / --,0,25,"CAB_LS, CEB_LS",22148,2025 - 2026 Bahar Dönemi
+MTR 442,Dikte Deşifre II,Engin Şafak Gürler,Monday / Wednesday,08:30/10:29 / 08:30/10:29,TMB / TMB / -- / --,0,30,SES_LS,22156,2025 - 2026 Bahar Dönemi
+MTR 444,Eser Çözümleme II,Neşe Yeşim Altınel Çoban,Monday / Wednesday,10:30/12:29 / 08:30/10:29,TMB / TMB / -- / --,0,25,SES_LS,22150,2025 - 2026 Bahar Dönemi
+MTR 492,Bitirme Çalışması,Eren Özek,-,-/-,- / -,0,100,MTR_LS,22067,2025 - 2026 Bahar Dönemi

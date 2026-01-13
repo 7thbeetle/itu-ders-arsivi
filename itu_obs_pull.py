@@ -10,10 +10,17 @@ from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.support import expected_conditions as EC
 
 # === Ayarlar ===
-donem_adi = "2024 - 2025 Yaz Dönemi"  # Buraya dönemi yaz
+donem_adi = "2025 - 2026 Bahar Dönemi"  # Buraya dönemi yaz
 
 """
 DÖNEM ADINI DEĞİŞTİRMEYİ UNUTMA
+"""
+
+"""
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python3 itu_obs_pull.py
 """
 
 site_url = "https://obs.itu.edu.tr/public/DersProgram"
@@ -60,7 +67,7 @@ try:
     ders_select = Select(ders_select_element)
     ders_kodlari = [option.text.strip() for option in ders_select.options if option.get_attribute('value')]
 
-    print(f"🔵 {len(ders_kodlari)} ders kodu bulundu. Çekilmeye başlanıyor...")
+    print(f"🔵 {len(ders_kodlari)} ders kodu bulundu. Çekilmeye başlanıyor.")
 
     for ders_kodu in ders_kodlari:
         try:
@@ -81,7 +88,7 @@ try:
             try:
                 table = wait.until(EC.presence_of_element_located((By.TAG_NAME, "table")))
             except:
-                print(f"⚠️ Tablo bulunamadı: {ders_kodu}")
+                print(f"Tablo bulunamadı: {ders_kodu}")
                 continue
 
             rows = table.find_elements(By.TAG_NAME, "tr")
@@ -111,10 +118,10 @@ try:
                     ana_kod = ders_full_kod.split()[0]  # İlk kelime (FIZ gibi)
                     dersler_data[ana_kod].append(ders_entry)
 
-            print(f"✅ Çekildi: {ders_kodu}")
+            print(f"Çekildi: {ders_kodu}")
 
         except Exception as e:
-            print(f"🚨 Hata çekilirken: {ders_kodu} ({e})")
+            print(f"Hata: {ders_kodu} ({e})")
             continue
 
 finally:
@@ -128,4 +135,4 @@ for ana_kod, entries in dersler_data.items():
         writer.writeheader()
         writer.writerows(entries)
 
-print(f"🎯 İşlem tamamlandı! CSV dosyaları '{output_dir}' klasörüne kaydedildi.")
+print(f"İşlem tamamlandı! CSV dosyaları '{output_dir}' klasörüne kaydedildi.")

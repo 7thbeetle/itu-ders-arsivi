@@ -1,0 +1,25 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+BIO 101,General Biology,Halil Bayraktar,Wednesday,08:30/11:29,MOBGAM / --,0,25,MBI_LS,22877,2025 - 2026 Bahar Dönemi
+BIO 106E,General Biology II,Murat Kaya,Thursday,08:30/11:29,FEB / D102,0,90,"BIO_LS, BIO_YD, BIOE_LS",23013,2025 - 2026 Bahar Dönemi
+BIO 106EL,General Biology II Lab.,Murat Kaya,Thursday,14:30/17:29,FEB / D102,0,90,"BIO_LS, BIO_YD, BIOE_LS",23014,2025 - 2026 Bahar Dönemi
+BIO 212E,Genetics,Burcu Biterge Süt,Friday,09:30/12:29,FEB / D104,0,85,"BIO_LS, BIO_YD, BIOE_LS",23018,2025 - 2026 Bahar Dönemi
+BIO 214,Mikrobiyoloji,Pervin Başaran Akocak,Friday,14:00/16:59,KMB / D105,0,25,KMM_LS,23211,2025 - 2026 Bahar Dönemi
+BIO 216E,Microbiology,"Zeynep Petek Çakar , / Ayten Karataş",Monday,08:30/11:29,FEB / D102,0,90,"BIO_LS, BIO_YD, BIOE_LS",23020,2025 - 2026 Bahar Dönemi
+BIO 216EL,Microbiology Lab.,Zeynep Petek Çakar,Tuesday,14:30/17:29,FEB / --,0,80,"BIO_LS, BIO_YD, BIOE_LS",23023,2025 - 2026 Bahar Dönemi
+BIO 232E,Organic Chem. for Biologists,Bülent Balta,Friday,14:30/17:29,FEB / D102,0,100,"BIO_LS, BIOE_LS",23026,2025 - 2026 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Deniz Şahin,Wednesday,12:30/15:29,FEB / L400,0,55,"CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GID_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",23115,2025 - 2026 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Ece Polat,Tuesday,11:30/14:29,YDY / 176,0,55,"CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GID_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",23118,2025 - 2026 Bahar Dönemi
+BIO 301E,Fundamentals of Biology,Ece Polat,Thursday,11:30/14:29,FEB / D102,0,55,"CEV_LS, CEVE_LS, CHZ_LS, CHZE_LS, EEE_LS, EHB_LS, EHBE_LS, EHS_LS, ELE_LS, ELH_LS, ELK_LS, ELKE_LS, FIZ_LS, FIZE_LS, GID_LS, INS_LS, INSE_LS, ISL_LS, ISLE_LS, JEO_LS, JEOE_LS, KIM_LS, KIME_LS, KMM_LS, KOM_LS, KOME_LS, MAD_LS, MADE_LS, MET_LS, METE_LS, PET_LS, PETE_LS, TEL_LS",23123,2025 - 2026 Bahar Dönemi
+BIO 326E,Mol. Evolution & Biodiversity,"Murat Kaya , / Deniz Şahin",Tuesday,12:30/14:29,FEB / D102,0,85,"BIO_LS, BIOE_LS",23030,2025 - 2026 Bahar Dönemi
+BIO 328E,Biochemistry II,Nevin Gül Karagüler,Monday,11:30/14:29,FEB / D304,0,85,"BIO_LS, BIOE_LS",23032,2025 - 2026 Bahar Dönemi
+BIO 328EL,Biochemistry II Lab.,Nevin Gül Karagüler,Friday,09:30/12:29,FEB / D304,0,80,"BIO_LS, BIOE_LS",23037,2025 - 2026 Bahar Dönemi
+BIO 332E,Modern Techniques in Biology,"Pelin Dilsiz Erim , / Burcu Biterge Süt",Thursday,11:30/14:29,FEB / D105,0,40,"BIO_LS, BIOE_LS",23041,2025 - 2026 Bahar Dönemi
+BIO 342E,Enzymology,Nevin Gül Karagüler,Tuesday,11:30/14:29,FEB / L400,0,40,"BIO_LS, BIOE_LS",23043,2025 - 2026 Bahar Dönemi
+BIO 415EL,Molecular Biology Lab.,Aslı Kumbasar,Wednesday,09:30/12:29,FEB / --,0,90,"BIO_LS, BIO_YD, BIOE_LS",23049,2025 - 2026 Bahar Dönemi
+BIO 417E,Molecular Biology,"Aslı Kumbasar , / Arzu Karabay Korkmaz",Thursday,14:30/17:29,FEB / --,0,95,"BIO_LS, BIO_YD, BIOE_LS",23045,2025 - 2026 Bahar Dönemi
+BIO 442E,Molecular Immunology,Ceren Çıracı Muğan,Thursday,11:30/14:29,FEB / D201,0,40,"BIO_LS, BIOE_LS",23051,2025 - 2026 Bahar Dönemi
+BIO 451E,Industrial Microbiology,Çiğdem Yılmaz Çolak,Monday,08:30/11:29,FEB / D101,0,40,"BIO_LS, BIOE_LS",23052,2025 - 2026 Bahar Dönemi
+BIO 462E,Prot. Struct.-Function Relat.,Gizem Dinler Doğanay,Monday,14:30/17:29,FEB / D106,0,40,"BIO_LS, BIOE_LS",23055,2025 - 2026 Bahar Dönemi
+BIO 463E,Molecular Neurobiology,Pelin Dilsiz Erim,Wednesday,12:30/15:29,FEB / D101,0,40,"BIO_LS, BIOE_LS",23057,2025 - 2026 Bahar Dönemi
+BIO 4901E,Mol Bio & Genetics Design I,Bülent Balta,-,-/-,- / -,0,100,"BIO_LS, BIOE_LS",23069,2025 - 2026 Bahar Dönemi
+BIO 4902E,Mol Bio & Genetics Design II,Bülent Balta,-,-/-,- / -,0,100,"BIO_LS, BIOE_LS",23070,2025 - 2026 Bahar Dönemi

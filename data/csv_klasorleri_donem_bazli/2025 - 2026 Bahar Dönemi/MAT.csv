@@ -1,0 +1,70 @@
+﻿Kod,Ders,Eğitmen,Gün,Saat,Bina,Kayıtlı,Kontenjan,Bölüm Sınırlaması,CRN,Dönem
+MAT 115E,Intro. to Programming Language,Evren Tanrıöver,Monday,08:30/12:29,FEB / OBL3,0,30,MAT_LS,23487,2025 - 2026 Bahar Dönemi
+MAT 115E,Intro. to Programming Language,Evren Tanrıöver,Monday,13:30/17:29,FEB / OBL3,0,30,MAT_LS,23492,2025 - 2026 Bahar Dönemi
+MAT 116E,Advanced Sci. & Eng. Computing,Burcu Tunga,Wednesday / Wednesday,08:30/10:29 / 10:30/12:29,FEB / FEB / OBL3 / OBL3,0,35,MAT_LS,23496,2025 - 2026 Bahar Dönemi
+MAT 116E,Advanced Sci. & Eng. Computing,Burcu Tunga,Thursday / Thursday,13:30/15:29 / 15:30/17:29,FEB / FEB / OBL3 / OBL3,0,35,MAT_LS,23499,2025 - 2026 Bahar Dönemi
+MAT 117,Matematik Müh. Giriş ve Etik,Sevgi Harman,Wednesday,13:30/15:29,FEB / D204,0,80,MAT_LS,23505,2025 - 2026 Bahar Dönemi
+MAT 148E,Discrete Mathematics,Burak Yıldıran Stodolsky,Monday,13:30/16:29,YDY / 177,0,55,MAT_LS,23523,2025 - 2026 Bahar Dönemi
+MAT 148E,Discrete Mathematics,Burak Yıldıran Stodolsky,Thursday,08:30/11:29,FEB / D304,0,55,MAT_LS,23526,2025 - 2026 Bahar Dönemi
+MAT 185E,Mathematics I,Soner Aydınlık,Tuesday / Friday,14:30/17:29 / 14:00/15:59,FEB / FEB / D201 / D201,0,60,MAT_LS,23528,2025 - 2026 Bahar Dönemi
+MAT 186,Matematik II,Nalan Antar,Tuesday / Friday,14:30/17:29 / 14:00/15:59,FEB / FEB / D104 / D104,0,60,MAT_LS,23533,2025 - 2026 Bahar Dönemi
+MAT 202,Sayısal Yöntemler,Birgül Benli,Monday,14:30/17:29,MDB / --,0,60,"CEV_LS, CHZ_LS, CHZ_YD, MAD_LS, PET_LS",23047,2025 - 2026 Bahar Dönemi
+MAT 202E,Numerical Methods,İhsan Burak Kulga,Tuesday,13:30/16:29,MDB / --,0,80,"PET_LS, PETE_LS",22784,2025 - 2026 Bahar Dönemi
+MAT 202E,Numerical Methods,Mustafa Emin Demirbağ,Friday,08:30/11:29,MDB / --,0,60,"JEF_LS, JEFE_LS",22820,2025 - 2026 Bahar Dönemi
+MAT 202E,Numerical Methods,Aytaç Arıkoğlu,Thursday,14:30/17:29,MEDC / ZA1,0,50,"UCK_LS, UZB_LS, UZBE_LS",22989,2025 - 2026 Bahar Dönemi
+MAT 202E,Numerical Methods,Bülent Tutkun,Thursday,08:30/11:29,MEDC / ZA1,0,50,"UCK_LS, UZB_LS, UZBE_LS",22991,2025 - 2026 Bahar Dönemi
+MAT 202E,Numerical Methods,Bahtiyar Efe,Tuesday,08:30/11:29,MEDC / ZD2,0,60,"IBM_LS, MTO_LS, MTOE_LS",23261,2025 - 2026 Bahar Dönemi
+MAT 202E,Numerical Methods,İkilem Göcek,Wednesday,12:30/15:29,MKB / D381A,0,40,"TEK_LS, TEKE_LS",24308,2025 - 2026 Bahar Dönemi
+MAT 202E,Numerical Methods,İpek Yalçın Eniş,Thursday,13:30/16:29,MKB / D361A,0,40,"TEK_LS, TEKE_LS",24310,2025 - 2026 Bahar Dönemi
+MAT 210,Mühendislik Matematiği,-,Monday / Tuesday,08:30/10:29 / 08:30/10:29,DZB / DZB / -- / --,0,50,"DUI_LS, GMI_LS",20554,2025 - 2026 Bahar Dönemi
+MAT 210E,Engineering Mathematics,Kürşat Hasözdemir,Wednesday,11:30/15:29,MDB / --,0,65,"CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",22331,2025 - 2026 Bahar Dönemi
+MAT 210E,Engineering Mathematics,Kürşat Hasözdemir,Friday,08:30/12:29,MDB / --,0,65,"CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",22338,2025 - 2026 Bahar Dönemi
+MAT 210E,Engineering Mathematics,Ahmet Göncü,Friday,08:30/12:29,ISB / --,0,90,"ISL_LS, ISLE_LS",24089,2025 - 2026 Bahar Dönemi
+MAT 221E,Probability Theory,Burhaneddin İzgi,Tuesday,08:30/11:29,FEB / D203,0,60,MAT_LS,23536,2025 - 2026 Bahar Dönemi
+MAT 226,Veri Yapıları,Evren Tanrıöver,Thursday,12:30/15:29,FEB / D103,0,55,MAT_LS,23538,2025 - 2026 Bahar Dönemi
+MAT 226E,Data Structures,İzzet Göksel,Thursday,12:30/15:29,FEB / D203,0,55,MAT_LS,23540,2025 - 2026 Bahar Dönemi
+MAT 234,Kısmi Diferansiyel Denklemler,Cihangir Özemir,Friday,09:30/12:29,FEB / D103,0,60,"MAT_LS, MAT_YD_UY",23542,2025 - 2026 Bahar Dönemi
+MAT 234E,Partial Differential Equations,Aybike Özer,Friday,09:30/12:29,FEB / D102,0,60,"MAT_LS, MAT_YD_UY",23543,2025 - 2026 Bahar Dönemi
+MAT 244,İstatistik,Bahri Güldoğan,Monday,08:30/11:29,FEB / D103,0,60,MAT_LS,23544,2025 - 2026 Bahar Dönemi
+MAT 244E,Statistics,Atabey Kaygun,Monday,08:30/11:29,FEB / D203,0,60,MAT_LS,23545,2025 - 2026 Bahar Dönemi
+MAT 261,Lineer Cebir,Egnar Özdikililer,Monday,08:30/11:29,MEDC / ZA1,0,60,UCK_LS,22992,2025 - 2026 Bahar Dönemi
+MAT 261E,Linear Algebra,Egnar Özdikililer,Wednesday,08:30/11:29,MEDC / ZA1,0,60,"UCK_LS, UZBE_LS",22995,2025 - 2026 Bahar Dönemi
+MAT 264E,Computational Mathematics,Ersin Özuğurlu,Tuesday,11:30/14:29,FEB / D203,0,60,"MAT_LS, MAT_YD_UY",23550,2025 - 2026 Bahar Dönemi
+MAT 264E,Computational Mathematics,İrma Hacınlıyan,Tuesday,11:30/14:29,FEB / D104,0,60,"MAT_LS, MAT_YD_UY",23551,2025 - 2026 Bahar Dönemi
+MAT 271,Olasılık ve İstatistik,Ayşe Arifoğlu,Monday,09:30/12:29,KMB / D203,0,50,"GID_LS, KMM_LS, MET_LS",23172,2025 - 2026 Bahar Dönemi
+MAT 271,Olasılık ve İstatistik,Taylan Maraş,Thursday,13:30/16:29,KMB / D103,0,50,"GID_LS, KMM_LS, MET_LS",23178,2025 - 2026 Bahar Dönemi
+MAT 271,Olasılık ve İstatistik,Fuzuli Ağrı Akçay,Friday,14:00/16:59,MEDC / ZD1,0,60,GEM_LS,24375,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,-,Wednesday,08:30/11:29,MED / B34,0,50,"MMD_LS, NAE_LS",20859,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Habibullah Uzun,Wednesday,08:30/11:29,INB / A204,0,70,"CEV_LS, CEVE_LS",22510,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Mustafa Sait Yazgan,Monday,10:30/13:29,INB / A204,0,70,"CEV_LS, CEVE_LS",22513,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Halil Bayraktar,Wednesday,12:30/15:29,FEB / D103,0,80,"BIO_LS, BIOE_LS",23062,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Ayşen Aktürk Sertbaş,Wednesday,12:30/15:29,KMB / D302,0,50,KMM_LS,23184,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Aydın Mert,Tuesday,10:30/13:29,DZB / --,0,50,"DUI_LS, GMI_LS",23288,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Aydın Mert,Thursday,08:30/11:29,DZB / --,0,50,"DUI_LS, GMI_LS",23423,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Aydın Mert,Thursday,12:30/15:29,DZB / --,0,50,"DUI_LS, GMI_LS",23608,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Burak Karacık,Tuesday,09:30/12:29,MEDC / 2D18,0,90,"DEN_LS, DENE_LS",24113,2025 - 2026 Bahar Dönemi
+MAT 271E,Probability and Statistics,Aslı Tunçay Atalay,Thursday,09:30/12:29,MKB / D359,0,40,"TEK_LS, TEKE_LS",24304,2025 - 2026 Bahar Dönemi
+MAT 272E,Advanced Mathematics,Nurettin Cenk Turgay,Wednesday,08:30/11:29,FEB / D102,0,60,"MAT_LS, MAT_YD_TE",23552,2025 - 2026 Bahar Dönemi
+MAT 272E,Advanced Mathematics,Ali Sait Demir,Wednesday,08:30/11:29,FEB / D103,0,60,"MAT_LS, MAT_YD_TE",23553,2025 - 2026 Bahar Dönemi
+MAT 287,Matematik III,Elif Canfes,Tuesday / Thursday,14:30/17:29 / 15:30/17:29,FEB / FEB / D203 / D103,0,60,"MAT_LS, MAT_YD_EC, MAT_YD_TE, MAT_YD_UY",23554,2025 - 2026 Bahar Dönemi
+MAT 303,Dinamik,Kamil Oruçoğlu,Friday,14:00/16:59,FEB / D205,0,60,"MAT_LS, MAT_YD_TE",23556,2025 - 2026 Bahar Dönemi
+MAT 324E,Algebra,Ergün Yaraneri,Tuesday,08:30/11:29,FEB / D104,0,60,"MAT_LS, MAT_YD_TE",23557,2025 - 2026 Bahar Dönemi
+MAT 324E,Algebra,Atabey Kaygun,Tuesday,08:30/11:29,FEB / D102,0,60,"MAT_LS, MAT_YD_TE",23560,2025 - 2026 Bahar Dönemi
+MAT 342E,Differential Geometry,Fatma Özdemir,Thursday,08:30/11:29,FEB / D104,0,60,"MAT_LS, MAT_YD_TE",23561,2025 - 2026 Bahar Dönemi
+MAT 368E,Mathematical Modeling,Saadet Seher Özer,Thursday,13:30/16:29,FEB / D106,0,25,MAT_LS,23562,2025 - 2026 Bahar Dönemi
+MAT 374,Hes. Sürekli Ortamlar Mekaniği,Ahmet Kırış,Monday,11:30/14:29,FEB / D203,0,60,MAT_LS,23564,2025 - 2026 Bahar Dönemi
+MAT 374,Hes. Sürekli Ortamlar Mekaniği,Ali Demirci,Monday,11:30/14:29,FEB / D103,0,60,MAT_LS,23566,2025 - 2026 Bahar Dönemi
+MAT 381E,Introduction to Data Science,Muhammed Kurulay,Friday,09:30/12:29,FEB / D206,0,25,MAT_LS,23567,2025 - 2026 Bahar Dönemi
+MAT 417E,Theory of Surfaces,Fatma Özdemir,Monday,08:30/11:29,FEB / D201,0,25,MAT_LS,23568,2025 - 2026 Bahar Dönemi
+MAT 423E,Numerical Solutions of ODE,Semra Ahmetolan,Tuesday,14:30/17:29,FEB / D106,0,25,MAT_LS,23569,2025 - 2026 Bahar Dönemi
+MAT 425E,Stochastic ODE,Burhaneddin İzgi,Monday,13:30/16:29,FEB / L200,0,25,MAT_LS,23570,2025 - 2026 Bahar Dönemi
+MAT 438,Matematik Tarihi,Murat Sarı,Friday,14:30/17:29,FEB / D101,0,25,MAT_LS,23571,2025 - 2026 Bahar Dönemi
+MAT 448E,Number Theory,Ergün Yaraneri,Thursday,14:30/17:29,FEB / D105,0,25,MAT_LS,23572,2025 - 2026 Bahar Dönemi
+MAT 472E,Computational Finance,Ahmet Duran,Thursday,11:30/14:29,FEB / D205,0,40,MAT_LS,23573,2025 - 2026 Bahar Dönemi
+MAT 488E,Numerical Solutions of PDE,Ersin Özuğurlu,Wednesday,12:30/15:29,FEB / OBL3,0,25,MAT_LS,23574,2025 - 2026 Bahar Dönemi
+MAT 4901,Matematik Müh. Tasarımı I,Fuat Ergezen,-,-/-,- / -,0,40,MAT_LS,23575,2025 - 2026 Bahar Dönemi
+MAT 4901E,Math. Engineering Design I,Fuat Ergezen,-,-/-,- / -,0,40,MAT_LS,23579,2025 - 2026 Bahar Dönemi
+MAT 4902,Matematik Müh. Tasarımı II,Fuat Ergezen,-,-/-,- / -,0,70,MAT_LS,23580,2025 - 2026 Bahar Dönemi
+MAT 4902E,Math. Engineering Design II,Fuat Ergezen,-,-/-,- / -,0,70,MAT_LS,23581,2025 - 2026 Bahar Dönemi
+MAT 492,Bitirme Çalışması,Fuat Ergezen,-,-/-,- / -,0,5,MAT_LS,23582,2025 - 2026 Bahar Dönemi
+MAT 492E,Graduation Project,Fuat Ergezen,-,-/-,- / -,0,5,MAT_LS,23583,2025 - 2026 Bahar Dönemi
