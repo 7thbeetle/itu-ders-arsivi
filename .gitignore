@@ -4,4 +4,4 @@ OBS_DERS_PULL/
 merge_csv_by_term.py
 
 # Eski CSV dosyaları (birleştirilmiş CSV'ler data/csv_birlesik/ klasöründe)
-data/csv_klasorleri_donem_bazli/
+old
