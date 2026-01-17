@@ -5,6 +5,8 @@ window.addEventListener('DOMContentLoaded', () => {
     const filterButton = document.getElementById('filterButton');
     const filterMenu = document.getElementById('filterMenu');
     const checkboxContainer = document.getElementById('checkboxContainer');
+    const announcementPopup = document.getElementById('announcementPopup');
+    const closePopup = document.getElementById('closePopup');
 
     let currentData = null;
     let activeColumns = [];
@@ -15,6 +17,31 @@ window.addEventListener('DOMContentLoaded', () => {
     if (stored) {
         selectedColumns = JSON.parse(stored);
     }
+
+    // Pop-up duyuruyu göster (1 saat içinde bir kez)
+    const lastShown = localStorage.getItem('itu_popupLastShown');
+    const now = Date.now();
+    const oneHour = 60 * 60 * 1000; // 1 saat milisaniye cinsinden
+    
+    if (!lastShown || (now - parseInt(lastShown)) >= oneHour) {
+        setTimeout(() => {
+            announcementPopup.classList.add('show');
+        }, 500); // Sayfa yüklendikten 0.5 saniye sonra göster
+    }
+
+    // Pop-up'ı kapat
+    closePopup.addEventListener('click', () => {
+        announcementPopup.classList.remove('show');
+        localStorage.setItem('itu_popupLastShown', Date.now().toString());
+    });
+
+    // Pop-up overlay'e tıklanınca kapat
+    announcementPopup.addEventListener('click', (e) => {
+        if (e.target === announcementPopup) {
+            announcementPopup.classList.remove('show');
+            localStorage.setItem('itu_popupLastShown', Date.now().toString());
+        }
+    });
 
     // Dönemleri yükle
     fetch('data/terms.json')
